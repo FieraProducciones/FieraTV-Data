@@ -43,6 +43,13 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "name": "EVENTOS  HD 1 TEST",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FIERA TV HD",
                 "url": "https://fieratvhd.com/hls/fieratv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
