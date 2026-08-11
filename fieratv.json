@@ -40,6 +40,46 @@
         ]
     },
     {
+        "name": "FIERA PRODUCCIONES",
+        "samples": [
+            {
+                "name": "FIERA TV HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIERA TV 2",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKYNET HD",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIZZI TV",
+                "url": "https://fieratvhd.com/hls/wizzitv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED DIGITAL",
+                "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES PREMIUM 🏆",
         "samples": [
             {
