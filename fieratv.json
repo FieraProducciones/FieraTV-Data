@@ -41,11 +41,6 @@
     },
     {
         "name": "ADULTOS",
-        "samples": [],
-        "pin": "6969"
-    },
-    {
-        "name": "FIERA PRODUCCIONES",
         "samples": [
             {
                 "name": "FIERA TV HD",
@@ -53,7 +48,13 @@
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
+            }
+        ],
+        "pin": "6969"
+    },
+    {
+        "name": "FIERA PRODUCCIONES",
+        "samples": [
             {
                 "name": "FIERA TV 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
