@@ -10,13 +10,6 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
             {
-                "name": "CVC",
-                "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "EVENTOS HD 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
