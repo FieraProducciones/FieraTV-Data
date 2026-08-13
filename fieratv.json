@@ -1,5 +1,18 @@
 [
     {
+        "name": "ADULTOS",
+        "samples": [
+            {
+                "name": "FIERA TV HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ],
+        "pin": "6969"
+    },
+    {
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
@@ -38,19 +51,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "ADULTOS",
-        "samples": [
-            {
-                "name": "FIERA TV HD",
-                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ],
-        "pin": "6969"
     },
     {
         "name": "FIERA PRODUCCIONES",
