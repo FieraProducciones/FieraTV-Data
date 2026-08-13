@@ -62,6 +62,13 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
+                "name": "TIGO SPORTS",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TIGO SPORTS +",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene1/chunks.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -787,34 +794,6 @@
                 "name": "CANINDEYU TV",
                 "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/z51ajYjSLM0OUiMcfNGkK6Hdk53eYGlOlZbBCu2TNka8B8o6T5oxAtUcEF8CEe9UTrMAskF9nlWPTnQzukjn7A=w480-h960-rw",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PROGRESO TV CARAPEGUA",
-                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
-                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "VISION TV",
-                "url": "https://live20.bozztv.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/P57qg3H4/Whats-App-Image-2026-04-26-at-3-22-50-PM-(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED INT - SANTA RITA",
-                "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4972/OJpiWZ.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LOS ANGELES TV",
-                "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8?hls_ctx=6k82uz6u",
-                "icono": "https://paraguayonline.net/wp-content/uploads/2025/01/logo-losangeles.jpeg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -1757,13 +1736,6 @@
                 "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN COMBAT",
-                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -2019,13 +1991,6 @@
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -2078,13 +2043,6 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://38.7.195.44:8000/play/a04g",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://128.201.227.251:4000/play/a0dx",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -2998,18 +2956,6 @@
                 "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "tLNOVELAS",
-                "url": "http://168.228.44.241:9997/play/a076/index.m3u8",
-                "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t1.6435-9/46503618_2188148461203973_5725392500231766016_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kqj0LBQDpNkQ7kNvwHvpuoF&_nc_oc=AdquA4_kBG264VgHln6J9vkBUE1cuOQACK31MyOwnkM-8sf17mazEsdCTRmO8kBLpLI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=PrrIBJE1haKLIdI1c0pMVQ&_nc_ss=7b289&oh=00_AQALPXyZSJrXBX9TooS9xmhBbwVJWkItCtHEMryrVdnbmg&oe=6A860E15",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
@@ -3481,29 +3427,7 @@
     },
     {
         "name": "EVENTOS  DISNEY ⚽",
-        "samples": [
-            {
-                "name": "Evento 1",
-                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 2",
-                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 3",
-                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
+        "samples": []
     },
     {
         "name": "CANAL DE EVENTOS HD",
