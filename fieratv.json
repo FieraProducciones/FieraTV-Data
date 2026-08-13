@@ -41,7 +41,8 @@
     },
     {
         "name": "ADULTOS",
-        "samples": []
+        "samples": [],
+        "pin": "6969"
     },
     {
         "name": "FIERA PRODUCCIONES",
