@@ -2594,18 +2594,6 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
-                "name": "NATIONAL GEOGRAPHIC",
-                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzgzMzM4Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYWY4MzFjMTExMTFhNGZhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.uUtCTWWvR4gx-pdd9AM9xCotN54TmB4gPEN41aQInCduxctyfVPvDzR9ltbCNzJsHCyt13mykr1051dGJA21lw==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "LOVE NATURE",
                 "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
                 "icono": "https://www.channelcanada.com/wp-content/uploads/2025/01/Love-Nature.jpg",
@@ -2615,6 +2603,18 @@
                     "Origin": "https://webclient.axsbolivia.com",
                     "Referer": "https://webclient.axsbolivia.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "NATIONAL GEOGRAPHIC",
+                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzgzMzM4Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYWY4MzFjMTExMTFhNGZhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.uUtCTWWvR4gx-pdd9AM9xCotN54TmB4gPEN41aQInCduxctyfVPvDzR9ltbCNzJsHCyt13mykr1051dGJA21lw==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
