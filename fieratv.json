@@ -2854,13 +2854,13 @@
         "samples": [
             {
                 "name": "tLNOVELAS",
-                "url": "http://168.228.44.241:9997/play/a076/index.m3u8",
+                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NzgzMzM4Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYWY4MzFjMTExMTFhNGZhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.uUtCTWWvR4gx-pdd9AM9xCotN54TmB4gPEN41aQInCduxctyfVPvDzR9ltbCNzJsHCyt13mykr1051dGJA21lw==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
                 "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t1.6435-9/46503618_2188148461203973_5725392500231766016_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kqj0LBQDpNkQ7kNvwHvpuoF&_nc_oc=AdquA4_kBG264VgHln6J9vkBUE1cuOQACK31MyOwnkM-8sf17mazEsdCTRmO8kBLpLI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=PrrIBJE1haKLIdI1c0pMVQ&_nc_ss=7b289&oh=00_AQALPXyZSJrXBX9TooS9xmhBbwVJWkItCtHEMryrVdnbmg&oe=6A860E15",
-                "type": "HLS",
-                "drm_license_uri": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://oikoapp.xyz/selvanegra/results.php?keyid=60cb38a05880cd0eb429f71398609540&key=c251aac7943c0d1324aa9a4129f3afd4",
                 "headers": {
-                    "Origin": "",
-                    "Referer": "",
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
