@@ -2853,6 +2853,18 @@
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
+                "name": "tLNOVELAS",
+                "url": "http://168.228.44.241:9997/play/a076/index.m3u8",
+                "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t1.6435-9/46503618_2188148461203973_5725392500231766016_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kqj0LBQDpNkQ7kNvwHvpuoF&_nc_oc=AdquA4_kBG264VgHln6J9vkBUE1cuOQACK31MyOwnkM-8sf17mazEsdCTRmO8kBLpLI&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=PrrIBJE1haKLIdI1c0pMVQ&_nc_ss=7b289&oh=00_AQALPXyZSJrXBX9TooS9xmhBbwVJWkItCtHEMryrVdnbmg&oe=6A860E15",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Canal De Las Estrellas",
                 "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
