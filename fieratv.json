@@ -2907,6 +2907,13 @@
                 "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ANTENA 3",
+                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/vjeZtoj2vIp-Z4fd0MlAcA?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92"
             }
         ]
     },
