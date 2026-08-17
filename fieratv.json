@@ -1,5 +1,92 @@
 [
     {
+        "name": "EVENTOS PY HD",
+        "samples": [
+            {
+                "name": "EVENTOS  HD 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "EVENTOS HD 2",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "TIGO SPORTS +",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene1/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD",
+                "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/tvplaytv/chunks.m3u8?lb_backend_hint=6",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS PRUEBA 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
+            },
+            {
+                "name": "EVENTOS PRUEBA 2",
+                "url": "https://5qg8798a7y0b.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 4",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 5",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/xesZO28qJnnB0Xn26PqBKs05?asset=rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd&typeContent=live&indexCam=0\"",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "HLS",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7\""
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 6",
+                "url": "https://10ifiuwyhnmk.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+                "headers": {
+                    "Origin": "https://gabito.store/",
+                    "Referer": "https://gabito.store/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\",         \"x-aws-server-site-by\": \"PxxSaJhZU8NXOUBZyX6mU4gAdQD5LG4xdTWXIJTTuQM\"       }"
+                }
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 6",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0\""
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 7",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/21pbJN7RIJFejuyZohMEhnaz?asset=rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd&typeContent=game",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            }
+        ]
+    },
+    {
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
@@ -3360,5 +3447,50 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "⚽EVENTOS FLOW ⚽",
+        "samples": [
+            {
+                "name": "EVENTOS FLOW 1",
+                "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTI4OTY1Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjI0MTFjM2I5MDdiNjhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.dmELeMjuonMQCH4KP_IOyFvs4aq9E5O0mYcnRaCLvqLqwk4DQLkE7PozBlUwh5LQr2YQ8b6blKhzCHNWoUNvsg==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EVENTOS FLOW 2",
+                "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTI4OTY1Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjI0MTFjM2I5MDdiNjhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.dmELeMjuonMQCH4KP_IOyFvs4aq9E5O0mYcnRaCLvqLqwk4DQLkE7PozBlUwh5LQr2YQ8b6blKhzCHNWoUNvsg==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "VS SPORTS",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NTMxNDU1Iiwic2lwIjoiMTgxLjEyNC4xMzguMTk2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI5MThmMmVjN2ZhZTIxZDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.VGtG5y34i8MA1A-srsUG2h0elyFOYsS-8D74ja69VUs8CmyTQGfCvG0c3B7ZVsUMpDiKq5rkoCi4DaNhuGVW0g==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS  DISNEY ⚽",
+        "samples": []
     }
 ]
