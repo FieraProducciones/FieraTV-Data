@@ -1213,13 +1213,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "GINO  PARADISE 2",
-                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "GUARATUBA PLAYA CENTRAL",
                 "url": "https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/chunklist_w610604826.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
