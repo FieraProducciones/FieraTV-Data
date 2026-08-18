@@ -98,22 +98,23 @@
                 "pin": "6969"
             },
             {
+                "name": "FETICH",
+                "url": "https://cdn.adultiptv.net/fetish.m3u8",
+                "icono": "https://i.imgur.com/cqKFF8A.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "pin": "6969"
+            },
+            {
                 "name": "BIG TITS",
                 "url": "https://cdn.adultiptv.net/bigtits.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": "",
                 "pin": "6969"
-            },
-            {
-                "name": "FETICH",
-                "url": "https://cdn.adultiptv.net/fetish.m3u8",
-                "icono": "https://i.imgur.com/cqKFF8A.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ],
-        "pin": "3453"
+        "pin": "6969"
     },
     {
         "name": "FIERA PRODUCCIONES",
