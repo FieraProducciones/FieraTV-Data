@@ -87,28 +87,6 @@
         ]
     },
     {
-        "name": "ADULTOS +18",
-        "samples": [
-            {
-                "name": "FETICH",
-                "url": "https://cdn.adultiptv.net/fetish.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "pin": "6969"
-            },
-            {
-                "name": "BIG TITS",
-                "url": "https://cdn.adultiptv.net/bigtits.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "pin": "6969"
-            }
-        ],
-        "pin": "6969"
-    },
-    {
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
