@@ -228,6 +228,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TRECE HD",
+                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(YXWmRlW-5klo752V5cIcbY3odC-18z-2Dv1Brv9NEo1uaw2CsXuzHg1SQht78864FGIr4UAUIXs-GVQPNEXOA3R9Wod70fCzQqvEQLHNE7T2xtgH7dRDo76UTC6KNlE72Y-L6uI-ZLApD41_GwWAkw)/cloud/3/xak2neu/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+                "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ÑANDUTI TV",
                 "url": "https://nanduti.b-cdn.net/720p.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
