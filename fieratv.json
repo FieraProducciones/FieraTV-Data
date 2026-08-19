@@ -245,13 +245,6 @@
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
             {
-                "name": "UNICANAL HD",
-                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(HaRT5XPOLpz5Pgf05bORUDnMQkTuH6xWO13vfEFbWKDSCxEAuORZk77TpzIy0TivD_lZFEhQr5dptqAjkGIj1KKM8T3r-QkJemYr0PKyWR334VzLc3DJhJk89BSiMEsJnFgQRmN79Qn9Hmq22weypA)/cloud/3/xak2lou/s/live-720.m3u8#cell=lcf2-eu-north-1b",
-                "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ÑANDUTI TV",
                 "url": "https://nanduti.b-cdn.net/720p.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
