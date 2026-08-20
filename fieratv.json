@@ -29,13 +29,6 @@
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
-            },
-            {
-                "name": "EVENTOS PY HD PRUEBA 7",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/21pbJN7RIJFejuyZohMEhnaz?asset=rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd&typeContent=game",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             }
         ]
     },
