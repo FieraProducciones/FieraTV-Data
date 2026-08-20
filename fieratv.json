@@ -24,13 +24,6 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
-                "name": "EVENTOS PY HD PRUEBA 5",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/xesZO28qJnnB0Xn26PqBKs05?asset=rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd&typeContent=live&indexCam=0\"",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "type": "HLS",
-                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7\""
-            },
-            {
                 "name": "EVENTOS PY HD PRUEBA 6",
                 "url": "https://10ifiuwyhnmk.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
