@@ -24,13 +24,6 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
-                "name": "EVENTOS PY HD PRUEBA 4",
-                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
-            },
-            {
                 "name": "EVENTOS PY HD PRUEBA 5",
                 "url": "https://api.tigosports.com.py/sls/v1/streaming/xesZO28qJnnB0Xn26PqBKs05?asset=rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd&typeContent=live&indexCam=0\"",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
