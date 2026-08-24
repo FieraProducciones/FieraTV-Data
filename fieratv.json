@@ -3,13 +3,6 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
-                "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.mpd",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FIERA TV 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
