@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzU4OTA1NCIsIm5iZiI6IjE3ODc1ODE4NTQifQ.XmRiLlRYVHhY1AzsskGhs5cJ82sW8I03LNvBF6QXRe5ZR4cXvNBr-3ASz6v9pwtFhTgZj0-AeBFI_KJi67JGT2SQIEHQp_hHr4D3g3n_wAn_FoLizPsclvG5N5wIffCSuY2MxAeocdE6FvPLcA7quz32F5AkQc6RUeBi-cGoK2Ma1k4czTUUz01rk3UrKxIkbAKat_e13ierZbVgABWgD56GvTSgXoHlfKXkvY2lFLqV_1EkmV5di_Ip_fWqXrnD4S0h8_45DeyNxAAXpykhpdeqDJGRj5L5WPGUiAEAfF8FrRnjFL0DLoZqk0Lwj-dvLRjg09Sw_RyW-RH9MKffCA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
