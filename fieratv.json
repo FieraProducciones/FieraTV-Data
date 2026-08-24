@@ -6,13 +6,8 @@
                 "name": "FIERA TV 3",
                 "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "79b22e61b889a48fab2a1fbc4489faae",
-                "headers": {
-                    "Origin": "customer-99q9mx4qkcywvxqj.cloudflarestream.com",
-                    "Referer": "customer-99q9mx4qkcywvxqj.cloudflarestream.com",
-                    "User-Agent": ""
-                }
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "FIERA TV 2",
