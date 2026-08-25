@@ -17,7 +17,7 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
             {
-                "name": "TIGO SPORTS",
+                "name": "EVENTOS HD ONE",
                 "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "HLS",
@@ -58,7 +58,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYxODQxOSIsIm5iZiI6IjE3ODc2MTEyMTkifQ.guK4zmgUqUbuo8rtDEwolTzi_uCtzVTkPPhJAn9ODoxT5owqM8_2uxln7UcphKYkQE7TQSmXYjXZ0Y0wZ_p5MGMQi0TXA1dza9b9jtB7cGg7BxbIUdHcSd8csIIeZSOcRkvn_nIk6q9UKERJHmDgEnlHrPF2aE0DVuih5771rn71JDIpQQ9LCGxikKD2m2DNDFlHM2NL9bw20YY6OeeTB47lSsVaQEx4xwxFHBFAquU1PVZq0uDHEusqvFeX0tei_QT4chGo8ASYSsueROvwHQ_JsXfGxL2h96TfQfYTWRFtK-9DXrrL1OW6TwVHet1xiGAQumQWDRny4SUl5rCH7Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYyMTM4MiIsIm5iZiI6IjE3ODc2MTQxODIifQ.lpYkrwtrWuoUvNb6nJWpsNdoaXfKMF9pe9qFm8SgOEvO-3XXC5bUZ6ezSK0IXAlx-Zn1Qmi61XWVZreoQwJjdRqrgudejYP2XhrrbbRokWM_czHPaY_yhv0-Gztrwvqn-_nC9n_qTTh1jXrA5MzU9gpWk2hCBkaYD9LpWyUEhJyQGFe_yLym1-puc8cng_FPHPVOY3uWavs9VfjpaHhRrydqpPjyZdZVJbKGfaqtsoBKtQsgmfsAhT70AhCiBsjGLE7gZRcwDwzElolJ2uoTEDcGZ25HqR4k1tU3EJ9UhfYY4p55XOUND9wCl8boO_mtXlqiqGVfDLQME9xhiJ45LA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
