@@ -17,8 +17,15 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FIERA TV HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY3MDc5NyIsIm5iZiI6IjE3ODc2NjM1OTcifQ.PEFnYvaMaNU8RS7KV8SnpVblsgH8wE0cFsBW5dLzd-CGsbmNnGRKTKZwzHoV4QllwjEMWp3PO_s9bKIp712T09Sbpve7XqbW1klCpmoFTVMTk-JpVApgCOoWRXm7eZDE4xTJkn0tNryoVyILzoKjQVee_u3jP3eRTB0D4HF_zjim90ew5KjVY1IZapvbEpmcpaixCFR5Wb4XCZwiNnl0KixCveVmx4OxtAcBlPE2j5I3Px-KHyvA8cwrryxVyygLQwUmLVoWbZnQUqT5ZMtPVEp4z-__8Kml5injD10hbPFpq5gNo15hQVU2oBHvtjim62zRuBhOgnj_gTearRaQlQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY3MDgxOCIsIm5iZiI6IjE3ODc2NjM2MTgifQ.egfZLZksSquY9rSxzrDq92KxaXVR2TCmotg6bQipbB1Aw7lLNsowzUfmOYIRuJvZE0GC5dycWuVcX3wnZo59XJZqBKFpk51DTn2eBBQLAbD6vHyOL9JsqHUDwwXN3o-F3xEQ08P2nZ7ksU9nDMTvZxWfBIkdJKyKDm77LIJpaUb2yAnan_79B753UlK7IRYMaz6zwDDsdKtBjsc0Mz9Cf7eEykPj6YsN_cvfXdNZeLDQB-8L5lvJKYmu1vQqQJR3NUwD5scGS15UxyUDHF7FKlo1JrYMqJ0H61tXydAVqrsWXaNwoHLUAruXYCl6d2CrcPjDR85qQDUufHNoqTj-Ww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -41,13 +48,6 @@
                 "name": "RED DIGITAL",
                 "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIERA TV HD",
-                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
