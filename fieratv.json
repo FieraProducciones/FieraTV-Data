@@ -3,6 +3,13 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "name": "FIERA EVENTOS HD",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY1ODI4NSIsIm5iZiI6IjE3ODc2NTEwODUifQ.HJSiCZubedBupc7pAV5w_mbneWclCcfIgOYJpPMxyQiDeQCmZOrwLWvBIPBXqfkGbXXslBjrGfOnrAoBbA5GwmmcwQ7Jal7OVfKyF3COmEutsRiwRtBcF6HKSrbGA81q-rQQtluTQkuHE6MP2h-JHA-HemDGOj64SnlT4BjgbIHKnxQKcEHAa7H6CkPORbbiYW9VcDYAchx7ePO_F42_yo8lLNWo1tJLbYID7N9fAccB3Tt4aPBUEJn1thTbMUPRhiFfPk2J1woSohIUwx_Qm6tmChl2FETx7rBarBLYSQ6HvmECDaxUxlPPyqhcbcM4cw7IXpTihv7R0KHgdypzSQ/manifest/video.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "DASH",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FIERA TV 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
@@ -14,13 +21,6 @@
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
                 "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY1ODE1NCIsIm5iZiI6IjE3ODc2NTA5NTQifQ.ExaVcxXpDqvygdZRUNzbMYPztmBRvayjlS9F5ytdFkac4Xx_9NmfDzepFEQzL59FQt1q00vAqiMXuSahLShffz1XjHQoLAvU-HG_UgLYJn6hRnAzWVh9Vs-I9n-oqBm8XniiK39cgLMfs2VdC8AYdOFLHYTP6PXUE7lMOfFGud4idmdqH7fuezchiJTX4noJ-eJo_QxH-vEcwc61tmWInSK4oAZ-XOMO5MLlNWsMw9YpVbjIYwapIqUnbxlL-zmO3IZ5WNvrZOT5BnSmHB0vlIB9cYlYZu78Ekn1DAfmskI6NJNDM_vXAXLu6qIA3lxn9TAWMc7XobA7PSa7z3q1vw/manifest/video.mpd",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "DASH",
                 "drm_license_uri": ""
             },
             {
