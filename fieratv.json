@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjIyMyIsIm5iZiI6IjE3ODc2MjUwMjMifQ.mj56mqOidRbVlQ4freSBW3CTaY4hJ6TQeS9Mpb5vVdx-Vvzje9UuZuc4vC_Mga-SYRhvn2dRdlAwIoIN_Mh58iqPBkFGaq0kW2DD80nXuxCOxoq2JTXpDliUaCrxkXFvcJDcCTQeBLW9Jei0h2VHUIPVl_sZ354TC_swxdvYHt24fzkDOcHb_nVuWFR6c9oCaqPhLS-BoFk2McxSxNHIK7LiNR_SIVfnv1ASEyPzQk0UXxDlEiXh0TsoBEDrdqDU6h2_izfr-SbF-QrcR6YM5M7E3uO68B3z4Eor0HEfUGrBnU7lrtiPivTvz9TLAL3DFsuKbKM3PBPGr0vjX4QpeQ/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjIzNyIsIm5iZiI6IjE3ODc2MjUwMzcifQ.J1XWmh23TTnGtYkAZTXRJ4sSZss5yH7RdE4HQeKvoJH08oHs7jCPrC1_WdiT_R843NV6Ctj20fD5JHxjkJqH795V3z5mmtbc4dgtxIfUp1qIZGbOepryrXRenk2fGfF-E03omZ1z2yYfNknDlUndAVBIEOrxQ8UjznUmgN1Qq9VnpHPs3jwH5SIJp7ImX-Ygj8FH52SSrA6Ws8-JGfhTjdLfIrRvcWpANAtCwGvdl8srz2TMsTZCaiP_PgoaGP74tWJEL-b48Cga-ioTdaNTrupP3M3oLwJW4UZ3SX5df4mx0gaBkpTUsA_LGwIwIOgkCeBoE9hPv2V2CEcahF_SYA/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -652,6 +652,13 @@
                 "name": "COLMENAR TV",
                 "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PROGRESO TV CARAPEGUA",
+                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
+                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
