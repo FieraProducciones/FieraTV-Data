@@ -17,15 +17,8 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "FIERA TV HD",
-                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY3MDgxOCIsIm5iZiI6IjE3ODc2NjM2MTgifQ.egfZLZksSquY9rSxzrDq92KxaXVR2TCmotg6bQipbB1Aw7lLNsowzUfmOYIRuJvZE0GC5dycWuVcX3wnZo59XJZqBKFpk51DTn2eBBQLAbD6vHyOL9JsqHUDwwXN3o-F3xEQ08P2nZ7ksU9nDMTvZxWfBIkdJKyKDm77LIJpaUb2yAnan_79B753UlK7IRYMaz6zwDDsdKtBjsc0Mz9Cf7eEykPj6YsN_cvfXdNZeLDQB-8L5lvJKYmu1vQqQJR3NUwD5scGS15UxyUDHF7FKlo1JrYMqJ0H61tXydAVqrsWXaNwoHLUAruXYCl6d2CrcPjDR85qQDUufHNoqTj-Ww/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY3MDk5MCIsIm5iZiI6IjE3ODc2NjM3OTAifQ.AFcW6Vd1eLET5N1T6VLn-sO9Heu5CmApvG972gxm-0T8ynPheWVYzPOSXcEU7SSYknETPVoTKqgDb7AuYnzbzvNBODK9m1KwacJjy-t8I20gNTBFEnaDiYKc0ncryoF3fwcw9h0QlOiiAYWbqnmru8F5yziPvg2482EIxXwFK1c1rkyo68D5no8sNpY9yCy79rd6KIjnwDfLOZ7gX57zN9nqmISklBhE7XjchcnhZMocKHmMG7R0ra67pIDAB1qewddZphRqBNExmgwvDXnXx9oP_-Gc1YJ2zDnJscIed1ChUR2yKNGBaFqnKOhvMRcKQGsZ0ND6KoXMV121Or256Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
