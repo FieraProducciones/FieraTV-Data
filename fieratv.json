@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI5MyIsIm5iZiI6IjE3ODc2MjUwOTMifQ.i7NNim1Uht4WgY3hHG2XAKgRerqM0GKXl1YvMEV8ZVkL4TyhR07b1ChFpFTO9t15l5-XJqaUd80POAe-R5RmL4Y1PQrZ2gsh_IfOd5-nQqznJ1SJYsi_NnUKxxp0xji3AGiHV9SvjrlcoaevNVpceYILJiyqfpCzYyKIPOtCCwIHPRUis7Ypj20LveD5hcK6oiPaUeRzi3sWTclVrCJb2gbsaQ_ZyqIZh2wfJvetuppK1Jag6uPeY-nsK7xx_8iUGrJJf4HzTgZjGdAuu2WWfymetybA3pD0EwL-ACKbTBUsDyCb_ovm-2hq9AEdrBAxtmx8mALZ9Qp7jwLXUM4slg/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjMwMyIsIm5iZiI6IjE3ODc2MjUxMDMifQ.Ibf-ruWf78RV-6nr1HGC-DtOIg4gcyxLXURkdRHa7CWEDLG0Xe88e29mTg3bhT2L2o0wG6VtOkstLzhpELXDXsFId-oIxzElDWpypgjdbOW9hFjjd7McQRQWAtYInssmRVe_QIud8uUEzt3nloZWTsACNaT5j_UpnqCATRQawyJOdJ5Xfnm7_o7otBN_L8zNnf-l3_bwMSrbZyA-h8eYOvEejKQ7lxqzsd69zoGLBKF4km942Zu_Bbq-jgJxnOBzXrdEd8hrdnKcayyuJXTsdoUJKaU0iWg4fVIGBMrlhZnBNLEO1YckZzOimtCOrTBwFhJ_aIhcJ32BI7MTmvARyQ/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -1537,6 +1537,13 @@
                 "name": "TOP BARCA",
                 "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
                 "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN COMBAT",
+                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
