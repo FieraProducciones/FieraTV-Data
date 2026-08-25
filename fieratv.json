@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzNTE1NCIsIm5iZiI6IjE3ODc2Mjc5NTQifQ.OLQz8JlJpW6Yr9vHycHFgItqWWXvKx472PzADK9DYz3S5s5NGDX42j4soG1XWGDOwc29Rzbp5JFpo7e6zO6gROCAtDe5M4Rb3Tw7JtYmxcbo4mEZv551MU6yq5SliXs3_LKz77MsyYR1nf8AgZjT5bWBgkGO5JaHB5qB_JCwDeLcoIYrUpq-dJiCXrhozUh5r1uL27qxbGERwiF2pbtv67L83Vw3FhewXqXFkyfFTjgIticYGfBEZKG85FE9MJVjBye8IbXONHcfyQYUb90KO-gsojMvWIHg3iOo3gLAiqZ9_391gj3FwrHUEQKpdEFNvgG7Rrqw9vNn5niHgU9eew/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzNTE4NiIsIm5iZiI6IjE3ODc2Mjc5ODYifQ.pSUUyns5VKBObxMM2gnCTVe3om-WwWetBDvZxtEJBvYgtHNfTa-UDU7KEsB83txvyX6x35nR42rov8sCP70JyiJlZk-w8PZ69lCRvh1KBDi2oHtmIcBP13q4lNREd1ZN8PoH2rUQZU0H6yl6m9hJpmrbyZATUY1SKWhGL_wHP7G2LIve_9VgITQmSAsa84JoZwIu-wqfC3dN0o9nAMfsNJm2MNyGm3E0aBxvs5YgPE5fg-nUO_ZlBwbZfuwz1fe2GbN9wnomrWkjRlNFizNeOanFVoyLkmHZf5AZebnr2yLr7EWVbnmZoVsfDTgKXN7-5JyDRMvPvQfiUPerVwylEw/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -537,6 +537,139 @@
         ]
     },
     {
+        "name": "PARAGUAY 🇵🇾3",
+        "samples": [
+            {
+                "name": "5 DIAS PY",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+                "icono": "https://i.ibb.co/Pg6v5zn/images.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL PRO",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "A24",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "UNION TV",
+                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
+                "type": "",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PARAVISION",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SUR TV",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MEGA TV 2",
+                "url": "https://www.desde-paraguay.com/mega.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "COSMOS",
+                "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+                "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/364106223_263159516473042_1757969443338909274_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rZxnR1nRVmIQ7kNvwEC4wyl&_nc_oc=Adp2NUAsbEgvkKmv0hnFEF2eiF9PZax1-ZBUXy4aMKHR-y8B0yQugdF4GnEeDjsa_eg&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=YkXgppyoUFe8WElKG90JBg&_nc_ss=7b289&oh=00_Af_qxBM-H8EmC40cYC9UL_mqIMORXTEnu-yNhBpMXkrY6w&oe=6A47B91A",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BM - BRUNO MASI",
+                "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PARAGUAY TV",
+                "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
+                "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PRODUCTIVA TV",
+                "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
+                "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RADIO NACIONAL DEL PARAGUAY",
+                "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=R3UBswJmJ47V3vPjJHxW3v",
+                "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REPUBLICA TV",
+                "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w307468788.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA TV",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
+                "icono": "https://i.ibb.co/nqLSGRzs/R.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=4e4a187474de8e29a8507d496c8a594f&key=daab5ccf306d67749740f7ce02c07850",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
@@ -832,139 +965,6 @@
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "PARAGUAY 🇵🇾3",
-        "samples": [
-            {
-                "name": "5 DIAS PY",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
-                "icono": "https://i.ibb.co/Pg6v5zn/images.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "CANAL PRO",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "A24",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "UNION TV",
-                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
-                "type": "",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAVISION",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "SUR TV",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "MEGA TV 2",
-                "url": "https://www.desde-paraguay.com/mega.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "COSMOS",
-                "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-                "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/364106223_263159516473042_1757969443338909274_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rZxnR1nRVmIQ7kNvwEC4wyl&_nc_oc=Adp2NUAsbEgvkKmv0hnFEF2eiF9PZax1-ZBUXy4aMKHR-y8B0yQugdF4GnEeDjsa_eg&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=YkXgppyoUFe8WElKG90JBg&_nc_ss=7b289&oh=00_Af_qxBM-H8EmC40cYC9UL_mqIMORXTEnu-yNhBpMXkrY6w&oe=6A47B91A",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BM - BRUNO MASI",
-                "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAGUAY TV",
-                "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
-                "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PRODUCTIVA TV",
-                "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
-                "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RADIO NACIONAL DEL PARAGUAY",
-                "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=R3UBswJmJ47V3vPjJHxW3v",
-                "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REPUBLICA TV",
-                "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w307468788.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA TV",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-                "icono": "https://i.ibb.co/nqLSGRzs/R.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=4e4a187474de8e29a8507d496c8a594f&key=daab5ccf306d67749740f7ce02c07850",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
