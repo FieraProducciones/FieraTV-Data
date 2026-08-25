@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI1MiIsIm5iZiI6IjE3ODc2MjUwNTIifQ.ZB3zlX3Fkwll1i9EhzFMsbyEUOUZ18rzcbmMJoIL8pVBL9xww0l66s2EFVzmRfsDdb-fGQgtJhKrgXRgYn9E2iRH1uxUNjOxbmYmCVG-K7O4o0BpFBvxlzVm4IV5C3r6nrnObPu8hZmy1SN1a6TNhViI6cqMkDSXI9BRaCtl1YPf_ywX6CsBObdPQoLe4eA9KScx2eTboAicLX7w5k8fLbdYP7VlG52YVtl4aG3kzotUEGAChKuja7xh7C2FFEw-l0UzYsWKIJrdXS3m8HLHJ-eySJSaH4TlLx-0UKNomjnaB3PyrnPvZ2ZEzDCuRnOq1BXXiLOWaTKOpQ3r3PD5LQ/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI1NyIsIm5iZiI6IjE3ODc2MjUwNTcifQ.EKcWQ7ZcSouxce3aUh--zFm8nnCztMAJcvvNuJoVUL_6zrUbBnb_VoQGooNjy4e4hmnfpw-_uqOXLWtGXlfi8O8pMoElOFkBGVIUEE4nmPN68JnedmElzFskPS5RiOsDeYzKuIFgftSV4l2RZVsnt9G-JEm32np3ScJ1B2prcb1nMd3res-HK8S_lXilk3VC9ncbu-u-UUayLM7uUpDNgc9om8YhYxDj9w8bc8EOy717T6IxjhCyTP7fRXxm8X_CfIkOGZ1GIsgvUhnGA9jbhdwicnu4bd468-9Os6Poi4zBqqpZDrxgFh1REYNPNPaGGZzfjYRFMSqJ7BwZieI8nA/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -606,6 +606,13 @@
     {
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
+            {
+                "name": "OVIEDO TV",
+                "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+                "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "TV MAX",
                 "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
