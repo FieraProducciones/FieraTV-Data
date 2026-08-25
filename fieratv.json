@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI4MSIsIm5iZiI6IjE3ODc2MjUwODEifQ.JNmw-RgeubBHAvEVMeVV9ePWQz51uPgc5ze8Ejn3ZzSgIkdNtLzr0CGPUZLEAB7de-ANHBaolzTz1k8xXkpW9bbLhVADIIy3Jb-SH6IXOv1s770D2ghWG0Kp9cyofpXYu0jcp6-T-h9Eqb_Tw1khylDxS7K5xcs96YXyoDZquxzSqgDFaOUOfef9KbjI6B6YK6rKpkP9uJXp027BTNaxn5Iui1sFseXUq9G6JiNWAzJzy4cAljx41dpiSVC_aAWP3_sDh09mvxxmJvAK_feyjXA-jvfvSl3sDPBRR4mDcKOUFng5g77jP5lKo0YYLgVzWl2VhjJfC5LIVnmR62aM9A/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI5MyIsIm5iZiI6IjE3ODc2MjUwOTMifQ.i7NNim1Uht4WgY3hHG2XAKgRerqM0GKXl1YvMEV8ZVkL4TyhR07b1ChFpFTO9t15l5-XJqaUd80POAe-R5RmL4Y1PQrZ2gsh_IfOd5-nQqznJ1SJYsi_NnUKxxp0xji3AGiHV9SvjrlcoaevNVpceYILJiyqfpCzYyKIPOtCCwIHPRUis7Ypj20LveD5hcK6oiPaUeRzi3sWTclVrCJb2gbsaQ_ZyqIZh2wfJvetuppK1Jag6uPeY-nsK7xx_8iUGrJJf4HzTgZjGdAuu2WWfymetybA3pD0EwL-ACKbTBUsDyCb_ovm-2hq9AEdrBAxtmx8mALZ9Qp7jwLXUM4slg/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -1371,6 +1371,13 @@
             {
                 "name": "LAGO NEGRO",
                 "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GINO  PARADISE 2",
+                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
