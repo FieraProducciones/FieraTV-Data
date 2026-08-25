@@ -3,8 +3,15 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "name": "FIERA HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY2OTQ2NCIsIm5iZiI6IjE3ODc2NjIyNjQifQ.FSM-v5fYw-byG4Ed0JnQzc-K-5AIl1yE8nIjYNO8gMfXORRASPrgM4L8r5blq9dwbocpQJRVKM5vxvdqb2l4P_fBtv3kze4FzdMl2UfuI6pOosuRGqjE7tRdzHdw5jbh2ekhtMwcIdtL-BiltHOqKyVOyXibKBqsrcERJmu74j4071g5tq6WVVz1I6UWvjmSYldNWI6ELKamWWXTz4NSmY7BTgYETmE9JJua6FgCTebpzZDrArSKZF_vEjt04ZfWQqTZ0yhKWt94hWLOHVjYXdMryTYzJ0kuGTaRAOWsulLIKgOWPoJhowPdlhfOn4INlHiFgu8eCd4012vB7YkSVA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY3MDc4MCIsIm5iZiI6IjE3ODc2NjM1ODAifQ.esiAFcUpLtCyX72gh-AhC5JIno4P6e55xyaMQ8jgDCI9QsJtsVlV8wzfzg5AnrRbFDYkOA2kMQQZL6-TZpAfUE2DWdjrEiWCeyKaiuM5PISAuhMeUrKkXfskaZ1wfDWhEQJXCdkBM3dH3pKeJCCjeSesi9iXIwCGamQYaY0Bv_7kXn-hYuRz9_MbVU4n0Z1rFVKQZj4CMwQqI5F2SkQjNPApdML6Bv2loqKocSHwFlN5aOm1nT2VeQNMKUWRj1RFNV_yVj_vvHq3jP0AMdrD3c7Z0HUjafO--o-49gUN-z4RzS55M5v_9G9SJb2abYNN8cUsDgUe0a10bHpZyz99qA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -38,9 +45,9 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "FIERA HD",
+                "name": "FIERA TV HD",
                 "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
