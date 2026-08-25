@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzNTA5OSIsIm5iZiI6IjE3ODc2Mjc4OTkifQ.JjnJMghYgpjzxfjY6hRvWOTmh6hcEmG6oE5hjO32DOfi_msmgvsh2eUKd77k7rFrd3QXNBBZZJM4Ft7UvnjtHVFjUYWk1ZuHZNiwm21UapITkZC8a61ayDH4CKL7GEB87N4obeOwaVzHIlwDKEy07w7WW_LS9cJICkKXJFK3qqpI2NQsA92A0Cop97CtU9W8d_nPadYPIONDawddASFswlDQAzEs-E-GlAvUZQA1wgDnvSYalnU1Hg-vZobjmjrfMipxuoUVR4Ik85c6ExgmfhefvugEYy6VTBRdB9El55Wf24j1FueaA7vNJ4MP7P8JCkuI_996z4KKl2dcH5Crqg/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzNTE1NCIsIm5iZiI6IjE3ODc2Mjc5NTQifQ.OLQz8JlJpW6Yr9vHycHFgItqWWXvKx472PzADK9DYz3S5s5NGDX42j4soG1XWGDOwc29Rzbp5JFpo7e6zO6gROCAtDe5M4Rb3Tw7JtYmxcbo4mEZv551MU6yq5SliXs3_LKz77MsyYR1nf8AgZjT5bWBgkGO5JaHB5qB_JCwDeLcoIYrUpq-dJiCXrhozUh5r1uL27qxbGERwiF2pbtv67L83Vw3FhewXqXFkyfFTjgIticYGfBEZKG85FE9MJVjBye8IbXONHcfyQYUb90KO-gsojMvWIHg3iOo3gLAiqZ9_391gj3FwrHUEQKpdEFNvgG7Rrqw9vNn5niHgU9eew/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -452,149 +452,6 @@
         ]
     },
     {
-        "name": "BRASIL 🇧🇷",
-        "samples": [
-            {
-                "name": "GLOBO HD",
-                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9948/vVM6vL.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT INTERIOR",
-                "url": "http://79.127.243.211:14095/",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD NEWS",
-                "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND NEWS",
-                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "RECORD",
-                "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDE TV HD",
-                "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1421256369.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TLC",
-                "url": "http://79.127.238.228:14433/GLOBO",
-                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SFT COMBATE",
-                "url": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuLAT8ykGrAdcNkCPARfDxKsycu5-zAFrYWA6wHr2NHji9qdY6lyvkFA&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CARTOON RETRO",
-                "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2066149519.m3u8",
-                "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/732fbcf0-2d8e-4b50-a3d3-eb1009cfa497/dfldeje-c7eabe0e-fb4e-4e5d-b7f7-075c5784ad72.png/v1/fill/w_1632,h_1632/cartoon_network_retro_logo__fanmade__by_rfmdf2429_dfldeje-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMiIsInBhdGgiOiIvZi83MzJmYmNmMC0yZDhlLTRiNTAtYTNkMy1lYjEwMDljZmE0OTcvZGZsZGVqZS1jN2VhYmUwZS1mYjRlLTRlNWQtYjdmNy0wNzVjNTc4NGFkNzIucG5nIiwid2lkdGgiOiI8PTE2MzIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.v3TlVeimONEtoGlAK5QZo4Mak8lzBP5zzXawlAys4LQ",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TOP MIX",
-                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SONY",
-                "url": "https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDE TV MAIS",
-                "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME ACCION",
-                "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME FAMILIA",
-                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME COMEDIA",
-                "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME ROMANCE",
-                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CINE PIX",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
-                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
             {
@@ -830,6 +687,149 @@
                 "name": "AR 12",
                 "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "BRASIL 🇧🇷",
+        "samples": [
+            {
+                "name": "GLOBO HD",
+                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9948/vVM6vL.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT INTERIOR",
+                "url": "http://79.127.243.211:14095/",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD NEWS",
+                "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND NEWS",
+                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RECORD",
+                "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDE TV HD",
+                "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1421256369.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TLC",
+                "url": "http://79.127.238.228:14433/GLOBO",
+                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SFT COMBATE",
+                "url": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuLAT8ykGrAdcNkCPARfDxKsycu5-zAFrYWA6wHr2NHji9qdY6lyvkFA&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CARTOON RETRO",
+                "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2066149519.m3u8",
+                "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/732fbcf0-2d8e-4b50-a3d3-eb1009cfa497/dfldeje-c7eabe0e-fb4e-4e5d-b7f7-075c5784ad72.png/v1/fill/w_1632,h_1632/cartoon_network_retro_logo__fanmade__by_rfmdf2429_dfldeje-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMiIsInBhdGgiOiIvZi83MzJmYmNmMC0yZDhlLTRiNTAtYTNkMy1lYjEwMDljZmE0OTcvZGZsZGVqZS1jN2VhYmUwZS1mYjRlLTRlNWQtYjdmNy0wNzVjNTc4NGFkNzIucG5nIiwid2lkdGgiOiI8PTE2MzIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.v3TlVeimONEtoGlAK5QZo4Mak8lzBP5zzXawlAys4LQ",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TOP MIX",
+                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SONY",
+                "url": "https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDE TV MAIS",
+                "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME ACCION",
+                "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME FAMILIA",
+                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME COMEDIA",
+                "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME ROMANCE",
+                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CINE PIX",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
+                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
