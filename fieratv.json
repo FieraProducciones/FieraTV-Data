@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjQ2MyIsIm5iZiI6IjE3ODc2MjUyNjMifQ.qRLDbVYq4WxKRE71b--UQAPrzAqlotjJtXjUQeHBmWKTqdMNl7Uxy85n0LkHVI2vZumm_e2rBaeZhWFnkP-mYXLyAjqEwVm2IPgewfrg0qytAtH0hcGs-UykX52ZylOE37QPj6LRGzLK7E9ZXutNowBAgQPqHka1RffGO3FYnVxRJgIx3qx4vq7Ap8OcqYdPsl59OQWzSops35sJBLLmLv2ivJjVP0cp8yJh-ZQOhPbG9EYkzFmNJpzuk6LO1R9GB2fanv7_GZGtKZajxW63iDd1XA_JGelTyYN7FfE0YPcaUZriBgnX-vhd9jeUYoo3onLVkHJU__Cw25J3DRj82w/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjQ4NyIsIm5iZiI6IjE3ODc2MjUyODcifQ.hdCtXo9Q5U19LnJq7JRJJDVZ9ocizBwjYR9vDmL4qRbGF9pL9xm3pMC_vedQAKwP0i1-UNBYjd-319QDOrLtj5UN5MKSQINl9D68vvUDp1l-seNaQ70njHN3hAieHvbOIC5Hn3x8zgtBX1HXEUqyQpT347dS3yfK5YvHYVp8PnHhbL58X4Yl705klwt9UR5ZMlwYyUnPiiBxyrVSrDRzuU2x1_RbIamjblsLrKSxReg3v2p5k5Eidm6QGpJlrTwJJ5_f2JFIBvKt_f_sQX-4vt0cuFjePXH6WIXLJszJwBcKYM1VZ0SF3FFzQOx3krNt4NKlqKVSAxhSjNWAvN2SzQ/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -1312,74 +1312,6 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CAMARAS EN VIVO",
-        "samples": [
-            {
-                "name": "GINO PARADISE - ESLOVAQUIA",
-                "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GUARATUBA PLAYA CENTRAL",
-                "url": "https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/chunklist_w610604826.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AQUA PARK TATRALANDIA",
-                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PUENTE DE LA AMISTAD CDE",
-                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOZ DO IGUZU",
-                "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CASCAVEL CENTRO",
-                "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GOIANIA",
-                "url": "https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w365897294.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LAGO NEGRO",
-                "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GINO  PARADISE 2",
-                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
@@ -3278,6 +3210,74 @@
                 "name": "SERIES",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CAMARAS EN VIVO",
+        "samples": [
+            {
+                "name": "GINO PARADISE - ESLOVAQUIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GUARATUBA PLAYA CENTRAL",
+                "url": "https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/chunklist_w610604826.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AQUA PARK TATRALANDIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PUENTE DE LA AMISTAD CDE",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOZ DO IGUZU",
+                "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CASCAVEL CENTRO",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GOIANIA",
+                "url": "https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w365897294.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LAGO NEGRO",
+                "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GINO  PARADISE 2",
+                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
