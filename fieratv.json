@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjMwMyIsIm5iZiI6IjE3ODc2MjUxMDMifQ.Ibf-ruWf78RV-6nr1HGC-DtOIg4gcyxLXURkdRHa7CWEDLG0Xe88e29mTg3bhT2L2o0wG6VtOkstLzhpELXDXsFId-oIxzElDWpypgjdbOW9hFjjd7McQRQWAtYInssmRVe_QIud8uUEzt3nloZWTsACNaT5j_UpnqCATRQawyJOdJ5Xfnm7_o7otBN_L8zNnf-l3_bwMSrbZyA-h8eYOvEejKQ7lxqzsd69zoGLBKF4km942Zu_Bbq-jgJxnOBzXrdEd8hrdnKcayyuJXTsdoUJKaU0iWg4fVIGBMrlhZnBNLEO1YckZzOimtCOrTBwFhJ_aIhcJ32BI7MTmvARyQ/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjMxNCIsIm5iZiI6IjE3ODc2MjUxMTQifQ.U_206GquzzNzTYILRrz-Kfkvl_yOMDlJTaChwLY182ROZJTLfaOMTzgocWhCrEugEn9G6RsJR76lchABj0vuuw4ggh-XPhd5bLPis4hZmdO9dW-aa7yy1ON2KO7p79AIxPFMjItYIkGoq_AOvwk_Z-O4yR7k0fSCxwqwHN-L5sEhy50RnPTpZNr9GNYjY_ZcZOIvY3-ETEpn9eobQ1BZ1REuuDGyw6vzAi8HUsm6bX8WQ6bE3mp2VRyENqYqT0SKzdcZqoyuGJIYnA6I1wd9k2jTHw9OhCX8pH_gXbw4B6iaPipp663hhK8oVhUDxIAZNlgXmix9r-rMx_BrfmyQeg/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -1799,6 +1799,13 @@
                 "name": "ESPN PREMIUM ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
