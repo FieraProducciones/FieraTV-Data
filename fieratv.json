@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI1NyIsIm5iZiI6IjE3ODc2MjUwNTcifQ.EKcWQ7ZcSouxce3aUh--zFm8nnCztMAJcvvNuJoVUL_6zrUbBnb_VoQGooNjy4e4hmnfpw-_uqOXLWtGXlfi8O8pMoElOFkBGVIUEE4nmPN68JnedmElzFskPS5RiOsDeYzKuIFgftSV4l2RZVsnt9G-JEm32np3ScJ1B2prcb1nMd3res-HK8S_lXilk3VC9ncbu-u-UUayLM7uUpDNgc9om8YhYxDj9w8bc8EOy717T6IxjhCyTP7fRXxm8X_CfIkOGZ1GIsgvUhnGA9jbhdwicnu4bd468-9Os6Poi4zBqqpZDrxgFh1REYNPNPaGGZzfjYRFMSqJ7BwZieI8nA/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI4MSIsIm5iZiI6IjE3ODc2MjUwODEifQ.JNmw-RgeubBHAvEVMeVV9ePWQz51uPgc5ze8Ejn3ZzSgIkdNtLzr0CGPUZLEAB7de-ANHBaolzTz1k8xXkpW9bbLhVADIIy3Jb-SH6IXOv1s770D2ghWG0Kp9cyofpXYu0jcp6-T-h9Eqb_Tw1khylDxS7K5xcs96YXyoDZquxzSqgDFaOUOfef9KbjI6B6YK6rKpkP9uJXp027BTNaxn5Iui1sFseXUq9G6JiNWAzJzy4cAljx41dpiSVC_aAWP3_sDh09mvxxmJvAK_feyjXA-jvfvSl3sDPBRR4mDcKOUFng5g77jP5lKo0YYLgVzWl2VhjJfC5LIVnmR62aM9A/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -799,6 +799,13 @@
                 "name": "CANINDEYU TV",
                 "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/z51ajYjSLM0OUiMcfNGkK6Hdk53eYGlOlZbBCu2TNka8B8o6T5oxAtUcEF8CEe9UTrMAskF9nlWPTnQzukjn7A=w480-h960-rw",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LOS ANGELES TV",
+                "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8?hls_ctx=6k82uz6u",
+                "icono": "https://paraguayonline.net/wp-content/uploads/2025/01/logo-losangeles.jpeg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
