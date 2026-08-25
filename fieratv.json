@@ -70,7 +70,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjIzNyIsIm5iZiI6IjE3ODc2MjUwMzcifQ.J1XWmh23TTnGtYkAZTXRJ4sSZss5yH7RdE4HQeKvoJH08oHs7jCPrC1_WdiT_R843NV6Ctj20fD5JHxjkJqH795V3z5mmtbc4dgtxIfUp1qIZGbOepryrXRenk2fGfF-E03omZ1z2yYfNknDlUndAVBIEOrxQ8UjznUmgN1Qq9VnpHPs3jwH5SIJp7ImX-Ygj8FH52SSrA6Ws8-JGfhTjdLfIrRvcWpANAtCwGvdl8srz2TMsTZCaiP_PgoaGP74tWJEL-b48Cga-ioTdaNTrupP3M3oLwJW4UZ3SX5df4mx0gaBkpTUsA_LGwIwIOgkCeBoE9hPv2V2CEcahF_SYA/manifest/video.mpd",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzYzMjI1MiIsIm5iZiI6IjE3ODc2MjUwNTIifQ.ZB3zlX3Fkwll1i9EhzFMsbyEUOUZ18rzcbmMJoIL8pVBL9xww0l66s2EFVzmRfsDdb-fGQgtJhKrgXRgYn9E2iRH1uxUNjOxbmYmCVG-K7O4o0BpFBvxlzVm4IV5C3r6nrnObPu8hZmy1SN1a6TNhViI6cqMkDSXI9BRaCtl1YPf_ywX6CsBObdPQoLe4eA9KScx2eTboAicLX7w5k8fLbdYP7VlG52YVtl4aG3kzotUEGAChKuja7xh7C2FFEw-l0UzYsWKIJrdXS3m8HLHJ-eySJSaH4TlLx-0UKNomjnaB3PyrnPvZ2ZEzDCuRnOq1BXXiLOWaTKOpQ3r3PD5LQ/manifest/video.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "DASH",
                 "drm_license_uri": ""
@@ -606,6 +606,13 @@
     {
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
+            {
+                "name": "TV MAX",
+                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "TVA OVIEDO",
                 "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
