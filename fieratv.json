@@ -18,7 +18,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMTgzMSIsIm5iZiI6IjE3ODc3MTQ2MzEifQ.dEUsf--AtLBcIJJWI12ltwpGjKWqkFFarXr7IPupoHK0Oa1LpJSRKAq8XdrB39vdgQwQPupX96JK4mgGRIIkouPzuAVgIrAL0Qh6rIHKhdt6G1V1Nck85BQW_GausgxSwsYvIi1-klWNN1H-XR8jfwTWK17v9z2j54b5yf_gRJLAVYY5aBdwOffwO7NguAlzv4RikpyBFBuOtWdc_7smFk1Gt3_QAAVIJBlOMUWLCfDIgXL4lmccph7jQ6p38BQS2sC9NJui4-3wAS6z8UpqAP6Oc14DZmnvAyrl01mzQFOynR7TDnuOQZVTHNO3-Dvh7_jZEspWOgxk-VgJrurQtg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMTkzNyIsIm5iZiI6IjE3ODc3MTQ3MzcifQ.I8QVJr7AbTA6LglIFwEuwqd3DxtGcXb-mle_TfkZ4boQOuySwqKmxvs_YEEbRdiOs2hSU5GL5pBeogHDV8KOybZPCq0mx6bRdS0q4SuHtX_PdadRphWqL6nMOjr6eRKhw8iUPXtOyteTDpyw7KkFDAjwJfnInJeWELbOgE77qSbCb5azX2mCwbOldQGVdkjkgL8IWpPIfx9gvzdKIhKiopp5CiHDCpSGpQBy8tFsF14i7Y8Ah5tYLudWrnxrj50Z5cE8KFEXt5Sxh9_qGHoF6WMvGRsJqv_ng4upyaNfNEO_5Klt7tYBn1QRhyW2mY2-qT2JkEg7HzTZMRTJXzipRg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -57,6 +57,13 @@
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/FFhFxULf0K51e_tXUuG-Ew?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "VS SPORTS HD",
+                "url": "edge-live12-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODkxMDQ4Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9HRU5fX0NBTTEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmOGFmMzU2ODVkYWJhMWEiLCJzZXNzaW9uX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMtMTc4NzcxODI0Ny04NDgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI5NyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.PkclMhR4MishCFDm7WiDtKfoV-a5fCdPnONoMTsPiWX9za99si-h0H0PeWLHwcUy8XkKqd45f45KL_o5uMrwNg==/live/c7eds/GEN__CAM1/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/GEN__CAM1.mpd",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/BiLS0HUyqZeE4sC7QI8PJg?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
             }
         ]
     },
