@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTM4NyIsIm5iZiI6IjE3ODc3MDgxODcifQ.NLBg39yulg55CWpIvRisOKvUBXHf1F6Elj9hxG4ttVYa2lNbiDBXpUL7YmsHHfZqHUGFnkWOQQ4056m6SgfC-OJsCVkT0sYlBkXlQClh8v-89GHMWDpcfxGSVrq1gm9AtEet5Kv1g0zs1RIyS2W1hG_ejl8EcskgqHN_UqL1XTA97MH_rnHBZ77LchtARjNTFcYQcUHxvyt1WieQ-3VeYLx97Xpuqfs4uSgLruXubRc-Kk1y5S1dwAgm7TzzMNZXmNFnfE1yXBwtYjAWcC07HMYB6-T2vR5S4goG8FDW3470HQFmmE5i9qbUJR9MKTvuuuOYKdu4IxJQI85KHTgCxQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTUxNSIsIm5iZiI6IjE3ODc3MDgzMTUifQ.jzYRhi4OSNQLGtquwIzqiu5dKVw91btZI9GeKze0sJ_HiXk4c8y__U3tk-aIjzeuJbb0LoiNUr_gR4X1mgzTxOOX2YZXjWLvrQg4zY-18GWZE3po7yL2Z0mWoQLXg7TzNsDDRpJyJC5xtf4AScylPGwwiWnHg_StYeKoF6JG1cnIRnjAq1irAJMF_Sf702h3zZOb-bqIww48_xxTFkKPFmGmH_gflm_Vuzi1X8YqNt1wTsUKuCTsUnmn3nuw0UoatNuPwGcMSfFc1utuJG_3NeIRP1kvxbWXvxUuztkMnYwrWeLbAHFSZX1GnBkHpLU38eqnsPLNQM2XxYAXhewkaA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -378,8 +378,8 @@
                 }
             },
             {
-                "name": "NPY",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+                "name": "NPY HD",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/NOTICIAS_PY_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NOTICIAS_PY_C4.mpd",
                 "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
@@ -453,6 +453,18 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "NPY",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/NOTICIAS_PY_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NOTICIAS_PY_C4.mpd",
+                "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
