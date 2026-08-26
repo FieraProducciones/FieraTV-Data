@@ -6,7 +6,7 @@
                 "name": "TIGO SPORTS + FULL",
                 "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcwNzM2NSIsIm5iZiI6IjE3ODc3MDAxNjUifQ.ftqc4E8cZPN8Exec2CNH0aeBkcm52UA_NeE1Hce_y_yiXlrQrzf27BaFqHG5lwCyD6wav7hs9aRbtmubMOOgNgtvdbz4E1_DVA_mr1zQgi4NgcER-QVXB4jvldP04k521qLbIPeQ8NIwK8_gytOxKwd5g62E4FBiAUEgVWPhTfojsCJHzWquh-2QM9IAfYMnFsRoE0rKUZBSny-dbF5r6voybnBOAF4HP5k15HlBvfQOrdd1qtWUH3FhTvxDNdGcOATmWSedAkKfQl17EgLIUFV-Yx77odhsYc5_MpXysw54gdVXGIYr0FHVXytuBxXidxkyx8XrQbuuFvKL_2t19g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcwNzY0OCIsIm5iZiI6IjE3ODc3MDA0NDgifQ.SmW7E5EuOF0PAQke4JCL-LaylNh6YrPq7YUMlMVooxIJRCj1A-tyjtsiNQPESWxnyCLQzdCndWC0hmj8np2W01LsxeIFh24bT5dYySoqX7zI3ZDWaR2AS0kjTdkWC6XMM6A6-CCxY1389xcSkQJma6V75ePO7HiBSAuqzEqQ91UG2dGBIgGKR883opbusFjwiK5BZmpZw23JyLmyKvkr4erOluGrpZ5ByKsJOHV_eIzEqUcoZsTjVpjDtPSPz7iejg-7Ms5_aQ3AGo7vpcejwwDPIYlQW5BM6SDk7yRP4MtlkrrnG4brEXp6h660Q_p0OzWu9bixu1trsF93jgbDJw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
