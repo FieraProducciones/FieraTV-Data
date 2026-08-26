@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNjg4MCIsIm5iZiI6IjE3ODc3MDk2ODAifQ.gBC81Ong9mgFAj3qvqNJfU91iZprLDH8TJ8dyojx-bTWHsoGjv9ntwNW-fGxnlP5K1BIHWpLxqSNkC6BjgZdnPkwiTBetL16Nf-46OyfjiaFqHdt-o0W4H0H_e4DKPoOKZERErQPdJtCULVfi3k50QjhCK0z0n5yjjtx4fugm_-yRFuinDycHgqxUeIpL-WUcSMbnd-14bx8-8aFC2R0QhCXJkdZEbYFx8en9EHtQ9TA2jteVHPf69HwqX6WZVIV_CZi2vuKsSgbnkkWPWAhJWufbViuT2ZGiN9CMT9jRBzUmpWHAmMmePZ1CGKdjIk0__V5C83QxWxJHJQoO9E7LQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNzQ5NCIsIm5iZiI6IjE3ODc3MTAyOTQifQ.MFFRcgceYkEBKra1jwaI3VHo194AlWns8vJbmmo2Jy6k2njb_qGZAfKFI4BBEt3jRIMUk5C0JNpsCgGwRqZfai6_HcidL2nIBERFCFL6bQGy4fGiuSbPlfbmMOriY7AMeQMUSGSBt2DBgaaQ_inj6-rIBWKH6lSb9Jg-8ylGEqu6ZXXJTWX4a9ys_0g4gQTltRHFuRC36BgmQ4YzDIC_xjuoYwfzexZErmtIVSqQJsV0WLvOGYbsATuRRGucW_WK0CAHP0o-yBXRiSboA9jlGLV4nr3lG3Rna9Kua44UewAf2eABe8oQi2vCL7Xgn8AHWJ8pFl5-1D6jZAYlMorlTw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -455,6 +455,13 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "PARAVISION HD",
+                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODg2MjQ3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jNGVkcy83Njg2X1BWU19UXzIwMjYwODI2MDIwMC0yMDI2MDgyNjAzMDBfT05fQW5ldmlhNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNzBkZmY5ODg4YTc0MGE3MyIsInNlc3Npb25faWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4Yy0xNzg3NzEzNDQ3LTQwMCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiI5YTcwOTdkOTY2ODM4ZmU4YmRmNjgyMjkyNTYxMGY4YyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxNyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDE3NCw4OF19.m5_ubbnNMeWJYfeiJKHsYmFJpRU6IEuf8O-CCRw3N7EkhuNlvpejfmjBLpL8wYGmK9Ir4lbf3YBT_299rmOWvw==/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4-mp4a_145200_spa=1-scale=48000-p=359352480522666-17646683929855.mpd",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/sPJnUjr3Xxh6ujvgR44zVA?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "🔑 https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
             },
             {
                 "name": "NPY",
