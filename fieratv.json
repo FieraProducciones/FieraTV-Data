@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTc5MiIsIm5iZiI6IjE3ODc3MDg1OTIifQ.XLlJoY9UrofBEsDh8t4DxtZjP56W5_DVrmOXzNLUOEwyVQbTMuhK_Z6BIzoyZteyKZ7CseynkvRggFsUD8cZNvr4M8Jd0lzfhnPlaczeeiioTRkVy-qirZ3IxusrW0VPUaQaTd7cenh4j1hPag706-curGnzb5ky2SFXB41J2zfibhLtM7rbVH0bIJinXZE8oGQ1agCpwcu4YUQnXbhD-yaj6B-ahXGoCnEREItnlQVtGdC-0AH5aYC_8YB9g8_cvf4Lwlx3n7LwfSFzqm_SZ3YUnadjO077sub1DshwIpLkPfkRRhrJCpM4KkdOxkVGAh8V6AxYnSHw7xXTg1r5gA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTkxMCIsIm5iZiI6IjE3ODc3MDg3MTAifQ.NILVrnTShlB6pIRF-RUKGz7UDVmg2oIBsqd5H7R7COjLUpn6HuL3vqnwt5UPQB3aNYAIwwyDVHphQV-lY5qVbyqsdW8qIhs0I0yrxspbhPF-laKk_HwssXjRnvRBEMhBfCy4EtbyHA4IdhEtl4dRjH_l9P0wuH7tnRX0mNOSUGAeOkDfimhvhsOZToRTlJ48C2WsxNgaD6PBv4YvXk2BWs51PHohB9jz-mJHLyIQhnLm5dqtfMDzMOqSEmEoA__wa72PVcojRpBfAZ4ylzwMCYEX-qhoIkru8Y2bVmMiA_THWuMnxp8ikO48C83flrLOLBvpQSmS9W8dQAS3pfPLOQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -434,7 +434,7 @@
             },
             {
                 "name": "UNICANAL HD",
-                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/UNICANAL_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UNICANAL_C4.mpd",
                 "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
