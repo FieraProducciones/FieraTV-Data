@@ -3,6 +3,13 @@
         "name": "EVENTOS PY HD",
         "samples": [
             {
+                "name": "TIGO SPORTS + FULL",
+                "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "EVENTOS HD OK",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -70,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzY5NzAxMyIsIm5iZiI6IjE3ODc2ODk4MTMifQ.dbVw4qvqA7I8-XJx6vA6hjU9Si_xIRDSAfns_T2WJTLB6d4hAtGxFXp5qAJnThJ9wsM37JZqS3ITgd9Z8aXB_uzFJObQ_lTWW4FdlX97u1ujH_rrR8xBOX50nOU_igV1EaAhmW-sciOlrSFIBpZOJX3cKnzdx9CDbMywkg-OLvzKfW9ndHge53f6n-nrQBtsDYphT1ofFIIpXA2qtozrbK7bzxf2BZVOzUMI1f76B4gQmS5ug1G2AlMKFVKibKcofgCphS-QOVoPWt8glXAJCDJCtsWKFaarzldWNljT9hpcvz0BiurF1irwBGIyOYlEOxte2xZZzNh0UMqNTIPlJQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcwNzMzMiIsIm5iZiI6IjE3ODc3MDAxMzIifQ.itDXtTEmJBylPg7B8kTnJtrtbuzGCDztwuwd4T4pPIvHlpeE4vITdc4D3oYQUYjtJOwwknYemULCEh10qV5w5KZONrwng_E4diDIaRBJTBxjWOlJYb67qZb5_gVnDeLz6OogfCNbpkBza21255JjwPhTQdJV2KmiaCzJOoCGpNu7YdwgvL3fBg-REz-jj-cKq98ZfNDCp-q4ls2ZbNOFXsEAWzowYqfV1pw7RYIDyHKblizLBld_Icq8Rt9s6v5QZcWWszfn4X0JUz6euxTgWv87ncuPuNJypvJ66HaXHhRKgkckAwVLdRE5P-Aijib3Os2bY4AUU7oRxOXR8BWRDg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
