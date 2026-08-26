@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTk3OSIsIm5iZiI6IjE3ODc3MDg3NzkifQ.B_jnrGfvAA05attprtPVekkzOnuYjCRXLAC-gT08vX2PrmoVCWVYx6E_AG0u47dSqzTNuuoegRrwgBrXdIZ9G1AUC7CYYOWZq2f5t58BlDve4ALR6UzXa4yxMSPigEFfNlOXKKtVnx0GHoIL26m7cEtZ3ffzWTPVz_9jZKCR_8gNuuq7Qd5NJUpT_DNNiHbF2ojyxJ6n4z9fRIr765lrL0P3_VWboxkCZ56PCpVBmmjmec4fyB61aYO_8Mlx2Cz8VTc4cUSqTzhHf4UcozbwulrjuQV66UbiFz4BjbUGs9hsZn7EdMEGpYJ5gfFEy0z-UkUKxt2NFnYc99K3H6bFNw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNjA0MyIsIm5iZiI6IjE3ODc3MDg4NDMifQ.TqfDkw2JA0hjHSi8HIzoIUstLAcZFSlriDFGWKSAaXejXLSCb_HAEXJkTKVHOPmezX-oeSiLoUU4pJ7ILsevb3BnRfRo7H6NWcWj6-JubrWKVFK0lFQ4xG8XrvmTUVNuHuM567ozeU1ezyksIJbGqRe4rL3VLk7UBWK5bwx6H8d47LQgMiUZxLqoBzJLWse5bxCRhdlbb5zsnIvynIoEhZfW11iJXsuMTeQwuoCe6Z91Ep5TXuIkwIhJtWEf6QfC6X_Nc6896QmRFhMMr55of2rxuD0-a5L5eDUXtjXZr2TBuNA-qcP6Ci3-_vUX918ZTjn-WtoqsCz9ASns6R4WbQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -519,18 +519,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "GEN HD",
-                "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://no.gendigi.net",
-                    "Referer": "https://no.gendigi.net",
-                    "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-                }
             },
             {
                 "name": "HEI",
