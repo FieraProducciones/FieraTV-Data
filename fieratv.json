@@ -18,7 +18,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMjI4MCIsIm5iZiI6IjE3ODc3MTUwODAifQ.o-3tJ0Syyx84SGnd9tnKCNuRiv5nQ_hID0ttZPs9Z93KpMIz_IuZJrngVbBvLobckJTl2Fel0KZ1A3IQnMU1gLeQTlwFC2820SH87P-7jqYhX0kGuICxIq5sa8Jt6Bf0bQN4HsQlIaiAnNyFieZhUG-9FVDZHg6xEjJ5goY9z92rS3nH_GHi4A1Kdb1SfQ0Vp8W5B-m0XLkBPdWjsVoxRGM-Nm1WrpNniRv5YLVcqsU11okwWRjtajc9YajDOMSyoDJYerivgGlXF2K-EH1hQcdIFsM4vcK_tk2tcELOkerMx1-O6eSFQkQQS3QBiflD0cpObnDqw0QC_vRReZfOIw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMjMwOSIsIm5iZiI6IjE3ODc3MTUxMDkifQ.i8XDCXubgt_vmtAHemBPK-vZyGIZv67QEgsTVu0w9WCSWSbr_4I5eMPCj33z6jMxyWOhHiw_LEUZDQKZ1sCZnguXnJ3Im_ldzZrHjvKrAvffLe28aBUqZLjqtWhSR4jq6tr3eZ0GlA6OhhDn3txFULWtqpKXP9Y0oUvrsHMU6OF5XVaWbx6EESyHgVUKGjMViZfzbWIfNO912UU6gdkF48s4UbOvq2BJjEwAyvwJkbcAbnv9KqQwzn7U5hk_ck7ia5pWQx7cqlTxf6mODpvnaN6YUGvZn-5pzm6b_c0WjRbBhrHVaPBdT2STUpYN_xNoDtrYFJrYWFdtMIfBeCWnVQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -561,7 +561,7 @@
             {
                 "name": "COSMOS",
                 "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-                "icono": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/364106223_263159516473042_1757969443338909274_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rZxnR1nRVmIQ7kNvwEC4wyl&_nc_oc=Adp2NUAsbEgvkKmv0hnFEF2eiF9PZax1-ZBUXy4aMKHR-y8B0yQugdF4GnEeDjsa_eg&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=YkXgppyoUFe8WElKG90JBg&_nc_ss=7b289&oh=00_Af_qxBM-H8EmC40cYC9UL_mqIMORXTEnu-yNhBpMXkrY6w&oe=6A47B91A",
+                "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
