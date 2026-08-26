@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNjU1MSIsIm5iZiI6IjE3ODc3MDkzNTEifQ.SpYgsRk_BTCEYmmdV8VAAyFe6eqjSoNxx2A1R5Fg6LeiJC0Es3U02_pWuPszG3FEIvVUgHHZwJaE-aEcm59PKpQw4tGEw-oQoSdp6C1f13_-fnPyIzTcgWOE-BGCIW7Na01h8JpMXdKtTJj9rVWiJe-u9eJTg31Q-Hy1HsAn8Q_tkVGbh-3IDR0GNjgy95NK6Grw7pbuC0yIOhyTgMySRbZNXyV4KjOP3oGVIMn6HOY1PMlu36JYVahk36aJnqbklGJwvOTZEnw_irqmVL5Yq3GWlkswtdPA8J44byXT8emInwwSMRryIN4FooWZTLUAOUkTXgizv7VImd_AOwgYTQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNjg4MCIsIm5iZiI6IjE3ODc3MDk2ODAifQ.gBC81Ong9mgFAj3qvqNJfU91iZprLDH8TJ8dyojx-bTWHsoGjv9ntwNW-fGxnlP5K1BIHWpLxqSNkC6BjgZdnPkwiTBetL16Nf-46OyfjiaFqHdt-o0W4H0H_e4DKPoOKZERErQPdJtCULVfi3k50QjhCK0z0n5yjjtx4fugm_-yRFuinDycHgqxUeIpL-WUcSMbnd-14bx8-8aFC2R0QhCXJkdZEbYFx8en9EHtQ9TA2jteVHPf69HwqX6WZVIV_CZi2vuKsSgbnkkWPWAhJWufbViuT2ZGiN9CMT9jRBzUmpWHAmMmePZ1CGKdjIk0__V5C83QxWxJHJQoO9E7LQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2483,10 +2483,10 @@
         "samples": [
             {
                 "name": "HBO 1",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/default.mpd",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar",
