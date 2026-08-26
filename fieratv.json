@@ -77,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTM3OSIsIm5iZiI6IjE3ODc3MDgxNzkifQ.LY_r6p5lxl02vs-K4As9qJLLzvkqw18dVEdOrr-ouuMoJXUAYqyaUzbcRCb4d0vh98KoXrPxoYdEqgraMHUmKqz8cp-3hU6OkcbbmKrqeBBfkbfsi7xS85nu7fRNhArUVHXoQF2hW2dhTj2YCq3ZPtDG7lez6330C9B4t63at7af6EzRre9OYurQ7fLVIGLo04cTE3Xo9QWK8olzwef16CQ_6yb0lpcrzZ-_Cj3sYlpp7qdyd6FWpyeIcWV7kmlW0cIzNGe6nuysDmuf3PAn2ocMn6DLqSsFSp218SSh7YQSLHckZHv8jfdCDUl77yL_KhCQKt6mpDcjIstzDurOkA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcxNTM4NyIsIm5iZiI6IjE3ODc3MDgxODcifQ.NLBg39yulg55CWpIvRisOKvUBXHf1F6Elj9hxG4ttVYa2lNbiDBXpUL7YmsHHfZqHUGFnkWOQQ4056m6SgfC-OJsCVkT0sYlBkXlQClh8v-89GHMWDpcfxGSVrq1gm9AtEet5Kv1g0zs1RIyS2W1hG_ejl8EcskgqHN_UqL1XTA97MH_rnHBZ77LchtARjNTFcYQcUHxvyt1WieQ-3VeYLx97Xpuqfs4uSgLruXubRc-Kk1y5S1dwAgm7TzzMNZXmNFnfE1yXBwtYjAWcC07HMYB6-T2vR5S4goG8FDW3470HQFmmE5i9qbUJR9MKTvuuuOYKdu4IxJQI85KHTgCxQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -476,8 +476,8 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "SNT HD",
-                "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+                "name": "SNT",
+                "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -538,13 +538,6 @@
                 "name": "CANAL PRO",
                 "url": "https://www.desde-paraguay.com/pro.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SNT",
-                "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
