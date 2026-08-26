@@ -18,7 +18,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMTU3MSIsIm5iZiI6IjE3ODc3MTQzNzEifQ.gVQcjYXsM-QqptwYnykvfW_rqvz-eUQn3Eiuf9cdxm3kJEvrbW9sxTVFm6tB9gEHAA5GxxitQOSJmauP0q_THZwprux7hR4Jr_BEFRqSBjjwV6o_XNQFYlB0zaVbrVO_jPjJhXW7NCkatWrqAnJ3OG4ban2YXqkiv-Uzdp3G5YnNZq3BZmFj3rpfONwbBH8as3UDpRu-S3IfyYUgC3r4Z3wjQDoUgpDIbrNCaZcBpF82Omg6MtlarWXNJTRNw1Y89sB4JcTPsSPG4rbK2N1TPwxKfq2I86dRjI-lx-G6cvxY3oD1Id3Qhl_incSncRmuKy8d6w5AnnEXV_bGYb41Tg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzcyMTgzMSIsIm5iZiI6IjE3ODc3MTQ2MzEifQ.dEUsf--AtLBcIJJWI12ltwpGjKWqkFFarXr7IPupoHK0Oa1LpJSRKAq8XdrB39vdgQwQPupX96JK4mgGRIIkouPzuAVgIrAL0Qh6rIHKhdt6G1V1Nck85BQW_GausgxSwsYvIi1-klWNN1H-XR8jfwTWK17v9z2j54b5yf_gRJLAVYY5aBdwOffwO7NguAlzv4RikpyBFBuOtWdc_7smFk1Gt3_QAAVIJBlOMUWLCfDIgXL4lmccph7jQ6p38BQS2sC9NJui4-3wAS6z8UpqAP6Oc14DZmnvAyrl01mzQFOynR7TDnuOQZVTHNO3-Dvh7_jZEspWOgxk-VgJrurQtg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -50,6 +50,13 @@
                 "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "DAY STAR",
+                "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODkwODA1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EYXlzdGFyL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjMDhhN2IwYjY5OGUzOGRhIiwic2Vzc2lvbl9pZCI6IjlhNzA5N2Q5NjY4MzhmZThiZGY2ODIyOTI1NjEwZjhjLTE3ODc3MTgwMDUtNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjlhNzA5N2Q5NjY4MzhmZThiZGY2ODIyOTI1NjEwZjhjIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.shpnrIlYh2eXRxY_4D6lGKyr2poymyV-M8nz5iC-ht9KsNwxCzFQQH-w3L45hLdynNJlzTJ04MD9Cvz7fgLHHQ==/live/c7eds/Daystar/SA_Live_dash_enc/Daystar.mpd;https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODkwODA1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EYXlzdGFyL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjMDhhN2IwYjY5OGUzOGRhIiwic2Vzc2lvbl9pZCI6IjlhNzA5N2Q5NjY4MzhmZThiZGY2ODIyOTI1NjEwZjhjLTE3ODc3MTgwMDUtNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjlhNzA5N2Q5NjY4MzhmZThiZGY2ODIyOTI1NjEwZjhjIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.shpnrIlYh2eXRxY_4D6lGKyr2poymyV-M8nz5iC-ht9KsNwxCzFQQH-w3L45hLdynNJlzTJ04MD9Cvz7fgLHHQ==/live/c7eds/Daystar/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Daystar.mpd",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/FFhFxULf0K51e_tXUuG-Ew?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             }
         ]
     },
