@@ -1,5 +1,64 @@
 [
     {
+        "name": "EVENTOS PY HD",
+        "samples": [
+            {
+                "name": "TIGO SPORTS + FULL",
+                "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD OK",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0\""
+            },
+            {
+                "name": "EVENTOS  HD 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "EVENTOS HD ONE",
+                "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD 2",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "EVENTOS PY HD PRUEBA 6",
+                "url": "https://10ifiuwyhnmk.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+                "headers": {
+                    "Origin": "https://gabito.store/",
+                    "Referer": "https://gabito.store/",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\",         \"x-aws-server-site-by\": \"PxxSaJhZU8NXOUBZyX6mU4gAdQD5LG4xdTWXIJTTuQM\"       }"
+                }
+            },
+            {
+                "name": "EVENTOS 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
@@ -18,7 +77,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4NzkyMDkwNCIsIm5iZiI6IjE3ODc5MTM3MDQifQ.gUuNYy87PQXliHS1B9sTOVXwBbZHEIQCfdnDa3qbtUO7lnto5Ju9YU22tXBqzjrlPFrQjCwBM-COi_JX5f4M4qDJaUPAZVH5KeIlZEea3mGLAKc7IU2Im0ovs3-c1TrYV5Zy11VrS4LCTdhkan0J6Szon1ZgIoGzSZmjaLThlpBbQyVCXuy67aHrbmJHojJrdJq9uh-zm2yysiAou2HwLAofXY_IYBvca7bPaDeNzUCu0POmxLVS-EmQ_a56MlyrY1sYjus8ietkY3YlWBqs-AvQ7TWf4uyf9c4uv57SzuS2hlxp4h5c4u7YaWQj8Uv9CbDLYw42WAJlrfHbhACmWw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4Nzk1MTQ3NiIsIm5iZiI6IjE3ODc5NDQyNzYifQ.gv6Wbh2p0lY9COiG6Jk5-MIzSG0oUZevNaT6M9q_DpfV6MYu4iQCV18_50pWMnlqFFgzoPvlsO2TnNhJz1t03LZpPyIPP5nadbU0yYMoxGh9ufelY392I_ZC83oL5cYjT2MXUZ8Dud5JLz2JVUTBRFcs8qGQhVDQ-DkHaBZSjEhgVe22xx6DDy_S2flp7I6uo6kQNhiac_0GbANItvZEHt04BqqzAluB7yOcnMWpIY0JBBMG_WXXdubIfzvp6RVztndRYHgdC78Ilyk9-PFGRKzzBCnYWx4jU2GhjsTweYl-y984U6_XpgT8m5-AynyOxcqK6PEMCrTBoXL2pdUj6w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
