@@ -18,7 +18,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODA0MDU3NiIsIm5iZiI6IjE3ODgwMzMzNzYifQ.Iiw4dWynEpAGD0jbmJR5wuZnDa5obaZw_sdWYQZZK0q31Yt-stUsng8nEFMVAThm7-QZEjPf4pzBDQY3pe_PBCeTfbC9Je0bzzD6AlUZXLhXlb3BthIsF9bYAXGpsrm2Lq_pgzpRjRJFBD_Vk75mPPuGbwZtxJH_oZZkFnc0CJmaJ96VefUGLV_yDD9PNjHe1UuvWXeyNJP3aICaMsMNQfn8AiBGMUj_TK1d_BNLmzcVBi5m-CfNIQysLOeObwiRBelRuHtmicNiyBL8ZbcDMfz0dA3I_U4dJ7LTBy1TAJw7kmFMPtpbGOcF0nU-saq2mVAFP7LRiSaWQcx1HxvHDw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODA0MDYyMiIsIm5iZiI6IjE3ODgwMzM0MjIifQ.IvMs0dgI0I3bY1AVx6fyfDKuyB-lWQS6mtxGeQ_2Ct1LgbNU73NPynCqTFzJ7dmycwtgFnfRI4ft4SK_ExO3QX5onm6Fg3LmFqJ_iqQcTRYQBEYUiDsjrCefzAgMr2UboPWQA1xZOJjYdkisIR4icQiyyBnJfF7zzrW6-sCyeJc6V_6SKHYXNMWT4KLESHFhsRMZz-PwJEMMPoMJpRvm3EsaU8J2NcVtqKV95t9F9aR37NXgrhNLMpN0HN9rVswP6SdhwlczpZYwGkXxiYljywaEGF7tSvO1xbJI0Fsuevjk88kBTriOoj2g-rlWX0HC3AOUpEpBMBTjIdEOnmGIwg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3472,13 +3472,6 @@
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS HD 2",
-                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
                 "name": "EVENTOS 1",
