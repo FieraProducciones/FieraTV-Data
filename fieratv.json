@@ -18,7 +18,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODMxNzM1NiIsIm5iZiI6IjE3ODgzMTAxNTYifQ.FNSoH68i_dyXieXuMPjwwvIj8a5serF9CgTQyjH8k3tn76gZ0FF5ZrHAfSg6maCVh3ei_fSWjt20jqFwvi2_VvZftxsoLTovWSeYEEBpwUlGRH0T6SXNu0x22ZOctBcwtfP7fD1vAXcyCul9re-M21HPe7_8DIAX5qVj04LZOZvsLEz5z8TAaCce7ttIXW_DpsJskZc-ruv2XxcvJ0A0l3I9hCruiaDJe_inJW5ItzDabijbGxA4oYkWTMrLzOS8JwlVDa5WHW2VX0lwoI_7-dDN9VZ9YBEH4XvsaaD6L515GJV2tr9HI-DDLPxUFM6Dms-ko64g4fus2tM7NHN7Gw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODMxNzQxNCIsIm5iZiI6IjE3ODgzMTAyMTQifQ.hbnbTJe8kxsKA_XDinv8bSo8yFMboo00mZQIvjxIm_oUVVd8byFYsJSoyNEQGSO5SsdIF1lmpQsIGAa8XwI1q3031m7PVVNsNcKFFlbPhq7lkncIxgiLw5BgoDzsOULtkbzuPm-3nNVW9NgmxoYkuBimPkaJ7KSMcdrKDzfH1mz8bzWegJ-5owPdIMgEL4Jpj5kTWn6UpbGJ_cU7xiVQ0VmALpxInK58NcTnWm2ZPWRNzfd30N2OshQDqVYWbr5Rpl7QGQpgssNxbS_njqR_zVrBEWLS8RTlpu8zyluUFD_vBd4I9tgA29F5i9iRPfDRuRVeA7VZCJ6NTvgC8Q1DHA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3392,13 +3392,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "AQUA PARK TATRALANDIA",
-                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "PUENTE DE LA AMISTAD CDE",
                 "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
@@ -3436,6 +3429,13 @@
             {
                 "name": "GINO  PARADISE 2",
                 "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AQUA PARK TATRALANDIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
