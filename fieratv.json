@@ -1,5 +1,170 @@
 [
     {
+        "name": "⚽ DEPORTES VARIOS⚽",
+        "samples": [
+            {
+                "name": "HBO BOXEO",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.ibb.co/ychkPS6K/https-i-cdn-trutv-com-assets-tru-prod-images-2025-09-HBOBoxing-1600x900.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "P.F.L M.M.A",
+                "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
+                "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ONE COMBATE",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.ibb.co/5QjmkY0/lk795c1545411843.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BEIN SPORTS EXTRA Ñ 2",
+                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "BEIN SPORTS  Ñ",
+                "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
+                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+                "type": "HLS",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "LA LIGA HYPERMOTION 3",
+                "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EUROSPORT 1",
+                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+                "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_1_HD._SL170_FMpng_.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EUROSPORT 2",
+                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
+                "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_2_HD_GB._SL170_FMpng_.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "WIN SPORTS+",
+                "url": "http://190.60.37.118:4000/play/a0bw",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
+            },
+            {
+                "name": "FOX ONE",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UFC",
+                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
+                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UFC",
+                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
+                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIFA+",
+                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
+                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIN SPORTS +",
+                "url": "http://190.60.37.118:4000/play/a0bw",
+                "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BARCA TV",
+                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+                "icono": "https://app.femon.net/tv/banners/697928e248d135.77252478.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BEIN SPORTS 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
+            },
+            {
+                "name": "REAL MADRID TV",
+                "url": "https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "KICKBOXING",
+                "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TOP BARCA",
+                "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
+                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN COMBAT",
+                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "EVENTOS PY HD",
         "samples": [
             {
@@ -44,7 +209,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5Njg0MCIsIm5iZiI6IjE3ODgzODk2NDAifQ.YVhq05IcpWE3V-0MyYLtcjQNbnJDpzIThEKVsEdMO0CzqFB9U5Mr5-SBuvGs9QYx6V3Sa1mxfGO7449Gn_4-x6c8B9imgDht4HjAmFVn8A0mwq90Gb2Dr0URvOdpFXzGs3Yw1fMpklzINz_GxEhATMyK0ICylScHg6_eST-n9INDllVlv5jaZ1sUaBl54x3OEYJKJ-Juu2hpfymwiHDuHqFh-peGyvfEa_heFkvWcMvrqWyUot0kFRmqBiBAoaDgbXTlxDvA4QyNcm6bVUyNO-OlL4xggqo--gKJtgCp5Qxgq5KioJS4XnUeda39VkRmI6dh5AbBiEzRXxMdfsltRA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NjkyNCIsIm5iZiI6IjE3ODgzODk3MjQifQ.MLWn5ANNZPitAzImi6Ev2WvL3mSXD6p6yr7uZHHbNp3wtTp5izqpEjRAfG2EoeKZcDcfUqYqa0HnHlRta3dZDyJ62mVi-BojiXhH1YtkBxfW8635W6B4qKIM1OppOxQWRsWi8JbnIixPpAy3PAzmKELBnAiuG0cdj8bf7uSqsKP_uOCIYJwlKw0wByUTPtiGqVNNH-EmsT83JiwoZNrt4oZdNrDX-cOGCnyKXwChE7fV7Xlk9WAdEeWqFSSB4pMNfjC7bzW4PW4U7fAtzb1CffqwMvKLdEBIFrxDClVOAMzZjnH8IK_ud8W2fgAp9l-NgU2tDXJnjqbIZjlMaW_Z3A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1065,171 +1230,6 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "⚽ DEPORTES VARIOS⚽",
-        "samples": [
-            {
-                "name": "HBO BOXEO",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
-                "icono": "https://i.ibb.co/ychkPS6K/https-i-cdn-trutv-com-assets-tru-prod-images-2025-09-HBOBoxing-1600x900.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "P.F.L M.M.A",
-                "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
-                "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ONE COMBATE",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
-                "icono": "https://i.ibb.co/5QjmkY0/lk795c1545411843.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BEIN SPORTS EXTRA Ñ 2",
-                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "name": "BEIN SPORTS  Ñ",
-                "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "type": "HLS",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "name": "LA LIGA HYPERMOTION 3",
-                "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "EUROSPORT 1",
-                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-                "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_1_HD._SL170_FMpng_.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "EUROSPORT 2",
-                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-                "icono": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_2_HD_GB._SL170_FMpng_.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "WIN SPORTS+",
-                "url": "http://190.60.37.118:4000/play/a0bw",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
-            },
-            {
-                "name": "RALLY TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
-            },
-            {
-                "name": "FOX ONE",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "UFC",
-                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
-                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "UFC",
-                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
-                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIFA+",
-                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
-                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "WIN SPORTS +",
-                "url": "http://190.60.37.118:4000/play/a0bw",
-                "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BARCA TV",
-                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-                "icono": "https://app.femon.net/tv/banners/697928e248d135.77252478.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BEIN SPORTS 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-                "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
-            },
-            {
-                "name": "REAL MADRID TV",
-                "url": "https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "KICKBOXING",
-                "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TOP BARCA",
-                "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
-                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN COMBAT",
-                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
