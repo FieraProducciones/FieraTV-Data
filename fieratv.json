@@ -209,7 +209,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzAzMCIsIm5iZiI6IjE3ODgzODk4MzAifQ.HN3ZT_A0rNUh1Wi3t5LAqRVCw2drUvJObBoxgt9OrXs0wQ0DcFarp_6qbWOGyQwow3W4NTIGBko9XpVJ0yZE0tVfR_GAdSpDGYL5yIsrwQtPoyl-h4hJOzp7KFWqehpZGFhP8jWV-Ceis4J9kLjKa3gB5jjLygGn61atGAWwt_m-QvgT73BrV1SqiiJ47UUvGfC6bc6oBBu9eQ989EVOtG-cDsKS2Vd5QvROHUZBiueDBEU8szV19jXm9qbLBxBz4U4CsBbXYX_Ml5YlFi0OxEvcivobZ4Wbmoo3KIb26Z1ZKsNWE9QYb8F34BP8jTJdHtKCdjuyS9GDd2TUgJH-_g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzA2NSIsIm5iZiI6IjE3ODgzODk4NjUifQ.dLVEt4ZzOHzNd9U048AlxIU0b853tbfedine7_Bz8e0-iHGPQT3HAXNKPoZxovDb_4e-3kpIYvc3z9wWKspWdYoJR8tVYg9aTIGvGNv2QI4eUO74fNKsRWCGe2sbtsYMW6F2rbXopQ5cFOl5l3xRhbHtNMwxvYH5y7Fta1-JbIvCjEeGNvolt3DgLiFvrkCr_ehIh9oSk9EnGNFyD_7uiQHDqjCHqbSX2h4mvEbCrw4wfFz-GxuJeoDk5tMjqeOoqq1DbECLIJ5AG8gZ6Y8tAT0SsJzf4Qx42K4VOAmZfq0QsHlmoKbe2HlVEO-hz6dn8tlRIhDkQCbsls1_9M6kgQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1578,67 +1578,6 @@
                 "url": "https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/f6599ca7-e886-4433-880e-e7e438b89973/1.m3u8",
                 "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "DEPORTES ECUADOR🇪🇨⚽",
-        "samples": [
-            {
-                "name": "ESPN 1 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
-                "icono": "http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a081/index.m3u8?hls",
-                "icono": "http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
-                "icono": "https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN5HD/EXPORTACION_WEB/SS/ESPN5HD_t-290x163.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
@@ -3463,6 +3402,67 @@
                 "name": "Wapp TV",
                 "url": "https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES ECUADOR🇪🇨⚽",
+        "samples": [
+            {
+                "name": "ESPN 1 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
+                "icono": "http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a081/index.m3u8?hls",
+                "icono": "http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
+                "icono": "https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN5HD/EXPORTACION_WEB/SS/ESPN5HD_t-290x163.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
