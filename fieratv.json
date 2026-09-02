@@ -209,7 +209,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzA4NCIsIm5iZiI6IjE3ODgzODk4ODQifQ.gmygzP7aiSAUIDa-uXlvlBnrlq6S2M6vMmblnfyjUEbaBSPgfp7NbYuxZkNKIYxPa7vYDZKh2ibKsZmdoHHTT4u1htxUZNuGoRN1HSmn-NYLy0AMbeEgflu-YyFCMAy9QE5PDCUDbNW9RCAsS308f7R_ONxCsn-wgpUTbv2Uc587b5w0zbb5b6qDZpOOZUclvKa9b9ZPfUFpVVc8bhceTJONageD_GjQoq7Xb1KJ9biqnJxfQhqDJgdO9hz5sEREiEAg2EO5qOZZgwdciz_-MQrtewOoXnk3OeKfKkoG4_WMVMMWlx0cGFWMau9w4hNFWzPDRfGpwLqmpFH5Gd3d-g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzEzNCIsIm5iZiI6IjE3ODgzODk5MzQifQ.DdYn27GOh9HjaAmDveod-r6APhBTi8JOJRVG-mgsrBLirB7iP8aPYck7uTRvQIRFbxjP9faljDRj-dYr5pSchZq9ZavBTD3KrCqSMWGTOxkfTYe5QHPt6Sbcz8C9O2A0w0BYkHqq4P7b8yOTVVhE-QJgSbFi7_xt0ejpmo2BSpLAJN2Ulmj1BWGGWO0eIJTq9doX9vz9DRUCfhbF7HPRKX3skWhiFnMYQHl0DKPofDoxzIXvXwU9WiGojJEVTOnkZ6BhnDF-UHvtQ-_Pb1bu5bS_JQUvGFbaP8_Tw71UBWyrHIx5KIdTADT9EzvBMrpSxPf2B99IyqJ9p8CUg62gvQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2140,39 +2140,6 @@
         ]
     },
     {
-        "name": "CLUB TELEMUNDO",
-        "samples": [
-            {
-                "name": "TELEMUNDO NOTICIAS",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO 49",
-                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO 52",
-                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO ACCION",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
@@ -3463,6 +3430,39 @@
                 "name": "ESPN 7",
                 "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
                 "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CLUB TELEMUNDO",
+        "samples": [
+            {
+                "name": "TELEMUNDO NOTICIAS",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO 49",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO 52",
+                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO ACCION",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
