@@ -44,7 +44,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NjY3MSIsIm5iZiI6IjE3ODgzODk0NzEifQ.ZEtvfk6ro1AOEQYy8qkEbweFdvGVJ8ljvJEo5AKpCUwKKE_TFhdKNBN6IR8M_WF6LMr-BULrtVNo6g_vm35C0-dQZ6iTEuZ5TyqEjSQaoggIgsJIjQUyeASli9DN5gYeUOtvAQIBE2h0jAdssiTHLR28mpooIinEXejZCaZgrKKA2_p6EY-ewHActrziHIsRphhPRop8encNxD9pvv5AFlidiydHVQGaC-q7CnaCyeh0O88UoLcmsyDnLzzS40LzUPKsKapGZGVQH-lU6tBcD1uISik2XmtnZgemrbuYBwIcuSTonDorwk5tqbO4Bv51WfNlFZvOsvUtjP4DICFhKw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NjY5OCIsIm5iZiI6IjE3ODgzODk0OTgifQ.n9E1rZbzu1qidMchofFDMBc9V8mBCzDZNMvYQexYRWEP9glu9snOYHQlJwDwDl7L5E3CX33L3k87iCHo7oMwugD1oXi9pgs3BsOGC_7kG1sHHrGzJ-o8l5i5C4DZKG2HnRT5ea3D5naEbDhmQFUBAf2vPn6Ct1OM5E8DgoQTmcYN22akreDbjgM_bLX_DNWf4pue-lhduK_IH4B9xZQSyrPdb6OTzIU5kPSRjHQxS5NhOXcJN_AFizF7qNZLhdnszHtftPEM9U2rDYva0KqkWbxZUxH8a9r-1NZiot4_CODVYtLbFtoSiPG4Tti21bhbnE6jmT4ySEUyp0PXi_7LLw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -927,88 +927,6 @@
         ]
     },
     {
-        "name": "DEPORTES PREMIUM 🏆",
-        "samples": [
-            {
-                "name": "FOX SPORTS",
-                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORTS 3",
-                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9462/YON00b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/2112/HoemVN.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/3184/GB9KEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED BULL TV",
-                "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DSPORTS 2",
-                "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIFA +",
-                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
-                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DSPORTS",
-                "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIFA + BR",
-                "url": "https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/f6599ca7-e886-4433-880e-e7e438b89973/1.m3u8",
-                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
             {
@@ -1863,6 +1781,88 @@
                 "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
                 "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
                 "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES PREMIUM 🏆",
+        "samples": [
+            {
+                "name": "FOX SPORTS",
+                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX SPORTS 3",
+                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9462/YON00b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/2112/HoemVN.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/3184/GB9KEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED BULL TV",
+                "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DSPORTS 2",
+                "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIFA +",
+                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
+                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DSPORTS",
+                "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIFA + BR",
+                "url": "https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/f6599ca7-e886-4433-880e-e7e438b89973/1.m3u8",
+                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
