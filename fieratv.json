@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQwNDA3NyIsIm5iZiI6IjE3ODgzOTY4NzcifQ.gbnRypX_-Hwg_dUnLj4sKUD6hg1zU4gUalMIotjcFcAE7puahh68Yf18hWjVlm_30E3cH3sII7pb-Ea5W3xIU-kkAZQd2wFBEnBitjsv_rIVoyM2ix8Agy4VYNhqlLumIHqbh8eXdyj79BJqfBS64R1anmnvbnKB6oocqZ-jjlhV-P2pnzRSvcT00aEgAJqCXu_4bHY1WS0HfxgTZPt3h2GZJErSlSgpwKED0k_xs7bENXCSlZFN3_3cicfK1z6JBJubdqRQL1N-epJkBmocxTavni-RLB94Ytl-hOvkUqzjgiX7Fk4F2OO512xYen5C-mQ4OtCqZMsnfT5VamA2_w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQwNDEwMCIsIm5iZiI6IjE3ODgzOTY5MDAifQ.DLQmanSWaVWYy3qIwIJ16Ao-Xelm__3Ew7OGgZSR0g0DQzqjuA6UNLcMAEsbbrda-C2C9h9J6-537D2MdC0Uz2kbbORykjWls1s6k7o_8vbuRm_pb9BJF7UF07gcFoE_qBzqaGhWxodxTqOmQvdhaQkCd76IG033YlzDk7THNoZv68Jj-a1DnnZ6J5MSDXbyg0wQuuqGkh3q0ySR0S37nljGRRUtES9Ep34LRiVkdV6d5CC2ffrsqbcgzsNMJGTwLklXjm5zSw2dYlmH6XlT2OwJ6NbtaP3vDX8pJUYcKjX4AtU54jXheoWqgmAbiwf437lFqHBPkLfIWYuWbCPlPw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -278,6 +278,18 @@
                 }
             },
             {
+                "name": "TELEFUTURO HD",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "SNT HD",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -357,18 +369,6 @@
                 }
             },
             {
-                "name": "TELEFUTURO HD",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "NPY",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/NOTICIAS_PY_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NOTICIAS_PY_C4.mpd",
                 "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
@@ -396,20 +396,7 @@
     },
     {
         "name": "PRUEBA",
-        "samples": [
-            {
-                "name": "TELEFUTURO HD",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-        ]
+        "samples": []
     },
     {
         "name": "PARAGUAY 🇵🇾2",
