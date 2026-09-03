@@ -65,7 +65,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4MjI4NSIsIm5iZiI6IjE3ODg0NzUwODUifQ.TJXzhN5FBLbr_nwnXzGaYV0lXjQ_wFxij0TlIPJBfaM0egHRnSmEOzaAbY15Bo3z4jttD6MAynFu7qHeOXD0R3xmaKJFJazIcCDCRP4Ppl5HuiUu6cFPIWbPYxjZuB_sZMfk_jmD-V1MHxhwg6op4OxwTu0-lkKTXidwjlD025xO8n8t0F8LkjRGoFDyVYAS4o-eRv2jFRV0yVGv2MCca323l_8quX0zqa4a0Ve28QQwcVP7NhfP4DNRB2UHfB02yCK7t69AbhKu9T70Teij4jRXoXYbHTTKYCsOO0I2Y9-jBH0xldlcefIWpZ1CeAj_AaMyNIDJCsnK5sNUYd6xtA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4MjM3NyIsIm5iZiI6IjE3ODg0NzUxNzcifQ.KZo0GM601SVBcb7YoeqeYocl-6fX07nNm_BFVCg_WUHBvzMncyVXaKa6Uh_jrOVQ_fPYh00rAzPLhlc44R8wfcEbW2fEEOnglvNTZsDLeIPlvrN7O6cCjE2L_8Nej20HOwaRss773Z7_uFGLrvXYbk9cTptjmhk1nBzWwVcEisGJX5jB2LQY23x3zwjzQv41RYqHOrk3jIfnQKSzeYgGw4JG_zEsr3mzDDRX6e1vo-Fv8rF6ShY8-ybB0xnya2hqUUvf4UeGPB1kmWiILx9EQ2FTR_YwBio-BxC_Q_FS7VjEi4sJh7dlEG5YxnkLgKqRtnNOQ1bOJIjSUba-5SBGww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3485,10 +3485,11 @@
                 "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
                 "icono": "",
                 "type": "CLEARKEY",
-                "drm_license_uri": "",
+                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/"
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
