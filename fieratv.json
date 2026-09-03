@@ -65,7 +65,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ2NzA4NiIsIm5iZiI6IjE3ODg0NTk4ODYifQ.bNkjUOXfthYGKOyjZnAK-2V5FpxI2GvlAc85vjo8lRifTOMDLdrBZOP5GvJsSXUqBGnK1szMsDo-ZoK0R_kKIfhd_5W7de7RBiiVwaiAhzIgFhFiJnyAUJkxYLHTVMnQYGv7BniU3O74A5JeEfPDo0WxnwQ_zMIOmvXna2brNftIBHlIMrmuo0jeovwkKa--tZKEsEBm8mth5z-7mpMdGKuVhcyTjZgPiV6oompzFb2_fn7taTTVmtkOC1xNJjKFf829YU8XtSuwO9zfXmJxxepDKV01MxgcnOadc5wrVYFlhnjbH1ziI4PDRsSN48ZYHg8_3phjOJMbmqbFz23xsQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4MjI4NSIsIm5iZiI6IjE3ODg0NzUwODUifQ.TJXzhN5FBLbr_nwnXzGaYV0lXjQ_wFxij0TlIPJBfaM0egHRnSmEOzaAbY15Bo3z4jttD6MAynFu7qHeOXD0R3xmaKJFJazIcCDCRP4Ppl5HuiUu6cFPIWbPYxjZuB_sZMfk_jmD-V1MHxhwg6op4OxwTu0-lkKTXidwjlD025xO8n8t0F8LkjRGoFDyVYAS4o-eRv2jFRV0yVGv2MCca323l_8quX0zqa4a0Ve28QQwcVP7NhfP4DNRB2UHfB02yCK7t69AbhKu9T70Teij4jRXoXYbHTTKYCsOO0I2Y9-jBH0xldlcefIWpZ1CeAj_AaMyNIDJCsnK5sNUYd6xtA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3462,6 +3462,45 @@
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "NOVAFREE - PRUEBA",
+        "samples": [
+            {
+                "name": "ABC COLOR",
+                "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "UNICANAL",
+                "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/"
+                }
+            },
+            {
+                "name": "SNT",
+                "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/"
+                }
             }
         ]
     }
