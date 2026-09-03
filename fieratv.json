@@ -3403,5 +3403,63 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "FIERA PRODUCCIONES",
+        "samples": [
+            {
+                "name": "FLOW EVENTOS",
+                "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODkwNTQ0Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jNGVkcy85Nzc3X0VWRS0ySERfVF8yMDI2MDgyNTE1MDAtMjAyNjA4MjYwMzAwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQxMWEwZDI0YjlkOTIzNjUiLCJzZXNzaW9uX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMtMTc4NzcxNzc0NS02NDUiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDE3NCw4OF19.KUPS1VJWrM-PllWoWv2omBI35TSS4iqXaB6mY8WzGKIjoGXgLgG0njtVkfbW4Do7gp4Gd7vSFrxlL_PzSSw8Qg==/nPVR/c4eds/9777_EVE-2HD_T_202608251500-202608260300_ON_Anevia4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos2_PY.mpd",
+                "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "FIERA HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIERA TV 2",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIERA EVENTOS HD",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQwNzc3NCIsIm5iZiI6IjE3ODg0MDA1NzQifQ.EOpOQCj6WdWYNYavr6eAmnfcbXROSxfDQOU8AZxn0dj45NCE8_217JEXAwWxrRIih3el_6ZygRIWBdtEtzRP0JV8nlIGbmM19tjsElkQjOyAouqwEVeKNWZB23Ht5aQfZLwmjzkkp2Rhz5mPa1EogSGee8ZKJv_5eCAFtXKKipSLGbp_tVjqaD2od6_mE3f6qFt5XyPFrP17aD3lYFVNvFR_xmLt5L6o0GFwmyitdUbE1GPfX6cDC_MYxbXHVatfUyEOjD0vRB7nSoqPvq-cuO-5nGHuWEd9Hpl4nwxdLA7zjHJZO4xd3rvlNsW_EsVmqfNrwZ70nzSKuSeFRWjTsw/manifest/video.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKYNET HD",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIZZI TV",
+                "url": "https://fieratvhd.com/hls/wizzitv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED DIGITAL",
+                "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "FIERA PRODUCCIONES",
+        "samples": []
     }
 ]
