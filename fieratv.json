@@ -44,7 +44,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzE3NSIsIm5iZiI6IjE3ODgzODk5NzUifQ.DQcn6Gmhp6gtIwlgdlx5Rd7PnlvG_pLkjOPF3fNHYugT5mfZWxFgXdk2-LSakQj1_BkS0CNicVqD6XK6cysQx52nH-9vUCMFKey2zxa7L0A6Ph0EG3Q6nsvEqOgX2tYECKO1NG5NVV7i5uPJX_HFOf3Cn3xhfS1aHvVP0T4QZi3XgI6pfkYADlPeawDDxOGS6Xx-yVF_-z20UOFZu0Tm2yMlXPRBzPo_szd2UTapKbv4H-TPTXl4y5q9168l5XipyscAoQ5DoYIOieqD2r47eharGHKQIUjzodGtSL9eZIkSSyygLTBm_tWVEf2sAkvWDNb9FX2-mxFylbUcJZc6EQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODM5NzIwOSIsIm5iZiI6IjE3ODgzOTAwMDkifQ.eIBfgFntE1q7-d3JfLypxLetxWFkN3bPihLVADhcGq2DsVnSf2ZJjlQ9KEnu-78KEIDLCW_Llsztfw3mfj1kS1diYUg2tPF7a62OSG87GUKIHbNfyZsR8TzmVCbPCgvVEwi88Bpj8oL5RxU9DHOxtckjd5DuY3C-cC6ibFsA2effR_gQTneWKycHkgBDJPVAEQsZzyyii5w6LjRY33IfB0JjGs3o6nl3e-aKk05alMFHrBZbS5YtGyZ99GPfQU9mzZdRPB712N5VHHOW4DMQ9m4bQ5GwptckELpqD8kseiJ4bj2AeHKvnO3WKrWaYtMXgw4JNkxv9cVd2m61T9OuJA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2636,66 +2636,6 @@
         ]
     },
     {
-        "name": "CANALES RELIGIOSOS",
-        "samples": [
-            {
-                "name": "EWTN",
-                "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
-                "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"           },"
-                }
-            },
-            {
-                "name": "CANAL LUZ",
-                "url": "https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
-                "type": "HLS",
-                "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "CANAL ORBE 21",
-                "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
-                "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "ENLAECE",
-                "url": "https://livecdnusa.enlace.plus/enlace/master.m3u8",
-                "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SANTA MARIA",
-                "url": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
-                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
-    {
         "name": "DEPORTES MEXICO🇲🇽⚽",
         "samples": [
             {
@@ -3465,6 +3405,66 @@
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CANALES RELIGIOSOS",
+        "samples": [
+            {
+                "name": "EWTN",
+                "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+                "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"           },"
+                }
+            },
+            {
+                "name": "CANAL LUZ",
+                "url": "https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
+                "type": "HLS",
+                "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL ORBE 21",
+                "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+                "icono": "https://i.postimg.cc/9FQ2PBGZ/Logo_1.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ENLAECE",
+                "url": "https://livecdnusa.enlace.plus/enlace/master.m3u8",
+                "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SANTA MARIA",
+                "url": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
