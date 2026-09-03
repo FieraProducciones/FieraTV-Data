@@ -65,7 +65,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4MjQ1NyIsIm5iZiI6IjE3ODg0NzUyNTcifQ.aNfynClH0DbiK80uRAqpsiJlQSKBNPeblN05qAnPzmscG44O4qL7tju3tJ-bC7nl4nCXL-Gnx4vvzBhzFmvUzyNIMyPA6GH1FovSC5Mxs4V2biHJZKhM3zTiToCd7nADvCuwRq9a4jtkSQOW3TNCGGIffXTLBPgZKy0jQGpPkqoqPgeo6VK8wBfXAi3XNKBNN4Lv4btrLif6RMVFw4m6N_xyHWEFr30QzyV1jeKiOp3kPkaEepfS3COGCjJ6V1DUGrkWa9NdrLeDGmAG1M_pdDpSIhiEj2tkaMSMwkMCdD39C9IsI3x0AK7h8QRK_2nSVuZSiEMRWEW2nkB8koOFWg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4Mjc1MiIsIm5iZiI6IjE3ODg0NzU1NTIifQ.TDs3GdCMNPVFU5Fns3MKnYaGfLrUAmeX-nvnwZIEHr-31tIfvG14esTliY-lHKyuF5Gt3ShxoQjK7M7qoe2oD-NNHPoD1eRHh_f5ZkzlpFMe5KVdyBKvs03XNv-ofew_DnI0ze__pMJ3VsUn-WCrpBM-T3tyjbfIgf-yQAos66yHjGmsOPWhxozbepM0YunAsn5235sOPgXCZcxCczfq8fryKHGFM9HFJ6EBUyUdcp77npRY2KX-oQKHblgp65dWzOs3d9URZPuBBvVWNq6QjzbrCQiyZy7IsRA4LSgWB2gQfeR8hDRsywtqfv5vaq2j-BmcGPicE2VFdzK_qoBRWQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3494,10 +3494,10 @@
             },
             {
                 "name": "SNT",
-                "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
                 "icono": "",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
+                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
