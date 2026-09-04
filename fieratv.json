@@ -36,6 +36,13 @@
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD 6",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -65,7 +72,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTgyNCIsIm5iZiI6IjE3ODg0ODI2MjQifQ.ldvXN7NsYnDLJIaAU1A4XoBGClAcbU2_YWLHy8nAZp6ZmNKAZPcVxwrmuMGJ32lUYLPemLW8Q3tjDh1GhS13CzHd5JkmQwx4g5vT2dvm-xSO2CPNypjXNIxe9QsPL4niXIxiQsBVwuknJwLj2ZkRPWFgtsNQmAzhi7PECG1lHmtIBlKdAIvY5myljTLur3a9jGHPQbmhyEGIqN2evfFizDhyhj0rXEeOgTdIHjXuDbpgbZG0x2tYUgsJMBjUoiCHI808-TNbOwwN0U6rzNfFPh1yywwBW-0zOOu9LZVqu0HnONt2qlfIpHTYWKoV5F-4d50jYpr56yBpPVXagDvuew/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTkwMiIsIm5iZiI6IjE3ODg0ODI3MDIifQ.PNixOOa1KbXWGnQYy4t9LmEbF8fS_TIkQfUUm5yqGd07zJsHOG9URy9M1BHx3v7nX9BiQj8KG7g--R8wY29QIrss00_lDx9pZbKv-x2O94aWo3pLyyaspk2fhESyO68K8o9jsYmiiKGK8yQ_H2e3yWtP4JNQJqB7_bAus0xE7qGvfiKIUZLYKqlXelle3qoU08x1SFRhsafSRGCY4QlzpR8chIUcUxJIkuUIACTf_Xp5FeZg0LOlvWFVoW6ga_FpW8SQVUCNyfxIKFrp5M8Tnz2NaiphZGUfefqOOsgfAL0KZM5fkioCLSeh2TG56lAk1DpauUOs4rL0RHqFDitycQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
