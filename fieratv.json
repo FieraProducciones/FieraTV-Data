@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MTAwOSIsIm5iZiI6IjE3ODg0ODM4MDkifQ.c2d9LFed2riu6RaD7DY0rPU8ocUzdrYsoYf43lUt-xm2BlZWQrKoKtU-bKb4zQAY5Bbvpv72koV_rjIIUbQN2VBs7yC8EuflO2eXqLoVZayCw7grjzXsODxZVti-D0-pQGOmq9Rxfm-5V437DPKnETC1Wy4mU5GC287ML6K44qXNVw4d_fRe7AbSzucI9IJDNNLqvCdoEp8lh7oYFmXB8hoKQgu6H4m4Xkc66Tvp7WnH6qmaWsjDA1nOO9DCpJZcpIuo8Dg4ykzzJA0weMPNLy7GwxxcDKvXzWoS35Sc09TiGZt0IH37zgWb59WAABoeTX1qt39-z-iXa8_E2bB6RQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MTExOCIsIm5iZiI6IjE3ODg0ODM5MTgifQ.ayoO7CYIiZ-OJwuLbp_LWwJ71FczYldK_KsvdFndwkl_eUD8gBZyNPTgm5Ys5xijilhtZQ760ncxTBbh5s_fzqNyQ_6EJ2sjeb16c1k_pg1GXHyDTUg2rYTNjy0d_FeW8XX4mA_0RR1UCbLhltQKcfuZlPbzKDU0sFn5NIbUIh2uYKvqBlUzWbdvqH-EIv3e2PKjtdE4cG2Km4ifB2Qdlimy9dEiYJL6Csv5zyVSsegfmBbyUBTiatGkXGayfN4e32twHE1g15zcbCdKrHZ-FmrUPUMWY5OWmi3Zt29FpwSeEGhzKXj6O4sF_lJDQPW_DAxy697_ctl0dz_N_zMhiA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -432,15 +432,10 @@
             },
             {
                 "name": "C9N",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+                "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "GEN HD",
