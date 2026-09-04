@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzA3NiIsIm5iZiI6IjE3ODg0ODU4NzYifQ.km9_HMNlwLSwjf41DSAlhm3-F7gZe7wcuNYZz5GatBfYmdyITMREC2SYFpIqlv_y4W8cU3itNsxIGwkZosnUou501U8v0k38e9nUNVl8e404hQRG0qMecyEVL22gG2EYB2CLvOyciXz0ScsNoLsWjiVReh7clFzLRpFYTs2qWm_dhfdov73Ujylpx9474A55SXcrEmhqnVWLz5fRZT_y2_wZAG8AfZB9eRKUxcYb6kA-GkRwP_7Q2duh-IeCq799rj4M35t-U0-EYc3y1lnBDuF3n4s-XXoueJqVJi3lIEL6mijq9xaotqApR3O6zVeB7MMY38PAADPZOMv9Rq4zmg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzI2MiIsIm5iZiI6IjE3ODg0ODYwNjIifQ.dZ_OMK9beNOOm5Hm0XB0_36hQnu8f_VYD-2mAwkLTyzq5lmKWzdt5Jt-v5Qk7-tZvcol4kkiEhzUUm29-VD4VLrf7UtJjxZNkIgzEOOTOdmxwaJaw58lpFXm9FsAaj-da02ipts8gc54ImApRzHHW31laASxDc68XJz3y32ZBYIWUFJwcuHPdSHUbuna1EYUjWFIYSmP9bGDCoaq9Cxkwwcj_hWPLHq5KzuEdfDAg1wD1pg7bVpnUHKUrm-rUk8_9lf2KxTiF1RydgM6sQpSK3n48tRhdhW4lfwxMRTGmsM8BtxKauaR7XdIfwp2wI9oFbfsuLRIThrrwexK7h84uw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -461,7 +461,7 @@
             {
                 "name": "TRECE HD",
                 "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+                "icono": "https://bestleague.world/img/trecepy.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
                 "headers": {
