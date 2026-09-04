@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MDgyNCIsIm5iZiI6IjE3ODg0ODM2MjQifQ.ZqunMGVaUWlfNR6itlw8vj2ZDBgZ6HupL_sKm49ulb2ldKL1UKPspcTmzey4ng6dNvSl7XGkKLPlJgBO9TKri8DrMNH4kNf9HGiYFQZvjxk9cpkzyqeDsJKB_UbmbmGzhZsfyBbxzWKrChUQLB-MTtS7Prr0dOp2bA28uWjgb6gy8szlsPTlglC845U4Bt_7JaVnpk4B6keqY_gjO-ZvSAXV-26XEz99stvIP9Fh1SHP0vtlCVrDNxgfYu8TynoDx5OV3GKvgqBIYdkRmHG58XMIBP6iZkB2cQjudXCb7owMd3Et16Qnzoq5TWSysb6x1IBUcHIlMTcacIEAgRXJ2w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MDkxMCIsIm5iZiI6IjE3ODg0ODM3MTAifQ.P7EklTP4CSYfmIOwFgRj8jETsTSJFJ15O_EPDYJ9s-cYlqKYZaYkTSxmJLsgssAjKm5urNfQK_D9f-5r_uBkA2uD6UFVoFufhtZIrLQJqQ0kgWg1k4fdIQBTcNS89rhg3fOqQsllFUA-wXLP6uZ41KjGadwrMmjhMvpCJGd95_N-uGsCtns3ulJrG_8sgCWg3-jDQ7ZYtpW1LO1ThAf7QFVNqV4TFEOT1KC4zcUXyoqpq-f1_xMvYC2ag0nh9ehJIFO7ddT_B5kj-LZXp6ZA-IALYqs9IscR27v8YKBtw7xbqxC6NK0kb_j6B96D6J8GzuxOCHYMOkbRPbXx9-fX1Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3540,6 +3540,13 @@
                 "icono": "https://bestleague.world/img/trecepy.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
+            },
+            {
+                "name": "LA TRIBU",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
+                "type": "HLS",
+                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY"
             }
         ]
     }
