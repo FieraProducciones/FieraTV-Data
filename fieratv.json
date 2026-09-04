@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5Mzc0MCIsIm5iZiI6IjE3ODg0ODY1NDAifQ.FY3c9PMhGmqRrZMUNIGv7qb_XhMdux44-PvUJptKA_ZfKBJl9FSPw8zRSZKCDP0m9hDD0m-QMrAMXtNK6Dys4-xTOHQNE3jlvysxPIRiKVFhauLoHO7jRd6iyJ2GF2jsQsoLnrySPg6DIkxXSId21empHPaIuicpS6WC_48mw7j821_56SSCk65ZrERn-g9Ei6SZN_NAmT6xy3STbiucU2cy_77hEpPD47L1_n8d_A6EQwteO2t5nwp50PZxlul_7dEMaAxGeokCAN0T5FATwzhyhX82jsuv4qoH9mTGWLS3x7koSDJvHMx3MZ3yY7XCT5dgBKvpiH1Y3r5UzAM2xA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzkzMSIsIm5iZiI6IjE3ODg0ODY3MzEifQ.CaHa7MPSnvLGAOIExcLVka-M8Y99OoZDN4eaMDAbE1GEtfJg9imIq1u8LRToSoyByJcy9dhx-vtLSUhmbnePN7lmJvVWm0m1qdAHeoj32h-qGB1qvofmh-GuV_Qz8BgAUDW4rwLvLg13w2t6ytZ-CyRA1BAvF7sbRZ8tr_BhM2MUPEbELiCJ29VY3RlR3hBLqq6DRnCRt9t5W0vL9dLTgwP4i4kcb3nZqxr78GjaMvvHns0Y-uGKjN7bTwHCA3xRTsGxiB-dkiqbIJCYnYiDyqtfchgl2vBl_SdoxsGnSqdxbj4Oo-wD-5pTcf11jnaQTz5eYtktDvTxNDA5BvHQ4g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3478,6 +3478,13 @@
     {
         "name": "NOVAFREE - PRUEBA",
         "samples": [
+            {
+                "name": "CARTOON NETWORK PRUEBA",
+                "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYzMDU3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jM2Vkcy83MV9DQVJUT09OX1RfMjAyNjA5MDMyMjU3LTIwMjYwOTAzMjMwOF9PTl9BbmV2aWEzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NDZmZmNjYTg4ZDlhNzgzIiwic2Vzc2lvbl9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjLTE3ODg0OTAyNDMtODk5IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsMTc0LDg4XX0=.5bsQ_Gp0lUMzlftsEkfXDs3uJYJnfbXjlbd6-VLaZejfPpE1Kur4IlfcM9k6g_BASVqsDDlnxdUtHTTfUGNwcw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork-mp4a_145200_spa=20007-scale=48000-p=366526441883688-17683480964561.mp4",
+                "icono": "",
+                "type": "MP4",
+                "drm_license_uri": ""
+            },
             {
                 "name": "ABC COLOR",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd",
