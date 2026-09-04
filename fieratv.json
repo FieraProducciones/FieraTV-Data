@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTY4MiIsIm5iZiI6IjE3ODg0ODI0ODIifQ.KeSPjHQZ7AAQlC7YVsi4OQ7h9uISr5ktJIISAlOS2W-tB0UVZKowLKbrNvJYVOsCBJJTb7oi2WZ5AWIvM3FHUZfs6-b696V_Ijerel8p3Nez05wpbP2pzZ-7Dmtp5AE3RsYK7UGsXyNWpXYvEDkNcUNaox-eXpOM6L_oSUarA73UdJenQqQ0qEr77i4yJzxD60z5InlRneLp5wHFsusMW69ehzEgN8Mik3LW9g3kboEoqb5Ze4o4nIdmXkkS06lRXbe_PT244GuqP-N1V4Z7CCS2cKIvbe4Rcx0Xw_2Z191nVXcwkQqABcpjJxjefDn28mqyL-aXG0JbajyXwjn8kQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTc1MyIsIm5iZiI6IjE3ODg0ODI1NTMifQ.Q8ThaRaRYo0_9Ay2DHQh4zZSQ19bFZQ9Lk3JLFMmyU9RonZeUh7zK95O0kCp4rZHM4pvq46SwayGIZ-IYZhqxtOVXPP4R9NbvLLo7juOJYoSMCBWb-zejiwDJlRhwzvvWVYwHQ-rQMqaEqOzH3qUE7Fm9F-D7IncTmlsH8UWxXOQpNGaBKyEbfDgW4HNBFCg6jPu37IiJ1Z5m7AoxIDnsH_oVd0rTUDV_4MnGeqe22HxLaOQowNBmUoTzJskqh69hViStdQtqwh0y-_vHWTDcB8DAtmKY44ped5C4pn5TPPyt96iF9MXDS9Q_alDbZGvIRuijAEaRY_-LUQj0820fA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3472,6 +3472,13 @@
                 "icono": "",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0"
+            },
+            {
+                "name": "PRUEBA EVENTOS FREE",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
             }
         ]
     }
