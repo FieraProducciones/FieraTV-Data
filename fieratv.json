@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTE4NSIsIm5iZiI6IjE3ODg0ODE5ODUifQ.XQI0PaAlwlytptT3O2cy38_bP_PxlsGhPvetui3b3_Aod0uwCoYTPFzOVGcBwy7ImZfwGyItIvNKfYgUxPQxh2gJ606eZl1FewlB2N4sANhs3NSjEyd9iJaYISAkNp5MyVe9R2iMeZZQsdBVTL25FT-Wtk8Dtz2SY83wC3Cv7sUI2TkYYUVwVG78cIMSqRy2GBBiNEJ2ZGOD00vWALpGOTsGb7BrgnSo15ZGCnxkyuj1m8Ns2NxpOWT3csMH8q6Jt2N_8Jkgf0pDVjG9T3SrP62PdpCUu2NZcG1tg5Ufhy3DvrqrJYJCk6DCAwogh5-Vl0u3vbHPt0Ms0Mjhcq9KbQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTMwNyIsIm5iZiI6IjE3ODg0ODIxMDcifQ.KYnT8JT5E7ZGHTrHqGRT79ZUrfXe5zaDGRbwCmeWZK8-HAmrxe3JXORChaAwMzTVVhMMHlzQsgeghy96RddrvvVWA6Na7_ybXwzUJ98BJIc4Btkj1-GTC4bbWIg8hw03DePHtBZxIkrvXCxOC4CNnGEjvPRQKO1F88oEqVhgtJa6yGHCOAxRFq_AIxgwGLjmuZJi5HplgSB7nQ4eAmAmyNQnWc5v5YPm9Lhkv6mJWasJArp7GqqpyI6jn06mwcR1ISi-uoNlB2RhHBLsTCDib_Sxfr6heqZ4Te-OMKfGLQpll3UumETunHXqrGKZAgXmWx6FGPZ6Dk6I3YUZyydCwg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3458,6 +3458,13 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "TELEFUTURO PRUEBA",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
