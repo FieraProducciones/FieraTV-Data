@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MjU4NiIsIm5iZiI6IjE3ODg0ODUzODYifQ.Pzs96rA26JWRILi-Xw9fJ-IxL2nidvuobwoIiw1qngx_KyoVJiMj3XTdujDlKWGY3vDBosq5Q2wgNd_6Qjbnh5gjjH1mNA3np51igyPTtS-y26q_7eQMLxT3kE9fllXNU1TSnva_XaDH_y3r6ugdgq9Fnm37Mxy_mx7luC0AbiG9XiX1r576MC3N4vcqMG2AvB40LL1ddw0_4QUfZRFOEz8eaVsM9gEeKpi1MPkfpnx7VRH8jSWRpHKqtzP7yR1b9HPejgVPldcj_Ae_fJAyxsT2VIdgfOAO4rDZNLllMHSsVsmLB3zr5WULF3n6geyvIFnYNuV6NKrWmBKsJwAgNg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzA3NiIsIm5iZiI6IjE3ODg0ODU4NzYifQ.km9_HMNlwLSwjf41DSAlhm3-F7gZe7wcuNYZz5GatBfYmdyITMREC2SYFpIqlv_y4W8cU3itNsxIGwkZosnUou501U8v0k38e9nUNVl8e404hQRG0qMecyEVL22gG2EYB2CLvOyciXz0ScsNoLsWjiVReh7clFzLRpFYTs2qWm_dhfdov73Ujylpx9474A55SXcrEmhqnVWLz5fRZT_y2_wZAG8AfZB9eRKUxcYb6kA-GkRwP_7Q2duh-IeCq799rj4M35t-U0-EYc3y1lnBDuF3n4s-XXoueJqVJi3lIEL6mijq9xaotqApR3O6zVeB7MMY38PAADPZOMv9Rq4zmg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -401,15 +401,10 @@
         "samples": [
             {
                 "name": "TELEFUTURO HD",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "UNICANAL HD",
