@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4NjkyOSIsIm5iZiI6IjE3ODg0Nzk3MjkifQ.p1SnO3RGLXL4mvcoe-wr64Cq05B8wIkS-QBOAH_b9OhBaMucbecEUSA3I3lCSwul7yeidEsucgbmMm35zopQpN0Rg3ewNDVsQz3bBOZmLlIiVSR-09tDSrKE8QgDlP9OfjKSb7Vh9oQ785BHQbFwpxDfs2oc6ARD_yBSXQCjRd32CTVDEpx5_IJolOPIAt1RBa5J-5ABvf8pWXlTwGbhBstp1xwJQXx-AplG6Gw-0OBK9X1gIZOykkf1hZalEv4HWIJGf2XsCTEsfeZ-17EEtDWH8qgJTTPVxRYth4iLIHjbkhFqCmJb8yamBVAYENetk2iqke4xnvQ9q49KSG_9HA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ4OTE4NSIsIm5iZiI6IjE3ODg0ODE5ODUifQ.XQI0PaAlwlytptT3O2cy38_bP_PxlsGhPvetui3b3_Aod0uwCoYTPFzOVGcBwy7ImZfwGyItIvNKfYgUxPQxh2gJ606eZl1FewlB2N4sANhs3NSjEyd9iJaYISAkNp5MyVe9R2iMeZZQsdBVTL25FT-Wtk8Dtz2SY83wC3Cv7sUI2TkYYUVwVG78cIMSqRy2GBBiNEJ2ZGOD00vWALpGOTsGb7BrgnSo15ZGCnxkyuj1m8Ns2NxpOWT3csMH8q6Jt2N_8Jkgf0pDVjG9T3SrP62PdpCUu2NZcG1tg5Ufhy3DvrqrJYJCk6DCAwogh5-Vl0u3vbHPt0Ms0Mjhcq9KbQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3425,10 +3425,10 @@
         "samples": [
             {
                 "name": "ABC COLOR",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/TELEFUTURO_C4/7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd",
                 "icono": "",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py/",
                     "Referer": "https://portal.app.flow.com.py",
