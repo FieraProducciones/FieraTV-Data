@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzM5MyIsIm5iZiI6IjE3ODg0ODYxOTMifQ.lcoRnUcSfrthcN821Qu7c8sH431-Oo-7UA4f9yujaKydN2CKuhe3mNerYo5Dz_N6m84_v-7MvrAeVwuMmtneyVGacoc9Js3sU9YCP6E8o-ebOmX8kIUtgL_RSWllgRKHzsOLk5NeL1m8MsTm6KKw39rtCDcxe_OE4FZ3nEoqd9-ys5Dtm63zcvMN6W1qmARKy_4cjN4lbHlyxfxVhloHi-EWnLK45PGW_hl4yZnYkPOTdK0lXWC7TMLznG7_TbglcYUirukOuqODp-TvbxcfO9b7tR-Zrj4Rh2sJpWamzIulWivekJhlkYowo61JGOFPwlFTxb3xXaivMt_g2DhtkA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5Mzc0MCIsIm5iZiI6IjE3ODg0ODY1NDAifQ.FY3c9PMhGmqRrZMUNIGv7qb_XhMdux44-PvUJptKA_ZfKBJl9FSPw8zRSZKCDP0m9hDD0m-QMrAMXtNK6Dys4-xTOHQNE3jlvysxPIRiKVFhauLoHO7jRd6iyJ2GF2jsQsoLnrySPg6DIkxXSId21empHPaIuicpS6WC_48mw7j821_56SSCk65ZrERn-g9Ei6SZN_NAmT6xy3STbiucU2cy_77hEpPD47L1_n8d_A6EQwteO2t5nwp50PZxlul_7dEMaAxGeokCAN0T5FATwzhyhX82jsuv4qoH9mTGWLS3x7koSDJvHMx3MZ3yY7XCT5dgBKvpiH1Y3r5UzAM2xA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3548,6 +3548,13 @@
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
                 "type": "HLS",
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY"
+            },
+            {
+                "name": "DHE PRUEBA",
+                "url": "https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYyODAwIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ESEUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiYjUzOWI2ODdiZGJmNzEiLCJzZXNzaW9uX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MtMTc4ODQ5MDAwMy00MzciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ubji28UVXS1fwHVMiXqTE4mljLPwLJiKXO6-E-BCsnbKARMbjmM4VQMwMlsQhyk6-v2WZ2NeggSXzSM3tf9LRw==/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     }
