@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MTQyMSIsIm5iZiI6IjE3ODg0ODQyMjEifQ.pqakXtlE_Hz7vX4fpbHMi2Ozg-0kujFzPlwORvfqZQD52lc4heSQ2snigVJAjybmBrWdCRk1ZCaq0zPF1YCIotZ_mtBbPlFroBe0C5XmNdaKrYbeYLpxF-_3QL0JzHc_1vED4fuiYN30APi0oXgQ25roGP_OZTpeBat2TffMmPlNZlH7Efyaree6aQcAM1mUAneVPMV1eVz_nnm2rZ8WhBhqsQ3MWQAIcwnlg15mSaiCtLxC8GfNo55OjRS7V4Ydub5GNlN7bIIFIfXmO8LmRuTN-kRKT0AEa_X4W22tgtZPJ6PtMyCBtCq_q4nWjoId_DWyYPm3IKU1JRtKf9ZICA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MTY0NiIsIm5iZiI6IjE3ODg0ODQ0NDYifQ.FepBZLbYFxoywLFaIqR4M6sUp-v86MJefoDiYWqk3IhGSmxYkyZBj7R3eK08IFjiCL7fspHqatNetSk8sudYJ30zt5G8shxlC6j6Kv3Wy0fFji643QBlO83lUP5l7WaksjUqJL1G4ejuf1M6k4tdlKI36W0AR8JWlnjmdxQpJAsOANU77w30dtINqtkecIkEyPaqQjCMOR2bUX0JcSj5i5-euP-8nLVFpvInqP-_xJT2HE4rQNP8Kt2bGvUttmV5UE6Bv-4dVxjGZahrDBG97O_H1TxMNg5sSv6NGWUgEij06vKX2VJVFgLROPGm_xzWQQZfS-p6OLWJVYAEQsHdSw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -719,6 +719,13 @@
     {
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
+            {
+                "name": "MI TV ITAPUA",
+                "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
+                "icono": "https://i.ibb.co/6RqpxYR/mitv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "OVIEDO TV",
                 "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
