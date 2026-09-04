@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzI2MiIsIm5iZiI6IjE3ODg0ODYwNjIifQ.dZ_OMK9beNOOm5Hm0XB0_36hQnu8f_VYD-2mAwkLTyzq5lmKWzdt5Jt-v5Qk7-tZvcol4kkiEhzUUm29-VD4VLrf7UtJjxZNkIgzEOOTOdmxwaJaw58lpFXm9FsAaj-da02ipts8gc54ImApRzHHW31laASxDc68XJz3y32ZBYIWUFJwcuHPdSHUbuna1EYUjWFIYSmP9bGDCoaq9Cxkwwcj_hWPLHq5KzuEdfDAg1wD1pg7bVpnUHKUrm-rUk8_9lf2KxTiF1RydgM6sQpSK3n48tRhdhW4lfwxMRTGmsM8BtxKauaR7XdIfwp2wI9oFbfsuLRIThrrwexK7h84uw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MzM5MyIsIm5iZiI6IjE3ODg0ODYxOTMifQ.lcoRnUcSfrthcN821Qu7c8sH431-Oo-7UA4f9yujaKydN2CKuhe3mNerYo5Dz_N6m84_v-7MvrAeVwuMmtneyVGacoc9Js3sU9YCP6E8o-ebOmX8kIUtgL_RSWllgRKHzsOLk5NeL1m8MsTm6KKw39rtCDcxe_OE4FZ3nEoqd9-ys5Dtm63zcvMN6W1qmARKy_4cjN4lbHlyxfxVhloHi-EWnLK45PGW_hl4yZnYkPOTdK0lXWC7TMLznG7_TbglcYUirukOuqODp-TvbxcfO9b7tR-Zrj4Rh2sJpWamzIulWivekJhlkYowo61JGOFPwlFTxb3xXaivMt_g2DhtkA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -407,9 +407,9 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "UNICANAL HD",
+                "name": "LA TRIBU HD",
                 "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
+                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
                 "headers": {
