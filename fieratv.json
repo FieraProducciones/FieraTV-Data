@@ -79,7 +79,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MDEyMSIsIm5iZiI6IjE3ODg0ODI5MjEifQ.WFZ1Sjjondd0_slQRT03TW3dGJ0chcnMMbeT2RhE8Be28eo3rtI6zPyNv2AoNmwA0H_F2RHzlZ6Sj82Trn8RAYfzd_oscYx9DM2l415Fu6i5VdQ3JMq2tZIN37KiIDz30P6C5dawr7eD3Ugxlotbo1CS_Vc5ydxJrr1lylGGkoXJnmtTc-g1jbLgWE9udnaKnxOZQE7Qafqi6rTA0tYELJFhWRDBdQaVte9mtXGlU_J4ujkK117acNsl0t3EnZelX29Y_oNO9Oaj5Yjp6COwBwsBXRmA5m-hO78lnmQnZN5D4XJmJSH9l5-lhMgwOYy6NENVDkcAy0QDpq2cUPswBg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODQ5MDgyNCIsIm5iZiI6IjE3ODg0ODM2MjQifQ.ZqunMGVaUWlfNR6itlw8vj2ZDBgZ6HupL_sKm49ulb2ldKL1UKPspcTmzey4ng6dNvSl7XGkKLPlJgBO9TKri8DrMNH4kNf9HGiYFQZvjxk9cpkzyqeDsJKB_UbmbmGzhZsfyBbxzWKrChUQLB-MTtS7Prr0dOp2bA28uWjgb6gy8szlsPTlglC845U4Bt_7JaVnpk4B6keqY_gjO-ZvSAXV-26XEz99stvIP9Fh1SHP0vtlCVrDNxgfYu8TynoDx5OV3GKvgqBIYdkRmHG58XMIBP6iZkB2cQjudXCb7owMd3Et16Qnzoq5TWSysb6x1IBUcHIlMTcacIEAgRXJ2w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3533,6 +3533,13 @@
                 "icono": "",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
+            },
+            {
+                "name": "TRECE PRUEBA",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "icono": "https://bestleague.world/img/trecepy.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
             }
         ]
     }
