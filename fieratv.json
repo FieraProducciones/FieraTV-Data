@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjIzOSIsIm5iZiI6IjE3ODg3MjkwMzkifQ.duBn9dneB9JXZSevhIEAdmIL4hgbFJRJf7TkQswZ3uaIWbknSEWggkn5Pfsu62P_Dr_8H5OtnllsDsnSdhELxirWokBWV_Wq012bUIujxcQbAi4pFFoTR9UlAko0HNz0iEiUra_3eOznuC-_e2DWUek2OcQTXScdxIN22b5fhHDd9zQ2w9bf8Yspl7s934k02JSRf86hsh14XNMYZtPMJtJsiEUr9PiKcyBKI8q0zih0fRrLo4-z4DlrPcZ9jAfhAL6mJXLdQHyasAecLge2F-fzHtUL_1C_Gp7azidRZUoho7kEc2_50Qd1AnTw1mukJyY69v29KNsQycl3tU7M_A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjM0MSIsIm5iZiI6IjE3ODg3MjkxNDEifQ.oAwk_4fk4D3hTmq2xKMK0sNCg2eVE6nmMlN26CaFbZKiDzoA5FezxFPYBogq42QGo6WVYJnQ1hChAuV_MFm6ATRJmd4RJFvEAh9ZDAUHf4BRt2hsCbc84CfE1KUdJB28wDip6AE3vjHOKs6OixpuLpCSTIIkEGpCfsYimqGSeCvBD40cHltwbmV0WxxA5Ui4PhkTfdxxHpmgU0jnV11zVZJPyqI2YPR6ilGAPvpBMstXxO2aLLpjKpzN9S1635Jt0MoJJVCnE_C3zFHdowPy8V4pleN2vM4F9mjaeRBqyYNpiUmNmh8nWlybsMh_jDZzPNd4clvZmpBA0_1asdrk6w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3785,7 +3785,7 @@
             {
                 "name": "PLAYBOY HD",
                 "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4ODc4MTE5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4OWNlYmJjNDYzNGQ0M2M0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.85zUVSbJll-JPmPIrPV_5YTjuSTKU1oGnYDOjV9fzH1ZDVqyX69G34z9xMeA6vYinMoXdeddx0l3rKfF3jWNXQ==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
-                "icono": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/437.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy"
             },
