@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMzQxNCIsIm5iZiI6IjE3ODg3MTYyMTQifQ.alEPe_htKc-7FMLHMNh6YGrQoY8TMq3BuEeaB3JROOOqJwkoU4ZoezZimd1tlPJZ8tN1BClKfHhGeCoilr_M3ZS2QppKgYetHkhp3goyCpqGwZYDuaNqKU389DeY_EsJQod0liSYVx1j25iWLHBBCfYrjSn8-UdXJbN0qag4mgLzVCJ7bfx7G6pwe-CKkxqFTW_xauvv6anmmsFmO67shhTaYo3-S5ZJyp4dQ6azvoC-Mvp0JHzoyeTW0cGL3gWKKDUCgQqX09BT0tok68xe4Zs43LWwZYhHP0kgYqx2Ii6mtMKK73xbT2NVvhstcoTVomNrKz0ovXxet6TI9TkeNg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTAyMCIsIm5iZiI6IjE3ODg3MTc4MjAifQ.oJEf30iA6NsHGVKS1ttH_AQEwzDLn7KPDuZpV9eRDsq30cNdy7C-iuW432o7nuEHnph9ZenOtyLhsR8p-a50w50PU50xWrYqhtiS-taZ4C9aosZIH3kYVfM6ACS62B-15W9XjiaSG0RGxxWNc1bi5x9h6tVYcJoVMZToeu9Snlgxd3JWBZE5MnGmbkk1VbC_OgRc4VOturpmaWy1Cz0-NRbez9otweWu6s3w0D-ty2WTm6ynXOQJ903h5rWBWY6KrBzCicogK3FYPipSACmvqoZ84D9uug1Xg2G3KtK-mc1NiMnCnQEHm7jySSHjWj_QF35Ukejs60inZGIuc3J9BA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1775,6 +1775,13 @@
     {
         "name": "🎬 CINE 24/7",
         "samples": [
+            {
+                "name": "POP CORN CENTRAL",
+                "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9Z8n0vMO4-iQFdsO54lphjN0qaRuPDKFC298N_en3w&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "DREAMWORKS",
                 "url": "http://138.121.15.230:9002/DREAMWORKS/index.m3u8",
