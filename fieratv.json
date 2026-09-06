@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTEwOSIsIm5iZiI6IjE3ODg3MTc5MDkifQ.mCAgYOspOuD6RyIleSpgTeH3rR1tx-ZKA3CWb3nrLYRMZo17vvNx1WnZusSaaiQnCvF9ldPgBFHm634ITZW9g9sHTMJNEIRngdza5E7diulQXrWjsBhvN-m1Vl9-A4I7M5n0adPF-6Nk_mBr89RREmHeR4tcTilcpdja4gjCGM7dU-Z5C79XoRbiHKFC8bF5GXHQ3Yy7PUJecJJOahL8FSiKdmjnhN0UKIi8ccvC6CSTSGL4yUIGWY5qSNM6r-XhgiZFasCPb74QF8866JvesoT5o3Ky6uoWeT7o-nO0cRAvTzQW8Ipxhyp34_79usyeyhVqsIGSu9BFy4Im6zXabg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTE3NSIsIm5iZiI6IjE3ODg3MTc5NzUifQ.LKSkm3XDzKoew8KohlLSda4VcZyVbD0qZzN_5gNb51ito0Vd2KMlTEHP97bd5TfThUkSW8uBBkx-wfONxBgJyVfV2EgyYM9Tja6Y7Od4t2bzbFsS-3x4TxLJCfbTv5bpGHJfdhQ9SD6Wap0qsA0AFv0u5JRheUpglU5T3jrN9egyy3BJfxol5-6bo108SP0neydmSb_YOqLzC2UxSNRGsjhxUrTw9AUIQKz7l7hTRrsNURf75VIe7BMIcw9AVxDiMKM1nICR0-XRS-wwIgEYrc2r4Ts6yet8T9qNvfGHb7KoS_Y8_qeDPF-3bn3q50d70EnS61vsxJDUisdU-MgqYQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1785,6 +1785,13 @@
             {
                 "name": "RAKUTEN TV HD",
                 "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+                "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RAKUTEN COMEDIA HD",
+                "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
                 "type": "HLS",
                 "drm_license_uri": ""
