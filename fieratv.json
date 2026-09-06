@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODg5MiIsIm5iZiI6IjE3ODg3MTE2OTIifQ.AT6AVN3mH3QhNVEPkP-LDFxmuSc7X57PTN3NkNNz52jfogJ-EcMAF8mgjbh8aEN3Od5jkHdBVrrxlzUCvw5wahwgKEGc8ocNqx_aFdB8BMBGKNLSDz3hs6qR_QUO7UczDCRnzCYyRDwHELKmXW5O2tjdFPTRuqqQQsdDOKiTKlxD_Sb-itK11FQ2VEd77TYgHL-KXR6BpgQFaiU3Zf9-jMwM4Qo6G2gZejlC_T4F9xiL3sCL1KZzrCdb90LaFpVWfb3RtqqVuaQ8jHhny8nAidZNtrURXFaehBDYU4crHo5HAlJW9ry2FG8mXLkW6OIWzT67iB1J7BPRC2xJEPhhxg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODk3MyIsIm5iZiI6IjE3ODg3MTE3NzMifQ.crYfoE1RWDL8YSM1PiTZpjX5vat7ecx45Z-Jfe3mmzOzUg8Tglzl-VKpEwz8pVb9rJlCpvyqzs53D_QrrzoCnSh75A6mcGrnTQipdro62nBjCvfORRco3J1iB8bPfBO2CMfRrByNCsyBEmAtRiz0yoqWnkZQu_uchv62zVnlFQ8eAyxFnpE7qOjwOVHTq0kM7viaGnC280YsRIkKPz4fj4O12kbw8EptVzGeibKmGpnQ08MBOeT3wbeodK7ucD7TgXoboALM8fOFED0snGs5FafQARQfW1MRr-VBb2IofVR6paiJOfdET6xbPZIbbgtrhbFG2OfobVMckAY7GyP1ow/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -435,9 +435,9 @@
         "samples": [
             {
                 "name": "SUR TV",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/SUR_TV_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SUR_TV_C4.mpd",
+                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
-                "type": "CLEARKEY",
+                "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=64b5c35275f4288e2a05f7702dcb036b&key=ded6887ccad57ea7ff9949d0c6f4ac1b",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
