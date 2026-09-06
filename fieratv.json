@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNjYyNiIsIm5iZiI6IjE3ODg3MDk0MjYifQ.kHIc6TuYkCoSWFT9JClCr8YhnTSNrwzt7_CduCNF3S2_qs5xf5WV1QUws2nwbuNixawjRMhInvpIUH1anFKQxdjOFqjlRP46FtfxDHR_Xq1EzE6m7y8mU_Nsd9sO06R3qm0WeYySNnl4gTXIiAFHNzQSAWRIO7CiC03LfRM8yhbqchTW4EV4iArVvBFwE6_y7VzR_Kz0c5_p3UDqBw0Un6cLU_a-4OeCCWjZG2Q2WGlmn0KN8f9WC-Fqn6xc1pHYET5HnGENjwjByIPs7bBrQ8q1K8V_WJGtEYrSAGuJROssh86faiaXBI16-EksFFUy7r8khAwbJB9RkeNj8swztA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNjc4NCIsIm5iZiI6IjE3ODg3MDk1ODQifQ.YhqhYGng8RLGpZUuQFNPLhj-E7munLh4toGJAFGyOnZT5HcmIza6W2kplRutfbnD0nYdYjRcU9rGzN7ZtjNj-EhLMiiWnBVT_huRdNyUlJAItLZBVGwwO16zPOV1Cjnq8LlQFyD3HRd1_UhdIupDL05LVDUbwm178b1dobHWItNHIKcNsB2jx8Orxw3g3-aPpfLl9de6qoFvXuOkxqEwtx8W0A7hcEhg41Q90cxTF_advv-tZblb0U11uVcF4FJl1iFvg7TdTljHzG_3HcQ0-eqR0weNXuqB7V-OiSU4A_7bfCarW6n8dOOonGldtIVVeVbcIY2RmKNCBm9Ck5Tudw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -876,6 +876,13 @@
         "name": "BRASIL 🇧🇷",
         "samples": [
             {
+                "name": "SBT HD NACIONAL",
+                "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w145002242.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "GLOBO HD",
                 "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9948/vVM6vL.jpg",
@@ -885,13 +892,6 @@
             {
                 "name": "SBT",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT INTERIOR",
-                "url": "http://79.127.243.211:14095/",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1011,6 +1011,13 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT INTERIOR",
+                "url": "http://79.127.243.211:14095/",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
