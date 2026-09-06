@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNzQ3NCIsIm5iZiI6IjE3ODg3MjAyNzQifQ.cmCUK0yx3WfP5pNSMWTA1iye4CBIs5hoGK5BSr2m1KsN26SvNyD_1zmovTEebuh5zObrKCpc4pOkOigPpJ7uGFCIVtGWpqiXM5d-K_kpSZ_NPM9HaCAQSVET1-Q1MWzlKQF0ZJ7E-WA3FVuhtBSYX1OI_EF_mpV2ThpsdT4aSMnnqsldIaYvNB5nF-NWsqHtmf5gCTkKYuALnM-8opMn4ygr6GHRxxNr6czoWpIF0Aphk15Hf3bQr_b2FHS1xwgzmnuMHwL4x2jE9cjUsm77YxfI69SBFTx3bWxbqJY1Hn2BOfE9WxGfV_4WiiWkIar8fUuFbyTXiKEaq1q1pLt8vw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNzY4MyIsIm5iZiI6IjE3ODg3MjA0ODMifQ.qDnxM6Ifapt4v6GFkHLVpsGOE9qwidNJMwPI-LE644JU7L6YsAAjMjnDj559QsbNObuHcLMXzqD459uhbgvQc5zUGhLPRZQWwAShffCEd9Nz6bS_-pzK4wFuNMFbNDYQC_MfQOgzgRb3DwEtLZjTvON8IrkrAocVQ5DnHU282UfxHGlo9hNRgPdrJlMvMMPgBs1jyZV_1EIA_KSsjfhX0FdoqQz3O33XbUIwmyBVNRcl_J9RPX-UUhcUzhVdo0Bnd70Y-bXnicWhzMKS-JR0QEdywEutb-fp3_fWJUWz1zTGMeIXyU3r_mVAJrH8Ix6WAVlruAF4US1bH9sS6bVBgA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -69,6 +69,13 @@
                 "name": "DRONE TV HD",
                 "url": "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8",
                 "icono": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png&w=256&q=75",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SPACE LIVE STREAMING",
+                "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
+                "icono": "https://www.elgrupoinformatico.com/static/manuales/2026/04/plutotv-spacelive-1200x675.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
