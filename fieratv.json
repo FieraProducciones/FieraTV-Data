@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMDQ4OSIsIm5iZiI6IjE3ODg3MTMyODkifQ.ly5fCh_LPImI4ahqaKgAFrrwc1R-gM_4De1byMwzvkG6xYOkH549s-tb5uSven2FQbaTw2Nys1PbsUSup6fGXxuFXKlJEZBypF__D9LXuPiPlA8TepubbAp2yRyPXhd7d2jWswFGY-Fau5AVjKrLE_rXfxFRsnJE74gvcrwkWIXLIXUYma3dKqomPumnm6I4GPdvDlI53sDLPxrdu0J2vBq1ukfUEkvcZgCsw7c1kgiaZWyOqNDoJgGw-KRBoXkEl7YockA1vHRUw8Wyu1NK5QC2pBQb7zWA4B-wgyPlXtc6fC0oXuhfDfop8Rxax6hd21eqIsqm4rQ8YC2uhS_Gsw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMDU1MSIsIm5iZiI6IjE3ODg3MTMzNTEifQ.Reh3vUlsbZlrKIGIcBsY9rUJ0-SRicVzKX3WBZiiZgaBuqkXECw8ICguw_raiqfmrEEilMQ-F-zA4H4E79K2oWXBuUeXuhpaNiZaAfgLyrRsMij7u-kbyrSZW_IfqleuzceXNkqCjb4xEeFIxifLy10jr8VIP7rqUNNFaDuUYS15NhpVaeEY_ghYtPDhCeHCbVcCfinA-4vybEmng7Y7M6lAF-_lROwu83JfudqQ2W2E-bYDgwtbmWVK6ID0pdf_IMRLUOg1sgwrPZBm0zmBR0yKO4WYjbCBoBcdd4wPPYi_p7y9f2wi6WgCyvHlgib58zzgxTwvufAEECeFsb0zlw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1040,6 +1040,13 @@
                 "name": "NICK ONLINE",
                 "url": "https://x1colegal.com/hls/stream.m3u8",
                 "icono": "https://static.wikia.nocookie.net/nickelodeon/images/7/75/Nickelodeon_Online_1998.svg/revision/latest/scale-to-width-down/620?cb=20210325152203",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NICK TOONS",
+                "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
