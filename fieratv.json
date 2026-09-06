@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjk1MiIsIm5iZiI6IjE3ODg3Mjk3NTIifQ.inPQ-mfP9_Kk3x3L-lOOwtlSfltmSPs4WVJWS0tGmds902IcnoiOQDicXk2qhai0N0W_kRl6zJe5fQyZaNdMC1uqC-ayz-z5C9ek1GXnw13bK4dVT7zXA9TqvFzwymXxq1Pa-SggM5b7rmSAAX9ptgD2CDF2fCO8f_TuWBADwD3nxGdW9_StFjSEwjSlIU6D2ae1z5GPXgL5lUBfaN5dC-La_lfjRCoJWM3kbpDDQ-FjvJwZ24mqZw7doIS_DvZeXkXHvziRNHQ95B0FAO7TjyOYjYHdst1KkDgOLBBaPyP8NCnqPMomHPn7FJnmgVSjM07dP00ztDdECa6L3rvSgA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjk4MCIsIm5iZiI6IjE3ODg3Mjk3ODAifQ.Uk54MLoo2KcE0M3afoPIvUuWU7tTi2bek6cx5RwxT1iTykvK4wX8kjba-5q30LqwdgYG8Ex42TYJAMRUiviFbFvNZAytLb9MxiynBawpaVg39Pq2cUndhI9rGscsA7BJDx76XEihK-lnim67hdINCfe_hSmyKLkLy06ytPKhtTU8O9BoQbYPiGvkWKVm3UaP8EdieeEZhi2NvprzXDHKYgth6z9M6WwaCKqiOWb14-gH8UiFk-sDmkPpYky8BLrQrU_93IRmqA_kWnqda51teMugjKcIFgetnL55h1oIJ5f-9UkbYQVY0iAUC4HjoMxNs7-vvS3DHrNBYkezJ8-Tww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -219,6 +219,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TRECE HD",
+                "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+                "icono": "https://bestleague.world/img/trecepy.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
+            },
+            {
                 "name": "TELEFUTURO HD",
                 "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
@@ -231,18 +238,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TRECE HD",
-                "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-                "icono": "https://bestleague.world/img/trecepy.webp",
-                "type": "HLS",
-                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "C9N",
