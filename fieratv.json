@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTM4NyIsIm5iZiI6IjE3ODg3MTIxODcifQ.ekiV1rbz3J0Udtf0YPbjNEbFeDqYU-Oqs6Q32QFgEHd8epegR_NdprK09QmNCfAjnwDNsSYYNX3rZ4HkuCfrj_Un-6Ib8zlZnKSsPjHjfCDiC2JHLep2PsILLaX9WCnGPaLXt6NSLeSmj8GiNNoRVK_czLYm_wjr_WHnfqOQbcXE-6Cea-KVd-RCx5VAfCg4WGp_L6aL70GYO6qIRxdFUY0TCjOuAIq_pfW0VvHhF2WgolsljhLofGwRZDPVbJUObEEnAotghbKHzf07Z9bTzWKTbkuYr-t8R2VC1R2pkr673tyYt6zTXvpprU2xhgZ-ETqU9fQnh2i3CWw5Eah_9w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTQ0OCIsIm5iZiI6IjE3ODg3MTIyNDgifQ.DWAsueNiic41zpKmAJn-UPhfIGaG_tMZ_ZNZDFUwO_IcxPHegJjcNwGtlmcj8H6TxnVp0PRvJzuTbzFdWLhqdAfgT-UACCiuTFNQOUeHgYBj_3amPmlU1aj4J1N2MnURlvgJpRa4oWWTJfRGoYa2fj40LQ1ld3apNmGhi4eSZPSKwwMQ3e4_bqJ61z-bvB2iirSWK4qteKKF4QaBTvpb-y8WN0WrmPitjORF-D6C7x0OVTH4svl6x0sMQow2SogiDKn06soaI3bOHOgDf65rcVXl8HXVBI8YAvRD_rbLTwVPnQNNjtyQ99OeK5Zt3W6TGdR84M9bNPUMAqqjMhQnpw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -368,15 +368,10 @@
             },
             {
                 "name": "LA TRIBU HD",
-                "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "SNT HD",
