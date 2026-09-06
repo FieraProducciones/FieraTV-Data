@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMjU0NCIsIm5iZiI6IjE3ODg3MTUzNDQifQ.mP7OVRbvX22pQ_59PG3oUNst4sBW-wJzBaAN0uUNfihU7vT5Qx293PM4P9y-b5LulB0YN1uHCITuJlVxS3sKVs1QlN8Wx8B4w5Qz3M3mIhQ7ivQoC_Oe9kd6DpmEk651Czr-gVmHnL0aDlHuampRSF2Uy8OHFQ6ls5qp29u1EbNBADldCQRixa6dKpCAegNdU1-MVLERAshpIjFvr1EvI2DM37AKTUj6FKGVyFUm4WQPe_AsSK8LOQf5AExD0kDXJ5xG4GjjY6I0KlMD6WFFOm8GjxpnSEMCtE23svVKo1DpBizfWAWeti_I7sgbnrzydxWy7Hr8v6D9uy2fIKjkcQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMjU5MSIsIm5iZiI6IjE3ODg3MTUzOTEifQ.XGNgOKc8pqeXPLULNKJW2S5ONORXUu9OO16QvCcrRSoPIm01mHTL3Cm44Cl6Y-F2z0JZr6RtgIOUzCjKhKln4xuvMv7R_Ylpbl4DCqGD5RJM9t6lIFiONSUaGCSIbRv1P5jv9MmUTaTxNnPlgIE3rVYqOn5rPfvzQz1hVHIe04D6u7hFhixizIOD68yRB2oN5EspQQWV4CMhahhUEXzvTqnTbtVoTsIUYizMDHNsFF6aN8dY7ag8ZHyxXijLIAappNJgIQng38p7ihg3ym2YZ6YCW7EJW9D4CW0oiJzhVIpgaKFeYH5YqBTXLr1YeeNLn6B_xihsO88z29wX6Nwn5w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1061,6 +1061,13 @@
                 "name": "H2",
                 "url": "http://45.177.114.114/HISTORY_2/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "A&E",
+                "url": "http://45.190.28.50/AE_HD/index.m3u8",
+                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
