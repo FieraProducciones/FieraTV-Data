@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTIzNyIsIm5iZiI6IjE3ODg3MTIwMzcifQ.ab5SFglU_xdJsA7ilrhtZ8dOfHUuerRuYrbaryYhtQuFwURwCnCuALemUEFUSttrLBNNs53XqsqDdKlaaZZntLGaWlWWkgIDCFJucea7OWC0oB-Od0PW_-9AMulAihYBVapGT42gbjVZeYOXYwWryXR_9PGWe_R3HB2dzjqaENo5T-pSTL4j75_Ph1tJscGVosxZ_qwo-QKOOvaeH7tHB3ZusGPFzqNH6kt7_GQ01cCFWb3bfGdSHSCD0s9n6IIWhtruEkiMi6ebXXwk_QU8b6WoBvwxa3PGK4wMkjCZ1mmdDzzraNbh7YBRSN3Eq0s14pNdYnc831Wk_-eJZ6hXGQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTI5OSIsIm5iZiI6IjE3ODg3MTIwOTkifQ.S6rH-AXZNR9XUUtukxheDFl72WUIrl1c582RMaRj3jqVDXRCfBHUBaL2TyW69SSO4rQU2LDGmcv0MAOG2uL3QMKqXkfBGXcOT0sE74Vvj8SdqMDosoix6m8bWqVQalWixO0CXyxM4xQCbsBcyBkmzSmP3y7x82eVV1XVkCIBaJiuUOKl0QIJ1QTwqXeA3oK7v99iMR9rmssER_Qq9kWWjyqiLZl3v8zcRh4KSO8vanw8LQ4cbFHXCfVEvuqmxEyfxjMBLBq-2bFqBDIBnSnyz7GaBHeY_UG50_qHgnkWhrwQhL9Wted9xdFuGzxQiRLD4YvabbR42WCTb9WS1hcQtg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -386,6 +386,18 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TRECE HD",
+                "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+                "icono": "https://bestleague.world/img/trecepy.webp",
+                "type": "HLS",
+                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "C9N",
                 "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -417,18 +429,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TRECE HD",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "icono": "https://bestleague.world/img/trecepy.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "TV CAMARA",
