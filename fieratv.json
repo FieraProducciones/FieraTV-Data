@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczODAzNCIsIm5iZiI6IjE3ODg3MzA4MzQifQ.Mc52FJJbQGb1RRICuMrgvE0tZ0sOMy6OTPjxBagPbyM1-f9W3ZEZv39HAYCrwbXxH-twMs0s4DEH5nWwHCPo5U7uGAxaCKwX9RtZUwcsA4L7xlwvBhc-yueKNLizcm1JPTZ1KbrSW2P69HtQRhTmXPoLEgJ7F8Jw_QRaGm0tv_TSz5pjwHSlWHtyQWwHEuUiN1rlYKTB_-lcih7gGKXFDtIkDA1iAOWxhAnEf99c5II1wcKBpkW25OFlo_dpZtggBu6I_OnpA2q-NNsL-d0zmTG2RhKuBSZVCyvySZ6catFtIRD6ZBXuYHBOEIktFK7ogn1OzkcGKRpVMgU34lUwXQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczOTM1OSIsIm5iZiI6IjE3ODg3MzIxNTkifQ.UQs-xvjKcyxu-Rlo_CrRGrXubxtUbMeihiwuyzx1AGZ0zC7IlRAruouQ38cIRZzjJWHTlVdtgpC7qaIb5rJoqo1yvNxBLC6Oq-OUuuYH-w6eayywu2Z8ZF0FEJHtrx751fmvGNfNFZrgQ9iQrJu2Gc2-mVGhzucuF5l4bUBzsAOSmDYHciz6fc36KAzhWacjvfM_ko-tVvQsJNw_KmVfs_66BSyu-IDaRqtAgHFBrCw_8aEuUxBdafLjUaRz3DEeSDaQMT5H8wzrmpc9t8jIHygNm58tG4005niQmNd5QFY8hQQZWzTMna0hcGr422dt8qITq9L61iI_CalRrW68IA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -626,18 +626,6 @@
                 "icono": "https://i.ibb.co/nqLSGRzs/R.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TV CAMARA",
-                "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODg3MzQxIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9UVl9DYW1hcmEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZhNTc3NDA5YTYyMDY3ODMiLCJzZXNzaW9uX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMtMTc4NzcxNDU0MS0xMjQiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTQiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.LZdSccrWJX1iE0fUGOzqbvyleTE3a8vrfZEJPpcoTUlxwP-yUq6tIkLZcvBtOATr7LmsrCQXEDpOZUm8VAMRlQ==/live/c4eds/TV_Camara/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Camara.mpd",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py/",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "CAD",
