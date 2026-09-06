@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMDIyMyIsIm5iZiI6IjE3ODg3MTMwMjMifQ.hBnh1qDrqO5ncWC48GWRZmMiWgaZqEu0Qfg5XUGDqHw7JdbxX1ycyTDCD6U5wTvTmpxXNCVUdxoRXqnEy7RaJgjDJizM_jLs41mGpTx0PnUSO_mw4nmOeeQrZRwy9KUWHhXHbs7uIxJn5JoeXS-jkQeSC7TZ1A7NmbkXGtTOg5fGFlF26M0-bYgfalEWPraeVY6OagnraeOxef1KF7tvj26CI3GQCAb3OF80BJ4bv-XQADqOKnZ23Az_iiCnlu9nizSW7gNwjcn3fqhmmNUAUtylertskcZR8gegxRZfbpfwCU1rn5qq00qm8WmpXmkQ_ChfiSFuRv4jeNvbrIdU_g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMDQ4OSIsIm5iZiI6IjE3ODg3MTMyODkifQ.ly5fCh_LPImI4ahqaKgAFrrwc1R-gM_4De1byMwzvkG6xYOkH549s-tb5uSven2FQbaTw2Nys1PbsUSup6fGXxuFXKlJEZBypF__D9LXuPiPlA8TepubbAp2yRyPXhd7d2jWswFGY-Fau5AVjKrLE_rXfxFRsnJE74gvcrwkWIXLIXUYma3dKqomPumnm6I4GPdvDlI53sDLPxrdu0J2vBq1ukfUEkvcZgCsw7c1kgiaZWyOqNDoJgGw-KRBoXkEl7YockA1vHRUw8Wyu1NK5QC2pBQb7zWA4B-wgyPlXtc6fC0oXuhfDfop8Rxax6hd21eqIsqm4rQ8YC2uhS_Gsw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1033,6 +1033,13 @@
                 "name": "TV CAMARA DE DIPUTADOS",
                 "url": "https://stream3.camara.gov.br/tv1/audio2_stream.m3u8",
                 "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NICK ONLINE",
+                "url": "https://x1colegal.com/hls/stream.m3u8",
+                "icono": "https://static.wikia.nocookie.net/nickelodeon/images/7/75/Nickelodeon_Online_1998.svg/revision/latest/scale-to-width-down/620?cb=20210325152203",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
