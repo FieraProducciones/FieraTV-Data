@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNTQ0OCIsIm5iZiI6IjE3ODg3MjgyNDgifQ.XtwY4N2Qh6L7js7eLQKTeWp85ubWJsvLZf50Sjob_WB9xdOmQSHyINN8BMCz53wrxjk7yc91_BGpd8huMCg1s570EsnH7Agi9trzH6t1KTJFW33wXsZbvyPDae3r9ofWzuaAOWRXN66YCn4KyOKTUy5SdFtVnmTJTd4fbe7tvNhFwfUHOARWIXkZ5p46lgXyNv4mb1X8iWOhTJIio7tL0Kh7fcQER2JA-81giH5On2OnxpZWK80kNNuMAa50ZZ0U3TARiPrLu2CUF2ajaRdx4kZUg9uOIulCvk1H-89xx5zo5aQtYfN055yzubnkdquzyNVbt8ZN0R10ZxtVEJi0Bw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNTcwNiIsIm5iZiI6IjE3ODg3Mjg1MDYifQ.Rbp6NhrAboypOD8p-jrqyGw3AZYtGthz3TR-Q8r79RVdFT2sZMkusq0qXKR7Fi-enCTUWr2dGVEn2nm8jzV9uuXVwqefvGCTrIVXALPw2ODyOwY5TQLrdGfNRkBfn4Ee-r5YyfFpHDUDhx_i5sG-z5EuEl1aivR2zBp3MYseIlF7G4QRIYRtbMHdrheCXV9tZaRQHdPBk4yrK6Ju9fVMqGQSSfj__TaZ5CRj0T_xDIUXxIM-_UMgghftEvWHydifwulJSjubbUI12FAXX81W4xyg3RjTcwmsOHPc41Zf50i86kZaVHIWUNHQKF5A6--IRIiX0x-3MDE0QN75_3yxqw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3775,6 +3775,53 @@
                 "url": "https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYyODAwIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ESEUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiYjUzOWI2ODdiZGJmNzEiLCJzZXNzaW9uX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MtMTc4ODQ5MDAwMy00MzciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ubji28UVXS1fwHVMiXqTE4mljLPwLJiKXO6-E-BCsnbKARMbjmM4VQMwMlsQhyk6-v2WZ2NeggSXzSM3tf9LRw==/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
                 "icono": "",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "FIERA PRODUCCIONES",
+        "samples": [
+            {
+                "name": "FIERA HD",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIERA TV 3",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIERA TV 2",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKYNET HD",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIZZI TV",
+                "url": "https://fieratvhd.com/hls/wizzitv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED DIGITAL",
+                "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
+                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
