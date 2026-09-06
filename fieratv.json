@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNjE5MyIsIm5iZiI6IjE3ODg3MTg5OTMifQ.JxzhggvnbTsJ1OQeopDh2aoZcrpcnpxzcxKcBNlh2Q7-ZAbOXAXN2cmjuIaNcX_NMYZ0gEDCxm7x0XFhZPDnf4YbjkfPWPOO0Gmr1RzJh9a_B2yf4xZbnI1l_sgD9T61ffk4sKwzx1isFY7Yr2WP3cTC_Dm_eG5dvQGzLtnlyfmUOy-pqJmtrWridjZxbmlnj9eq7KM91JfLfAkI7WNC23p9O-uyaOwFN7CnVSout-xEanpJriQpGj_AiDMBFqckMWBsoi6enNk2e1XSMu6ho-1x5d4RioC1yXBlA5OMpQKHaESCNMtR56gYE9J6WWUXW8ElP4jxQt__DsAVsg-K2Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNjg5MSIsIm5iZiI6IjE3ODg3MTk2OTEifQ.fTL0lV_ebYHBV68j7bDGNVqYdcl31rGoeNI0MHms8cVj_5gLv3aGWgvNEJ-OXoK9NvSYVWOE-YKy3JbooXUHm06844IHMTSROHNksvGbu1ml68_UrcA8GnlN8J1_86OTqTmURsS_9Wn2Bpz0dIeN0XnUux_8k0Af-CoR5kekpz9XBQXaui9KeqChY8YJ_qQuzmB1lSXAE-6bGt9vJZJX_dabYsy4d_74M2ORRbNGgzl55w1vA2zxGMVy4bx9UYsyxwyffVtW1fxQj7KRzae-nT80M3GeGzS737xCeBspsXUwM6sJMVNK0u46mcmuGCsx_gXp78whv_yFu-U_Ov__Rw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3086,6 +3086,13 @@
     {
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
+            {
+                "name": "TV PERU",
+                "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "TVE",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c6eds/TV_Espana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Espana.mpd",
