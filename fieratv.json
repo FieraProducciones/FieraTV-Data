@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDE5NSIsIm5iZiI6IjE3ODg3MjY5OTUifQ.mXiHP2OEoEg9bWZwHuSkZtChumIA7_TASjMlSLYgWBbHe564Q_wlrLS9nAtv6B52txv9bwAenXG944d8GYJsBoKb21h5VvAiHMKvXYpUYIMNrx7EEpK8lF7SFZ8aJE11aD6sBOd9yusB6Ebd_1S2PYl7c8LOqT3HirZ9heIcIsyJYFjEjnIMea1zQC8-VwGj9OlMV8HhEvSOd_tM7I1pXJwb-wArjYesYKA1uQCNKlnIZi0W3a7H42_ppnVfTRt8U-qHXpEXcr3cloAn4fsDj1RgWOv3VBoqYDRni2K-cPueUDvRRmUgNLXFVZnsQAGG4WgRDM_7N3FYd1iglKFCcw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDI3NiIsIm5iZiI6IjE3ODg3MjcwNzYifQ.QMZ3bMgkjR_B7aSHnKz56P-u8I2fwM3COV7CcHBGjAbq3Pb1iO_VST-ASRqNtIR66s4b1hqyrhzEEF5XxX7sfaddFNn14gqvcIquVJPkDxzJJYpK1Fwlg7v5ENozr8VcwWzHENVaLIv54xBO9oKour3bGMPaeLrdEYuiWkgqvJ0F-z8i-XmTDmkuNA_XIsQhxfTm7qJpmcsvVpen3t-CKCxX_en7GjOdn749kvW5TXio9DYCU_3gVDHCXKau2h2PIyazczsrYOuscNlx40EUg7LQjwTr9y9eKQgadXlZpAUTiAowtxE3yqHYci9kEDX9BelKxkxp8-ISUwv0ky4B_g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1116,6 +1116,13 @@
             {
                 "name": "SONY CHANNEL",
                 "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SONY MOVIES",
+                "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
