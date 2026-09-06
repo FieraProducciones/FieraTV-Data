@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTM5MiIsIm5iZiI6IjE3ODg3MTgxOTIifQ.AqlNXKkEU4DjE9JHBGn1Pphu8-z82-atGCWm9njhcFIxN7-kA8ZWeiwyXCQtNmqIcYnZapF5esMLqmkFfoTOm2zRu8kGnSJfH7FVaMhtmQhGLF00azZIlkyjZHzrnmRz4nE5Q8q8r7YV91BMfxqlpVWoQX1cqS1Xoi811t9p3KlWPu5DbJIoMS7dliuURt9rzyswGe5ZK2b5_OKsrGbjBrVgrTCXeWzeXJtckTFxLFGFgP_BYkpOnw9by_trvXWQctRvoBHQ027Pzs0DvJaz-lRBTczYh9yqUCYshQnuT8ACS954Mr9rEqeUYG_E1hsUHdYXnh4xKFtJM5M2HbPuUg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTk4MCIsIm5iZiI6IjE3ODg3MTg3ODAifQ.dTkARFj84CDhH1nX_qk3kBkISZaNzf_K8eu1aUj_Ze4tKMeDx2B-_g3DBzS-sbaOwvYB-tHAKGD1RbIOqVW939OVP8a-oKUNvsN7ijptc_5FFTzuKsMqLWWbYBKDAaMeBk13e23DjYNdLV2YPIldFHTL15MjIpqLaAwwZsCcKu0Bi-axCxJtdsipZkj2fbDsG5jFNuxwyeKoTKEh5bvqcwfzePkwSMyfWRmEEOWSlDvGfQM93QifBuUBseAhkSi2tEtlyAXqsENj5fS__rnaQLRUhXCMiGUUjQjYmbNl4OYtF97Bo2vW2MPLnlz0IbEot2SqANZeAPS4Xg6HdASCsA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1912,6 +1912,13 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "E!",
+                "url": "http://177.234.249.178:8888/DW/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/cgvTJ4y2ivlSqdwg8dRBvg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "El Gourmet",
