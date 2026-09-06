@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODc0MDExNiIsIm5iZiI6IjE3ODg3MzI5MTYifQ.XaZFPeY7u7hVdTraFTNI8Ec2kZVSasQ_i63fG3OM4PYjhR4oqv5F7h5Z689aVmeHzAd787_CmPRpqhCQUu-8pp0p912ADzCq3Ak40y0uRhiGSY-bj1988c0gr6XOzgRVcN_bwg3K17Jbzs5SFeAzokXBZwa6qC45BrHpDDXebnRpFDOuYXPoML3T1XwEWo31GpvZ7G86xutGACvZeGTGC5U6WxQ8TtF6kyegt7G95vNA35v17vW_XZfpSFsjvjYWwU_Zlpi0BTQennBfirnZNB79nnIUKu9boKuEcrp1PeolR2poNHlzvpB5XJbxVxMM5rwCKuUCk6TPHPV0d5C_yQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODc0MDIyMyIsIm5iZiI6IjE3ODg3MzMwMjMifQ.i9UPXi3KKXT20AchPtY6PIbK-fOtQVPj-IyW3svvjub2PgXTc9BQzKHB1EJ3hJiYS0lmnpchOiLINUE2bXZk7UtpVWxJalGBK5z5u6fixhkjOlCA7xBex4jvzPGho878lQxM2SC4x78CmU4oO7Gnl736oVWtL80gBnvJzjyF8sXjy9Vk9NGym3xoC2t6R6trLNv-8jaO8mIQmfIJpwWT9TzFuux2Ar6ZJmDn-YihFIkiCDFVjfv__vuOgpTh8y1mgvGsQAfH2Bxu2KnMMIz_pDEk2YDCk3u6l_HpY2_I2qb_dxFW44BqTyx6XnpBIwY2tv2CvWMP5DzXXqDVu0oftw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3681,6 +3681,18 @@
         "name": "NOVAFREE - PRUEBA",
         "samples": [
             {
+                "name": "LA TRIBU",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
+                "type": "HLS",
+                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
+            },
+            {
                 "name": "CARTOON NETWORK PRUEBA",
                 "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYzMDU3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jM2Vkcy83MV9DQVJUT09OX1RfMjAyNjA5MDMyMjU3LTIwMjYwOTAzMjMwOF9PTl9BbmV2aWEzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NDZmZmNjYTg4ZDlhNzgzIiwic2Vzc2lvbl9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjLTE3ODg0OTAyNDMtODk5IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsMTc0LDg4XX0=.5bsQ_Gp0lUMzlftsEkfXDs3uJYJnfbXjlbd6-VLaZejfPpE1Kur4IlfcM9k6g_BASVqsDDlnxdUtHTTfUGNwcw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork-mp4a_145200_spa=20007-scale=48000-p=366526441883688-17683480964561.mp4",
                 "icono": "",
@@ -3750,13 +3762,6 @@
                 "icono": "https://bestleague.world/img/trecepy.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
-            },
-            {
-                "name": "LA TRIBU",
-                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-                "type": "HLS",
-                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY"
             },
             {
                 "name": "DHE PRUEBA",
