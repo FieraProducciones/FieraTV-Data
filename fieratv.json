@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODc0MDA3NiIsIm5iZiI6IjE3ODg3MzI4NzYifQ.Zs_sJUYsTjAOLCzTXxDf_CAOoCG_URKcLdBzxfOkkxoUi1m5kJ9RaSp5DNXB2boug3n2zp8y685kXDGHOjNQl41peKPNZXmnxpoFcxM7XvrEkZkcuHZNm6B_5NKaJrMfWmg3HT3Q31IJQ2hlXTnVJGMRQ4_1bxDNR1wzDOMsKfbs1iezkTbAVk_o9uuC69WBfOdOVWJy4dD3D8V_GUlHDA0gPH-E8B0PGZ3a3ywYwJJupqtSPvBFIhG5MfLgJWjUlHs7TmRCE0ddJI0VcJENqB9H-5S3QqOd-jA-ddnqqmG8t3hMch_1TgcO6kCPczCcSGOv4N2FgoBwM2T_NlGZjA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODc0MDExNiIsIm5iZiI6IjE3ODg3MzI5MTYifQ.XaZFPeY7u7hVdTraFTNI8Ec2kZVSasQ_i63fG3OM4PYjhR4oqv5F7h5Z689aVmeHzAd787_CmPRpqhCQUu-8pp0p912ADzCq3Ak40y0uRhiGSY-bj1988c0gr6XOzgRVcN_bwg3K17Jbzs5SFeAzokXBZwa6qC45BrHpDDXebnRpFDOuYXPoML3T1XwEWo31GpvZ7G86xutGACvZeGTGC5U6WxQ8TtF6kyegt7G95vNA35v17vW_XZfpSFsjvjYWwU_Zlpi0BTQennBfirnZNB79nnIUKu9boKuEcrp1PeolR2poNHlzvpB5XJbxVxMM5rwCKuUCk6TPHPV0d5C_yQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -229,8 +229,11 @@
                 "name": "TRECE HD",
                 "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
                 "icono": "https://bestleague.world/img/trecepy.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
+                "type": "DASH",
+                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
             },
             {
                 "name": "LA TRIBU HD",
