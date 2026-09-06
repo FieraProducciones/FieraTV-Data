@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNzM4NCIsIm5iZiI6IjE3ODg3MzAxODQifQ.qKimHCh8gqmG6BTAty2GGoCfCxzTQElp-o_aRHkDI7iqQnHD3EzSCqWIUhM3ee0hCBb9yHBtxAxC9cQuG5N9XDd6sBf_eAJhHMmexkVmdRGR5o6x8_DPC20de6XbKgXOtqBbSJjswS9kB0Wo0bwA3-XPO6nxXdnKF1pzGS-riCagk3cnD-ml0Qe6Yx8TaBt904bEG5pSCEBbAM2atgASGkN5KGo37hv07PthcdDJ9ZKtIyPZHVhZGdDjKhXv7gaggmY4hSm0UdF3Dj04ZOKXZtdUCCJdGLzXRM5qUhM2jHSwoR7I_yNAeM0xsxE68fHP7z5I2hD4NMJpLlrIsk-v5A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNzk4MyIsIm5iZiI6IjE3ODg3MzA3ODMifQ.YpF7vSLq8HfgNQkDoxpEfsLQmz4uAmlhL5k8AnQcC6hFZb8FFUt-X0m1ak1miOI-6hReV06Zi1Mo8-R3fy1czvNTSvrlsMFHoO6uXEWoc6qalux0jvWDbIPKVg8D6362cD-bckJ0TcTqlNXuPESyDmlfiLnERP1jnpWLYQL7ltCG_WDZ9stXlHfr1hh8aK4nuoLissa_nicGk5lI10DHByJMwfKTVPB2h-pFGlMha1Sv5UKDN4nUgKaFIs8JC8LlmzA9njgVi4c_ifYWxINckPndCiyCVqOywFxlbs852J108yWAlSC-rKuf2nOhCK0fYGpFeDkqXGa9x8b8GYu-pA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -574,12 +574,7 @@
                 "url": "http:\\\\45.170.130.224:8000\\play\\a032\\index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
-                "drm_license_uri": "https://results.femon.net/?keyid=4fdbca11ea240ddc493071e4430fb2e6&key=6de8a4ca5944b557aebb32e1ba5f069a",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "drm_license_uri": ""
             },
             {
                 "name": "MEGA TV 2",
