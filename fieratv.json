@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNTk4MCIsIm5iZiI6IjE3ODg3MTg3ODAifQ.dTkARFj84CDhH1nX_qk3kBkISZaNzf_K8eu1aUj_Ze4tKMeDx2B-_g3DBzS-sbaOwvYB-tHAKGD1RbIOqVW939OVP8a-oKUNvsN7ijptc_5FFTzuKsMqLWWbYBKDAaMeBk13e23DjYNdLV2YPIldFHTL15MjIpqLaAwwZsCcKu0Bi-axCxJtdsipZkj2fbDsG5jFNuxwyeKoTKEh5bvqcwfzePkwSMyfWRmEEOWSlDvGfQM93QifBuUBseAhkSi2tEtlyAXqsENj5fS__rnaQLRUhXCMiGUUjQjYmbNl4OYtF97Bo2vW2MPLnlz0IbEot2SqANZeAPS4Xg6HdASCsA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyNjE5MyIsIm5iZiI6IjE3ODg3MTg5OTMifQ.JxzhggvnbTsJ1OQeopDh2aoZcrpcnpxzcxKcBNlh2Q7-ZAbOXAXN2cmjuIaNcX_NMYZ0gEDCxm7x0XFhZPDnf4YbjkfPWPOO0Gmr1RzJh9a_B2yf4xZbnI1l_sgD9T61ffk4sKwzx1isFY7Yr2WP3cTC_Dm_eG5dvQGzLtnlyfmUOy-pqJmtrWridjZxbmlnj9eq7KM91JfLfAkI7WNC23p9O-uyaOwFN7CnVSout-xEanpJriQpGj_AiDMBFqckMWBsoi6enNk2e1XSMu6ho-1x5d4RioC1yXBlA5OMpQKHaESCNMtR56gYE9J6WWUXW8ElP4jxQt__DsAVsg-K2Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2149,6 +2149,13 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "FRANCE 24 ESPAÑOL",
+                "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
