@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTI5OSIsIm5iZiI6IjE3ODg3MTIwOTkifQ.S6rH-AXZNR9XUUtukxheDFl72WUIrl1c582RMaRj3jqVDXRCfBHUBaL2TyW69SSO4rQU2LDGmcv0MAOG2uL3QMKqXkfBGXcOT0sE74Vvj8SdqMDosoix6m8bWqVQalWixO0CXyxM4xQCbsBcyBkmzSmP3y7x82eVV1XVkCIBaJiuUOKl0QIJ1QTwqXeA3oK7v99iMR9rmssER_Qq9kWWjyqiLZl3v8zcRh4KSO8vanw8LQ4cbFHXCfVEvuqmxEyfxjMBLBq-2bFqBDIBnSnyz7GaBHeY_UG50_qHgnkWhrwQhL9Wted9xdFuGzxQiRLD4YvabbR42WCTb9WS1hcQtg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTM0MiIsIm5iZiI6IjE3ODg3MTIxNDIifQ.aD8e2TRcl_GeXh3dT7I82-Vz56tzjVClqawS0yg2Udt_8aUZRcgmC5PVfzEmrnjgQHaNVdftTPJJxGolHM399ZF2iyjJkOQrhS50IyVpGzTovA9q4wgLspPJAu6_ave2jPGjNTXyVS41uTx7068DfiSyBxnOlHR7p7Rvyw_Nd4jFEvTBUr4WUPYlj7qNKnS9Iq4_eahFsCTC4FibtdZIjAKB6YIOWlKb_UQCo9q2RCn3QOyyi2NXKqEQH78ixterpHiQHUo8bqKKAmE46Op3Hy7jg8OecCJ6bh5AImAtDqeMy3To9ZzIqvix1QWrxStsunbiIEzar52M-6I2AIBatQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -432,10 +432,10 @@
             },
             {
                 "name": "TV CAMARA",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_cenc/TV_Camara.mpd",
+                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/eg6t1cgrgakfa476cdqa8/tvcamara.json?rlkey=23dcy0jmclllnmm4xdyt0ib7h&st=fdqblgzn&dl=0",
+                "type": "HLS",
+                "drm_license_uri": "",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
