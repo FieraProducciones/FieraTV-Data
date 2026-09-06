@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjU2OCIsIm5iZiI6IjE3ODg3MjkzNjgifQ.HEIdBh2CahALtU5A5IFCrj5JDMmtWJZ6H7aSH2MCgDp4Pm3qr1XH_3Cd_fpU0sHqZvDBzO79K4XNSEeSSAACOah62xcVOpq8cEeip3yodScDWycs0BvcWKp9-urQEjZM4ylKRvdLfsqc2vhlThV32GwQ-YxoAQOXvJy8XlV2_fB2qiYftY36J6lE6QWAGOCm8FbK9QrKzd-Un2EhoeipGqi_zISlFG8i6KH2Ue0T-uIfeaKBcPpq-VLdw8OARVELTxGvOlbSr9s5JxWh4iHOu7U1t_xF--899ExAAvt8ZyyoWQu9Q6B3drEMqkbrDaJczBhcFeob3J0FKVui-pi-NA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNjk1MiIsIm5iZiI6IjE3ODg3Mjk3NTIifQ.inPQ-mfP9_Kk3x3L-lOOwtlSfltmSPs4WVJWS0tGmds902IcnoiOQDicXk2qhai0N0W_kRl6zJe5fQyZaNdMC1uqC-ayz-z5C9ek1GXnw13bK4dVT7zXA9TqvFzwymXxq1Pa-SggM5b7rmSAAX9ptgD2CDF2fCO8f_TuWBADwD3nxGdW9_StFjSEwjSlIU6D2ae1z5GPXgL5lUBfaN5dC-La_lfjRCoJWM3kbpDDQ-FjvJwZ24mqZw7doIS_DvZeXkXHvziRNHQ95B0FAO7TjyOYjYHdst1KkDgOLBBaPyP8NCnqPMomHPn7FJnmgVSjM07dP00ztDdECa6L3rvSgA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -212,16 +212,16 @@
         "name": "PARAGUAY🇵🇾02",
         "samples": [
             {
-                "name": "TELEFUTURO HD",
-                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "LA TRIBU HD",
                 "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEFUTURO HD",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
