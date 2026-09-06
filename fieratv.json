@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMDU1MSIsIm5iZiI6IjE3ODg3MTMzNTEifQ.Reh3vUlsbZlrKIGIcBsY9rUJ0-SRicVzKX3WBZiiZgaBuqkXECw8ICguw_raiqfmrEEilMQ-F-zA4H4E79K2oWXBuUeXuhpaNiZaAfgLyrRsMij7u-kbyrSZW_IfqleuzceXNkqCjb4xEeFIxifLy10jr8VIP7rqUNNFaDuUYS15NhpVaeEY_ghYtPDhCeHCbVcCfinA-4vybEmng7Y7M6lAF-_lROwu83JfudqQ2W2E-bYDgwtbmWVK6ID0pdf_IMRLUOg1sgwrPZBm0zmBR0yKO4WYjbCBoBcdd4wPPYi_p7y9f2wi6WgCyvHlgib58zzgxTwvufAEECeFsb0zlw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMTYzMiIsIm5iZiI6IjE3ODg3MTQ0MzIifQ.Tri0lVknToAcIYbOpK4strdOYVT7tmR7f8Bgrc0xJ_rfjW08Qoe8vweVCr0AGo25Td1yC3oHbl6emSOe7kuthxNRRPKhDaxuYAXONB8_dI7fhR4M8BzH6Cvrnu5B9BD-0zTRzBmWraYQyb18Dh4Vh0v4HSnyN3mToq0RVLpZtqps14uX3nyIWYm5aO2oDuSIZOZ8OmpgoN_DKCXFHiLy2jLta1AiDKYXyi862PEkacMwI9OTjszMQOMtYRdRG529XSbf-MwsaKa-hEV2xNOm4l4reGRo2G0bnLh5CwqsqW-_rn26WoKEuwPIUOBeq-nY3QwNXm_QuPHkJSQVsdbmBw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1047,6 +1047,13 @@
                 "name": "NICK TOONS",
                 "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HISTORY CHANEL",
+                "url": "http://213.91.179.28:8000/play/a0c1",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/yNw82gG5hmdPJFUfnL_t5A?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
