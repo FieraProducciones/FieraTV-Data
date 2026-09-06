@@ -5,7 +5,7 @@
             {
                 "name": "EVENTOS FULL HD",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
-                "icono": "",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTE3OCIsIm5iZiI6IjE3ODg3MTE5NzgifQ.FnlDATzxALZoPaSTfjKmHGKadyIWD574Y2-jqOfuMSb9zuRWlZAM0BN3EBZpIWDk8SwDoYjABA5jDAVO4DcKHKCDefIzJTUzzOgqmyzrWa82HR7F1iqcXfz5r4Y94RazvSaqekBX1b_DmaHAxA4fRVlNs0cWhtEPDqTZjiu-NelkbYny01VWJaoUHSPa0SG9BEOClzNQ_xCsIXHsrbUCaBrYfjtCGjPFY-B8C-b6qe8drN-ppTErQhH_caJMGCQmonA6o-B9UORBkCQPm5_KWCyg1_dIPurrSBzdxU79C3m-7SfvFWu_jzBZfRjrALQgI8ZRAcZXfYpb6aGEGOSxOQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTIyMyIsIm5iZiI6IjE3ODg3MTIwMjMifQ.G6p0rBFcGw6KisbabyPFdufyDf5FfNkvdSB70TZl-8dAmv2Ba4E_kqgh_RvR3w0x6SMjcx2818SsxB7ZzuyMOomWyyRvrK7dhpp_13cuGGnYjBhH_gMJUYREid4i2RvQkmxwajwxWsf4QvgXMP-cZYYwJbZ6P9imXGOCUf7xyUPNcWDUsL9NZT-ijz4feKvzZb5xFAnnSg_xPuMtUgWOFFAUri3PHGpyF6RuYH33C5pFtKdk2NGqbKZShAVlPax36968WnU5gGHqc2YHzH3DkHjf5wOuMyuBEN6mFC6Pb7Xtanm59s6sRtqFPAZ0GX4oT_c-mK6tQVur4J0O36o2FQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
