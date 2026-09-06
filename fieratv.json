@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODY0MiIsIm5iZiI6IjE3ODg3MTE0NDIifQ.USbVfh-LPFiKUJpuDyJ_0zVqXX2otq4zfhP5RvHRuBFKNfJemDjqNU1YCRTBeLF6csXIljHfJH9gMTSppIbhNZX5APpAGoqYwSUYqeZQB-3QR6StuYVox6jWcgRJLFgjJ3mR-jl90esbHWcJSaeT0w6-2pqFgQWBseG8C2iM_CuSrSSPPDov1Y6JKVIqc0Tz0-JH5gNk_BgTVYYwADKqByDfUOxBD-Cx_H3dchTJXAaYSCMXUwZ5y4YLmJvjHuB26PvBlgVow9BnsiQQLbqgIh_zh2eM8CXuoxo7Ph9pRLNbJGGHxH5BLQ5xQyDiDLBVIjMbYlaCAHnkkBKRO_RG2A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODcyMiIsIm5iZiI6IjE3ODg3MTE1MjIifQ.nx2Mi29ykgsPIsPgT4K_SvfJ2ORtrNTbVH-dpcy_eLEMAJu7zO3jAZdINbqPK_E_O8_gi0RYacEJA6IFX5zhd037cgvSpT68RPEBA1u8HGP-Bl17kfcipREg-0SL2aYWoEEPB5-aA9duu7-uPbCoQBXyoWBVzIxOXWTAL74wmDvPLgMBScvETqKr2HeYA01GCqsTIvTwAxIXBoYDPeR_nH8sz_QyHc-EH9dOe-TM8jSAB43MpG8LUWIAq8L7_jA5n0Zwl1XdlGqPBBxVVQ5xIONO7t24OFOeHuDSbVzZNVTeoGseZa4LxbCV_Wi4s9ALpm_OuncxUgcjrZcddxAdow/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -65,7 +65,7 @@
             },
             {
                 "name": "ÑANDUTI TV",
-                "url": "https://nanduti.b-cdn.net/720p.m3u8",
+                "url": "https://nanduti.b-cdn.net/Source.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
                 "type": "HLS",
                 "drm_license_uri": ""
