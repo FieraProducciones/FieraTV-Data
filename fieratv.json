@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNzk4MyIsIm5iZiI6IjE3ODg3MzA3ODMifQ.YpF7vSLq8HfgNQkDoxpEfsLQmz4uAmlhL5k8AnQcC6hFZb8FFUt-X0m1ak1miOI-6hReV06Zi1Mo8-R3fy1czvNTSvrlsMFHoO6uXEWoc6qalux0jvWDbIPKVg8D6362cD-bckJ0TcTqlNXuPESyDmlfiLnERP1jnpWLYQL7ltCG_WDZ9stXlHfr1hh8aK4nuoLissa_nicGk5lI10DHByJMwfKTVPB2h-pFGlMha1Sv5UKDN4nUgKaFIs8JC8LlmzA9njgVi4c_ifYWxINckPndCiyCVqOywFxlbs852J108yWAlSC-rKuf2nOhCK0fYGpFeDkqXGa9x8b8GYu-pA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczODAzNCIsIm5iZiI6IjE3ODg3MzA4MzQifQ.Mc52FJJbQGb1RRICuMrgvE0tZ0sOMy6OTPjxBagPbyM1-f9W3ZEZv39HAYCrwbXxH-twMs0s4DEH5nWwHCPo5U7uGAxaCKwX9RtZUwcsA4L7xlwvBhc-yueKNLizcm1JPTZ1KbrSW2P69HtQRhTmXPoLEgJ7F8Jw_QRaGm0tv_TSz5pjwHSlWHtyQWwHEuUiN1rlYKTB_-lcih7gGKXFDtIkDA1iAOWxhAnEf99c5II1wcKBpkW25OFlo_dpZtggBu6I_OnpA2q-NNsL-d0zmTG2RhKuBSZVCyvySZ6catFtIRD6ZBXuYHBOEIktFK7ogn1OzkcGKRpVMgU34lUwXQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -524,12 +524,7 @@
                 "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
                 "type": "HLS",
-                "drm_license_uri": "https://results.femon.net/?keyid=64b5c35275f4288e2a05f7702dcb036b&key=ded6887ccad57ea7ff9949d0c6f4ac1b",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "drm_license_uri": ""
             },
             {
                 "name": "5 DIAS PY",
