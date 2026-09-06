@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNzAyMCIsIm5iZiI6IjE3ODg3MDk4MjAifQ.lh1DO69kvS50zjUABDtQLRfDhlv2qOLXokTLUrK8O-1fIdvDUSIz1gFVeFnnKwKltC9SbNU6O-jqo610LjWyYuwMPFU6XoL-Iz3gTHwL2zOGg5p6pnWF03Mrz8DxuxmyM22rCylQYWLWgC1YJs92cyJUxRhr3BCK_A6DH6aTZpagiSjxsQreKpHI1pz6L-TOcJ0Sd0EZEdJ6nFbcoquNJLWM3pFWWKIlylcVZ7MGsypr2MoBvV0BIlu3PgeronJecFQdj3e1yYtd3EM00YnbOzCrtC20YzQruWZo8lGcvKzKVcq0UBRwcOFZpXmfI4OIDCXu1Xl0aUwx7ROJxWfBOA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNzM1MiIsIm5iZiI6IjE3ODg3MTAxNTIifQ.CRe0W1qt3pF5U_O8WDlXsb61iakLp7vyHDsYF05yWR3rCLY73xGjtcWUm9HJuOD6XckJySakOyIk75ha0Rre4o_bZv9ya9jgsjd6dBOp1P0HJigxsFJpUHcMK5Gce2sKIZskkEOjmJ1TMWR6K3drcFVlog8QOtMNwi_G8O9_YKBRvr5dVDmV8gkpEs-WAIaW2ql7-OocnobjtkQcudknj97hd_INGyWxYbcMwS3mYlYX2LsioUS4nF1iPqCD5UD_1rNnwGjvU9MZbu7l0OpOrrnOGksKibzO9lII-lLzv4x7Fv5JnewmxcCEBgruYi34XZ0xF-qLSDhb9Icdf_hH7g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2354,6 +2354,13 @@
     {
         "name": "INFANTILES 👦",
         "samples": [
+            {
+                "name": "DISNEY JR",
+                "url": "https://ats-edge-copi-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/h_764f57cde7d0c5b132978bd101cf8c7b/var5600000/aud12000/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "CARTOON NETWORK",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
