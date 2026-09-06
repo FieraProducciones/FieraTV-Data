@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDI3NiIsIm5iZiI6IjE3ODg3MjcwNzYifQ.QMZ3bMgkjR_B7aSHnKz56P-u8I2fwM3COV7CcHBGjAbq3Pb1iO_VST-ASRqNtIR66s4b1hqyrhzEEF5XxX7sfaddFNn14gqvcIquVJPkDxzJJYpK1Fwlg7v5ENozr8VcwWzHENVaLIv54xBO9oKour3bGMPaeLrdEYuiWkgqvJ0F-z8i-XmTDmkuNA_XIsQhxfTm7qJpmcsvVpen3t-CKCxX_en7GjOdn749kvW5TXio9DYCU_3gVDHCXKau2h2PIyazczsrYOuscNlx40EUg7LQjwTr9y9eKQgadXlZpAUTiAowtxE3yqHYci9kEDX9BelKxkxp8-ISUwv0ky4B_g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDUzMSIsIm5iZiI6IjE3ODg3MjczMzEifQ.XUo7U0Qe0mso5u2qUHo8NATQoZBJGtE0rSxjKND2j2hbV5O1C3s_Tg9utVjSdhotenzjt17y6n50ibAYcMCSG83v7hjlD2c1N1rtnG3KL0oPBsP4tJYHC-Cqq1qTlmRiRU1EpyPMmmvyLYA92qrwqjK5NW7LHyRuYWfP4uzQDpy8ATtY_BHMgQvsmSEnpZ8jmTtgRXCQrLMndAO2gTV3eN7cn20Vfv1-SN-ZbqeZgzdZgUwsqCzcmsAW1Z0_5YaAfsthhJxuIzPVXtYQSs5G6Yu4OJ1k6m5VkcwXjcSM-MCrY_MrB26tOjYfZ0rRnxugs6qy9dQpHvd845IHhOOcOA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1124,6 +1124,13 @@
                 "name": "SONY MOVIES",
                 "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TNT NOVELAS",
+                "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
