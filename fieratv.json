@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNjc4NCIsIm5iZiI6IjE3ODg3MDk1ODQifQ.YhqhYGng8RLGpZUuQFNPLhj-E7munLh4toGJAFGyOnZT5HcmIza6W2kplRutfbnD0nYdYjRcU9rGzN7ZtjNj-EhLMiiWnBVT_huRdNyUlJAItLZBVGwwO16zPOV1Cjnq8LlQFyD3HRd1_UhdIupDL05LVDUbwm178b1dobHWItNHIKcNsB2jx8Orxw3g3-aPpfLl9de6qoFvXuOkxqEwtx8W0A7hcEhg41Q90cxTF_advv-tZblb0U11uVcF4FJl1iFvg7TdTljHzG_3HcQ0-eqR0weNXuqB7V-OiSU4A_7bfCarW6n8dOOonGldtIVVeVbcIY2RmKNCBm9Ck5Tudw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNzAyMCIsIm5iZiI6IjE3ODg3MDk4MjAifQ.lh1DO69kvS50zjUABDtQLRfDhlv2qOLXokTLUrK8O-1fIdvDUSIz1gFVeFnnKwKltC9SbNU6O-jqo610LjWyYuwMPFU6XoL-Iz3gTHwL2zOGg5p6pnWF03Mrz8DxuxmyM22rCylQYWLWgC1YJs92cyJUxRhr3BCK_A6DH6aTZpagiSjxsQreKpHI1pz6L-TOcJ0Sd0EZEdJ6nFbcoquNJLWM3pFWWKIlylcVZ7MGsypr2MoBvV0BIlu3PgeronJecFQdj3e1yYtd3EM00YnbOzCrtC20YzQruWZo8lGcvKzKVcq0UBRwcOFZpXmfI4OIDCXu1Xl0aUwx7ROJxWfBOA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1011,6 +1011,13 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV CAMARA DE DIPUTADOS",
+                "url": "https://stream3.camara.gov.br/tv1/audio2_stream.m3u8",
+                "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+                "type": "HLS",
                 "drm_license_uri": ""
             },
             {
