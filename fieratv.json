@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxNzM1MiIsIm5iZiI6IjE3ODg3MTAxNTIifQ.CRe0W1qt3pF5U_O8WDlXsb61iakLp7vyHDsYF05yWR3rCLY73xGjtcWUm9HJuOD6XckJySakOyIk75ha0Rre4o_bZv9ya9jgsjd6dBOp1P0HJigxsFJpUHcMK5Gce2sKIZskkEOjmJ1TMWR6K3drcFVlog8QOtMNwi_G8O9_YKBRvr5dVDmV8gkpEs-WAIaW2ql7-OocnobjtkQcudknj97hd_INGyWxYbcMwS3mYlYX2LsioUS4nF1iPqCD5UD_1rNnwGjvU9MZbu7l0OpOrrnOGksKibzO9lII-lLzv4x7Fv5JnewmxcCEBgruYi34XZ0xF-qLSDhb9Icdf_hH7g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODIxNCIsIm5iZiI6IjE3ODg3MTEwMTQifQ.Q_lIcuoFa-HbOUHFvGodgPdZs_cfZikgHoG6HuLirqPdjc5770CwY4V-60nT16y2gagp9HpaOcFRO530PRroRrP6MuYYTjzyHmr-MjyvV4wcps_ZLVWSpxN_1osHme9zn_EUBVwKY5ZL8SZ2ZN2VU2Y3ERcm-nXfW1L0A5ErpsMpFNvxnJ_XZ8T3g5GlOjPSoE3NU39fnfldEh3XXkzcLldKYegwnk9c1oEYB7JD3V_VTrd7g8yQT5ZqrqpZKZV7J47AUxdOTb1paNzUVfJuPLt9ul4neLejAR4MPlPOjX-87z7uOZmIzzERJuIb3DBQ-LbGgeZi5r9Jmf5eWpDmLQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -562,6 +562,13 @@
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
+            },
+            {
+                "name": "CAD",
+                "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7iVAToJaqZmCL3go8qFMGrtiRL_e3-R2ds5x9el-8A&s",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
