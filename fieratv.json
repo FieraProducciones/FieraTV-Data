@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODcyMiIsIm5iZiI6IjE3ODg3MTE1MjIifQ.nx2Mi29ykgsPIsPgT4K_SvfJ2ORtrNTbVH-dpcy_eLEMAJu7zO3jAZdINbqPK_E_O8_gi0RYacEJA6IFX5zhd037cgvSpT68RPEBA1u8HGP-Bl17kfcipREg-0SL2aYWoEEPB5-aA9duu7-uPbCoQBXyoWBVzIxOXWTAL74wmDvPLgMBScvETqKr2HeYA01GCqsTIvTwAxIXBoYDPeR_nH8sz_QyHc-EH9dOe-TM8jSAB43MpG8LUWIAq8L7_jA5n0Zwl1XdlGqPBBxVVQ5xIONO7t24OFOeHuDSbVzZNVTeoGseZa4LxbCV_Wi4s9ALpm_OuncxUgcjrZcddxAdow/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODgwMCIsIm5iZiI6IjE3ODg3MTE2MDAifQ.Dvb9lNSLIvoCdQ-Bo3wu0iWX6jSmqMfRv5QVa-X1caP-i7lLCaAo8C3aXOsCQGWoEfLHOY_eT4xxiE9KfcFKv1cnGBBfDPiM-LbyAMlJ9GLtnRwUoOR2OC0kSwFh7bQlVMj3zJu5Jn5UIUwSCxUqIkUrG59MyEKNy30rra3dVvgfRzVXDv-bu--lS3o7HxoNrxkdUjuT_hSQG2o_-uGkOa47FrzJPlJRH-_AVvDzN_il3FQm7XMTdYBOStsc0npQbflDGPXLJQARqJMDc2IzTYcNYwSqhxRNfbPsJDHzxejAmO4fKhqaYYr0l7LLsmJ5D6YaxaxvNFNLeKSKoRZ3Yw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -485,9 +485,9 @@
             },
             {
                 "name": "PARAVISION",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
+                "url": "http:\\\\45.170.130.224:8000\\play\\a032\\index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
-                "type": "CLEARKEY",
+                "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=4fdbca11ea240ddc493071e4430fb2e6&key=6de8a4ca5944b557aebb32e1ba5f069a",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
