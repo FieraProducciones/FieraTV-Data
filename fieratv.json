@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczMjczOSIsIm5iZiI6IjE3ODg3MjU1MzkifQ.YKpaykU6uCCVb6Rz8uUd3dbj7q8zT8eGMX9Q5srAgrcmlYlW2TuUUbpWN61vatuhOWfjoP_d5U-QK2Sc7aAY2IVbKRsYP5nwSknwfOQeKJt11VBGchG-c9eH3nKqVSdkFYvtAfGwVpGQAbNnmXaabDy0nMW44-FmGpL0NJKcHyA62qzsbOKT7smQ0_k2Yyin3INyHP2su9pOnX0w7G7zR_2y3ARyU2EXrBP3bltOEEVgH7iPdcZAY3VZs-KeBmQWZV-oEfUb08iAGuiAe0oVuzdhhqG-cfpInnEbmL0t38UeTpjFWwuL3aSme5yofF42ukFapDyt5wnqeKMP5hWurA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczMzQ1NiIsIm5iZiI6IjE3ODg3MjYyNTYifQ.KRaooLl5Z7cO3pghUb_8sLuUl1YshiWQSZYtQZEfCrEte8rL9NJVP5m74VgOU-1nyc15_w4hN65lckgCqCd5SGOgwmOgOASUFXFDYfmgYlHExh0vG4lvhIIq_OC-vLNG6JB44AkDIxHcAY5LiDfSgDdqaylM0qtstT4kgq2Y1Nx9XgbpVmzFu6sAizKStO38LTM0BYN0_o8wM1svhRubowXGG4--5Rqnvz5Ffl5dqR6_PMSEJWib6P_wr4ePXT4DUj_PXbcxjLFvZduqooxXraPor2ea4AODaB-cX_qIl3Vpio0jf8EiGVpnZPZYOGVXaSkeou-HpDz9Sb-KsQPKtQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1096,6 +1096,13 @@
                 "name": "ADULT SWIM",
                 "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/DfNwCrbegGgnA7-H3HtypA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "COMEDY CENTRAL",
+                "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/E3bFS6T1KYfcZtaUJ0wjZg?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
