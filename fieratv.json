@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDA3MSIsIm5iZiI6IjE3ODg3MjY4NzEifQ.YDjTL4N8efsDRkwa0zL4EIE9OtmgAxvVAepj_rzXMs28SdhCovNpFHUc58Nyx5m-X-4aVu3_WeTrzJoMDIqyuWm8pzEu18AimqXRZGf5mzCA9FT0oXXq6TbPDIH4ALBCBdv7z78jm2b0BA4U9tpL5Mz6EXev7D5S_od79KSThrrqzY_t7NLfnZKZip9_zBuio4koCYqB3OzYPfFiJxeO9F3ww34oWmIq-UOflsJIpCmdthNbr_mvLgexVWpiFTscRjJB9lFRZxb6-D7314RsM1N65GHO1Dl4rWEItLnGOg9iD3Y1rGJm9trljbW_7ckuqxE0Rokz5kWJtVmYEy6FGA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczNDE2NiIsIm5iZiI6IjE3ODg3MjY5NjYifQ.ghmUn4CAYCHEGCJoRyF38J9-iBRhlV_jntFFeiubHyjWC4O3U38H7OaFAKcBMUK3RcH8p0RcGVVoN-Eo5Wv0-2qsExNbPWaEB56LhGMxzOang_0Dqz1EKubWtX0blHmGCeojnmXf_YhfqWvhV3qNivmqhn3DpsUEjBRZneLcxgtUFjqde0P01JtIS1R_sxlZ6-JOgwKFskQzErDBc2F81hA7uD4yGtUJWtQPfPSF8S1tkv9P5R-J68VDng55Sp06YkwJ5_sJvFpZ7nc6za5DvLE76JCbQO8kBwRylmqvfiafvjnmL-5pMAwwesNUhcdSeDvIupAwYKe3ETSKALBgHQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1110,6 +1110,13 @@
                 "name": "MASTERCHEF",
                 "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
                 "icono": "https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SONY CHANNEL",
+                "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
