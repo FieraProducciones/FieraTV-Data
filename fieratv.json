@@ -25,7 +25,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxODk3MyIsIm5iZiI6IjE3ODg3MTE3NzMifQ.crYfoE1RWDL8YSM1PiTZpjX5vat7ecx45Z-Jfe3mmzOzUg8Tglzl-VKpEwz8pVb9rJlCpvyqzs53D_QrrzoCnSh75A6mcGrnTQipdro62nBjCvfORRco3J1iB8bPfBO2CMfRrByNCsyBEmAtRiz0yoqWnkZQu_uchv62zVnlFQ8eAyxFnpE7qOjwOVHTq0kM7viaGnC280YsRIkKPz4fj4O12kbw8EptVzGeibKmGpnQ08MBOeT3wbeodK7ucD7TgXoboALM8fOFED0snGs5FafQARQfW1MRr-VBb2IofVR6paiJOfdET6xbPZIbbgtrhbFG2OfobVMckAY7GyP1ow/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcxOTAyNSIsIm5iZiI6IjE3ODg3MTE4MjUifQ.LF6f7djmjIK8X057vjlVVfmAzwUVk9_L6PTBDHg8dm7dZJ66q2z3jbfKDbc-ila0shfAy7hdoSqg6BuFrGtbo6iiQaZnCgaLpHUhuRG_bkk-rcOL0KTAitSfdBIsYKfKoY6q4VokF6H4GUnhI1zAhx8W3RlyhbUKWJuEAebjz2FLREdS44pisJnjtGIYCyBvIkojpZp9cMg6qWbFlpgmYBeDoiX2UH9OV8uaN799Axe9vb9TRoy4YPHFCHZYGcV5BqiZfukfJt4PiQidi7WOIRQgEvEyTGlJOvcSK_n2mCuCCy_S8IJhX4ZqVCA_0YGhSvjT_R_QNxAsETwH1F3rgw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3298,6 +3298,13 @@
     {
         "name": "CLUB TELEMUNDO",
         "samples": [
+            {
+                "name": "TELEMUNDO INTERNACIONAL",
+                "url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "TELEMUNDO NOTICIAS",
                 "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
