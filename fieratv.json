@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMTYzMiIsIm5iZiI6IjE3ODg3MTQ0MzIifQ.Tri0lVknToAcIYbOpK4strdOYVT7tmR7f8Bgrc0xJ_rfjW08Qoe8vweVCr0AGo25Td1yC3oHbl6emSOe7kuthxNRRPKhDaxuYAXONB8_dI7fhR4M8BzH6Cvrnu5B9BD-0zTRzBmWraYQyb18Dh4Vh0v4HSnyN3mToq0RVLpZtqps14uX3nyIWYm5aO2oDuSIZOZ8OmpgoN_DKCXFHiLy2jLta1AiDKYXyi862PEkacMwI9OTjszMQOMtYRdRG529XSbf-MwsaKa-hEV2xNOm4l4reGRo2G0bnLh5CwqsqW-_rn26WoKEuwPIUOBeq-nY3QwNXm_QuPHkJSQVsdbmBw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODcyMTc1NiIsIm5iZiI6IjE3ODg3MTQ1NTYifQ.SG52i1yl7dppgCIJ0sVlZw-HrfI-mVzjxXOnpeoY4Wz08XPr-5wIX9pRcoeFUmuuTX91ITxjXkocXhT8VsI1EOky7uJkBMVC0o6y17AuKCdJPSewyqxt_I4rMmgR8uJGg0_kvnA2JjxVHpxh7CtPvrHru3uyPT68VxcRUZbKyqhQEZYgHe_a3mhd9G59aFIOYU9xn3CMHpX9k5SNzZBuy5xBTtrxd2Snw215gB61He2BY3hO-jL3QOws6PYSNUD9U0WdxkUkhzykODCRNRwgtmhSdAtX1xNZihYZ0INJuLFTYO6gqj99DeAPk5zyIrGLADYJv2armHDEvhbbgmRdxQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1800,6 +1800,13 @@
     {
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
+            {
+                "name": "H2 HD",
+                "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "EDUCANAL",
                 "url": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
