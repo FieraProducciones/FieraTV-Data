@@ -39,7 +39,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczMzQ1NiIsIm5iZiI6IjE3ODg3MjYyNTYifQ.KRaooLl5Z7cO3pghUb_8sLuUl1YshiWQSZYtQZEfCrEte8rL9NJVP5m74VgOU-1nyc15_w4hN65lckgCqCd5SGOgwmOgOASUFXFDYfmgYlHExh0vG4lvhIIq_OC-vLNG6JB44AkDIxHcAY5LiDfSgDdqaylM0qtstT4kgq2Y1Nx9XgbpVmzFu6sAizKStO38LTM0BYN0_o8wM1svhRubowXGG4--5Rqnvz5Ffl5dqR6_PMSEJWib6P_wr4ePXT4DUj_PXbcxjLFvZduqooxXraPor2ea4AODaB-cX_qIl3Vpio0jf8EiGVpnZPZYOGVXaSkeou-HpDz9Sb-KsQPKtQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODczMzcyNiIsIm5iZiI6IjE3ODg3MjY1MjYifQ.FGTC4QzVKkFS3kas5qjYQ1U2CqPCWSVRNXrUC91PDV_C5YkxaOPuwurSAWcV38hjNAAhOGUftNA-oFX4W4aYrthbcAROBz0vFwuuO5b69Ja4NuFGcC59v5FkxSdl22MBsXHBBqgh3LnR074b1aYGh4NzPQO6k7_faIfkQHx2QenCTnDy_ylATW6MkaZx-KG61qzfn-zt7aWLoSbJojbZkOFaSiksiknvSM8HuvhUgRZnJ80AWZ6mB-eN7vu3XoMRbcYiAfKsawtZy8rO9JZZJfie_p1EWsTAkdgh3HzfCDL3B1cNx0BvWJuQk0rNonuIunRIT-Q3RMYQ_KnAcekzLw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1103,6 +1103,13 @@
                 "name": "COMEDY CENTRAL",
                 "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/E3bFS6T1KYfcZtaUJ0wjZg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MASTERCHEF",
+                "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
+                "icono": "https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
