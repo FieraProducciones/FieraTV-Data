@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzODUzNSIsIm5iZiI6IjE3ODg4MzEzMzUifQ.PmmtS01g-Z-We4GWTISQrRipgXipqVtFCFeNMNAC1sSCN7hne2GHscBnJtgTzo3-H4Pyqqzs9xDVlu2LS80ytb-8NZyotfLvYzgxEw1ANZBgxmSneqGZfS39L60phvRDYLO0QGuFJExQ3UfHwkg8Opc6wFYqz-C4UEqR1tI9OOVB9gv3eE1HyiEO9uQzz1b6LyLaHbFs00ThJRQKkIaKCxq6LnSy0VD6dC7bC5aWLqpML9cmrHmBez7G5BlJwojE8TAr1cgIf_tnqjTEi8p9OluKIFmn6iEqAe3_BaLiYr1J9TtU-MmaC_6lOY_IyixFKFx-1Pf1D7nnV2XB_iTfjg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzODcwOCIsIm5iZiI6IjE3ODg4MzE1MDgifQ.eaSQ1sqMvrdcLUpILh4iK067XRiQG1XT_BMp9iANkJ9RuLAp67-PXooXxTu6L2RRY464RQKv9soQEPU3oqEhXib0N-3-1LRtat4gcrW7U9izrRCC_CYrB4hWimlSAdPed3B7PcERShdI6Bavs68-KgA3jrQu0erz9x0rSkBcB-caNseKJh5GaMXXaUn5qNKvQT_LaxYbDJAKC5AeNw-vs9Ktid77qmVlRreCZGJ9c7h60bxMa9AJdJ9Nb32ycEj3m-SI-dvMVrbLCphiGHljCixIOOs6vGqgQpZ8ttODPGEzYkwE4G_OlI1SQklbjYd3s2qRomCxFs0W8BkHG9I7Tg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1209,7 +1209,7 @@
                 "name": "TELEFE HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": "",
                 "headers": {
                     "User-Agent": "fieratvpro"
