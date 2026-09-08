@@ -1,8 +1,11 @@
 [
     {
+        "_local_id": 1,
         "name": "EVENTOS PY HD",
         "samples": [
             {
+                "_local_id": 438,
+                "_local_category_id": 1,
                 "name": "EVENTOS FULL HD",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -10,6 +13,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 389,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 1",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -17,6 +22,8 @@
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0\""
             },
             {
+                "_local_id": 1,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 2",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -24,6 +31,8 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
             {
+                "_local_id": 405,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 3",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -31,6 +40,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 4",
                 "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -38,6 +49,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 408,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 5",
                 "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -45,6 +58,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 424,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 6",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -52,6 +67,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 425,
+                "_local_category_id": 1,
                 "name": "EVENTOS HD 7",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -59,6 +76,8 @@
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
             },
             {
+                "_local_id": 468,
+                "_local_category_id": 1,
                 "name": "TIGO SPORTS SD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10588.ts",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -66,6 +85,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 469,
+                "_local_category_id": 1,
                 "name": "TIGO SPORTS SD+",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/201127.ts",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -75,9 +96,12 @@
         ]
     },
     {
+        "_local_id": 2,
         "name": "FIERA PRODUCCIONES HD ®",
         "samples": [
             {
+                "_local_id": 414,
+                "_local_category_id": 2,
                 "name": "FLOW EVENTOS",
                 "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODkwNTQ0Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jNGVkcy85Nzc3X0VWRS0ySERfVF8yMDI2MDgyNTE1MDAtMjAyNjA4MjYwMzAwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQxMWEwZDI0YjlkOTIzNjUiLCJzZXNzaW9uX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMtMTc4NzcxNzc0NS02NDUiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiOWE3MDk3ZDk2NjgzOGZlOGJkZjY4MjI5MjU2MTBmOGMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDE3NCw4OF19.KUPS1VJWrM-PllWoWv2omBI35TSS4iqXaB6mY8WzGKIjoGXgLgG0njtVkfbW4Do7gp4Gd7vSFrxlL_PzSSw8Qg==/nPVR/c4eds/9777_EVE-2HD_T_202608251500-202608260300_ON_Anevia4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos2_PY.mpd",
                 "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
@@ -85,6 +109,8 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
             {
+                "_local_id": 407,
+                "_local_category_id": 2,
                 "name": "FIERA HD",
                 "url": "https://fieratvhd.com/hls/fieratv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
@@ -92,6 +118,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 8,
+                "_local_category_id": 2,
                 "name": "FIERA TV 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
@@ -99,13 +127,17 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 404,
+                "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3MjYyOCIsIm5iZiI6IjE3ODg4NjU0MjgifQ.dgOYghewZvEclVUFa9QcfpXahlRGk2LO2wKE8-A6z3zCL97dC9tq_5E1ftRLgI-M37h7oBIDDBIJ97-V7kSXW90uQ9CHcqL6p8SecjkHLZvmeXdNr4UxrQm0OFm8rh0684stWA4_WFIxEAHnL5yUmY01Omff69IfZqOkhwXEYSOy1cFBCip-W4qFGLkIP6aF8nlupwlIZlwQiojIRwKN1VZVMlCzML7TEP4ZNS4-X30RaC_dd2DX8NKUGPKOmSlbLTTiwfmoATILuvm7wKhvb5MlbpqOJHc9JhEgihKpIpqI3RXPL6y4HJ7M24SwS2Lst_mkBVBrO-oJCZvTVAT59g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NDQ5MyIsIm5iZiI6IjE3ODg4NjcyOTMifQ.ZA--tUakaRLKFXVTz49LA2XGSJQCpTIPer4fmXcrAiscHg2B840bhdR2BJHG0SknHzby_gIsl6bpAOG4L5QWGYeYWAWPaMN7Jp0VYgoFFtZPFohc2oVQXnYNU-U_MTK2J3VMdhAHsMZj1zBsvgPkwTiHp4S89NHQJ5BQpITQzqGu4l40qmKEHO96ZFHV44iZ1wZKTolvBeNlkNxCYjjMv45Nhz0897NNGRC_dZo6sbtD9_-sowGryv_2VvdiujSLRL0SkcJpi4pDUQW6bZievAD9S-JkSQLgDkCt21c0M9rqIsJ0vTkxuAo5Idb9acD4c7Xfuzdnw0Few1l-enXiww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 9,
+                "_local_category_id": 2,
                 "name": "SKYNET HD",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
@@ -113,6 +145,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 10,
+                "_local_category_id": 2,
                 "name": "WIZZI TV",
                 "url": "https://fieratvhd.com/hls/wizzitv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
@@ -120,6 +154,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 11,
+                "_local_category_id": 2,
                 "name": "RED DIGITAL",
                 "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
@@ -127,6 +163,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 456,
+                "_local_category_id": 2,
                 "name": "DRONE TV HD",
                 "url": "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8",
                 "icono": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png&w=256&q=75",
@@ -134,6 +172,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 457,
+                "_local_category_id": 2,
                 "name": "SPACE LIVE STREAMING",
                 "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
                 "icono": "https://www.elgrupoinformatico.com/static/manuales/2026/04/plutotv-spacelive-1200x675.jpg",
@@ -143,9 +183,12 @@
         ]
     },
     {
+        "_local_id": 5,
         "name": "PARAGUAY 🇵🇾01",
         "samples": [
             {
+                "_local_id": 23,
+                "_local_category_id": 5,
                 "name": "ABC TV",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199416.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
@@ -156,6 +199,8 @@
                 }
             },
             {
+                "_local_id": 466,
+                "_local_category_id": 5,
                 "name": "LA TRUBU",
                 "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -163,6 +208,8 @@
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY"
             },
             {
+                "_local_id": 467,
+                "_local_category_id": 5,
                 "name": "TRECE",
                 "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
                 "icono": "https://bestleague.world/img/trecepy.webp",
@@ -170,6 +217,8 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
             },
             {
+                "_local_id": 31,
+                "_local_category_id": 5,
                 "name": "ÑANDUTI TV",
                 "url": "https://nanduti.b-cdn.net/Source.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
@@ -177,6 +226,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 32,
+                "_local_category_id": 5,
                 "name": "TELEFUTURO",
                 "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -184,6 +235,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 33,
+                "_local_category_id": 5,
                 "name": "SNT",
                 "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -191,6 +244,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 34,
+                "_local_category_id": 5,
                 "name": "NPY",
                 "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
@@ -198,6 +253,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 35,
+                "_local_category_id": 5,
                 "name": "C9N",
                 "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -205,6 +262,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 36,
+                "_local_category_id": 5,
                 "name": "GEN HD",
                 "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -217,6 +276,8 @@
                 }
             },
             {
+                "_local_id": 37,
+                "_local_category_id": 5,
                 "name": "HEI",
                 "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
@@ -224,6 +285,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 38,
+                "_local_category_id": 5,
                 "name": "LA TELE HD",
                 "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
@@ -231,6 +294,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 39,
+                "_local_category_id": 5,
                 "name": "MEGA TV",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
@@ -243,6 +308,8 @@
                 }
             },
             {
+                "_local_id": 40,
+                "_local_category_id": 5,
                 "name": "CANAL PRO",
                 "url": "https://www.desde-paraguay.com/pro.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
@@ -252,9 +319,12 @@
         ]
     },
     {
+        "_local_id": 4,
         "name": "PARAGUAY🇵🇾02",
         "samples": [
             {
+                "_local_id": 24,
+                "_local_category_id": 4,
                 "name": "TELEFUTURO HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10585.ts",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
@@ -265,6 +335,8 @@
                 }
             },
             {
+                "_local_id": 410,
+                "_local_category_id": 4,
                 "name": "TRECE HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199417.ts",
                 "icono": "https://bestleague.world/img/trecepy.webp",
@@ -275,6 +347,8 @@
                 }
             },
             {
+                "_local_id": 409,
+                "_local_category_id": 4,
                 "name": "UNICANAL HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10587.ts",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -285,6 +359,8 @@
                 }
             },
             {
+                "_local_id": 25,
+                "_local_category_id": 4,
                 "name": "SNT HD",
                 "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -292,6 +368,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 27,
+                "_local_category_id": 4,
                 "name": "C9N",
                 "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -299,6 +377,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 28,
+                "_local_category_id": 4,
                 "name": "GEN HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/201133.ts",
                 "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -309,6 +389,8 @@
                 }
             },
             {
+                "_local_id": 29,
+                "_local_category_id": 4,
                 "name": "MONUMENTAL TV",
                 "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
@@ -316,6 +398,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 30,
+                "_local_category_id": 4,
                 "name": "LA TELE HD",
                 "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
@@ -323,6 +407,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 417,
+                "_local_category_id": 4,
                 "name": "TV CAMARA",
                 "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
@@ -332,9 +418,12 @@
         ]
     },
     {
+        "_local_id": 6,
         "name": "PARAGUAY 🇵🇾03",
         "samples": [
             {
+                "_local_id": 46,
+                "_local_category_id": 6,
                 "name": "SUR TV",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331238.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
@@ -345,6 +434,8 @@
                 }
             },
             {
+                "_local_id": 41,
+                "_local_category_id": 6,
                 "name": "5 DIAS PY",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd",
                 "icono": "https://i.ibb.co/Pg6v5zn/images.png",
@@ -357,6 +448,8 @@
                 }
             },
             {
+                "_local_id": 42,
+                "_local_category_id": 6,
                 "name": "CANAL PRO",
                 "url": "https://www.desde-paraguay.com/pro.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
@@ -364,6 +457,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 44,
+                "_local_category_id": 6,
                 "name": "UNION TV",
                 "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
                 "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
@@ -371,6 +466,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 45,
+                "_local_category_id": 6,
                 "name": "PARAVISION",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331237.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
@@ -381,6 +478,8 @@
                 }
             },
             {
+                "_local_id": 47,
+                "_local_category_id": 6,
                 "name": "MEGA TV 2",
                 "url": "https://www.desde-paraguay.com/mega.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
@@ -388,6 +487,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 48,
+                "_local_category_id": 6,
                 "name": "COSMOS",
                 "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
@@ -395,6 +496,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 49,
+                "_local_category_id": 6,
                 "name": "BM - BRUNO MASI",
                 "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
@@ -402,6 +505,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 50,
+                "_local_category_id": 6,
                 "name": "PARAGUAY TV",
                 "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
                 "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
@@ -409,6 +514,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 51,
+                "_local_category_id": 6,
                 "name": "PRODUCTIVA TV",
                 "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
                 "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
@@ -416,6 +523,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 52,
+                "_local_category_id": 6,
                 "name": "RADIO NACIONAL DEL PARAGUAY",
                 "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=R3UBswJmJ47V3vPjJHxW3v",
                 "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
@@ -423,6 +532,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 53,
+                "_local_category_id": 6,
                 "name": "REPUBLICA TV",
                 "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w307468788.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
@@ -430,6 +541,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 54,
+                "_local_category_id": 6,
                 "name": "AMERICA TV PARAGUAY",
                 "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
                 "icono": "https://i.ibb.co/nqLSGRzs/R.png",
@@ -437,6 +550,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 435,
+                "_local_category_id": 6,
                 "name": "CAD",
                 "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7iVAToJaqZmCL3go8qFMGrtiRL_e3-R2ds5x9el-8A&s",
@@ -449,6 +564,8 @@
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
             {
+                "_local_id": 430,
+                "_local_category_id": 8,
                 "name": "MI TV ITAPUA",
                 "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
                 "icono": "https://i.ibb.co/6RqpxYR/mitv.png",
@@ -664,6 +781,8 @@
         "name": "PARAGUAY - STREAMING - MEDIA",
         "samples": [
             {
+                "_local_id": 429,
+                "_local_category_id": 7,
                 "name": "ASPEN MUSIC",
                 "url": "https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8",
                 "icono": "https://i.ibb.co/sJRyc31/aspen-classic.png",
@@ -756,6 +875,8 @@
         "name": "DEPORTES ESPN 🇦🇷 FOX SPORTS",
         "samples": [
             {
+                "_local_id": 411,
+                "_local_category_id": 52,
                 "name": "ESPN",
                 "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -972,6 +1093,8 @@
         "name": "BRASIL 🇧🇷",
         "samples": [
             {
+                "_local_id": 138,
+                "_local_category_id": 11,
                 "name": "SBT HD NACIONAL",
                 "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w145002242.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
@@ -1000,6 +1123,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 395,
+                "_local_category_id": 11,
                 "name": "BAND NEWS",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c7eds/Bandeirantes/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Bandeirantes.mpd",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
@@ -1110,13 +1235,8 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TV CAMARA DE DIPUTADOS",
-                "url": "https://stream3.camara.gov.br/tv1/audio2_stream.m3u8",
-                "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
+                "_local_id": 440,
+                "_local_category_id": 11,
                 "name": "NICK ONLINE",
                 "url": "https://x1colegal.com/hls/stream.m3u8",
                 "icono": "https://static.wikia.nocookie.net/nickelodeon/images/7/75/Nickelodeon_Online_1998.svg/revision/latest/scale-to-width-down/620?cb=20210325152203",
@@ -1124,6 +1244,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 441,
+                "_local_category_id": 11,
                 "name": "NICK TOONS",
                 "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -1131,6 +1253,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 442,
+                "_local_category_id": 11,
                 "name": "HISTORY CHANEL",
                 "url": "http://213.91.179.28:8000/play/a0c1",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/yNw82gG5hmdPJFUfnL_t5A?tags=CH_LOGO",
@@ -1138,6 +1262,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 444,
+                "_local_category_id": 11,
                 "name": "H2",
                 "url": "http://45.177.114.114/HISTORY_2/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",
@@ -1145,6 +1271,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 445,
+                "_local_category_id": 11,
                 "name": "A&E",
                 "url": "http://45.190.28.50/AE_HD/index.m3u8",
                 "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
@@ -1152,6 +1280,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 446,
+                "_local_category_id": 11,
                 "name": "ADULT SWIM",
                 "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/DfNwCrbegGgnA7-H3HtypA?tags=CH_LOGO",
@@ -1159,6 +1289,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 458,
+                "_local_category_id": 11,
                 "name": "COMEDY CENTRAL",
                 "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/E3bFS6T1KYfcZtaUJ0wjZg?tags=CH_LOGO",
@@ -1166,6 +1298,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 459,
+                "_local_category_id": 11,
                 "name": "MASTERCHEF",
                 "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
                 "icono": "https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png",
@@ -1173,6 +1307,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 460,
+                "_local_category_id": 11,
                 "name": "SONY CHANNEL",
                 "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
@@ -1180,6 +1316,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 461,
+                "_local_category_id": 11,
                 "name": "SONY MOVIES",
                 "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
@@ -1187,6 +1325,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 462,
+                "_local_category_id": 11,
                 "name": "TNT NOVELAS",
                 "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO",
@@ -1230,6 +1370,8 @@
                 }
             },
             {
+                "_local_id": 126,
+                "_local_category_id": 10,
                 "name": "TELEFE HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
@@ -1288,6 +1430,8 @@
                 }
             },
             {
+                "_local_id": 128,
+                "_local_category_id": 10,
                 "name": "EL 9 NUEVE",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9852.ts",
                 "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
@@ -1341,6 +1485,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 470,
+                "_local_category_id": 10,
                 "name": "TELEFE INTERNACIONAL",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/350504.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
@@ -1518,6 +1664,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 22,
+                "_local_category_id": 3,
                 "name": "FIFA + BR",
                 "url": "https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/f6599ca7-e886-4433-880e-e7e438b89973/1.m3u8",
                 "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
@@ -1616,13 +1764,6 @@
                 "name": "FOX ONE",
                 "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
                 "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "UFC",
-                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
-                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -1921,6 +2062,8 @@
         "name": "🎬 CINE 24/7",
         "samples": [
             {
+                "_local_id": 475,
+                "_local_category_id": 24,
                 "name": "LA CASA DE PAPEL",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206398.m3u8",
                 "icono": "https://i.pinimg.com/736x/5e/7b/91/5e7b914dcfbdcffa8db5d9827f7101c7.jpg",
@@ -1931,6 +2074,8 @@
                 }
             },
             {
+                "_local_id": 447,
+                "_local_category_id": 24,
                 "name": "POP CORN CENTRAL",
                 "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9Z8n0vMO4-iQFdsO54lphjN0qaRuPDKFC298N_en3w&s=10",
@@ -1938,6 +2083,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 448,
+                "_local_category_id": 24,
                 "name": "RAKUTEN TV HD",
                 "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
@@ -1945,6 +2092,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 449,
+                "_local_category_id": 24,
                 "name": "RAKUTEN COMEDIA HD",
                 "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
@@ -1952,6 +2101,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 450,
+                "_local_category_id": 24,
                 "name": "RAKUTEN ACTION",
                 "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
@@ -1959,6 +2110,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 452,
+                "_local_category_id": 24,
                 "name": "RAKUTEN TOP MOVIES",
                 "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
@@ -1966,6 +2119,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 451,
+                "_local_category_id": 24,
                 "name": "RAKUTEN DRAMA HD",
                 "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
                 "icono": "https://www.freelogovectors.net/wp-content/uploads/2023/10/rakuten_logo-freelogovectors.net_.png",
@@ -1973,6 +2128,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 394,
+                "_local_category_id": 24,
                 "name": "DREAMWORKS",
                 "url": "http://138.121.15.230:9002/DREAMWORKS/index.m3u8",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/6l_DEbSF66b1Bt6_TpqjhQ?tags=CH_LOGO",
@@ -2019,6 +2176,8 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
+                "_local_id": 297,
+                "_local_category_id": 25,
                 "name": "LOVE NATURE",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10164.ts",
                 "icono": "https://www.channelcanada.com/wp-content/uploads/2025/01/Love-Nature.jpg",
@@ -2026,6 +2185,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 443,
+                "_local_category_id": 25,
                 "name": "H2 HD",
                 "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",
@@ -2033,6 +2194,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 428,
+                "_local_category_id": 25,
                 "name": "EDUCANAL",
                 "url": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
                 "icono": "https://i.imgur.com/857OkFf.png",
@@ -2064,6 +2227,8 @@
                 }
             },
             {
+                "_local_id": 453,
+                "_local_category_id": 25,
                 "name": "E!",
                 "url": "http://177.234.249.178:8888/DW/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/cgvTJ4y2ivlSqdwg8dRBvg?tags=CH_LOGO",
@@ -2289,6 +2454,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 392,
+                "_local_category_id": 25,
                 "name": "ANTENA 3",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c6eds/Antena_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Antena_3.mpd",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/vjeZtoj2vIp-Z4fd0MlAcA?tags=CH_LOGO",
@@ -2301,6 +2468,8 @@
                 }
             },
             {
+                "_local_id": 454,
+                "_local_category_id": 25,
                 "name": "FRANCE 24 ESPAÑOL",
                 "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
@@ -2371,6 +2540,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 471,
+                "_local_category_id": 26,
                 "name": "LA ROSA DE GUADALUPE 24/7",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206482.ts",
                 "icono": "https://images.produ.com/noticias/0221/big-LaRosaDeGuadalupeCanal1.jpg",
@@ -2443,6 +2614,8 @@
                 }
             },
             {
+                "_local_id": 278,
+                "_local_category_id": 22,
                 "name": "SONY CINE",
                 "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
@@ -2647,6 +2820,8 @@
                 }
             },
             {
+                "_local_id": 434,
+                "_local_category_id": 28,
                 "name": "DISNEY JR",
                 "url": "https://ats-edge-copi-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/h_764f57cde7d0c5b132978bd101cf8c7b/var5600000/aud12000/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
@@ -2738,6 +2913,8 @@
                 }
             },
             {
+                "_local_id": 393,
+                "_local_category_id": 28,
                 "name": "PLIN PLIN TV HD",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c6eds/Plim_Plim/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Plim_Plim.mpd",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
@@ -2750,6 +2927,8 @@
                 }
             },
             {
+                "_local_id": 436,
+                "_local_category_id": 28,
                 "name": "DISNEY CHANEL REGIONAL",
                 "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/O-yxzBoD5wK-vDDkbEmrbw?tags=CH_LOGO",
@@ -3113,6 +3292,8 @@
         "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
+                "_local_id": 280,
+                "_local_category_id": 23,
                 "name": "HBO",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19928.ts",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
@@ -3261,6 +3442,8 @@
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
             {
+                "_local_id": 455,
+                "_local_category_id": 9,
                 "name": "TV PERU",
                 "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
@@ -3268,6 +3451,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 391,
+                "_local_category_id": 9,
                 "name": "TVE",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c6eds/TV_Espana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Espana.mpd",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/G1n9QBaEFBFfEvhrX7joug?tags=CH_LOGO",
@@ -3589,6 +3774,8 @@
         "name": "CLUB TELEMUNDO",
         "samples": [
             {
+                "_local_id": 437,
+                "_local_category_id": 27,
                 "name": "TELEMUNDO INTERNACIONAL",
                 "url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8",
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
@@ -3754,9 +3941,12 @@
         ]
     },
     {
+        "_local_id": 68,
         "name": "NOVAFREE - PRUEBA",
         "samples": [
             {
+                "_local_id": 472,
+                "_local_category_id": 68,
                 "name": "LOS SIMPSONS",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206366.ts",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -3764,6 +3954,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 473,
+                "_local_category_id": 68,
                 "name": "DRAGON BALL 24/7",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/260735.ts",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -3771,6 +3963,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 474,
+                "_local_category_id": 68,
                 "name": "DRAGON BALL Z 24/7",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206474.ts",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -3778,6 +3972,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 427,
+                "_local_category_id": 68,
                 "name": "LA TRIBU",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -3790,6 +3986,8 @@
                 }
             },
             {
+                "_local_id": 432,
+                "_local_category_id": 68,
                 "name": "CARTOON NETWORK PRUEBA",
                 "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYzMDU3Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvblBWUi9jM2Vkcy83MV9DQVJUT09OX1RfMjAyNjA5MDMyMjU3LTIwMjYwOTAzMjMwOF9PTl9BbmV2aWEzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NDZmZmNjYTg4ZDlhNzgzIiwic2Vzc2lvbl9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjLTE3ODg0OTAyNDMtODk5IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjJmY2RkNGJjYWYzZDlkYjI5M2MyMjQ4NDM1MGU5ZjdjIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsMTc0LDg4XX0=.5bsQ_Gp0lUMzlftsEkfXDs3uJYJnfbXjlbd6-VLaZejfPpE1Kur4IlfcM9k6g_BASVqsDDlnxdUtHTTfUGNwcw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork-mp4a_145200_spa=20007-scale=48000-p=366526441883688-17683480964561.mp4",
                 "icono": "",
@@ -3797,6 +3995,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 418,
+                "_local_category_id": 68,
                 "name": "ABC COLOR",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd",
                 "icono": "",
@@ -3809,6 +4009,8 @@
                 }
             },
             {
+                "_local_id": 419,
+                "_local_category_id": 68,
                 "name": "TRECE",
                 "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/RPC_C4/7CF9BB041AD89713AD8CF4CF/RPC_C4.mpd",
                 "icono": "",
@@ -3821,6 +4023,8 @@
                 }
             },
             {
+                "_local_id": 420,
+                "_local_category_id": 68,
                 "name": "SNT",
                 "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
                 "icono": "",
@@ -3833,6 +4037,8 @@
                 }
             },
             {
+                "_local_id": 422,
+                "_local_category_id": 68,
                 "name": "NPY HD PRUEBA",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_cenc/NOTICIAS_PY_C4.mpd",
                 "icono": "",
@@ -3840,6 +4046,8 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0"
             },
             {
+                "_local_id": 423,
+                "_local_category_id": 68,
                 "name": "PRUEBA EVENTOS FREE",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "icono": "",
@@ -3847,6 +4055,8 @@
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
             },
             {
+                "_local_id": 426,
+                "_local_category_id": 68,
                 "name": "TRECE PRUEBA",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
                 "icono": "https://bestleague.world/img/trecepy.webp",
@@ -3854,6 +4064,8 @@
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
             },
             {
+                "_local_id": 431,
+                "_local_category_id": 68,
                 "name": "DHE PRUEBA",
                 "url": "https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYyODAwIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ESEUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiYjUzOWI2ODdiZGJmNzEiLCJzZXNzaW9uX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MtMTc4ODQ5MDAwMy00MzciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ubji28UVXS1fwHVMiXqTE4mljLPwLJiKXO6-E-BCsnbKARMbjmM4VQMwMlsQhyk6-v2WZ2NeggSXzSM3tf9LRw==/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
                 "icono": "",
@@ -3861,6 +4073,8 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 476,
+                "_local_category_id": 68,
                 "name": "CHESPIRITO 24/7",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206479.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUfAO8W5GhEhKGfe00paDOgHX7u_3w5OTFVWT00Mwd6o6N8NSbJyotGg&s=10",
