@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3ODA1NSIsIm5iZiI6IjE3ODg4NzA4NTUifQ.LH14G4zgawg_PK17KR5LgKwqKifFvtiHSYnvW7rYbOesoxI9g8cPIgpL66lUgPTIbIHq3so2DZtPTXVlPU4shoU6e2P3DwoaF-tbB_kniCXI4mX7WZuQhCx0LzbtR770C1vbG2kpNIbtaExs59QVJ8FOBlj_Qrnmn7fRXmMCsgbS9_3IlCIIVM9ffekFuiDpzYhOCtU02JzGR_pfm_qaJDGKTSk9B67d75ffL3gWfhEbIPJpoj-8yAfV4xMeoZANyOVERvEjD8CRXb61kER_sCU-IBys2Kxdj36aTquX_UHL7VuHrlayFnwa88WXGln-vgk1qpP-t6QD74rG5ME6qg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3ODA4OSIsIm5iZiI6IjE3ODg4NzA4ODkifQ.iPpL51L1Jx0txmFB1KEocEBvq9Tk2uAaWeAnsbkzFpj3mpp2BGlmyAT-meXMKPMTQrHbyK7xJJT1H-5Val-PngWsR88Vv8UqVs-QhwGpRwOB8oWIpCwv0ehb_scVY5IK_AHAFdGm0YCoRumIYChNkuOAYN-POCUj5lI8q8K6kMH6hiClGrrzYHxJZsEVzXpvxLmLmO1rShANM62TT6wmh3gjqS_QsO8agUDRVPqW5u9J1zUpEc4ZNM882X1VRK8HViXXddVlxucg0AQVg55oHEQWrTv9e14kr3Z2Pz4L9zTQuJlXOuaW8M5VaXJ9__HXoUpRX7LYnuc1amGXoTXpew/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -4109,6 +4109,15 @@
                 "name": "CHESPIRITO 24/7",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206479.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUfAO8W5GhEhKGfe00paDOgHX7u_3w5OTFVWT00Mwd6o6N8NSbJyotGg&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 478,
+                "_local_category_id": 68,
+                "name": "TL NOVELAS 2",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372967.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
