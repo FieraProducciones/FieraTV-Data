@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTI3MSIsIm5iZiI6IjE3ODg4NjgwNzEifQ.f1Pw8kvlA1RH7dIrw8jcEbojHhX-IfLWWi5c45MeJfpZ_UYOJ6O5QesHw8z9lKeSeACdJy9nxKURqTotjSdMkn7kvONVgLHO1pAULDVb-5U8ysiBKOESJ1jm1cIVirGRE-CAy8TJNpr5ZYkmpDmTel-JObXyRCADNSz-CCP1VT-gkX7dX5fY_cCem77wTHxVEnHXe9kDmQfuwDbEOdgI11fOvTj6jgU_5ftFGNsDGm8fRaE-l2MMY0EMyNfDd8SgXQKjpeMT0u8d0MXvGiG-UJ8oT2WtRh-MZq_u9kO_F4lHAR7j73QOe8itvfgXO0xtSS2AjlqUUgOGErRlbrCqdA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTMwMyIsIm5iZiI6IjE3ODg4NjgxMDMifQ.TR8IUJhY8_kq7zLJze0TgpNC5Qh799jpDSzfhPVyCLrLAR6PZhVIxrCnUwjvB3r9wZef3CWR7kOmA4p40JDiWkqytWG8ZfNz3rM8bpgIWiJ4is2xAxUrCexLgbEaF0EJiB8fB-b1fk7OOyi-n832-salHEayyseRzQIgHNSPBJA4wBUBpV8fgfalwOvmb5dBiuETfrw3PQPAGTdfeObfMRunR6Y53a7oJUJtyvQFCHSi5OC3yfuxpA4UmMoOyHT3F5iSlnp71veKd7JFIPuQr0DSrAzpmkheiK4vw7E-Q1LLnG0a3VYwMPyR9O_LmT0-EVS7IAw5Jf7iCyGHQagXmw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3948,6 +3948,18 @@
         "name": "NOVAFREE - PRUEBA",
         "samples": [
             {
+                "_local_id": 474,
+                "_local_category_id": 68,
+                "name": "DRAGON BALL Z 24/7",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206474.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
                 "_local_id": 472,
                 "_local_category_id": 68,
                 "name": "LOS SIMPSONS",
@@ -3970,15 +3982,6 @@
                 "headers": {
                     "User-Agent": "fieratvpro"
                 }
-            },
-            {
-                "_local_id": 474,
-                "_local_category_id": 68,
-                "name": "DRAGON BALL Z 24/7",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206474.ts",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 427,
