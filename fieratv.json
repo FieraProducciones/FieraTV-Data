@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MDAxNyIsIm5iZiI6IjE3ODg4MzI4MTcifQ.T24kdFLQDBxHDe-ukwWNsZozwj0xsVUk4vXzBQ1SgW2ZoX1zvksw70aSVLEe_pxvClQiqnL_lMfCJojRVzkykZo_MV9isQ01YRXDMdvPRv1wdvSPF7w1Q3dRCC1mAIvxmDlu82FjA5Pl_VvSRI2YAvRph-6P1iTDu5lOp5R8H5dd80KXjbsHEcwykIyMaqAWEtAon0khrsgt4ICrymEZY3nmouoiDoHuhXipgDwYtAt051ar8xMBw74_uGA8xxLj_H1knedNznUE9eqL3Zp5EdH2RTlAdTuihl-CFIKeN179xkbHe4Z2trnQ1rn7fE3k7qUi7bLws1SKSOe5G59NIQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MDExNyIsIm5iZiI6IjE3ODg4MzI5MTcifQ.HHe5_4sft8cVqP6Oebc6BTMMVliiHo6CPsVqRtPvzeWgmuTzDG-pBTC3f0hjXEihS3vUa_gzy7nQsEuhFxA-pYtGYswqfl-v7dbBdGf8s3qHe1bIIjsRhumnTX4R4AK2UxnHjE836XzrVEMAs_agwVS97T1eYvQ2vAVe42UmT7K36Q0OeePbocZ_tJNIoews1PrNWFvLj1-kBvrLHm5kR-UDV1sNezO7PUXiuFNfNcXCmBnlg78oiSzhB6N3mFajb0JY7jn3J17laTuwyEE_cS1_qPbVSfL2Z4LOatTpnpKM-ZdUhHTdfOmkRvax5jejk5jSCGoF4Uw6fKIUQTFVgA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -288,14 +288,12 @@
             },
             {
                 "name": "GEN HD",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/201133.ts",
                 "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+                "type": "HLS",
+                "drm_license_uri": "",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "User-Agent": "fieratvpro"
                 }
             },
             {
