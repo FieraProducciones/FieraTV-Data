@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MTk4OSIsIm5iZiI6IjE3ODg4NzQ3ODkifQ.b1dHq8Kfxif6CbqTY_MHZuCirMD93eqzFw-bnQL6C5507md1qtESJjY6T2iSDV4AEfhAEVED_DzZnDNxs9wcz4_1PYhAsVW004BBP8y4zt7Vs6x8OG56eFDr3Y9VOLgSCqoldVbTjMN2xqLrOj00T2Oc8IlS2HZv34L81kpWUa9nEU6koxL-PDvQREry5L5lxpkmKgjWZzzbUaI55PXrKUoAobfgU16V9luGnA7SKpp7uqTAWF271fMJSqoGKrZV4geOCztrmhkSQ9d1ogIVCgnIdpPF9PRyFWkdsvswIsgUlfMCtudYyMxFka76-07J8yXNjiVCQeiadGQElR0DxA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MjA0MiIsIm5iZiI6IjE3ODg4NzQ4NDIifQ.lOiUePN2dQCzHIJszf9xU5tqdb42c9M0-lkxysrj1V1d8jWHRzseSE712og9fsWYO5CiOWe7VoG47bklLgSI6bEV5I4JpwyA-GuCqHBj-H2Ujy-9OYX0u80UiHL_46WkBnbnnXu_4QDUMq5M8wU7QKwXQySdICsfZXr39__nLlPNNBoUEX6Zxkx1oODDVPtcvwICpBcYOG4FvR44NhIK8HtkaIPIzALVitAAiaarRERbIo7gFrKpM4kTXo5JkA0pJgt7uT1ZmXoypW59QWJAReFybKPU6tBV0tZH4AZ62YMC7fwOVsBZ30YaHpKdlRrtNZzpl_MDhg70Ko2M7PV9Vg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2557,18 +2557,6 @@
                 }
             },
             {
-                "_local_id": 260,
-                "_local_category_id": 22,
-                "name": "GOLDEN",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "fieratvpro"
-                }
-            },
-            {
                 "name": "CINEMAX",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
                 "type": "CLEARKEY",
@@ -2578,6 +2566,18 @@
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 260,
+                "_local_category_id": 22,
+                "name": "GOLDEN",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
                 }
             },
             {
