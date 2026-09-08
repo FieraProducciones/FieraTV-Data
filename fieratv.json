@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzNjYzMSIsIm5iZiI6IjE3ODg4Mjk0MzEifQ.WS9vVvSIN0qN2fBpfGl2jefbMnxRaO14XRp-JldLjSQp2BaLs9cPSGjYaEdDa1sxg2ArDS0Wy9T2BTZOTy8DWI0_Apgv1rBguOwsne-qrY6UHo3YOc-dWpP4PWVaJbqXtt0pk3ELZHddR9v4Hvn_31mVunq0fXqhSapZ8FnHdERUgNHtxFzuqMux-3RZcFgV3wTFQXSu2Xx0kZdXlNJ6mIJXNHwRctrCRmmbCO-5_aYmVHqGxcpoGL-vTjyEWmBdVuksz0GljAaSCJz1qowS7_BT4uo7lY7w1ojnMi-5K5GhWakheOjC6tD8mA7DV4rbfLNfQg8G8X90ha8mvxFK-g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzNjY4MSIsIm5iZiI6IjE3ODg4Mjk0ODEifQ.D4pK3YEqv3zjUw0-23JiRUlpNXP23QXdXthQy3Rv_bd-pagleJNnFiDbT-0DGU11wmAGyp48ipyecIdVKGlKWynr3rF1OSjPMGgzej-dInmd8K26PtVYSQQtcmzD3K9VYQg_pESBcAPYZkk_jN_8-HcO1DLH4Sa6Rh30-wnqqP83lXeXZy8SJWcp-2tpTGKk60HLDqim84UdiFu2SjDq4b9sq-lQ85hw2FZqS-JyDYFc1ZP6UvWIvDfDISXkiwU0BRIAM5-yc7-j-PibE4Es-bmduOY0gaxFN_s_4pkcIuJT0ORlMBx1fqxXt7MIaIkNHTnV2O8oVJBMMhNUh2pGYg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1190,6 +1190,18 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "AMERICA TV",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
