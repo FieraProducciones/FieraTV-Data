@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTAzMSIsIm5iZiI6IjE3ODg4MzE4MzEifQ.HsOEry5paplhW2xz6aES-RvMuwSXs_-PDyr1vw1ykNfqOvaB1QIkPkL64STvENIkoLgm-Zr0Du9p5TPOmhF512SJkMf9Ie3W8GGokbgxQiuAm-odpgAGsbFG1k67Q4E4I90NsVds2lnekrgBHRsfaWt9aamJc6NgbyzYJg_ym03vWXHudWrv-NQiiKhSzKeyKmlncjT_4-3RGZcPCI4asOarozpW1LU-IZo87AMNxMql1DVkEl5suI1WANmm5yEdgO_SZvX_i9sSUN07i34yZix7rxyuDsWyD_7SkQrWd6ZYId1GATXXNt1cfuRoCSdmXROKdWy4-39RpdClY2FSPA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTA2NSIsIm5iZiI6IjE3ODg4MzE4NjUifQ.ByilZhjMSByfHlQ8QZUirYc6tjyK7BSIY1hsPgU0FQtBWEJIgZUvxGVLYrettAgAMz1nFSZg6u5QIIVHh0n_Q1Bnc_9gQrXGro3VCqXbO0Y4r8PvYSAuX4pSlpFHr3JjiBNQorwk4Ncc8S8Qu7k5dG_8KRpm8Yq0oeO0GnVZ_LLaAIbMGYKjreR9PfPUG2cAIrMBaO4RTNqOB8wC4Y9m0NYrFdU9L222fWUD5Attu3j643DUDMStRFkyNyxEMcvruY9rWi7Oj02Cn8yWsN2hJ2oGskQ61nRV8Of9Udr2PVJ_SZy_ydviReb_GDjAmFj1794UrTFVpG4FBivDJBUQgA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -132,6 +132,16 @@
         "name": "PARAGUAY 🇵🇾01",
         "samples": [
             {
+                "name": "ABC TV",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199416.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
                 "name": "LA TRUBU",
                 "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -144,13 +154,6 @@
                 "icono": "https://bestleague.world/img/trecepy.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
-            },
-            {
-                "name": "ABC TV",
-                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(LFCw8OTH8JjiOmjfJdB8Anu9x3m1MywZr8_sDiEpir2qO-wxyY2s3ZBw7RYgS_ZbRT5FA3ai5pI8pEMlffao9PHIPYCfTvzcX78PnahwPNAbGME0W4-wQPPgVfnk2vCK)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "ÑANDUTI TV",
