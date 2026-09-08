@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzEwMCIsIm5iZiI6IjE3ODg4Mzk5MDAifQ.RfNuebR3gS301mQ6K1f3zK9n5Fvaft6QzCohHJCmTV9w24rrB7DUXNGo7vNp1znYD3-vEJLwvkfnkWpMXX7iViGtUXdJUicxLQmpA4c8vVamPaDg-6rzCnnBJ67yUUmJWJnjZPI7Qt-_WVxXT3QriAceNaCYLNIE5_lvsGsdZmvj1yWSQKdEuY_3vjUEsEUJYOqbUkLJSmFwjszmUiVxt5HpxB3Jh3HrFTpGoWjafkGtaHhAMS5cEYfsH84KDXR6wRh2NoRYqcbiRqxxElBPHl6941WdNMyIEIQ5YJBPtpexITos6dnRXbrVklDdiRyBkmUbhY1HJ3KUj4TI6jbEJA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzE4MSIsIm5iZiI6IjE3ODg4Mzk5ODEifQ.k2eE9CWCqhdxdJvcnBkx9sfryOGDiDCB2IT3dhe-jkyxZkaTsnZ8WfUpsH7QjGL5D1bsBNf427aWDYC9CfdC9TxJw1JKa9uc3ua8VsEr-XyOi9y4hUzEhn1ju89pLWsG4_iR1ZYDXZ917wfjrdDApwyQdPvNrlQixE2Ww3_cJag-D3UJ7v-eXen7MUK4nJZyx7hDuRd6ZYOjde3dL18A9JG_JbwvzRHM71tc_OvHNr91rLIL5by4_qLGGCexlNdX6HsLgskiJf3l28GS4bMogmQwWJFj1l_7BdgC2QDDaUbxi34y9D9Ayea0gPoyBVKJ2oEbVtAPciyOAdG2ZdbifQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3750,6 +3750,13 @@
                 "name": "LOS SIMPSONS",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206366.ts",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DRAGON BALL 24/7",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/260735.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
