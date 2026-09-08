@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3Njc2NiIsIm5iZiI6IjE3ODg4Njk1NjYifQ.Cs5L0hSg9K4MB6GjF0fFjFnt14XFmP2iYwz-9oZEY3fMkugbtLVATnxbleEfH2VZrdDQYpX2nfCZtJfJtmvnvvzhf2vMbBIwspmimH-L7ksEWYyZnchqnKK2UXEaK5nHK0wk_G7K9e_ZaiWVL_Owvdc1luenB-8tVNmTRANfkv52uTJ3kghhPk8jlwzWeuWsLWRVtXI3Fn-UmvjKAta6QmUs8YAiem5gv6-wv_dzdVFH871n53_FyCQV7hQtT-fX4MV4rxtlXef8p-BAeDO4Vo5jUnK0fbLPJ72IHuZ82yIRfx4H-yUyGYtk4oSU8feg7yMD20dWEszhwjiSiMPA9Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NjgyNiIsIm5iZiI6IjE3ODg4Njk2MjYifQ.o7aafYlsHutbDfslfrDFpk8KlqJEhc2aTliCDt-ozAsljwX4sAeRDcF4vtdqlltsUCBhs4xI0Qk_9c-SeAWUqWAUEcBBv81tKO5AF2TnIGVyjoLJIqA0OHRjCnyaH5WT1u24BFsDyKsQFCsU_ZgN3e3lnDaQKo85jY6APGP8ovTmwaZZ-wNE6Oq8PRXl5ZEVBgjC8Ezcn9pGonJeEv2SgcezNdBZiVAIU1XItMh_GkPBh5AuHdMSY0KuU5HSjS_RUxUJHZ1cQ4e5wS7tLuh15EgKI7WqF3aPfwpLvbhCv7Mh0F761jRKDSDgFw-fZLL20bOwKUaOxKTOIpCSZ5f-Vw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2545,6 +2545,18 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "name": "CINECANAL",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "AMC",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
                 "type": "CLEARKEY",
@@ -2612,18 +2624,6 @@
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": "https://results.femon.net/?keyid=88b9c41e72acd5b589bbfb4776969781&key=43b9403f7a9e28fc2d7cbf10373b85aa"
-            },
-            {
-                "name": "CINECANAL",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "CINEMAX",
