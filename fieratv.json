@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTQ1NyIsIm5iZiI6IjE3ODg4MzgyNTcifQ.GRfEj3AnIff-QamIGRKhKc1LLL-h0H-_Sau5g6x5aX75f5FC5NDdSRr4uINnHGw5aB34P6AJ2CfwNMi2WxogwLoITl7gqpF90-nFABxf1AbtikQ3icMHEowKapvzIQM-rzeXMtokZYfWmTozdaQNtdiEbJiPwEwhlzw8fuF8J_FOe8xJOthfbfXcWEur5i46kwWTeRyM1TtQWyki2_jaZhSz46PbZPzOgjF0tubOdwbNd8iNfrj7NCTJ1hNnMBw1uoGn4_5XLElvr80tyPm7GGdM43Qp7pv-L7_Q5vl7ETjJJG7_xQ2p0kRVwQHNMytOUz0XDSojYcEQiHc-hLNsWA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTQ4MCIsIm5iZiI6IjE3ODg4MzgyODAifQ.Jzxmr02jCFEFDNLFtgvszwYkc4yeYpkuq9YqbNfEwtDhvWsjHeWqGW42X6i3uBjCRxJIu3rOS1MIYICzk_YOJmaI0tnQ7CS-woli1G7OQDts2vZ00391gIH6nSkb_g8i8Q9WofU1cQQAep1OdyqAoJbiGiOPhtUtKdu-bRfwte4aCbb6TMb8mbW5SFimS41fzC1QAKPXZ5nbYkBeTHhFvYaa-5ykMQ3jYRutx8RnO7-1cThbnZx0oXHhrv0OVztpvvkhFhtj2hZVCTlAmlT9sSTNxcKMT54zNlc3M2jWGLGs2mqaWX-t7QvYP2shzYVpq6ARhEtMb4KGYztvvOHyxQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -446,6 +446,221 @@
         ]
     },
     {
+        "name": "PARAGUAY INTERIORES 🇵🇾",
+        "samples": [
+            {
+                "name": "MI TV ITAPUA",
+                "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
+                "icono": "https://i.ibb.co/6RqpxYR/mitv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "OVIEDO TV",
+                "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+                "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV MAX",
+                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TVA OVIEDO",
+                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SUCESO TV",
+                "url": "https://edge.enhdtv.com/8060/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/5665/h1tF3r.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NOVA TV",
+                "url": "https://tvdatta.com:3012/live/novalive.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/927/EIm4yH.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VISION TV VILLARICA",
+                "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+                "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DEL REY TV",
+                "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+                "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GUAIRA TV",
+                "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781149556_179935.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "COLMENAR TV",
+                "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PROGRESO TV CARAPEGUA",
+                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
+                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CAUSA COMUN TV",
+                "url": "https://videostream.shockmedia.com.ar:19360/causacomuntvhd/causacomuntvhd.m3u8",
+                "icono": "https://i.postimg.cc/x125KRB0/Whats-App-Image-2026-04-26-at-3-22-49-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FUENTE PARAGUAY",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/fuentetvhd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TROVADOR TV DIGITAL",
+                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
+                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AGR TV DIGITAL",
+                "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ÑANDE PORTETEPE TV",
+                "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+                "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CANAL 8",
+                "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/6871/pgW3xV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PARAGUARI TV",
+                "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
+                "icono": "https://mediosenparaguay.com/gallery_gen/012f016ded785c389fb1175120391e8f_284x317.17467248908_fill.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REGIONAL TV",
+                "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8661/ZmumST.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELE QUINCE",
+                "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "OASIS TV",
+                "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/288/1Eg31e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ALMAYA HD",
+                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/2870/NiqbHi.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UNI RADIO TV",
+                "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/17/BYnppn.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SEVEN RB TV",
+                "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/7489/tE7j9r.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED INT - SANTA RITA",
+                "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4972/OJpiWZ.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CONCEPCION TV",
+                "url": "https://cloudtv.streaming.com.py/concepciontv/concepciontv/chunklist_w53777888.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/73/GvYXuq.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ALCANCE TV",
+                "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+                "icono": "https://www.alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CARITAS TV",
+                "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/chunklist_w1549871589.m3u8",
+                "icono": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CANINDEYU TV",
+                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+                "icono": "https://play-lh.googleusercontent.com/z51ajYjSLM0OUiMcfNGkK6Hdk53eYGlOlZbBCu2TNka8B8o6T5oxAtUcEF8CEe9UTrMAskF9nlWPTnQzukjn7A=w480-h960-rw",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LOS ANGELES TV",
+                "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8?hls_ctx=6k82uz6u",
+                "icono": "https://paraguayonline.net/wp-content/uploads/2025/01/logo-losangeles.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "PARAGUAY - STREAMING - MEDIA",
         "samples": [
             {
@@ -750,221 +965,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "PARAGUAY INTERIORES 🇵🇾",
-        "samples": [
-            {
-                "name": "MI TV ITAPUA",
-                "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
-                "icono": "https://i.ibb.co/6RqpxYR/mitv.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "OVIEDO TV",
-                "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-                "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TV MAX",
-                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TVA OVIEDO",
-                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SUCESO TV",
-                "url": "https://edge.enhdtv.com/8060/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/5665/h1tF3r.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "NOVA TV",
-                "url": "https://tvdatta.com:3012/live/novalive.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/927/EIm4yH.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "VISION TV VILLARICA",
-                "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
-                "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DEL REY TV",
-                "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-                "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GUAIRA TV",
-                "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
-                "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781149556_179935.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "COLMENAR TV",
-                "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-                "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PROGRESO TV CARAPEGUA",
-                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
-                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CAUSA COMUN TV",
-                "url": "https://videostream.shockmedia.com.ar:19360/causacomuntvhd/causacomuntvhd.m3u8",
-                "icono": "https://i.postimg.cc/x125KRB0/Whats-App-Image-2026-04-26-at-3-22-49-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FUENTE PARAGUAY",
-                "url": "https://live20.bozztv.com/akamaissh101/ssh101/fuentetvhd/playlist.m3u8",
-                "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TROVADOR TV DIGITAL",
-                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
-                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AGR TV DIGITAL",
-                "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ÑANDE PORTETEPE TV",
-                "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-                "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CANAL 8",
-                "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/6871/pgW3xV.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAGUARI TV",
-                "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
-                "icono": "https://mediosenparaguay.com/gallery_gen/012f016ded785c389fb1175120391e8f_284x317.17467248908_fill.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REGIONAL TV",
-                "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8661/ZmumST.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELE QUINCE",
-                "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/9527/21IUqv.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "OASIS TV",
-                "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/288/1Eg31e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ALMAYA HD",
-                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/2870/NiqbHi.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "UNI RADIO TV",
-                "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/17/BYnppn.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SEVEN RB TV",
-                "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/7489/tE7j9r.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED INT - SANTA RITA",
-                "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4972/OJpiWZ.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CONCEPCION TV",
-                "url": "https://cloudtv.streaming.com.py/concepciontv/concepciontv/chunklist_w53777888.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/73/GvYXuq.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ALCANCE TV",
-                "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-                "icono": "https://www.alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CARITAS TV",
-                "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/chunklist_w1549871589.m3u8",
-                "icono": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CANINDEYU TV",
-                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-                "icono": "https://play-lh.googleusercontent.com/z51ajYjSLM0OUiMcfNGkK6Hdk53eYGlOlZbBCu2TNka8B8o6T5oxAtUcEF8CEe9UTrMAskF9nlWPTnQzukjn7A=w480-h960-rw",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LOS ANGELES TV",
-                "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8?hls_ctx=6k82uz6u",
-                "icono": "https://paraguayonline.net/wp-content/uploads/2025/01/logo-losangeles.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
