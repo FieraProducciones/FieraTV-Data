@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzI1MSIsIm5iZiI6IjE3ODg4NDAwNTEifQ.aHP6XL2BAHvKIrcmzX40BoepUQeXHNF1qsK64lbmCg1ovzuHeEpsnJP6M-1UGkiTGhbTm27k8sLUr96xykADv0WRGVzzShKd6BUy4WwrUJxB7i2_tGK3RomkfxXNbpAa6aAU4VEd_1uhXRyE3nzRDmLe8jp3_VX1sl5ol34i6MfAeXCOKDrgTuG9tfrYZoX7M1L3IjCSheGQZQ020ufBy3AY3a9bo4tXfxYbRlm7tLxv5ViBcw7eyBv0Ubd-RCAn-YnqFYUjYBbg_Qmez2UCBxRoyQ1JeEx3jeep6psBw1Gy1btTR3MTB8SCsY_eKSrl7NqVOkP2r8rAZB93q2Pl9A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzM5MSIsIm5iZiI6IjE3ODg4NDAxOTEifQ.H1_mzHeT1a41-b-bBlodbZae6N19u09MnB6NLL83AL2JzwV8j24StvNMJPX8sZkEi2_HPA6X2PKMpwHX8pQaJMw2TDTKs2ZzHgN01bste1O4C4x67GJnRyVAEJyJ5Enf2gFIilA8aw-1HLBx6R3dtvneJDK3hZob0fs0U0OtwfXnpHdzW158LGL2LZhIkGOtumbXrP6z5E0LwV9JZhJA_yUeVUEcxv9l1VvyQpwUltRa5uZZDtxe3kch21L8oJ3IxfNnzHr4CX9MpuS48MgsMnJ6RuPjTqe-DKKlmlVfyy7BbtJxVHDPs9DwJ3SF0dhegSlWjMKndiKoMDMFwtwpfg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1920,6 +1920,13 @@
     {
         "name": "🎬 CINE 24/7",
         "samples": [
+            {
+                "name": "LA CASA DE PAPEL",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206398.ts",
+                "icono": "https://i.pinimg.com/736x/5e/7b/91/5e7b914dcfbdcffa8db5d9827f7101c7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "POP CORN CENTRAL",
                 "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
