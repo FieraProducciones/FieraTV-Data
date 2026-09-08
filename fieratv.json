@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MDExNyIsIm5iZiI6IjE3ODg4MzI5MTcifQ.HHe5_4sft8cVqP6Oebc6BTMMVliiHo6CPsVqRtPvzeWgmuTzDG-pBTC3f0hjXEihS3vUa_gzy7nQsEuhFxA-pYtGYswqfl-v7dbBdGf8s3qHe1bIIjsRhumnTX4R4AK2UxnHjE836XzrVEMAs_agwVS97T1eYvQ2vAVe42UmT7K36Q0OeePbocZ_tJNIoews1PrNWFvLj1-kBvrLHm5kR-UDV1sNezO7PUXiuFNfNcXCmBnlg78oiSzhB6N3mFajb0JY7jn3J17laTuwyEE_cS1_qPbVSfL2Z4LOatTpnpKM-ZdUhHTdfOmkRvax5jejk5jSCGoF4Uw6fKIUQTFVgA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MDIxNyIsIm5iZiI6IjE3ODg4MzMwMTcifQ.DVgUXzMCF7jo4bFPrwnvR9Ax9p39ERtNPc6t7JEDdR53X-G4jay1rmeYC1MwTpVInfyNSax79YPgWh6FoxmC1ELWVEhYypK7p7c3hyPktjkOPdXL300szBPegjHOCWBtClRW2abI91LjaTHDkgtkroXV5-AM4csRks9I7mrkzCCDvF5qy3QLJMiqqJe2A_nRAFX4y8jZVEk5dy5Z32gRrJXImirXp0oBZv_ggCDLTgAvmBuVfZWexT0TyXY_k4t1fBGy2BMttBtrFrBbjctmE7UAdocp7AebQ50KB1zlVIkEPcVV9YJkn7qUlIPKTuJyBxgawLz_lhjEzZR-Em5eQQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -203,6 +203,18 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "GEN HD",
+                "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://no.gendigi.net",
+                    "Referer": "https://no.gendigi.net",
+                    "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
+                }
             },
             {
                 "name": "HEI",
@@ -588,10 +600,13 @@
             },
             {
                 "name": "PARAVISION",
-                "url": "http:\\\\45.170.130.224:8000\\play\\a032\\index.m3u8?hls",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331237.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "name": "MEGA TV 2",
