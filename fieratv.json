@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MzA5MyIsIm5iZiI6IjE3ODg4NzU4OTMifQ.Z5vv0KTsQU9rVo-GHc0kvN5jr4sZWOlrUKgm_h_ToOFvwkzkbSUGeGsTj1kwgUWgZ9K11yUihaZdoEOAgLkZbyb9AiRcT_Qqh1xKmChXVIPH18XV8KufXO4jGfgKRdTyFoyX3Cw1gNAXmGpKBlkLRu4xCudCRux7gM3qsTzOuYmhnfPW4sArXjzaUKkULiWTpVygrvfZYABYu40Q7usgVz6tFzq7HFyxXRe969o_l4RltAfpuDLNcUwqcDmsWPBWhvrFmXMM8c_Pa8lWrmdVqQfaL_xK1EIa1jlF2IJU8iuG7uh0UI4YpnxEoLobKh3MRKDdSJTKHBoG_5II_3Jdpw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MzEzMCIsIm5iZiI6IjE3ODg4NzU5MzAifQ.Y2gS5z---xwl7GR1qyg3nNMKRe8cu2uNtkcDZL8-qtqRT14WGMfLqXxhwS9DuXy6PU3254KbOcLrOIW47ggRdD6rzQt4bcJVH5ATc97xQFxIr5XeLTz1mnL3Nqiqu5I3zWxziHEErrbbY8VJjRKMzv9RkZse76t_IzpE4W15jsgH4TAlAkM7-ltt7SUlh37APc4GOH2MD98M_6tsMdVbFWwL9de2G4OpHkftG8uOVEhA3ts3c3xVlg--sxuSreeBIZztyR6dsIGx7_av-z_n3mJc-fwnANbj5VcMYVk-8pwheKGwd2hn8_xKXXLkHcIX_ltJL8FdKg1SkbV_THMGHA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2859,7 +2859,7 @@
                 "_local_id": 434,
                 "_local_category_id": 28,
                 "name": "DISNEY JR",
-                "url": "https://ats-edge-copi-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/h_764f57cde7d0c5b132978bd101cf8c7b/var5600000/aud12000/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+                "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/85165.ts",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
