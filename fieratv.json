@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0Njk4MyIsIm5iZiI6IjE3ODg4Mzk3ODMifQ.lotacTwQfk_TSgF6avlW16lqTOrM_xBGymHz4EufYrAzuMuspaez9OLfQG4lkUmPxArnHjemJCoLIVWdIbBf-ZOsroS5-9wQiG2-ehwzeIPzMGWqiz6jHynJNwLkc_h2AFAhpzhY65ulryaN458VklkojYV7lF30tM_aMhiG70TkY_YU512qrnTD0fZYHipgPwRZZJWCgnRgGdLg9AQCE13dCUX_XdE7ByUNtuL5PqIgjbHITNbXMmCq_hjCLOcoNBmkAX_2XNxVS8mrUwlMurTOo2iBBqF0WT8NKITMg_89HZr_OCD0fh2_gs9GkCB-Hp4eFeNsA-Yqw8MN2-lPhQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzEwMCIsIm5iZiI6IjE3ODg4Mzk5MDAifQ.RfNuebR3gS301mQ6K1f3zK9n5Fvaft6QzCohHJCmTV9w24rrB7DUXNGo7vNp1znYD3-vEJLwvkfnkWpMXX7iViGtUXdJUicxLQmpA4c8vVamPaDg-6rzCnnBJ67yUUmJWJnjZPI7Qt-_WVxXT3QriAceNaCYLNIE5_lvsGsdZmvj1yWSQKdEuY_3vjUEsEUJYOqbUkLJSmFwjszmUiVxt5HpxB3Jh3HrFTpGoWjafkGtaHhAMS5cEYfsH84KDXR6wRh2NoRYqcbiRqxxElBPHl6941WdNMyIEIQ5YJBPtpexITos6dnRXbrVklDdiRyBkmUbhY1HJ3KUj4TI6jbEJA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3746,6 +3746,13 @@
     {
         "name": "NOVAFREE - PRUEBA",
         "samples": [
+            {
+                "name": "LOS SIMPSONS",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206366.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "LA TRIBU",
                 "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
