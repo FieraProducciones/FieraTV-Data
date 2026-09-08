@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTQ2OCIsIm5iZiI6IjE3ODg4NjgyNjgifQ.lYTFVSAhIPB0B2HoWdan03do_rSsTCSGvFp0zx6ijpFTxMhQpTxNW9Eul28vNAqlvkYRs_t0mVWdG19pnNwnrkmFsm2SHUwmQzsj1pH0me3KTrrdSIQV_KFXswC-igoRmmFwCchGBvLaZiV6-dSANMhzyj5BldB88awmzE7sxIMqZ-YbuGJsa9Bg_8V2nGZa28-E5ooL7q4t6y8m9e4mvrsKjzIiVZQ42Z5xXxQweEjUomAFjUGi4-L7r_FJspg6i8n_xDrPg0JVoVuaXCfdW-q9KcCRByjXd4MRtjmrE9YV1fpcMnH_ZDMSaciNMv3xk5lunUf1Ce2cL1RpzRnnAw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTQ4MyIsIm5iZiI6IjE3ODg4NjgyODMifQ.F9HeQ7Dlx9lIvRoBOCM0GFJlVLdZ43bczd62kYmoeaGan_AyAi7Rgv28I-j0pz4ajQUdGUEf0Bl5Y6jF-xXAw366KFbRgkLYHrzu6w7SeCFYLXjvvatHtYk4GJAb_8g2w89ZtPhRgH-9wyUlQiML5UTqj4rzpEuqD0kIt8CAdx-SwAZb2P1bioGY8m4tFpf9wZtrEGycSR4HhruFR1c-cL7L5hGO_8ilIL8iQCbN4RjXv0GIeQyvSAlzU-ib4MBHTuJHBhh0hxUKJE4eA5zP8p8mhL1azco577_lr-YGeBa77rtR1IEdRwN6tLj7joBgJOD8NsTY_Hmn_0wt_iAw4w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -196,6 +196,15 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 33,
+                "_local_category_id": 5,
+                "name": "SNT",
+                "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 23,
                 "_local_category_id": 5,
                 "name": "ABC TV",
@@ -231,15 +240,6 @@
                 "name": "ÑANDUTI TV",
                 "url": "https://nanduti.b-cdn.net/Source.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 33,
-                "_local_category_id": 5,
-                "name": "SNT",
-                "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
