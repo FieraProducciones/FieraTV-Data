@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NzI0OCIsIm5iZiI6IjE3ODg4NzAwNDgifQ.kRpGAhZ1CH1fK-r5ubMGH-a2wNxUtr3tTXyeJCMEWJ2lHYHxi_W3SPFJ_GQS-zAFXbsJV0PJnYBoqEQHqD-cL-LwEk3gARi8GDwxIycs891JgrElbHvyTHBYlyigz1p8QPDXQpXgKNQXE3_9IITJyGOEA29ym9ZMtjSVuAlXOa34FUC-WJe9vX917GNUBzB32o-JxSFu0LryJEqv5IFuc0xlPct79anZ90c5zOhB5ngRNGZQKGp9X3QXXKhk1_ZGlqLZKsHT3EBIZnn6Aav0E4xq0-Qc3U-NBZluG5vf9sHQYcV8Dq2Dr-Jsr5E9exWxYIMWiTx0LPuBa0WBfjlIog/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3ODA1NSIsIm5iZiI6IjE3ODg4NzA4NTUifQ.LH14G4zgawg_PK17KR5LgKwqKifFvtiHSYnvW7rYbOesoxI9g8cPIgpL66lUgPTIbIHq3so2DZtPTXVlPU4shoU6e2P3DwoaF-tbB_kniCXI4mX7WZuQhCx0LzbtR770C1vbG2kpNIbtaExs59QVJ8FOBlj_Qrnmn7fRXmMCsgbS9_3IlCIIVM9ffekFuiDpzYhOCtU02JzGR_pfm_qaJDGKTSk9B67d75ffL3gWfhEbIPJpoj-8yAfV4xMeoZANyOVERvEjD8CRXb61kER_sCU-IBys2Kxdj36aTquX_UHL7VuHrlayFnwa88WXGln-vgk1qpP-t6QD74rG5ME6qg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3971,6 +3971,15 @@
         "_local_id": 68,
         "name": "NOVAFREE - PRUEBA",
         "samples": [
+            {
+                "_local_id": 477,
+                "_local_category_id": 68,
+                "name": "TL NOVELAS TS",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372967.ts",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 474,
                 "_local_category_id": 68,
