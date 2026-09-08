@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTgxNSIsIm5iZiI6IjE3ODg4Mzg2MTUifQ.pu2R0em3RqK3cqVqaK4jTNImWpcnBiRk6GZsmfshaz6MhvxIV7HshFYDe9UilgbwBfs3pIsHymBRxUCgtmM7PqWKsrXqU2DsWkLOT8B2v-rmiGRbh0teA31prZ5WaC-4vEhd-HP5JuZhEEAGpISeVv9iGiurb_dJHsvR_6eUH3Lhq8KOH75yBwNZUqXbpT112KQB0WOsKXMVtUHg8Xwlc7CHv3CfkrmdbXAE98aXzOI45JP5KZ8l159kX38_zQpXBVb9jngmJ0A10CbesNcjJthgwI35K4iPDW8TQIpRL6FdbWD4JvD_H6Y5lSGPRT0PSXhpdfufydD4-yiCLqkUNg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTk0MyIsIm5iZiI6IjE3ODg4Mzg3NDMifQ.KByg3A6a0uUXOpkZdgd53eojYwIF61r5IQiyF_fXx-Hh-A5cYKDjRMmdAqFPAH5C4NI1OkoGcmRyIG0BpAqup1vgcaG4-mo_wqK2rk7qo4WxVPrlTy_d470OqDXVK-1LrpI7JcB5dNcb62qcLyP7p0xf2yOiEYh-PYTqYEA8QLmNUxHXdAG_fpu9bQgDuCMGYFwjTEnufiny1IMAQzNIfruvgNjDyTHylQKHZ5tvi1wlDWKnKWyMCJsHrDlebf_LudnL6en5EaQ4iOvN30SToLQSUX8rDbb1HssvyImvuNE1BYq7QL_Q3oUNPVD1sojvl3F_F7Z0cJNoKGg-ttDFDw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2009,6 +2009,13 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
+                "name": "LOVE NATURE",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10164.ts",
+                "icono": "https://www.channelcanada.com/wp-content/uploads/2025/01/Love-Nature.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "H2 HD",
                 "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",
@@ -2021,18 +2028,6 @@
                 "icono": "https://i.imgur.com/857OkFf.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "LOVE NATURE",
-                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
-                "icono": "https://www.channelcanada.com/wp-content/uploads/2025/01/Love-Nature.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "kid:6mQ3CE9sBVx8hW-GNh6G-g,k:l5HA5vcrSl6s-L3fpSkCCQ",
-                "headers": {
-                    "Origin": "https://webclient.axsbolivia.com",
-                    "Referer": "https://webclient.axsbolivia.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "NATIONAL GEOGRAPHIC",
