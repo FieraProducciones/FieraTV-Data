@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NDUzMyIsIm5iZiI6IjE3ODg4MzczMzMifQ.TIT-of9_2v61_kcwMsI2sDvIqGy-WO1p3oD_xV1wvOGyb7kcoGZJxBfGFcqq92g6eKVae95g929tx-kFC7wr5YJMxACbJ2P3RErA-xeiFkYNE_VBVv1z4bHGQQld-3F9FSkX9Ucl_IWh4IWb-Vt7tdq2mtIPlUUC4aPXf8FbBjGmdCRRTIW8UocXNjjo5xaWA5J4DrEH6LRDR6z1cW_Xy7hDGa_Jyn73YAt44q3cN8BEwD2_Se0KsNalVMVZTyepzH4hxoxJLiPKxHelKs8Uy1gAWbP5VPTspFjfcf5ZC3Hop1Ih-iO38hqHlM4YavujdORS9FyfgTPwQcC2xFim2A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NDY0MCIsIm5iZiI6IjE3ODg4Mzc0NDAifQ.BAr5FAZ4fUMnBtrD24fSjimzTsbfoFlw16nZrraMEczu3Guc9p-GYV5_1ZNKDlIty4IiKpo-cuOVmCW4gWWLMfE83wgv0BRQEGOrz8pki43AjeGW4hFdEz6IjUqfd8AjbI-UVOPQPAX-og1PRvkcZ18IMXeImTQljSFeKOPwgVn3bjGedxF5EAUDINmKr3F7DX7295aryrDeLtlsL23vXt3JVJUayN0PTgRK-9illh-MgR3NBjOCV_Q_0iF8szFdRyUkmK4vopJ9eKVaw3GV70QAfdkoPchZyZB-uMxZtsFl0vTqz04IA3FboY8Ccgx22A5gVMJ5NAU3ap3W46Wg9w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1231,7 +1231,7 @@
             },
             {
                 "name": "TELEFE HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/350504.ts",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
                 "type": "HLS",
                 "drm_license_uri": "",
