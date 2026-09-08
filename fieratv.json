@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MjIyOCIsIm5iZiI6IjE3ODg4MzUwMjgifQ.Z_r_g7ppyWvrvL0bAyY7TQ33oTQVYQbmlJqIeP4ooq-1M6rfHkR7UBL_o6mVsBX5sO5uqo1XgRCKQYBOe-07KjrkuQ35p6WZ9urJPkbvWMvYB5Gimwj1hdA8ztrL7tfgSKAvLzZEpv7ZXXz4xhPHpRbUrN2YhaFg3WJydjw5GsgpqIj-jfj1MQpYtV7U0OD4s4kEjb6M5_4VcPKPC0l-HNWKRp7arRxZzFKk8ginFLL1s-076SE4S0Vf9LVjzikjoa9T5P8RCOknWKy1tz74x1etCcYpIXPnt4x8lVJ-sdXceDUQvR3xk65UzC4ImCK8P4GIzwWsyHPN-ragez5RQw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MjI3MCIsIm5iZiI6IjE3ODg4MzUwNzAifQ.UwrGUCrQHkWg7_sc2W8n23alTPg5_kxiJG2uRwBwAFDJuMufmp_jmqT7ekBoM9yqc1M-5tfIQKPP2Pf9S_uDGhYoxeejkQzhWbHp8Sm1fQ0pcnsziOsAQf_C9cJImMQVgBlAGVxpzrshORZHnOklpPsQhBERvze7pxtOViDfSDYcwMcY4cajWOdH6Mh_kUqQdLf2TIAsoGRsaJH3iMSNBJtK8yWJaZ1K7hxjl2qfK8HVX0m9utCK3bdVq9oDE39PvhCp06PSMk6A1a_DhU3db5cbs599LUFiTEZVUB8WMRM4phZiUMvX8P-mhSXW4GY1WKsgVoyT7gHb6xdGhORVXQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -578,18 +578,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "A24",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "UNION TV",
