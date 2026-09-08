@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3ODYxOSIsIm5iZiI6IjE3ODg4NzE0MTkifQ.hHxVCMjKdPnfTestHi0hMSQtAFt6Ht1fmbqI181I1cMsnMxWrj76itSwh847NCfKH3cED4wLYix6UepD2pOdC-SOKRnKib09Cn8grW9F7Hd-MBP1CUsybHDzvanBN7uSU0TuvJPJYxy9-BdNDRHYSP6Wxvz9N7A2EwISAMgBNYI8zGEqztImwFysElDWnw2mrsXIr6J4l84EMobN5hIEDQDa647Ll2YxKUCJSQ_QU8zGIMwtQCca2rwHZmCMFt4GWfiImoeik9lbR8mjnScbdaVG4SzF2gedcZih2PVu40vwKBZcN064QfgRtOIzPLulWdfmhazKPL0NKNppARtTvg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3ODY1NCIsIm5iZiI6IjE3ODg4NzE0NTQifQ.G_xq1fw9ZZ3JD9yol7J5ieZHXCEi8UQSR3dpMPG-BgV-7nHEPBSIMwDWnAWXROKBCrP96q1RIpZLLu7jyAyM6kylz0gmRw3cjqnGtvOqUuQzJ3a69gHVrD9Bo7dsGoDktFOq5iYj5V3AUAIlNjGbW9FGnK-6hQC78aT_D4pfaCrNRhwgnGds-pFqEw0XJC5llIqK4SV95sEQm6y5OB_Z8nu1PnJwWE2i48sJ9BJQJiLHZeVRwOo2x8Zc95kh4pCulK6Obd2otp9x-pSJgD-nRA-qWDDdk5nsi1VIjGt_ByuJ9aaQnBQo93RQTAcUDThEYE2cazE4rPlmqtVhlp0rGg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -4002,7 +4002,10 @@
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372967.ts",
                 "icono": "",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "_local_id": 472,
