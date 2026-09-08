@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MzIyMSIsIm5iZiI6IjE3ODg4NzYwMjEifQ.gK4WgeJ6LbejUCTVfhgk3RKBG0AotNBnmB2gedy1yQSFwezrIqyWx1aD49kvEEw9xA4ynl1-PddtlIVSK_snLM2v4DuHCfv2DIPHZJuDinUj5ugZogcT17Wu8L0sq0DtYAayFTSeD0LMNlfqGGgq6C3hue8TAT6_D19fMpSqdBHfpfJpA7UVPFiXXXVtuTQnLEdpmrIH6LZ0sHNxW9d-6VM4p4H-lbYaVE1gGcb4Bwto98M_3bIzXIeUve5-QassjlJIVWxl7KQyGiUJXuYD91iVE0kIg_Snp2EJhNDZXku3NRib5HKECTJI1eSK5Rd1MQ_2HhVhxW4VTKt0lqCbcQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MzI3MCIsIm5iZiI6IjE3ODg4NzYwNzAifQ.oC5LQAh0u_-0CQjzluR8-HTczbCuSQT0JAGNhERf_9W3sb_JdJhiOHLnRzUuPzGtcWUpNo3_gR2xI5htLTHcvJGCO6OnrSGbMhUaV9EwkC9GqloyzOKwBBmigwxmSI6Pcdz4hI11xWH-G13x-EFemW6A-6Y_sape2Yh58OUPPMi9whEqjAQ0syhkuDeY6KBQTZ2-coHglN107A6C70KfDKWtZqrCmaQWuwECweZu52ow8Ggow0JOaMg1vbGNzGW5wOdTMrktI7iF_JGKylP-ysdgDXCuGQTJ1X6RK738P_o03teOkcOCwIRiYs1B7sfYo0pMyBxHqzFpJzsDg8T6PA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2865,6 +2865,18 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Nick Jr",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/my1x36oauej11j18bm6zd/clearkey_nikjr.json?rlkey=yoq9nmavdckcuj1tk0tu6ed1d&st=cnglrnfy&dl=0",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "CARTOON NETWORK",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
@@ -2894,18 +2906,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Nick Jr",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/my1x36oauej11j18bm6zd/clearkey_nikjr.json?rlkey=yoq9nmavdckcuj1tk0tu6ed1d&st=cnglrnfy&dl=0",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
