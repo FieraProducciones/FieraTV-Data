@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTIzOCIsIm5iZiI6IjE3ODg4NjgwMzgifQ.j9AG1dcWgIIf-WvAp-J0P7gDVqp_iKGnJAEvWn-gZYMg6-rqBMJps5JC-wvOLyUJZuYW9z94ke_YPAWBkYt5Nr4fCxruNfEjrt8QUCmoH53XelCmUUF8_xNtNgEWjaL9jJL5GkwyoAGuQnpLqJsoDBEt6xJFgbWtjFkdE4iWdtCpAjsGe0NRE8NHce40rXu7vxmwGcoH01bBZskHMS6C35DJW9ZTk-6AsW6ermmT1YRAJ86HnKdwnh6nXWn3TkhqwPyZQ8vUZ_gMsAEsxlNFrecf1ioVSS4Rba7QZiq3v1dYixnq72pHEm7YcK55GYagVM4lctbXLmejkdAzb5IMKA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTI3MSIsIm5iZiI6IjE3ODg4NjgwNzEifQ.f1Pw8kvlA1RH7dIrw8jcEbojHhX-IfLWWi5c45MeJfpZ_UYOJ6O5QesHw8z9lKeSeACdJy9nxKURqTotjSdMkn7kvONVgLHO1pAULDVb-5U8ysiBKOESJ1jm1cIVirGRE-CAy8TJNpr5ZYkmpDmTel-JObXyRCADNSz-CCP1VT-gkX7dX5fY_cCem77wTHxVEnHXe9kDmQfuwDbEOdgI11fOvTj6jgU_5ftFGNsDGm8fRaE-l2MMY0EMyNfDd8SgXQKjpeMT0u8d0MXvGiG-UJ8oT2WtRh-MZq_u9kO_F4lHAR7j73QOe8itvfgXO0xtSS2AjlqUUgOGErRlbrCqdA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3963,10 +3963,13 @@
                 "_local_id": 473,
                 "_local_category_id": 68,
                 "name": "DRAGON BALL 24/7",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/260735.ts",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/260735.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "_local_id": 474,
