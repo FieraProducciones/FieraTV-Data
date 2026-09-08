@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTU1MCIsIm5iZiI6IjE3ODg4MzIzNTAifQ.L8jQxPz6pek1nI5CnS7EjG-ijg1_Fjz-TqQZAgEmfznRoXB8rxiKTvqkvTQXOswAUA7MvcTeIhp4h21aWRPeqV8TOQJVnjuJSvaivp1oIRM_qAYBxxeXy16ZcvVeoaXJNUQkqOZwz9z4BmBZKIkXl95yxtcDm2K3zSXOIVSrJ53Wv1qe7_KwrMFRy15SCwbbRyBOBk-Wb5qs16mMKxKtxKhreFLIcpJFNOwTn2j7qT7iPmgj3eVEZQGhHeKfrtFBLk1MwJATtjxoW0l1HvuZDStJXQSimn0uZp3PjT3EeIPgPQ0-ZuTZ7TXgH_2JbsPQghJQx6CDOZBbi79boskFfQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTYyNiIsIm5iZiI6IjE3ODg4MzI0MjYifQ.oigVhUmBUzSFnks-Ykx7LYnfFJ3au5TCHfRWFUdg68bzrsMV-lTXxBWD_le_RVkomrTiLEaPp5kDgz013TqZCFnskFgJNq__lEVDqCxiEA8I_rOtpuHrHdzdsCC5wh4-wlSepfNFX5MDviqAWOX_qgwDjRLS1PkAjQZ2K43sfkEoHE0Q7_eh0QGIpf69nMXhtannF04DScX2bELdNipqfBYoKz27SM-iaNX3PLIiEjJ9lxhVlU8TUXc1MQLFMrOFXRMw30F0N61xdZNMJQuyPKgc2Kz7__Sme59FpTI5mYp9i1tsgOm7Z_86blwVGzx-zz1puojdVKkqi2OMwbahlQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -254,12 +254,12 @@
             },
             {
                 "name": "TRECE HD",
-                "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199417.ts",
                 "icono": "https://bestleague.world/img/trecepy.webp",
-                "type": "DASH",
-                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
+                "type": "HLS",
+                "drm_license_uri": "",
                 "headers": {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                    "User-Agent": "fieratvpro"
                 }
             },
             {
