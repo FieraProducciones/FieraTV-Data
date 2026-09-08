@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MjI5NCIsIm5iZiI6IjE3ODg4MzUwOTQifQ.fCqRpy8s5Hiyj7cxlQjeRG5pv-_DgIex1KpW9bZFmeYHDTfdjQj6uSqG-24GI4oG-EAiJbm4hHkSlVriWS1DZ4tGUMTnbO4RupSuk-WnvfDzJIPw3grmU4rBtbkZP7iuCXLLGPVtQtY2eSzAOKFMCdtg6OLbj-T6ubzyU1XcehG4Lp5RbLHHWjbRFiDgRxV5qABFmNPqkwSWUoTxcfbL7gisdSNW0mH_8PJB1SALSsbcSxIYCAy4UYZsUVQvHot20RyUnMYaj1IElC_l0kF0NJWvY78SYL3kNi03-sPnIxZS308WQ253BG_NSbPJZJe0P5lmFFqVokHXKzBU0mt7sw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MjM5MyIsIm5iZiI6IjE3ODg4MzUxOTMifQ.j4Qfa7EnDcVrSRmTWBdFpgg5e13bpMcyMCn84GS2BrVokLoAqMBcf4Y6Rc3tKHVjKzo9zCTnUBaDN1hfMpmK6USb_N8u9RdXvfvOBOvY1RBetYknCQJVmNel_KY8f1QH3lH0y3cD2h2Yg0fD7cKl16-eSisu0_MfFo4anM3uwfqhgVAO87rqrDa3lAZsWOhxJGnNJ20umSP4p9SFXXxq5iGk8Sa2UXnyfmgfAWCE2hYwFR1CN0rw4ohxWlHHcA4GaZa9lvG3mZ8ScjKt4hTehmGMCN-Qk5rjF3SDxaudp_SGkOCyvERmlSbSON2VgmLOOovdEQ91HNeETokgDflvIA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1206,6 +1206,16 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
+                "name": "TELEFE HD",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/350504.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
                 "name": "TV PUBLICA",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
                 "type": "CLEARKEY",
@@ -1239,16 +1249,6 @@
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TELEFE HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "fieratvpro"
                 }
             },
             {
