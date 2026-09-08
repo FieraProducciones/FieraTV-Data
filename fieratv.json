@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4Njc3NSIsIm5iZiI6IjE3ODg4Nzk1NzUifQ.VlE1pF4lmeF7sXxYPw9CTwHNM_E3Z1HnGIpnhBBPQGENEu6cH6XvuEyklak_R9AhbxQXfJGpFHwvH0qfY9Veq1s3ZBi-2srHKAI-09ImB3wM7jQoOpe669OU5XMdmhyH7_7uDPKOg8wb_dUmXLWWSl5EB0tCtUJVwpk4sBaiTxCUcRQsaN1aSltGpvnVjvwdV99wRPnktyEi6s7BLbDRdv2TBazJr0l3w6yswHZ9G__G-jx-S17jZySNozqHdZX8l2MSVi5CkGVFtfP-ps-Xs7uyrdoBQKeBN0yhEC5QqgIQjEMjoStfXsYYKKhsO81YQ5N6219nBOymsleU6ALu5Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4NjgyNiIsIm5iZiI6IjE3ODg4Nzk2MjYifQ.P-KhfD4538r9cQAgiHB4CK_wolr5btKR6tdh0wK2-Xw_loYxnfRNhWt0_7RqnqstlIj2a81UCxq3zezAHZYqXPhGd9bhyNYFgVNrWoVVdwntPFnTQinw_v2pY17HypFow_hyYmArolPWfeqnj5-bBJs8eq7TMmeg-PJb4Gero3cuVdDR0ftLgu6YGK9Te6eWHSEcuXtKGruzriDyFNmPOUIDIxGe1VDxylXVeGbyfb1w7gxRf2y68ZkCfzJpZGmd-l7BZ-QjvcGEgawFQNcAPTt9dWqK7_1kXyjTW9RZFV-GgLVefw92m4pgOVFKedawUsbZelhhWMp91-GlRKKR-A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2557,7 +2557,7 @@
                 "_local_id": 260,
                 "_local_category_id": 22,
                 "name": "GOLDEN",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.m3u8",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.ts",
                 "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
                 "type": "DASH",
                 "drm_license_uri": ""
