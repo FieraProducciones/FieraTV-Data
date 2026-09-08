@@ -86,7 +86,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzODk4NCIsIm5iZiI6IjE3ODg4MzE3ODQifQ.Rg8-H8bAj_9F2O-tFwSzEGRSUTjQgyg11I4l4giumlIEhdYnacKgr4mv-jh7L-RnnWZovOWD9a5nG9IhJl8I81JN5GpbPDvYvR9KWCYyddH_uhVMv-RsAis4y5hSCdxUfhgpWQbHTiPMDf7q31Wl1C216ETz-ILFZp1upaFdWcrSCD2kwQ1yc2o0pf8UJeqyZap5IPTI9fvXcxnv2AhPEcNGSqpWI1KIu9Lq_Ko62j_8GcPflsEYm2tD-LcK8IlYlf8EAnUy8WX7hAYR67bKuA-FXHKtxH9iCAyODOqL6l7d_CMbspojKH6C3qIAT23I0JGRLASZfkwN2IyLpXe5YA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTAyNSIsIm5iZiI6IjE3ODg4MzE4MjUifQ.XqQj6n3sIcNxrrR-YT8Y6uOrHJfQx-ssLmkRlNPqnMk0eI5sukllJqVsYkopbGSIeEzLZjBANS3ZazVU5iNWd5BS-5TvStxfo3bav1RdKtK75bFUAxxdrkpjLJ9KzFlU0s31XTwOoxDxFEsZwaUhFobaU6TjFgr0sXA1ab6es1XGlt-DfuP3ihI1fniTsIx1MzJyBbfv_rT-YEvoDLwZvssh7O2bEyVov7pPBcAzUfxTV6mbbWT7GLBOhGYbo7RSC_maPZYEN4J8Sj1NYje_Yi6ONPn1LA-6CcIxOIchMNaKpp0QpsErE62GxvsTudFBo9TJx53jrqxzfvnhobUT5Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3747,10 +3747,13 @@
             },
             {
                 "name": "TELEFUTURO PRUEBA",
-                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10585.ts",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "name": "NPY HD PRUEBA",
