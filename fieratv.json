@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTg5NCIsIm5iZiI6IjE3ODg4MzI2OTQifQ.HIl3n7-FI4I194agG8GnJ4i_lVqch4MJorZoYbZp5OJ6NeXeRqQuZS7IDnFQLzav5eIKOYB5Wz4DjUqHN4qrfrc0G6MR1d-kgWCl3Mz6D2oTGxQj3ewrKvDKQKKth05lw8GQPnIv-QP5MeDmujNGI41ygmskKg7mA94nsdei6GnbLix_Cy59-fI7scgP6E0JU_38AN7amHEpXXQT_WruNQ35GRSsPs2ZG8uRcROgiiDJ1qmoH8tgC3g7H75yoX7A9Ee2H7DwZxkkvuG_PpVZE2l75MiYgqehGKWJIIJEgv9irFCy__nliwscZUUPxHZin8nluUnCqTYNVqCAk5KKdQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0MDAxNyIsIm5iZiI6IjE3ODg4MzI4MTcifQ.T24kdFLQDBxHDe-ukwWNsZozwj0xsVUk4vXzBQ1SgW2ZoX1zvksw70aSVLEe_pxvClQiqnL_lMfCJojRVzkykZo_MV9isQ01YRXDMdvPRv1wdvSPF7w1Q3dRCC1mAIvxmDlu82FjA5Pl_VvSRI2YAvRph-6P1iTDu5lOp5R8H5dd80KXjbsHEcwykIyMaqAWEtAon0khrsgt4ICrymEZY3nmouoiDoHuhXipgDwYtAt051ar8xMBw74_uGA8xxLj_H1knedNznUE9eqL3Zp5EdH2RTlAdTuihl-CFIKeN179xkbHe4Z2trnQ1rn7fE3k7qUi7bLws1SKSOe5G59NIQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -542,10 +542,13 @@
         "samples": [
             {
                 "name": "SUR TV",
-                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331238.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "name": "5 DIAS PY",
