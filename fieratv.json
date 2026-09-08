@@ -3,6 +3,13 @@
         "name": "EVENTOS PY HD",
         "samples": [
             {
+                "name": "TIGO SPORTS SD",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10588.ts",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "EVENTOS FULL HD",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -86,7 +93,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTA3MCIsIm5iZiI6IjE3ODg4MzE4NzAifQ.VUKg7W3MzMzvtNKqr9qNWcWzk8wb0LL1xsKL1KwY9XYzcsPrK5ylTf0KeKN8jZ-WNiV0CTtB-j4ttWghBGlabRZu-O97rwm6sWf1TeykWK0N-iQZvslCGG6oLWG89kmYVPL3eqqEtJqPXikpLSkBW4a2njU4kZZlq3OXOx-BpEWGY2nKGKZPUWw8Cqc93ME6S0CgIyuznQNgC-gvq14sN8mpxSl9-M8hgODwZF5VP_XpSkuOZWrW-J2VkVhx_A0zIxry3F2LMg3OCsX2dMdXJ8K5bxlhgwS2jZTvmcjDOlENp0SidNXIWb-s7PjihPv-rjrBrSNl6R8dRA5m-mSudg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTE4NiIsIm5iZiI6IjE3ODg4MzE5ODYifQ.aa9uc79paZwIJD5YgyN06ePd4-GOpgtkZDGzvnSFWyYiEc4vSC2abDlWltr6askpCcUcoJCwy1iBdRARuVWB-MrGSSvT7sy-2r2amwjEEAiEz7P8y0E89fDY91XGacfxmbVkL9XCC9__MpZ7q0QwH6R5JfXTWVqbf1iAMh2wzf1YWWPmUa6WkInvj3TyoxkBVFoqcHANToA5e8WNsgSIN4CPKCR3GssbuhrNo5znaFiCV18dsjicXoWb-D3hc376JgSioyaAYAZPvcVZHp-3iB51rUsr0YjCpRUXz5tXQrlhGcVVR6FdMlssy1R6wG8K3jIw6XTJp87d5NI-JIeZsA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
