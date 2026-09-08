@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTM3NiIsIm5iZiI6IjE3ODg4MzgxNzYifQ.ST82qm4loV7igJ_iY9PtTVCNkmQFl_v3qUsG4_drRkjZLKzDsZPbrU8jB7Snaf5uj9P5poIWsa_5_T-gAGBJYVOsJ4MHDxutqP4Ghfhk9wx4ajkxe_3toC_u-nw6bjzdE_UDmBRIRLCog6uGj6nyD7jNcmv2mhB2UCpXJtEKUEQGtd1HjrtapwmHjWyD91yCUyPbviltEolC674E7eG0tO-emPPV_lSe13ctC3H7rNjNWDYoe-j_p6aJ9KTH1EhY3OfEAFhh_YpcS-lol7HBGR1Vr2dUn8Xs7iQFbSD8pTfRVE3G7NL39lc15ismd9_AJsvYaqVLEiIdOAih1RaiFg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTQzMCIsIm5iZiI6IjE3ODg4MzgyMzAifQ.dE4WzqY12tY5JqNrEmKgxqq_0V0obIzfn48mXaHlv_hEhF7wWqOHpMarOX3GMI_OyZsr4I3xDcHCnZqM5BJEwetZ56-tIhCS5edmRO5BU4gcKW_fd3ycIRT0VuAzxKZIvlZn86117-wG3cywhvywwpcBbFM8BSzeA2Fte0153T3_I5lTM7rAi0PBwSY7PubvLH1iT3PKaolsTb7bxPOZHmG3DDCjf9ZxZtx5Z2dg9C0VGUHfA5JrLuFr3QhQkdRVm4v2SQtal9H9lvJ6tD0obMz4B17Thl0XJt9BqmPBV16qYEIB2YY0evTNnl_IBNke8x69-nRN8FhCW4HtmEENaQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -332,6 +332,120 @@
         ]
     },
     {
+        "name": "PARAGUAY 🇵🇾03",
+        "samples": [
+            {
+                "name": "SUR TV",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331238.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
+                "name": "5 DIAS PY",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd",
+                "icono": "https://i.ibb.co/Pg6v5zn/images.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL PRO",
+                "url": "https://www.desde-paraguay.com/pro.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UNION TV",
+                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
+                "type": "",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PARAVISION",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331237.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
+                "name": "MEGA TV 2",
+                "url": "https://www.desde-paraguay.com/mega.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "COSMOS",
+                "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BM - BRUNO MASI",
+                "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PARAGUAY TV",
+                "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
+                "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PRODUCTIVA TV",
+                "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
+                "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RADIO NACIONAL DEL PARAGUAY",
+                "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=R3UBswJmJ47V3vPjJHxW3v",
+                "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REPUBLICA TV",
+                "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w307468788.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA TV PARAGUAY",
+                "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+                "icono": "https://i.ibb.co/nqLSGRzs/R.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CAD",
+                "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7iVAToJaqZmCL3go8qFMGrtiRL_e3-R2ds5x9el-8A&s",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES ESPN 🇦🇷 FOX SPORTS",
         "samples": [
             {
@@ -544,120 +658,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "PARAGUAY 🇵🇾03",
-        "samples": [
-            {
-                "name": "SUR TV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331238.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "fieratvpro"
-                }
-            },
-            {
-                "name": "5 DIAS PY",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd",
-                "icono": "https://i.ibb.co/Pg6v5zn/images.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "CANAL PRO",
-                "url": "https://www.desde-paraguay.com/pro.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "UNION TV",
-                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
-                "type": "",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAVISION",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/331237.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "fieratvpro"
-                }
-            },
-            {
-                "name": "MEGA TV 2",
-                "url": "https://www.desde-paraguay.com/mega.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "COSMOS",
-                "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BM - BRUNO MASI",
-                "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAGUAY TV",
-                "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
-                "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PRODUCTIVA TV",
-                "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
-                "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RADIO NACIONAL DEL PARAGUAY",
-                "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b_output_0.m3u8?session=R3UBswJmJ47V3vPjJHxW3v",
-                "icono": "https://imagizer.imageshack.com/img923/3126/kpsWhM.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REPUBLICA TV",
-                "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w307468788.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/6656/CBdfQf.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA TV PARAGUAY",
-                "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-                "icono": "https://i.ibb.co/nqLSGRzs/R.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CAD",
-                "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7iVAToJaqZmCL3go8qFMGrtiRL_e3-R2ds5x9el-8A&s",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
