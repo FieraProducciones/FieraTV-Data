@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NDQ5MyIsIm5iZiI6IjE3ODg4NjcyOTMifQ.ZA--tUakaRLKFXVTz49LA2XGSJQCpTIPer4fmXcrAiscHg2B840bhdR2BJHG0SknHzby_gIsl6bpAOG4L5QWGYeYWAWPaMN7Jp0VYgoFFtZPFohc2oVQXnYNU-U_MTK2J3VMdhAHsMZj1zBsvgPkwTiHp4S89NHQJ5BQpITQzqGu4l40qmKEHO96ZFHV44iZ1wZKTolvBeNlkNxCYjjMv45Nhz0897NNGRC_dZo6sbtD9_-sowGryv_2VvdiujSLRL0SkcJpi4pDUQW6bZievAD9S-JkSQLgDkCt21c0M9rqIsJ0vTkxuAo5Idb9acD4c7Xfuzdnw0Few1l-enXiww/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NDUxMyIsIm5iZiI6IjE3ODg4NjczMTMifQ.ijfhgXB1R5ah_24XcmvE0UkWMsq5O6X-OSp9Jh94VxbTF_dGXc3cgGvDhD1a9t4WPgHJ8TFT_jSq-u7_xgOKBMl4jJ8xkHKxzj2b-FLOYbGJYNsx-cw6WhactUr52jyM7V-3KLrNfGbW7zDPbcA6jYN7XbtlCdvXK3mPGlbZdcF22gQOetnSAA7jklHtSYZs1Uq5e5Bac8F_76K6rKfGWhz8BTp9eFIJI-Wb7ATWPK2iRO4i00U_uaPwYb2b5T5WN7qIPdjcNrgHD-RG2_qtqEzekTGzWjSC2BL759niG6VVXtmhFIVh5cn_0Oi_T0WepEfBCDoGEbO0CyyOnb8PVA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1303,15 +1303,6 @@
                 "name": "MASTERCHEF",
                 "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
                 "icono": "https://www.dail.es/wp-content/uploads/2018/10/Masterchef-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 460,
-                "_local_category_id": 11,
-                "name": "SONY CHANNEL",
-                "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
