@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTk0MyIsIm5iZiI6IjE3ODg4Mzg3NDMifQ.KByg3A6a0uUXOpkZdgd53eojYwIF61r5IQiyF_fXx-Hh-A5cYKDjRMmdAqFPAH5C4NI1OkoGcmRyIG0BpAqup1vgcaG4-mo_wqK2rk7qo4WxVPrlTy_d470OqDXVK-1LrpI7JcB5dNcb62qcLyP7p0xf2yOiEYh-PYTqYEA8QLmNUxHXdAG_fpu9bQgDuCMGYFwjTEnufiny1IMAQzNIfruvgNjDyTHylQKHZ5tvi1wlDWKnKWyMCJsHrDlebf_LudnL6en5EaQ4iOvN30SToLQSUX8rDbb1HssvyImvuNE1BYq7QL_Q3oUNPVD1sojvl3F_F7Z0cJNoKGg-ttDFDw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NjA0OSIsIm5iZiI6IjE3ODg4Mzg4NDkifQ.FHo6MNPGe2T3Uy-8Ii_CR3P8Qnk5uspZM46wzvKSD9hgsP7LZPzy1iVt0bbaQEJc7_HvB19Om4Bmcw_zFNCg28jlAS66-HTUBHelwssHx-pjXCcu7uiTKkvBbZcz-2apAAK5oH2rit7-ey_zq5U5djVlbA4gm0u8qUVFIZUNja6W8zcDoAcsVyNtssmU5lTB7OtBiNB0a_Qh3VWUM6uSb1k6wXec-75fYGKpIwJd0Wk1p3oaS9n2QKeKzUH2Xqobz0oWtNWx5_s4aEibGZ00c4po9zLgRxNnuKCdrWc1nzZElzuoI4Ez90k6ytP_5zlCXY13BTRsaKyA7l1eR_eQ6g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3096,15 +3096,13 @@
         "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
-                "name": "HBO 1",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/default.mpd",
+                "name": "HBO",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19928.ts",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
+                "type": "HLS",
+                "drm_license_uri": "",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "User-Agent": "fieratvpro"
                 }
             },
             {
@@ -3224,6 +3222,18 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "webtoken": "1.0",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO 1",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/default.mpd",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
