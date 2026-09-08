@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTMyOSIsIm5iZiI6IjE3ODg4MzIxMjkifQ.S_A7ghFuGD2v3-vm5MG_SIKt5lw8VTJ1G11PQhsRqmt7_qaUZx19C8zWgya77NafDdayZAKOd2A1iaK20HLTQzJtyF-5tHj1jPj9JoVeKnrliYHGVbATMWnPofRPWZ6zkqoy6Kb2H8aTIKZYoGcvWrImLTGXF0E010Fu3LXYpxBK2ot2yFBIQ1nG-7TkLTEsF-vCTTouBmywI3Tz0ENizfztVIE9CltfTyVuD25MHOrk_G8Rb3O3CGm3kKOVjTzfTBW3A5JutpoLcwZqVAi-O-OEc8DYXxJJPOYA4mzttRkD0-d1_luIsQDzpKwCPFmFpk6-GDQfhjEvm1Z-50qC3A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODgzOTUzMCIsIm5iZiI6IjE3ODg4MzIzMzAifQ.Bu4wS75Vae6diAFoVXKZMmcDfnKJBzKZEUIL61XFzMYc75WCYoqb_bks2eesRuyKIxx9bBDYb-aNZyG_PMapb-WllqMyywp4J0Nmg_vCG1vXsqBJPSV6GrWcR72HbOkLb9Q1324LmeINEuXWo_vcM2Vuu80nsrEwY-NVTEpJoAdP7lDVjONj2ayp0eQiXmAFMXMaz2Yq0g7Lxac7gpG7_dHeplc8j3NefjgLh5jwzmH3k6hRnJG9J_duEywYFHFKEsWTJGfvy-W2fA69Z1MbrteGsEcmVhmvZsrcG7Z6mv7RPNbIcL9WDKF1IqVuRxlcaK12yvIftn4YBmZX_--KMg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -243,6 +243,16 @@
         "name": "PARAGUAY🇵🇾02",
         "samples": [
             {
+                "name": "TELEFUTURO HD",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10585.ts",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
+            },
+            {
                 "name": "TRECE HD",
                 "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
                 "icono": "https://bestleague.world/img/trecepy.webp",
@@ -261,13 +271,6 @@
                 "headers": {
                     "User-Agent": "fieratvpro"
                 }
-            },
-            {
-                "name": "TELEFUTURO HD",
-                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "SNT HD",
