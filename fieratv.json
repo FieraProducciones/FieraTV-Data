@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4MjcwNiIsIm5iZiI6IjE3ODg4NzU1MDYifQ.bD6GTI8Rt0Y7xpsc1Yc-jShBkFhF13zbMPZTvjID-DCwdyj-DTQMHCbm6r3hDv4SO0tISuu3Wu9hAz3-PZr6LRuruX0SVThOBTBRwJ4DEl5AH1WQtmIWC0UEzMOl9EWBd5Mpz08VzT7GYMBTj12DYbPKteFSDNdxhMom3T5wMyvKQp4Bn4kx0p1C0otxNCshsfTg2wSLU-cXvBE3HmJAuhz2HrIhN-PDriSqklOToNruqgy7l9WWsX1c4SYHTgtukpJnDbvbfl8yZ2yJL0dLs0gKqovPSyvH-8ER3ej0KmlKZt_PYSNt1-auOWYt_ZeQie3Eu0VED1I0LNOc5LFNpA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg4Mjc2MyIsIm5iZiI6IjE3ODg4NzU1NjMifQ.PKD33QYfsGPLCUsYyT1Lge6s56b9ojlx8-9hGKawQcvMRxGSMWGn-Kdjkqc6g13pbSurFekXCi2z2GNKQcysKyv6y2CGgKVZ8D6SVo6mu8PIlhNfz80ruAdiSoeGEkjl3hlohI6KPPe5W8YoEL6qol4OKdOwnN0-ZtcWgVMpwAJ044LxFx02CEV8defadOh2rVRTssXJqJk_IEuPI0_8KwJB4UKsT-rhUFgnXd9RzRqV_sXRiSaagal5hVb2CtPxXl3JQ0nA_vUhw1EgEIXEjLsXHsE0U3Pkqm_Mf_U-XCijwPJH6Jl8-d0xqMGIcmnEh6hwvEjgiDB3robBncooMg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2557,6 +2557,18 @@
                 }
             },
             {
+                "name": "TNT SERIES",
+                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "SPACE HD",
                 "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
                 "type": "CLEARKEY",
@@ -2691,18 +2703,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TNT SERIES",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzA3ODM0Iiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTNjOGE1ZTk3ZTE5NDg3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==._S10kOUnICYAhf9DgAkYLyaPXVW1JX3IboENaZiasKllECmgX6RTmvZR_0GzrhSIqoekUgL0-Ug9vj9JgP4YcQ==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
