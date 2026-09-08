@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTMwOCIsIm5iZiI6IjE3ODg4NjgxMDgifQ.Zdr1QFVQ7WwklN2TwcjmBfIo5JLK6W6wUOvQkG3FOMlwsqMYFKEh0GEyxYY8xSv8_9n2mrQdpTQ4vg-X4LgpRLGlC_svFfrTxKHfY9KGFs1dTtgeIQKWPz4RtT2lLqVrwI_Oh5uzv2s3YJ86NSMxZEkI7OrM0dYP_UvoipNFoOwS6YxM_r0ihZW8ON6_okKbh7UFv1e2M2juLq0i4E16oi_UixX7RN95x5MLejCK7u9oPUmPi8ZIGwtkZ6zJ7x8e8z1nxSTmNQla0WuyoJRC6p43GHPNnNQhSMqvW_gRzY1Vfsub6tX1ny8OlS4bVZSI0CFDSlPwQMg7PzNc7nfaSw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTQ2OCIsIm5iZiI6IjE3ODg4NjgyNjgifQ.lYTFVSAhIPB0B2HoWdan03do_rSsTCSGvFp0zx6ijpFTxMhQpTxNW9Eul28vNAqlvkYRs_t0mVWdG19pnNwnrkmFsm2SHUwmQzsj1pH0me3KTrrdSIQV_KFXswC-igoRmmFwCchGBvLaZiV6-dSANMhzyj5BldB88awmzE7sxIMqZ-YbuGJsa9Bg_8V2nGZa28-E5ooL7q4t6y8m9e4mvrsKjzIiVZQ42Z5xXxQweEjUomAFjUGi4-L7r_FJspg6i8n_xDrPg0JVoVuaXCfdW-q9KcCRByjXd4MRtjmrE9YV1fpcMnH_ZDMSaciNMv3xk5lunUf1Ce2cL1RpzRnnAw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -187,6 +187,15 @@
         "name": "PARAGUAY 🇵🇾01",
         "samples": [
             {
+                "_local_id": 32,
+                "_local_category_id": 5,
+                "name": "TELEFUTURO",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 23,
                 "_local_category_id": 5,
                 "name": "ABC TV",
@@ -222,15 +231,6 @@
                 "name": "ÑANDUTI TV",
                 "url": "https://nanduti.b-cdn.net/Source.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 32,
-                "_local_category_id": 5,
-                "name": "TELEFUTURO",
-                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
