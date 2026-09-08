@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NjgzMCIsIm5iZiI6IjE3ODg4Mzk2MzAifQ.XQ7AOZS03JaiqLaaB0fB27Rlht9lA1dQII8FIlHRPn9WJ07EDrcXhoW6nlVTzmk0yVVynIS-uUGh-eW4isVbQjLV-Znszmnl9sUEugsW_MGAfI_Qic3lPqhuSCMHseJtxvg0NNIre3ibsrsC6yW2zELAMwC8oPhfD0aOK6WWWF1O31xwPdOXycOiO77zvlIZICWn3OpwVGOsOgB1HIBRHqXmu5q0X1eQNPXfRuwCC0cT0g1zlh9ap7q-jxrlxyin8ln67EQ0dNomJNt44hzMcX8eWA2sawjypod91Ct2HahvOB4IAOeHDJFm7_eWFKxEW5ZFHhpEuYgWU-0yV4T2wA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0Njk4MyIsIm5iZiI6IjE3ODg4Mzk3ODMifQ.lotacTwQfk_TSgF6avlW16lqTOrM_xBGymHz4EufYrAzuMuspaez9OLfQG4lkUmPxArnHjemJCoLIVWdIbBf-ZOsroS5-9wQiG2-ehwzeIPzMGWqiz6jHynJNwLkc_h2AFAhpzhY65ulryaN458VklkojYV7lF30tM_aMhiG70TkY_YU512qrnTD0fZYHipgPwRZZJWCgnRgGdLg9AQCE13dCUX_XdE7ByUNtuL5PqIgjbHITNbXMmCq_hjCLOcoNBmkAX_2XNxVS8mrUwlMurTOo2iBBqF0WT8NKITMg_89HZr_OCD0fh2_gs9GkCB-Hp4eFeNsA-Yqw8MN2-lPhQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -2357,6 +2357,13 @@
                 "name": "TODO NOVELAS",
                 "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
                 "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LA ROSA DE GUADALUPE 24/7",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206482.ts",
+                "icono": "https://images.produ.com/noticias/0221/big-LaRosaDeGuadalupeCanal1.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
