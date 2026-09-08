@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTEzNiIsIm5iZiI6IjE3ODg4Mzc5MzYifQ.LUGOkLzKVDVGOLG9cLcwcoKffui9OKVB7wC3gmVa3JEQxQvOemIxMz-EJ7FDQl8JlcpQK3Gf5qrTkx1fjbZmkkQAG43dSytia1YDjhI40SW4Uu3T9UbIXxHDLH0qd1-jC4qg5sb84XDLfiJkihDc8skN4hc9RIdvQCtEz0-c_C89ErakMNcPsYWMdcufOkB0OaL1RncUnZhLBH41Ljrc8mgeZLzMIGC1mYhvoRXpj10GNKk0lMbW_ijhMFKs3YSpGEnLEQFOWWOsmJTQLTEshQvxbNc7j6snIQ-GaEJnZH0UTT0HtiiIkABrM_aJ5sKxXKr8MqaKp30LxDdrFXi2Sw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NTE3MiIsIm5iZiI6IjE3ODg4Mzc5NzIifQ.af54V-OSwILpssWb0657RY94nezobOuz_BLxYfdyrAzCgsTHq6ajdT0PsjxY_QY5kRA2_koMSPcSmGFmFQvpptaoeiyPiaycoxzgfZfqI32wlosc4h9_TtNRJpwuDcJCxvRfB8Q5rIUuoTZyjpNwd2BDdZ5ppX3LBkl8-ZmBsoEDoUlcgIij68UiHKJjPYPqH73krBct2fiMxasS96HdVdMfQe8-qyHUU4cz-SpMtXPFh9FRDtRXPRDtXtIVuhOj1-UQByV6N80xXGniHs2UknVHH6V-J07dS-cD-GQ4hBjwGlCCRZCxEGDN5pIBtT2axBehGMLapQhJhJTAtt9H3A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -1343,7 +1343,7 @@
             {
                 "name": "TELEFE INTERNACIONAL",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/350504.ts",
-                "icono": "",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
