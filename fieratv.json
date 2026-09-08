@@ -130,7 +130,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NDgzNSIsIm5iZiI6IjE3ODg4Njc2MzUifQ.Rm64CwLsAb_4SWvLcxeqvrX34VgZvobq8wHE7bASYJciKR9utY7g0WmEeVaV8XQVkq7S_fV1sB5SPpqO52WhfHGlxD0TXUjpojKWaUzRumWAIwMdAMf4LkrVaiF2ILMSyWSkAm1TiPv9RThOJ7XWpJD4Q4d4ET-suM08KIVZ6Z3wV1zgHouxVZXVuZ3zMtZKdeZhakcBeZG1ffv5gaYddN2DGU_5SmCgFXmQYT-ZGfVImU_6b6rb-AUAxZrmE-UUN_88UZd7KHcoAA0BQs9-emQZSsVssw2hG5Hc6umVWfqqXC6zHyVzPrjo0mXXZksSsOiPR3bQDvZCDAffVwRKeg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg3NTIzOCIsIm5iZiI6IjE3ODg4NjgwMzgifQ.j9AG1dcWgIIf-WvAp-J0P7gDVqp_iKGnJAEvWn-gZYMg6-rqBMJps5JC-wvOLyUJZuYW9z94ke_YPAWBkYt5Nr4fCxruNfEjrt8QUCmoH53XelCmUUF8_xNtNgEWjaL9jJL5GkwyoAGuQnpLqJsoDBEt6xJFgbWtjFkdE4iWdtCpAjsGe0NRE8NHce40rXu7vxmwGcoH01bBZskHMS6C35DJW9ZTk-6AsW6ermmT1YRAJ86HnKdwnh6nXWn3TkhqwPyZQ8vUZ_gMsAEsxlNFrecf1ioVSS4Rba7QZiq3v1dYixnq72pHEm7YcK55GYagVM4lctbXLmejkdAzb5IMKA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3951,10 +3951,13 @@
                 "_local_id": 472,
                 "_local_category_id": 68,
                 "name": "LOS SIMPSONS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206366.ts",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206366.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "fieratvpro"
+                }
             },
             {
                 "_local_id": 473,
