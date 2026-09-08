@@ -100,7 +100,7 @@
             },
             {
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzM5MSIsIm5iZiI6IjE3ODg4NDAxOTEifQ.H1_mzHeT1a41-b-bBlodbZae6N19u09MnB6NLL83AL2JzwV8j24StvNMJPX8sZkEi2_HPA6X2PKMpwHX8pQaJMw2TDTKs2ZzHgN01bste1O4C4x67GJnRyVAEJyJ5Enf2gFIilA8aw-1HLBx6R3dtvneJDK3hZob0fs0U0OtwfXnpHdzW158LGL2LZhIkGOtumbXrP6z5E0LwV9JZhJA_yUeVUEcxv9l1VvyQpwUltRa5uZZDtxe3kch21L8oJ3IxfNnzHr4CX9MpuS48MgsMnJ6RuPjTqe-DKKlmlVfyy7BbtJxVHDPs9DwJ3SF0dhegSlWjMKndiKoMDMFwtwpfg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODg0NzUyMyIsIm5iZiI6IjE3ODg4NDAzMjMifQ.nhYnssdIfAsSWdZlQV5BTPP1F3PWqVFHHo95O9TBn2pXQJHzLqKgs2buiea-4kOS5UurntjoMhhEBk56aPbS8bQZENM6N0qQIYm_IH10UUt9JJol1jo8emU8eJWYfdLAmLt7fJOGAe1ZxTLijm3AAKvvWHKTXC5SC_fGzm3aKOjTl0kudAnWeA4g2zbruvS8stv2YwxMamNWvhfScHD89H2OVU9aG2mD99H0kLZXDj7yRoOhcupV3NWb9dCWgbbDvZQoqYXmsV3CKodzW9x89kfUH9xiiaiDHdvpkTzS-iUC85od4c6bDbLGkjF1u3tjXp0RvhVZbHJhAGBnkKLQnw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -3855,6 +3855,13 @@
                 "url": "https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjYyODAwIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ESEUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiYjUzOWI2ODdiZGJmNzEiLCJzZXNzaW9uX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MtMTc4ODQ5MDAwMy00MzciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMmZjZGQ0YmNhZjNkOWRiMjkzYzIyNDg0MzUwZTlmN2MiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ubji28UVXS1fwHVMiXqTE4mljLPwLJiKXO6-E-BCsnbKARMbjmM4VQMwMlsQhyk6-v2WZ2NeggSXzSM3tf9LRw==/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
                 "icono": "",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CHESPIRITO 24/7",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206479.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUfAO8W5GhEhKGfe00paDOgHX7u_3w5OTFVWT00Mwd6o6N8NSbJyotGg&s=10",
+                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
