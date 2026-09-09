@@ -34,7 +34,7 @@
                 "_local_id": 404,
                 "_local_category_id": 2,
                 "name": "FIERA EVENTOS HD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODkyNTgxOCIsIm5iZiI6IjE3ODg5MTg2MTgifQ.VMmt06xhz82TKSX6qzBopu_3_e-l1gUYlWDwB86YC54HPb0NfXaH4N5KGbwStpYWeh6hBGXJvAt_xt_c-UW70pR7sd1E-Ale5-FmYskkZYQgZ8JcQCS7AU3WIXbo6hU3BRu_YbBtgVPQW9L3aaFXzZkxkSL92Isx-zgXtTMEeuKn2G9egZUyBYMmrEBFZmmZLsVAEicLyVoLAs73cmsMGhT4UGcD8YYbA81oXjn7kihxcG4UB53SHlh40y6shzMskf_fFj1iAwrTVUzTIDAx2nw6WvSwbBxNuAUs3jC83Oy6oNnscyZ2odKmXkUE2XNwvr4hqvlZom_-ld6kHdAO8A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4ODk2MTU5OCIsIm5iZiI6IjE3ODg5NTQzOTgifQ.KzDQ4U-p_t0cfFgF0-qc_9caezV9dP9Tf-T58_ArLO7XQUBlpEDKdCGd8R7ETpZYC44ApuZJ5JtwmJv2R-fBWn8mbaXG_6ZMheW4spb5OUwaEy1t4GIUQYyH9vEJKftndjh65sRz8qoBW2nXMe09AbRXBhbVqtFnURdiH9QRng_W_FcUevy9iVHn8x8tPqYndyPl10Q73-WDkiTz69BeGu1wdxbIriuvDWZwaZmi0AS9QOzBFPgYp4g6VgHq0dniB7j_dKNpuYUzfYnR_87pHwxBI4VVYOXW6F6Osqp-aUZqn3SS1wuzZegmRHXIX3z1uJk8Q45P69v--dYdZL-E8g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
@@ -230,13 +230,10 @@
                 "_local_id": 24,
                 "_local_category_id": 4,
                 "name": "TELEFUTURO HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10585.ts",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "fieratvpro"
-                }
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 410,
