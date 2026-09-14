@@ -528,6 +528,16 @@
         "name": "PARAGUAY 🇵🇾 2",
         "samples": [
             {
+                "_local_id": 84,
+                "_local_category_id": 6,
+                "section": "live",
+                "name": "TELEFUTURO",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 76,
                 "_local_category_id": 6,
                 "section": "live",
@@ -604,16 +614,6 @@
                 "name": "HEI",
                 "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 84,
-                "_local_category_id": 6,
-                "section": "live",
-                "name": "TELEFUTURO",
-                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
