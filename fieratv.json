@@ -21,14 +21,12 @@
                 "_local_id": 2,
                 "_local_category_id": 1,
                 "section": "live",
-                "name": "TIGO FULL 2 ✅",
+                "name": "EVENTOS FULL HD 2",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8",
                 "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "",
                 "headers": {
-                    "Origin": "",
-                    "Referer": "",
                     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 }
             },
