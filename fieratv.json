@@ -46,21 +46,6 @@
                 }
             },
             {
-                "_local_id": 3,
-                "_local_category_id": 1,
-                "section": "live",
-                "name": "TIGO 24/7",
-                "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4,
                 "_local_category_id": 1,
                 "section": "live",
@@ -131,6 +116,19 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+                }
+            },
+            {
+                "_local_id": 3,
+                "_local_category_id": 1,
+                "section": "live",
+                "name": "EVENTOS FULL 24/7",
+                "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
