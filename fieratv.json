@@ -51,14 +51,12 @@
                 "_local_id": 4,
                 "_local_category_id": 1,
                 "section": "live",
-                "name": "TIGO SPORTS OPC 1",
+                "name": "EVENTOS HD 4",
                 "url": "https://streamxhd.st/live1.php?stream=tigo1",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-                "type": "WEBVIEW",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
                 "drm_license_uri": "",
                 "headers": {
-                    "Origin": "",
-                    "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
