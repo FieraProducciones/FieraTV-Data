@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTM3MiIsIm5iZiI6IjE3ODk0OTQxNzIifQ.GQrkgOimnn4wAn4r62KmLaFU9XIKixD4-m8SteKboPs5fDICZEQJEbguyRV2re68YOVn4TxlrOS_8iPZZ6249MGKu9QFCToKjOuqc51g6DX0ln8qaEJ_lX8f6xRPaFvP7NWQwXVO2cd5jnsyquIPP08xvznH803scOaRSQcSSw7KNATu3wIZxOK1RsmPlzauJKU73Fe6TsiNHqDWefV7C720gxUnlnT0C9-0hyWJVorLekQVLDolcZyYxyC9od7AtsroC8ZYM5mJgXvbq-zojqa8BSwY9RORDnqBLAntFBEAnh9BREP9vvNOqa8-ebJFOFXHiKrzfN9y1_qrf6ayfQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMjA5NyIsIm5iZiI6IjE3ODk0OTQ4OTcifQ.lPdX3p0I4uVWz93lrmVTy1yi7qoDlrKNZXCbx0Ftczy9ApFHJbBCSxcIUh5GENO-Og2k6JRZuN0evgQCMYDU4ibsKMMXQ6a0Pj3t1fDb-DrZOeEFUVWI27uvkGjjpz57Q3H9PqmE1Izl4YBtie5mTxWFAKRzDN3oABFdFGFtCG5pzqi97sx-aAHTH_TGKT0yZsngsuugn1p6KV7rZE4nRCiL2kILOwRMESDMw_e4mCtjqyS_nTOIzA8HuFecYKz5KzRoahIx7xfTj_8gVXKJSEdNCzepJL-lH9HLvQvy8nlOTXSUfRKi9ObkHJ19LmHatwLPvxTJNw5Bv7qIL6NzBg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1452,6 +1452,186 @@
                 }
             }
         ]
+    },
+    {
+        "name": "INTERNACIONALES🌎📺",
+        "samples": [
+            {
+                "name": "FRANCE24",
+                "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                },
+                "section": "live"
+            },
+            {
+                "name": "ESNE TV",
+                "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg4OTc3MzcyLCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.UJa76EgfAHsf7ro5Oy_wEN_KJSlmyQpC82XyWhznfaI",
+                "icono": "https://i.ibb.co/TG4XTpL/WA-1788191366778.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "NTN24 COLOMBIA",
+                "url": "http://190.108.83.69:8000/play/a00r/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                },
+                "section": "live"
+            },
+            {
+                "name": "ANTENA 3",
+                "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
+                "icono": "https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "HISPAN TV",
+                "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "ELTORO TV HD",
+                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/142380.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "http://dalive.site:8080",
+                    "Referer": "http://dalive.site:8080/",
+                    "User-Agent": "IPTVSmartersPlayer"
+                },
+                "section": "live"
+            },
+            {
+                "name": "LA 1 TVE HD",
+                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138494.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "http://dalive.site:8080",
+                    "Referer": "http://dalive.site:8080/",
+                    "User-Agent": "IPTVSmartersPlayer"
+                },
+                "section": "live"
+            },
+            {
+                "name": "LA 2 TVE HD",
+                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138495.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "http://dalive.site:8080",
+                    "Referer": "http://dalive.site:8080/",
+                    "User-Agent": "IPTVSmartersPlayer"
+                },
+                "section": "live"
+            },
+            {
+                "name": "BOLIVIA TV HD",
+                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/271338.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nuevo_Logo_BTV.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "http://dalive.site:8080",
+                    "Referer": "http://dalive.site:8080/",
+                    "User-Agent": "IPTVSmartersPlayer"
+                },
+                "section": "live"
+            },
+            {
+                "name": "CNN EN ESPAÑOL HD",
+                "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "DW ALEMANIA",
+                "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+                "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "RT NEWS",
+                "url": "https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "RT EN ESPAÑOL",
+                "url": "https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "CGTN ENGLISH",
+                "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "CGTN ESPAÑOL",
+                "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "TELESUR VENEZUELA",
+                "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "CUBAVISION INTERNACIONAL",
+                "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
+                "icono": "https://commons.wikimedia.org/wiki/Category:Cubavisi%C3%B3n#/media/File%3ACvinternacional.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "TVI",
+                "url": "https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI2IDk6Njo3IEFNJmhhc2hfdmFsdWU9L0ExTHpRYlBIVzBBZHdoOUxEK2c4QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzNDA5MGM5LWUxYzctNGU1ZC04MGU4LWU4NzIyODY1ZDgyNQ==",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            }
+        ],
+        "section": "live"
     },
     {
         "name": "PARAGUAY INTERIORES 🇵🇾",
@@ -4408,186 +4588,6 @@
         "section": "live"
     },
     {
-        "name": "INTERNACIONALES🌎📺",
-        "samples": [
-            {
-                "name": "FRANCE24",
-                "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                },
-                "section": "live"
-            },
-            {
-                "name": "ESNE TV",
-                "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg4OTc3MzcyLCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.UJa76EgfAHsf7ro5Oy_wEN_KJSlmyQpC82XyWhznfaI",
-                "icono": "https://i.ibb.co/TG4XTpL/WA-1788191366778.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "NTN24 COLOMBIA",
-                "url": "http://190.108.83.69:8000/play/a00r/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                },
-                "section": "live"
-            },
-            {
-                "name": "ANTENA 3",
-                "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
-                "icono": "https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "HISPAN TV",
-                "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "ELTORO TV HD",
-                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/142380.ts",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "http://dalive.site:8080",
-                    "Referer": "http://dalive.site:8080/",
-                    "User-Agent": "IPTVSmartersPlayer"
-                },
-                "section": "live"
-            },
-            {
-                "name": "LA 1 TVE HD",
-                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138494.ts",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "http://dalive.site:8080",
-                    "Referer": "http://dalive.site:8080/",
-                    "User-Agent": "IPTVSmartersPlayer"
-                },
-                "section": "live"
-            },
-            {
-                "name": "LA 2 TVE HD",
-                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138495.ts",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "http://dalive.site:8080",
-                    "Referer": "http://dalive.site:8080/",
-                    "User-Agent": "IPTVSmartersPlayer"
-                },
-                "section": "live"
-            },
-            {
-                "name": "BOLIVIA TV HD",
-                "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/271338.ts",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nuevo_Logo_BTV.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "http://dalive.site:8080",
-                    "Referer": "http://dalive.site:8080/",
-                    "User-Agent": "IPTVSmartersPlayer"
-                },
-                "section": "live"
-            },
-            {
-                "name": "CNN EN ESPAÑOL HD",
-                "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "DW ALEMANIA",
-                "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-                "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "RT NEWS",
-                "url": "https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "RT EN ESPAÑOL",
-                "url": "https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "CGTN ENGLISH",
-                "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "CGTN ESPAÑOL",
-                "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "TELESUR VENEZUELA",
-                "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "CUBAVISION INTERNACIONAL",
-                "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
-                "icono": "https://commons.wikimedia.org/wiki/Category:Cubavisi%C3%B3n#/media/File%3ACvinternacional.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "TVI",
-                "url": "https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI2IDk6Njo3IEFNJmhhc2hfdmFsdWU9L0ExTHpRYlBIVzBBZHdoOUxEK2c4QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzNDA5MGM5LWUxYzctNGU1ZC04MGU4LWU4NzIyODY1ZDgyNQ==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            }
-        ],
-        "section": "live"
-    },
-    {
         "name": "⚽DEPORTES INTERNACIONAL 🌎",
         "samples": [
             {
@@ -5633,6 +5633,327 @@
             }
         ],
         "section": "live"
+    },
+    {
+        "_local_id": 80,
+        "section": "live",
+        "name": "CAMARAS EN VIVO",
+        "samples": [
+            {
+                "_local_id": 2739,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "GINO PARADISE - ESLOVAQUIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2740,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "GINO PARADISE 2",
+                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2741,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "GUARATUBA PLAYA CENTRAL",
+                "url": "https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/chunklist_w610604826.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2742,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "AQUA PARK TATRALANDIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2743,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "PUENTE DE LA AMISTAD CDE",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2744,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "FOZ DO IGUZU",
+                "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2745,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "CASCAVEL CENTRO",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2746,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "GOIANIA",
+                "url": "https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w365897294.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2747,
+                "_local_category_id": 80,
+                "section": "live",
+                "name": "LAGO NEGRO",
+                "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "_local_id": 81,
+        "section": "live",
+        "name": "CANALES 24/7",
+        "samples": [
+            {
+                "_local_id": 2748,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "NARUTO 24/7",
+                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2749,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "NARUTO SHIPPUDEN",
+                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2750,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "BORUTO 24/7",
+                "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2751,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "POKEMON 24/7",
+                "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2752,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "YU-GI-OH 24/7",
+                "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2753,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "CAPITAN TSUBASA 24/7",
+                "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2754,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO COMEDIA",
+                "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2755,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "INUYASHA 24/7",
+                "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2756,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "ONE PIECE 24/7",
+                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2757,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "KENAN Y KEL 24/7",
+                "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2758,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "HEY ARNOLD 24/7",
+                "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2759,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "BOB ESPONJA",
+                "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2760,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "TORTUGAS NINJA 24/7",
+                "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2761,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO AVENTURA",
+                "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2762,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PILOTOS DEL ARTICO",
+                "url": "https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2763,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO HISTORIAS",
+                "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2764,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO VELOCIDAD",
+                "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2765,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "EMPEÑOS A LO BESTIA",
+                "url": "https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2766,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "LOCOS POR LOS AUTOS",
+                "url": "https://jmp2.uk/plu-64025592953da40008bf9238.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "_local_id": 82,
+        "section": "live",
+        "name": "CANALES DE PRUEBA",
+        "samples": [
+            {
+                "_local_id": 2767,
+                "_local_category_id": 82,
+                "section": "live",
+                "name": "XXX BRAZZERS HD",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206239.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2768,
+                "_local_category_id": 82,
+                "section": "live",
+                "name": "XXX BRAZZERS 2",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206282.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     },
     {
         "_local_id": 33,
