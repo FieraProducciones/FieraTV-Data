@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjMzNSIsIm5iZiI6IjE3ODk1MDUxMzUifQ.J0ZjNGu4Ff5vS3p2xGVuXtXymVgp2Xq92yWvUN6PqQO9d7kcxWE88nwiObXkmS19otLI3-Mj7dw5qBPqETa5_pxZcsWhWjQHkx_fC0-DmfNJVioASDPQ9pbCxEVffSA9YkHjWp9wP9esnVjYBcLVfbWJtVQa9gIJS9q6bFOVu0Zfio1yAcIEyVSCeiVOMWegDyj66rqVNAmlO9RJ4ftJIpdDoMo4IgHSnk98IMfm8xEdSRXSBl74L2469794l1SWOjAy1Zs9jfV569FrW5bCIn3zz-AwQDvSRX16o-Zg4vfXG9ANC3xKm5m_Aofb6kLHI4XK_JPbHHt5a9gvXcHIjg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjM0NyIsIm5iZiI6IjE3ODk1MDUxNDcifQ.lAkz2MQARxOvTKN2iawAjATbe0ceWWHizRfyxe7HBJMKCzghi8Lm2ZeS1rbGYbCEagVD41rLKd9Zy-rGLzUZaUsp8HPtTtbVmvYRiFhDkTYGF_zAKSH6sWJTp_8H7_Z7gBd0N2NMVK1oc4cu3B9coLuj75F3EYhDR4cxrLxsMZw3KZ3l-dnxSTjJpZCA7l1LJ0AxIt-Ei7ozz4ljRy3U5aLz0A3BZ6syw_4TB_5gs_r4d8sOpm8uREXgkSX9ZsZyhwZdr6ILf2UNRE0U5t4-Y5mVLgHSsvyOk831wPNgCs_avHU4TXoiwv_NA_DL7HEXi-3BIJXb0y13bkONWoE3xg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5155,19 +5155,6 @@
                 "headers": {
                     "Origin": "",
                     "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "CBS Sport",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                "icono": "https://play-lh.googleusercontent.com/BXgSjOd8a04_W7Bu-CNrwsUhN6_nz7PCLfVvkZjPO9Gmj0z2zHm3J9-1yA8G-XbnOVTPafcaln0LbHwFxTALlA",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=2WI3dKxcjDUar-l8X-cCZw&key=UWTm0FFkotZfqPzJYqpIYQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 },
                 "section": "live"
