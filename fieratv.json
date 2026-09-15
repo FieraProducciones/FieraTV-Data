@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDcwMSIsIm5iZiI6IjE3ODk1MDM1MDEifQ.npEozbEk5zjasffMyFimvMgCCnokiNSo1WQr727_XsX3kceATsi4zi-uhKtbYhG0acz6dhbyCajSVrL1uw_uX60_XENw26zGxBzobHFfXrLP_lexROX6Yb9WHMUVzEgpdZYD1SA3rg_AccCzX9jx9zurfckNXKDzSiIyrc3eFhTu3NsDElsZfwgtem9cWZosyeW7am-pvrg6CtBCsJniRetHXK15EGKTWLKzFyazSTaRn6rf4Q6Xj2r95aVDncsnDf5VX_S7GxRrPMd7A1ZtTa185vlxsXjTGZu7M-UnsK_p0ScacSojPkTTWZuGkcm7I8Omr6UIWL_3D0qUYY46mA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDc5NCIsIm5iZiI6IjE3ODk1MDM1OTQifQ.H3fv9m86hevVSDJMAHMhY75fGRE_wzIiR9xf99ecNfYwnozGonx_tr72C49ZHVcOJ847rsFwRnH2JrFJGqF8pTtpujIXo32A5Rb3UCR6rXfFIEdb3xNI1T4I0DXM7MBgtiY11Bgg4ugumhm2kHzJIaj2tNQ9VxrZ4sKmobVSXsNaqqkb1oDENrnTWAH8LY__Sq3Njm7zC_bxvrahlEqZt1ghutq1xFzCOdT5E5tsexQ56sQsSQDBWmvTFjU5BX7FICgrqXHVsOjF7e1JEDLmzdYPgfnp1E_MWeiY1NOgdtcDW0GA62iK6e-J689Dmb3RAX5_ycGLhHEr66PtGJO1Kg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4893,6 +4893,16 @@
         "name": "CANALES 24/7",
         "samples": [
             {
+                "_local_id": 375,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "LOS SIMPSONS 24/7",
+                "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6",
+                "icono": "https://i.imgur.com/cTGT4H3.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 2748,
                 "_local_category_id": 81,
                 "section": "live",
@@ -5367,19 +5377,6 @@
         "name": "🎬 CINES 24/7",
         "samples": [
             {
-                "name": "Los Simpsons 24/7",
-                "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6",
-                "icono": "https://i.imgur.com/cTGT4H3.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
                 "name": "El Chavo 24/7",
                 "url": "https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8",
                 "icono": "https://i.imgur.com/XwCFYfF.jpeg",
@@ -5429,6 +5426,19 @@
                 "icono": "https://i.postimg.cc/8kWdWCJW/1fb885058f28556f4c1e37feec21070e.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "Los Simpsons 24/7",
+                "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6",
+                "icono": "https://i.imgur.com/cTGT4H3.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
                 "section": "live"
             }
         ],
