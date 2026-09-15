@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjU3NiIsIm5iZiI6IjE3ODk1MDUzNzYifQ.TvqIS9SKeqee4FfA92GXtVNQJB659Gu8ng5xyCzQ3fL1QySW7RwbYosVq3FelcfO46VpQVeHaDm5QFEkvR8hkWS_npslwJrk17RSFrn3Yn_BlyusL_L6Mmm7vqEks52Ya8WfH-2LZxtf3wQa9mhSJ3x6kM9rSIl2_AQ3pF6KD02snx_4Bb4j6mf1CSxzYFFfE3VYT_5wmnv9_9IZtClYVuSzp2uk9gdxAb-eM8QVzn3fzWyIlfzhkADbub808RA_l2R77JU6OaoNoM6XNdbCxvI5_6BM6GRp-9YBRP9LpjInT6AJudMnL3oE5JJfF0FEbIT-3NFyuNrPx7hAd8-_sg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjcxNiIsIm5iZiI6IjE3ODk1MDU1MTYifQ.nOSDWJAkEjLIkgMfIypCiEwN-o5-8rLWcMeAHjRfJ2_tQ6NJtqeQEKU3QHOGvjqFXNOF7jIn2en_FBH6CdGzHa7L4iS9baWk7M39KcI6yCEvEd9JwR-0a6rcuEzikX5GLdioNNqqVRRbmKw0MKAqhREkxXYMWgM26klVt91rxpuL-eXB1OkHYBbW5NCugQ2iprF9pYjC1DDi6ZJzORG5n4GCP-LZGYPSuioGQ30H3qMkmwAnU-ruH0l6ktRK_s6PcIQP8lX04RY37UOvP7D8OJhvae2_HWmJLse2n5KLyzioN6YI0jHmF7bLuO36d37GCb8ilPolTX3AxYtEiUK1lg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4410,14 +4410,6 @@
     {
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
-            {
-                "name": "BEIN SPORTS  Ñ",
-                "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
-                "type": "HLS",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "section": "live"
-            },
             {
                 "name": "BEIN SPORTS EXTRA Ñ OPC 2",
                 "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
