@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjUyNSIsIm5iZiI6IjE3ODk1MDUzMjUifQ.LgHPIRIs8VqQuxRtoEiku_nlzHzeKR6_L_P091oh7UVILF8wabOU8OsyYC7-fZhPlRSGtzHjRYNH59YxGawliJDVDf2kO3WQWDgcdXuCOYHuCXsYqvouQ-25IvZHS9vW2cmbSA6HX5Z5gUwhY17Sor-YpzNOvOQAKGLL__P1L8kIBa1PpUDs4qBEfO4t_bNjteWb2HkcS3Blb-gqBu8vapdMk4v0IiDCAc3wJlCl7mOqVlExnG_p6gMWS0WfQxqmEmFVdYidrzkHw7tYy7Zo_p1r4Jf4Nj5KGJ1WavyENArOKsbTarlXN4M111eOq2PDEe7QjWDUU6lrVC-l33GsPQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjUzMCIsIm5iZiI6IjE3ODk1MDUzMzAifQ.ead80QY9XHt5X5_nRECtPD3ZTfnJW4UhYqkQiyUTjivxOvGBtSGQhu6xJ5Xp1HCN-5p05Od0Q47U5iATZfwf4wLYH8DR0QnD--Ze8urSDVPaR1Jw3wQK6WswP0Ot3OCZKIWKkX6bX3Osm7sRSbfAl-ahdhvF0z8u5dD_ddiphipen76F8ZIqZ1IK91htBxmhyaLCnBS_kH2vC__P-8dFyx9b-0JYV6pSXaGXEVCe_APXqSFk7mg7JlHfbsJifxVjaFRnu2ws7Y2QoBCLKscWZDQCtFgAQcVxRZ9_DuaQ3tvI4woUaJhGfzEcqWBW5RJNx1GkTsh1jgZenBccra4aIQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4653,6 +4653,19 @@
                 "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=9dc40460c93087aea84d6315f08ecb64&key=f69c8d4624fddff4ca89bd0b31bdc4a7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "PREMIER 4",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
