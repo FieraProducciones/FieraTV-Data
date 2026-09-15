@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDkxMyIsIm5iZiI6IjE3ODk1MDM3MTMifQ.WNK2EooF14Ny9Lmv4I26096uZFlWX6VOzGLevZ8vKNc519dZnpcob7OyX2hopv-x5bYwiZdxgigPci6l91Z8VujT3hGCdOW3foDGpDu2zDTCRvKBWXqMK04j3l0YJCcb-izk9R3jzPH0diIFrvqc7Xdu6-0Mx69qOlXOn07qFslfvRCEmojB0UUnMXoNrJ7zTTCfR_p-ZaXUfllYLWOLChuCbhuDXa4m1rHIhPLVnxEEAd-3k6d__uPVXkFGQpjuFZHoi16er7zfl9tnD-g_-UyJUFl1u32eXWLx2fEgE8HS4VjAeFUa9L96dbinBNAxwFbDQD8jjH6hoIYHUOs1Fg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDkyMiIsIm5iZiI6IjE3ODk1MDM3MjIifQ.B2GN89n5Nqcn12kkrrYdElumTTyXxJ6raf6PPR3rwdVwDhfbFLmGlZ-i4SIYz0x3Y44WGg5MEohnyHu0zmv57trvyYAdL0sAh7LEeE9Djmrv0XeVcCNaAvbscvmrWs0o3hQWe7DRV_7yTi_Gkv4dLZZXoN0RWFzzKZbuk9jUXk4MigyG7OnFcSpUI9b8oEESBunzcgN5vh44TgE433BB8ZuW7kpbs82Z3jLbW6WmDC3Bdc9SoFshxbOojhH8akuhu2ztlv_8LELAlZlkCYpwb_P8YM6CWJFAm4hZk4i4HO6aiicbjyQou77jVIkjVyDaLcmY-bf1aO-WhlxHc9MBMQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5423,19 +5423,6 @@
                 "icono": "https://i.postimg.cc/8kWdWCJW/1fb885058f28556f4c1e37feec21070e.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "Los Simpsons 24/7",
-                "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6",
-                "icono": "https://i.imgur.com/cTGT4H3.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
                 "section": "live"
             }
         ],
