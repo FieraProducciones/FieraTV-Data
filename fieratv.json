@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjMxOSIsIm5iZiI6IjE3ODk1MDUxMTkifQ.m1BinlQPEjlxowaIY-c-BnNgkxUJwzmjeiaPfi75Upak0UagiZ3iB1C999Wn2lYacu1zgDYqfZ5wAC1PS_Q1eBfkMPiY7l83nRUKp0NQHFFtWgwws0Px7QxLvJKfMmMcdDcHSD9WRZ2uZ8t_i-udvjnU2JWG781ng7C0DupQ-Tz9BSxnEoSv-saEREciTrSwxYpRbv4cgQzRQx6ZTSpFMKLEcaSIkpz-bzQj19qxG_M4hKiAJA5x4jz11enKPtzD0BPAjlOEWA9Ff3eRVU8y-VPI7vju_Z635dyaTcNkM7eTCPZ-qY8pkAzRSzv3bXZtW0raDpRStL8ucdu5EDDiyA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjMyNyIsIm5iZiI6IjE3ODk1MDUxMjcifQ.U1Qz8-5dJz31VNvv_-GjXKypLLBCZIgNtW5s-2qtD9aIbe2KRSPP2EiWi-5tSmdVUuqMz5VbizN8xWSFu2nu2sbhTkjcAw1nuPlpFSbiCjbCH_K_KdRsYgShHHu9qUAUVQWijVUs1IvP5ubinda8p5JJLjVWa9-Nqg1XsO4JsKMwM0DVzcdSUQw5IO6l6xC0ceYIWmG7QWiB8I1jT0CN-_3xZDX21hyelz9TXNEjH4SkS4bTdagxHciNy2ilzgOhlZOdAIu3VafwnlWf7QZd_rc-XzQz-jVRD8KYxwwbZU-Zip8iHrWdKZxwKC27gHnxooKw05xyXOUdICZ9Ye8F9g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5142,19 +5142,6 @@
                 "headers": {
                     "Origin": "",
                     "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Bein Sports 2",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=C0K-JmTX6BHQTz5QTgkkxQ&key=riQJASO4xyrFQE3BUoR8uA",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 },
                 "section": "live"
