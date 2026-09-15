@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI0NCIsIm5iZiI6IjE3ODk1MDUwNDQifQ.USvOqts32jwV0bspDIllFn_7OzGJVVnoyhpxB3GOXHPtCOxPOETMWTgmvX8pIUbDR1d5ZnHuEqob-6oBvvGPqZsJAgpdLAkGK3IrpCYP60_DR--lmN08KFYw5aCZ41yPfCgVOD0CCdRFdaNJJfQqhpQHEk-sz4XpkD9RkYFAmEz2f9BkQF47zGS_lTlBiFlnrkS4m3k7aRQRI05nAIDS2o5RoCKQpCi6mQb3xNtteXYTtO364rmVafGBGEwHoWu9fJtU7rHjbf7zj5ERqVYrs8QTuCuVTp_pheQSboE_CBYXBU-IRY3kR8doRqptgAK98mXVjW231XB1titRQrOyiw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI1NCIsIm5iZiI6IjE3ODk1MDUwNTQifQ.TDxnOEgCunBanulDZBT5GeXKrSahNucAhsvixB7LO2No9JBHSGeZn-zJfii0LffhKcRtn50xI4jN_KjbFIMuEurXAtHC_RUt2dfEeZY8iwRBQ-hbSu4jVOj9K0j9VrGridoRfwyryrB7vsd7QCXSGWnpystUj_wJFw1LXBd2-QrLWQbbvXUUfd68CIAdQu0dyM129rKo0Sy97n6RKmFld_wEC5AD__HqHEmsMZF3V3r6qq0MocvgGRTuzeGY5m0ZyJGYK3Pa0kREygLnywXtHsXYHg4LWa4F8QTXl8M7na5no4PSEyiECS-bRijo8DJ8fB3m46j0vO1D5o73Zw_amA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5130,19 +5130,6 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORT 3 MEXICO🇲🇽",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 },
                 "section": "live"
             },
