@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTE1OCIsIm5iZiI6IjE3ODk0OTM5NTgifQ.LNmKxuhe7blutbgUKghpvuWCQ87jpNFvLAE9XcYtkYlLXGmJt7R1Tgd3QUWR2yY7VxcHyPjFr75OYSIMtGJG6g4OjmmBOz2wvzMAQ6fnPNahebZ1rARGavlMPYs0QH4qXD3FhP6BkPGHgt6NqCBUubUo9s8PxWxT-aGcn_XsoDP-y_RWUnEecNrOW3wLkAnJfoMHdJJaWtQ8RIGLcz4ZUL-Se0E1pjEOxJl3RqUuDv8AGeTtXBh1faYb7q3snBsTjppsRInPBvo9FxRGMqqIDAxn8AhtwvQBbHXpmSgb7zGOvPsMKTVaupo-WKFvXcsBvfUO1k2gC-sxpYBk_e-E_A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTE5MSIsIm5iZiI6IjE3ODk0OTM5OTEifQ.d3FBF26vb4Y1ZUjiVDG-pUsyN6xYcV4MjoHY4u1hZchROvIZcOwlXCVvXxx4ub0XlBRTxMGAGeffe-k-G5vskdPEbSWlPG_Ohr5xiPE_F7S1EZj6GKNiAqozR-_RdT7Ue0f73NKlok1sZDhf4SR8weNSmNkfEfufvgnqYMVjCSb4If4e4WC9WBEL1kgC1b13HNH_kctu7UI6W494PTjpQ3hrHkrJIr3TOZpdv-LR4TGtLfnDbisVCA_xgBiC4BCTyAad81Y3wwrG9KoRFYyIeb2JvUd1e30DXPzSmfUTS02BqnAdq8ey6XUMV57fHGMriivJ1Ti2Fvq-Kvh1nqs0IA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3901,28 +3901,6 @@
         "section": "live"
     },
     {
-        "name": "🚘RALLY TV",
-        "samples": [
-            {
-                "name": "RALLY TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "RALLY TV 2+",
-                "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-                "icono": "https://i.ibb.co/r1gcP2y/image.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "section": "live"
-            }
-        ],
-        "section": "live"
-    },
-    {
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
             {
@@ -4926,6 +4904,28 @@
                 "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
                 "icono": "https://i.postimg.cc/8kWdWCJW/1fb885058f28556f4c1e37feec21070e.jpg",
                 "type": "HLS",
+                "drm_license_uri": "",
+                "section": "live"
+            }
+        ],
+        "section": "live"
+    },
+    {
+        "name": "🚘RALLY TV",
+        "samples": [
+            {
+                "name": "RALLY TV",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "",
+                "section": "live"
+            },
+            {
+                "name": "RALLY TV 2+",
+                "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+                "icono": "https://i.ibb.co/r1gcP2y/image.png",
+                "type": "CLEARKEY",
                 "drm_license_uri": "",
                 "section": "live"
             }
