@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjE5NCIsIm5iZiI6IjE3ODk1MDQ5OTQifQ.I1zlyr3gYIuWzTMA8Pt2rDXUqra4igfiySyjPzUScnC6EMfvHu7kI1TvhHq2_RSL0sRmYZW9eCCfBJGlWTKgsw0PNcj2BsTuE_7155Z1vPr6DH68okMQEAbe_890VhqV_Fgluem9VfaltEPsFgMNHqc-qHqJfarGebQzunkV-_VJZ6jf5Y3dlJ0x2tcoU4YYj7ryc4Lt2njZbN6yxhmkW4ot-7me1cqU5B9dGXPWcaaBW-VvLPPxHr3UZW5EU9ZxHKhvs6wZDhmx8qv_5V-6R6eDLtdbYQ2L-ERh3VGrD5xhfS8H2C9Z9vtQkc_jujVti9Novd1b6tm7iXUwQTfwDg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjIyNCIsIm5iZiI6IjE3ODk1MDUwMjQifQ.P16EXb3Sm6RYZ26g9ooflQ1A2d_cug8L1TIHQVI_CNefrdZZ4Yj2Ax7YU7WbgGQb2AGDYYZVnAo9lMz-OJu1Ly94DKQ6hLAiZYPUGrvkgS-4STuUIbRu-k4i_PmbM3AvkMJSlscjeefwWvg7E5EeKIEP8rFXix3-lwsmY4HXuERA5ehaP7jbxjsLWPDhYUOYwymedVsMWDBC4x32-rOFXYB5jeCgeWmFVJ4cCOJNs9AcS4Mrbl125idEsSw-8nfSMNNVDJbcLvB-XWJEYGG6bzj8XkfswX8RGsq1idvwLh4vnLM6T8xFye3aUw_BBnto018xC9cASbn0IHDCyInFRQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5130,19 +5130,6 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "VIX TUDN",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-                "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 },
                 "section": "live"
             },
