@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTA2MCIsIm5iZiI6IjE3ODk0OTM4NjAifQ.eIt6OVFoUsBbtBSzszc80efTsOj8yBRuqeppQHLa7NFOj5rDwXiLBzNxdkkxjoWRmUmh-sv53ZzAc5kN5ZNDJgMzb0AxeyPqf9aDO-ySqznPwYEsYFpp42RgI0_GekMttAGrRp9AJujfwLzQ8fncy_P8_XKOK-IaZWUeiKkbwatrQN102wuSQayX6J9mFVjgi1OmNY7aiMJOKlNhLa3uwhyceCIRrM-gwm9smuGi6hNvVNcRd8qGXJGiaklX6M0MD1W1YQJIrEVGRN1kIUoA_RheAAEF0MCKzJ2UuehS0WIg76H8_E9Hs4LlPUYcb-o2Rzj8ecE4Fe7yMItaqYBjeg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTA4OSIsIm5iZiI6IjE3ODk0OTM4ODkifQ.Pbak5BTVfrEjGEMTlLC9jb3Pnh04c-HaiNYCrEv3mxVhAhd7N02L-qKyU9VKlb7-xA-7ymLO3vXxX54AnlElXBY_rW7_O2lY7FvkrHr4u_y0g-bCfW1MKquiaXIIbgZwtNeJOT54tGsd3UY9ALO9A8ipPrfGecK6k6xlReCLV-A67mqzfiNEkrVJZF8_PWEkw31UJgIgXwV89KQngosIH9wEUhtEs9HTHULUZ3Wikpd22u7KhPQaHLoL4SmlXnoC-zIYLtB2AQwDTQvkOc_dGXX_YnJvpqrSoy0irKjWcQ1uf-2Abt9qHUro6oxsbxYBXL1d4tJpdu_ZjrBEXCycyg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3065,285 +3065,6 @@
         "section": "live"
     },
     {
-        "name": "⚽DEPORTES INTERNACIONAL 🌎",
-        "samples": [
-            {
-                "name": "TNT SPORTS CHIILE🇨🇱",
-                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/276332.m3u8",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "TNT SPORTS CHILE 🇨🇱 OPC 2",
-                "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "WEBVIEW",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "WIN SPORTS + HD",
-                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/1384.m3u8",
-                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Win Sports HD",
-                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/69294.m3u8",
-                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "VIX TUDN",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-                "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORT 1 MEXICO🇲🇽",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORT 2 MEXICO🇲🇽",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORT 3 MEXICO🇲🇽",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
-                "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "icono": "https://i.imgur.com/G2RFqLE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "TUDN",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
-                "icono": "https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=djzh68ryNQLIzzV8bvQj4Q&key=DF5sCCCh6ih1NyHbACckEQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "TUDN 2",
-                "url": "http://38.68.134.207/live/ry6utrh/s.m3u8",
-                "icono": "https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Bein Sports 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=M12td4EJlUUD3Lsh3JIBXw&key=JL_XXUNsv3MWiiotzNQCgQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Bein Sports 2",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=C0K-JmTX6BHQTz5QTgkkxQ&key=riQJASO4xyrFQE3BUoR8uA",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Bein Sports 3",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=eZXHJKE3SO2XCECoq1u5sw&key=Z72vHiF1uf9oL83w4jVLHg",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Bein Sports Extra Ñ",
-                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "CBS Sport",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                "icono": "https://play-lh.googleusercontent.com/BXgSjOd8a04_W7Bu-CNrwsUhN6_nz7PCLfVvkZjPO9Gmj0z2zHm3J9-1yA8G-XbnOVTPafcaln0LbHwFxTALlA",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=2WI3dKxcjDUar-l8X-cCZw&key=UWTm0FFkotZfqPzJYqpIYQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Dazn Fast",
-                "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-                "icono": "https://www.dwdl.de/images/1692002750_dazn-fast.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=i87GsxzJ7ctnaKsmVI4iww&key=48WwcyiJTDNzSk3mrlWofw",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Dazn Ringside",
-                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-                "icono": "https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Premier Sports 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=FET0I1Up8YPwpaSGvv6c2w&key=5eP-xnobs0cqIInIoKJVfw",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Premier Sports 2",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=Gl31NgnryYV4mMSQ9HJJGA&key=d_YpgNWC7FQSgHlqz4stGQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Red Bull TV",
-                "url": "https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            }
-        ],
-        "section": "live"
-    },
-    {
         "name": "📺PACK HBO Y UNIVERSAL",
         "samples": [
             {
@@ -4582,6 +4303,285 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
+                "section": "live"
+            }
+        ],
+        "section": "live"
+    },
+    {
+        "name": "⚽DEPORTES INTERNACIONAL 🌎",
+        "samples": [
+            {
+                "name": "TNT SPORTS CHIILE🇨🇱",
+                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/276332.m3u8",
+                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "TNT SPORTS CHILE 🇨🇱 OPC 2",
+                "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "WEBVIEW",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "WIN SPORTS + HD",
+                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/1384.m3u8",
+                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Win Sports HD",
+                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/69294.m3u8",
+                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "VIX TUDN",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "FOX SPORT 1 MEXICO🇲🇽",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "FOX SPORT 2 MEXICO🇲🇽",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "FOX SPORT 3 MEXICO🇲🇽",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
+                "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "icono": "https://i.imgur.com/G2RFqLE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "TUDN",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
+                "icono": "https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=djzh68ryNQLIzzV8bvQj4Q&key=DF5sCCCh6ih1NyHbACckEQ",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "TUDN 2",
+                "url": "http://38.68.134.207/live/ry6utrh/s.m3u8",
+                "icono": "https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Bein Sports 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=M12td4EJlUUD3Lsh3JIBXw&key=JL_XXUNsv3MWiiotzNQCgQ",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Bein Sports 2",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=C0K-JmTX6BHQTz5QTgkkxQ&key=riQJASO4xyrFQE3BUoR8uA",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Bein Sports 3",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=eZXHJKE3SO2XCECoq1u5sw&key=Z72vHiF1uf9oL83w4jVLHg",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Bein Sports Extra Ñ",
+                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "CBS Sport",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+                "icono": "https://play-lh.googleusercontent.com/BXgSjOd8a04_W7Bu-CNrwsUhN6_nz7PCLfVvkZjPO9Gmj0z2zHm3J9-1yA8G-XbnOVTPafcaln0LbHwFxTALlA",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=2WI3dKxcjDUar-l8X-cCZw&key=UWTm0FFkotZfqPzJYqpIYQ",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Dazn Fast",
+                "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+                "icono": "https://www.dwdl.de/images/1692002750_dazn-fast.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=i87GsxzJ7ctnaKsmVI4iww&key=48WwcyiJTDNzSk3mrlWofw",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Dazn Ringside",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "icono": "https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Premier Sports 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=FET0I1Up8YPwpaSGvv6c2w&key=5eP-xnobs0cqIInIoKJVfw",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Premier Sports 2",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=Gl31NgnryYV4mMSQ9HJJGA&key=d_YpgNWC7FQSgHlqz4stGQ",
+                "headers": {
+                    "Origin": "www.primevideo.com",
+                    "Referer": "www.primevideo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "Red Bull TV",
+                "url": "https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                },
                 "section": "live"
             }
         ],
