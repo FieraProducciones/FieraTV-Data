@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI2MyIsIm5iZiI6IjE3ODk1MDUwNjMifQ.AV3YyLMExqQ2MjT04vxB-3Eu4D4ocoe_Y8ch_b_3OGG6JmAJ1lxOuTrY0MQYIVYF4o3OPzcDLGZJDsLHg-aVBF4DxQWiUfQQZnSYKi8EB3DqVOE1ZwW-r4ze6_zjzZ0Qgx7bIv8Torb35A8H1JpYyJGzgVJ2QeidV0zaixHd6iTzTkLoasRZ_sI_XNJuNvsewbErQqba9r3DLczJuMP3eT5ldKXT430qrelHTGYNzFd-__y7ht88Jo6OAgqiI3soaj-niKPl-EFjx0uCAvMk71HljRv9eswuyRzBhHgS90cl2Y1oM9JczIia776OpinobFty0Qeeyb_RMHG-bw-PWw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI4MiIsIm5iZiI6IjE3ODk1MDUwODIifQ.mlGxC9eZ5krXhGGBiRnaQZmkhoCkPgS04cqv2DmkmAa_lVwB7PvvHn9Mbcu4cJJ8NSWxOTcVUHUGJFD0ZCRiqCLkyyUuh4zUDBVjfp51bEeC0R_SOFSBgZrrYCKxH2YrCB39tyu5ADofPMkntnofhO71-jtY7Vl4_Ap9n70837Po_B_Rgh4BL2owsENPMWzA8vbGpvMCWhDqZQYqmxnVzLcNLrkZm2T00y_Ggny1qDhp5N0gGE57xLwtm74pNgGzL--TmfYjOyXMeDNp8E5Dzj7OLRy7FGIYIJTxoL_Xp8rJfx1tJNZAVmj0kg3zpP8PbmNA11aUVzgsoS3fzC3jTQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5129,19 +5129,6 @@
                 "headers": {
                     "Origin": "",
                     "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "TUDN",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
-                "icono": "https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=djzh68ryNQLIzzV8bvQj4Q&key=DF5sCCCh6ih1NyHbACckEQ",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 },
                 "section": "live"
