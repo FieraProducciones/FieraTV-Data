@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI1NCIsIm5iZiI6IjE3ODk1MDUwNTQifQ.TDxnOEgCunBanulDZBT5GeXKrSahNucAhsvixB7LO2No9JBHSGeZn-zJfii0LffhKcRtn50xI4jN_KjbFIMuEurXAtHC_RUt2dfEeZY8iwRBQ-hbSu4jVOj9K0j9VrGridoRfwyryrB7vsd7QCXSGWnpystUj_wJFw1LXBd2-QrLWQbbvXUUfd68CIAdQu0dyM129rKo0Sy97n6RKmFld_wEC5AD__HqHEmsMZF3V3r6qq0MocvgGRTuzeGY5m0ZyJGYK3Pa0kREygLnywXtHsXYHg4LWa4F8QTXl8M7na5no4PSEyiECS-bRijo8DJ8fB3m46j0vO1D5o73Zw_amA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjI2MyIsIm5iZiI6IjE3ODk1MDUwNjMifQ.AV3YyLMExqQ2MjT04vxB-3Eu4D4ocoe_Y8ch_b_3OGG6JmAJ1lxOuTrY0MQYIVYF4o3OPzcDLGZJDsLHg-aVBF4DxQWiUfQQZnSYKi8EB3DqVOE1ZwW-r4ze6_zjzZ0Qgx7bIv8Torb35A8H1JpYyJGzgVJ2QeidV0zaixHd6iTzTkLoasRZ_sI_XNJuNvsewbErQqba9r3DLczJuMP3eT5ldKXT430qrelHTGYNzFd-__y7ht88Jo6OAgqiI3soaj-niKPl-EFjx0uCAvMk71HljRv9eswuyRzBhHgS90cl2Y1oM9JczIia776OpinobFty0Qeeyb_RMHG-bw-PWw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5130,19 +5130,6 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
-                "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "icono": "https://i.imgur.com/G2RFqLE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 },
                 "section": "live"
             },
