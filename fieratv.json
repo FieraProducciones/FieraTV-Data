@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMTU5MCIsIm5iZiI6IjE3ODk1MDQzOTAifQ.WCfVLTHALKRBDdfqU1kefYmOVwmyfdkbQ5-vqxacUbfj9HmO3Vhxm0IBAcvv8fm1SOeZv6S7MWXau9fhBHbhlomYbAePez3CAdgrmhMIJQCJ5iTXgMldRlUQ8aATFqHXd8dX_Ak5HvtxY_pZbMQEwwzF3ZVGewhdCURZcAjoBM99b-DtsgiKA5Z-U1s8bRM64jOfFp1ltqnVg6VVKkXNAsrdk-XQx9dbQG_MR9lUCCFq6xMzrAIyf6XGelIHMO1eN3AnWs6xo7gbl5WM3SbMdeg-NFNtXWlpXzqukXGJ4B2riAyO0Mk_bUXSsJvkf7S4zMFmtfXzNLL_3qMQulBH0w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjE4OSIsIm5iZiI6IjE3ODk1MDQ5ODkifQ.GnljoubKc_sYlhHE8aLDVMnPP8VsJjoz72eIKxbjbxXqG1b-zl98vJm9KluNg0BIMFWRz_LTDCZzhA7uSxIF1SgVNi3VSpNx8kABdy9G62y47GjW8o6foBjcmn1hq-GPz0r46VVGypT7dYb861kkhJsmtZy-M6ayCDfJP_Fx3tenpeP9QEn-XmeSfFu98KUaGtXWo26_b3kX8EOZ2Sz3mNMvM0GCzLI6oVlLkAr_c_3PJcoim-vkTk_oKkGB16JFCBGTvnW-LsAiGZv2sEpam2vvuSImjk23ErP7d14qrjb9VVSdBaN7qI6hpmyF1Oi3UpmEVyC6P08NFmIWEnIfuw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5112,19 +5112,6 @@
                 "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/276332.m3u8",
                 "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
                 "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "TNT SPORTS CHILE 🇨🇱 OPC 2",
-                "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "WEBVIEW",
                 "drm_license_uri": "",
                 "headers": {
                     "Origin": "",
