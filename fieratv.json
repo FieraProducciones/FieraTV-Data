@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTAzMSIsIm5iZiI6IjE3ODk0OTM4MzEifQ.W-aL3we6lTx_zMB-2GV9_AopmpulqoNHNP4SbOUJoBKWsH3gFRRlWZN4ofeaGATGaqY-chMhEB6nwSvEmr1M9oHhto5ZdNIevq4pyb8-UZcMO1eMsqWsCh9nX4F52446muVkd67Ets39Syu82CCzOBxP0YbOzbXXA57_z4Lw9KMgc4YuiZ8UJGE39WG5-WLpBHn-9D0mfzOj6mVDB0wbA6T2nD85apk5dqTzNeVdDHQ8330XkOb2Je__N3CysnlTFWmexkSD8H8gAoeULbJWLfB_FYitMMH39h5ILRQn2Q3C6FUzScLQ46S13B-ZYIt6rx4QwcYkUJ47fnkPZjgVHg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTA0NyIsIm5iZiI6IjE3ODk0OTM4NDcifQ.fcAZo8-t_nuOr1Z_OZZ2fgE_7zh1bG3gMTyLUNUuS-X9s7UHa1E8OXzLqFf4AHKpbF6eMOe4B-VshFd_dvQ7MwK7fATbFLVIrGYEVf9KxtcFXxUSxq2NRSQ178nA2vRrTLKDbDJi_yzLElm_tOyRgwqw_4YcWfrIkiiDZ1y0uOXxFeC7l_lwv7NPs7RWKLRdTgphm8l7Vw58YBYiLx7twVeEVbu07HwtDADQmOz0uD2VPbt_DLZNjZU2WMxUHZDRIaB4MrtNYAMy8Fi_BWW2VdLDD3bl59D2MKOebcLkI4cP6DBnREOPnfgzfSBYhe9bhFhuAXadDmGapZFPEdbaCw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3524,6 +3524,181 @@
         "section": "live"
     },
     {
+        "name": "📺PACK HBO Y UNIVERSAL",
+        "samples": [
+            {
+                "name": "HBO 1",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=b059cdbfc787a32f57fbcb6e52dbc0a0&key=50648d7806624eb8d53fb2aecc8b1af1",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=91bd6f829d06498c21e212acf1c5fa07&key=148a358284689e40b22074c244c535da",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO XTREME",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=b1c518c4859b1eac1ac409dd7a712155&key=d9ae29d636e14074da10360765ee4cb5",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO FAMILY",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=9768f423e5121ded23637f54245506a2&key=abd28dce83c82d26d5953b416db0e52a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO SIGNATURE",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=4918d3bf399a237e8ee065eb3ebf7327&key=747179296ae370e9b8746a09904b5385",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO MUNDI",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=56fc145492109590d82cf8f60c55d4f5&key=c713241579436e0d5fe2480b6eb7b1fd",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO POP",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=782be6aa05e2e53f1f0769ac21335975&key=bc54efe24ebc6127dee264704cdd543b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=c1c780647a98d46c3e5867cf204d129a&key=006d44f02be55c28f34b9106d79a82a9",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "UNIVERSAL CINEMA",
+                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4zoxgjxgur/out/v1/390ab02862ab46e5a6c8bbffe63287aa/cenc.mpd",
+                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=4b422371cef8a6c33602cd8fa4dbb66a&key=b18d165a30fb2e32df9596b723ffc9d6",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "UNIVERSAL PREMIERE",
+                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
+                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=547c1e15b8e93f1077d34f77a7ab018f&key=ba3f1a0580b46e371a6b02ef2ab2304f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "UNIVERSAL COMEDIA",
+                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/tcwhp6ginq/out/v1/a7f63b59eee140389a64ad9f23a9270c/cenc.mpd",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=2190c163d3128b9c19d72801b796fbe9&key=2003846bde96230830ddaa41232bee1f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "UNIVERSAL CRIME",
+                "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "UNIVERSAL REALITY",
+                "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            }
+        ],
+        "section": "live"
+    },
+    {
         "name": "⚽EVENTOS FLOW ⚽",
         "samples": [
             {
@@ -4405,181 +4580,6 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            }
-        ],
-        "section": "live"
-    },
-    {
-        "name": "📺PACK HBO Y UNIVERSAL",
-        "samples": [
-            {
-                "name": "HBO 1",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=b059cdbfc787a32f57fbcb6e52dbc0a0&key=50648d7806624eb8d53fb2aecc8b1af1",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO 2",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
-                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=91bd6f829d06498c21e212acf1c5fa07&key=148a358284689e40b22074c244c535da",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO XTREME",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
-                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=b1c518c4859b1eac1ac409dd7a712155&key=d9ae29d636e14074da10360765ee4cb5",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO FAMILY",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
-                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=9768f423e5121ded23637f54245506a2&key=abd28dce83c82d26d5953b416db0e52a",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO SIGNATURE",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
-                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=4918d3bf399a237e8ee065eb3ebf7327&key=747179296ae370e9b8746a09904b5385",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO MUNDI",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
-                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=56fc145492109590d82cf8f60c55d4f5&key=c713241579436e0d5fe2480b6eb7b1fd",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO POP",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
-                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=782be6aa05e2e53f1f0769ac21335975&key=bc54efe24ebc6127dee264704cdd543b",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "HBO PLUS",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=c1c780647a98d46c3e5867cf204d129a&key=006d44f02be55c28f34b9106d79a82a9",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "UNIVERSAL CINEMA",
-                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4zoxgjxgur/out/v1/390ab02862ab46e5a6c8bbffe63287aa/cenc.mpd",
-                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=4b422371cef8a6c33602cd8fa4dbb66a&key=b18d165a30fb2e32df9596b723ffc9d6",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "UNIVERSAL PREMIERE",
-                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
-                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=547c1e15b8e93f1077d34f77a7ab018f&key=ba3f1a0580b46e371a6b02ef2ab2304f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "UNIVERSAL COMEDIA",
-                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/tcwhp6ginq/out/v1/a7f63b59eee140389a64ad9f23a9270c/cenc.mpd",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=2190c163d3128b9c19d72801b796fbe9&key=2003846bde96230830ddaa41232bee1f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "UNIVERSAL CRIME",
-                "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "UNIVERSAL REALITY",
-                "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 },
                 "section": "live"
