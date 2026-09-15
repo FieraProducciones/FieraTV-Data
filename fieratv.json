@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjc2NCIsIm5iZiI6IjE3ODk1MDU1NjQifQ.KjRtbPKjxcB0gRcSmQ1fN4N5c4AjsivU9eYgA_vnfLuKdLM_pdDBQNOmv9fY_w-P-t1zFhg_pXn5Iw6ZcElsy5oktvTGzTeEokAtGZoT-Ecy9s9i3G1D9M2_NvSBe4YXSkGhgnCQak-P_Ndxe7nZV_Smo_y4VJfY09Y6RGvI0TT9byZcDophr-mn_jpIgDRhRVt2rYwxtlWycFlDPvWeex5T4Xwfn4KadlpfnpVXQ7bTnudv79uIG9VWOpvEkFkBao8LzRXs_Ke5rNyQz7wkaBuSx_wUNSgOqzK6xADOK6PUWriI0h76lAinAxq6nAOXYHy_7r4agydtuFW-7tnJNw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjc4NSIsIm5iZiI6IjE3ODk1MDU1ODUifQ.ng-HPqcAW24QJ5X9QB1xybnkJ7rcJXB20l1BGFiQB3sKLOoxXbW_S02xYL2q9_ehImMIN0wrBlGxXrYFdNG6Ltcuq84sdU3jmeCk2U3ByyY1v99BBHEcIGvE4mUrDSJfxrbqQBYfqXnYoIDKOaFgYx1Hetq7Hp-cO1JkpxKwlcjKhTvRVBejvAzXnEciiGHwGIPHMKUKP1e0W1_NAjrrMHXVmPxNh5k5QaorF0pSlzUI02DVAJSFGjXl1n7mbpy5dgreqHtMNEJbY5zO0aduTPvXT1f_E67nNa6lbAMt1IzKVyCQ5WOnMgHCPo4bFBxiZ6Jj1lQN5FNLO5Ph1LRDvQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4430,14 +4430,6 @@
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg",
-                "section": "live"
-            },
-            {
-                "name": "FOX ONE",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
-                "type": "HLS",
-                "drm_license_uri": "",
                 "section": "live"
             },
             {
