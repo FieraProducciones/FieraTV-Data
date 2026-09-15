@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjgwOCIsIm5iZiI6IjE3ODk1MDU2MDgifQ.FkovXuYp7NxQb3Fu6wmyD6RmF0An-Qan7QLam6xfciuZllCwBt2-zrC1tDUybhmiPmVzI_JJv_DQjo9RdgeOilGAdmyCdIWJja28j9CaL49umKqSPa5ldF8fATEZCOk6Q2E3-4eMJH-YlhiBC0kyrFGimzcCsCEYtMaSs5fLrgbms7NkTqtP9oB2E2hOl5IAeTVxjd9yCRSpdkj-J_CcXYc18-J8zZap2Xfa3DBO2HKD3A2kZCFpVzANNSKWR8Xs7YwK4Y7O77XDZ2U_V9SiIZQxvsWcTQFDrhM1d0cKSH2joGxi0N638aDydG86GrBzhNBeZrZdy7Zx4KVrzZPbug/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjgxNiIsIm5iZiI6IjE3ODk1MDU2MTYifQ.E2Syjx0n0e_25wxL6v1JJN-n7DX-Fn7Dk6FogaI8P-IKIGZmhZTfDT1Ays8e7QLY78rbHPn_dAF4Y91ocIcsTTpiVHwHoWeqZzCGY9HlCP9aIr0QwfxHc-PYjwMT8DKjxk0sZyYiqQD3TKBFOpMiEmrVHz_FRbfzHP0njZpyhFIwotxpURMifAc7HK0AWhnGLPLz82P8rhWBaNVT-TpKK_3WDOk5oP9F3PBJ9v7rDTnkcD8WS1aSTx8E5U2FaQqqKFVQqpSW2-oT3R8ZMPiG_JJdn9BtPfMwNeBfriAe_6j-R4-wjRMUNyAVZ86dFH5iqysnvN4hIreMJFV2u2Banw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4446,19 +4446,6 @@
                 "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
                 "type": "HLS",
                 "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "TELEMUNDO",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
                 "section": "live"
             }
         ],
