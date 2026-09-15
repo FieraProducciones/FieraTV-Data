@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDc5NCIsIm5iZiI6IjE3ODk1MDM1OTQifQ.H3fv9m86hevVSDJMAHMhY75fGRE_wzIiR9xf99ecNfYwnozGonx_tr72C49ZHVcOJ847rsFwRnH2JrFJGqF8pTtpujIXo32A5Rb3UCR6rXfFIEdb3xNI1T4I0DXM7MBgtiY11Bgg4ugumhm2kHzJIaj2tNQ9VxrZ4sKmobVSXsNaqqkb1oDENrnTWAH8LY__Sq3Njm7zC_bxvrahlEqZt1ghutq1xFzCOdT5E5tsexQ56sQsSQDBWmvTFjU5BX7FICgrqXHVsOjF7e1JEDLmzdYPgfnp1E_MWeiY1NOgdtcDW0GA62iK6e-J689Dmb3RAX5_ycGLhHEr66PtGJO1Kg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDg3NiIsIm5iZiI6IjE3ODk1MDM2NzYifQ.aC3Oye12aPbFLv93luv6-jVai1-9Sr_13nSi7Cer8AF6Y-qQnoZJ5n3uyuVYgEqETMBMQQiHu8PZsBCYYri_SN9Trt-TUtKrSj1GWKGBEwO0WTUFTicNwxMXMYMnp8aNiFVn9yC_5VeuOz2n_Qshy0vjh22asY_5Hxholl8-cq9VQwlzGZIJErPULpLCPrOarF6P4R_wG2pZ4fuZ5qLHCqYF9TMHzoVIbRZJ6bqJC1hYvggs0P5gt1L_vhb9AeFFZQjP9_6DA4Kcu1j64CUAh6RrCo_8IYSZv8d70_Atch1Mt9RmN0TyQDsVTcLzb5mLR9QyaGN0le4HczDMunG5cw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4903,6 +4903,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 376,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "EL CHAVO 24/7",
+                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8",
+                "icono": "https://i.imgur.com/XwCFYfF.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 2748,
                 "_local_category_id": 81,
                 "section": "live",
@@ -5377,19 +5387,6 @@
         "name": "🎬 CINES 24/7",
         "samples": [
             {
-                "name": "El Chavo 24/7",
-                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8",
-                "icono": "https://i.imgur.com/XwCFYfF.jpeg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
                 "name": "CANELA NARCO DRAMA",
                 "url": "https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/cb573f166573638b84c83c65cef24082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fdb25e40da6aa5e50141947b44fa83439fd401e987d30a83118475f6179ec1a48f8115d48cad599c04ed241959501ef3e129c9be37d9de9f7f309f74174a1f5be1b692f94b4ee22d2159eba5a1d506fb1ddafb46eb0167e170f2278d368b54be10b7e43cc4c7d9f1631b40ceae5a71379fe7b584ff3936cf0d91cbeadc7d7995f75a6c519318b24f2a2880c2d8008bd110a9a33189c60d775aeeb01ff5f7d08aecc2e520fa0cebe5a5d56a18030967068f59d0dc079f2dd87cad994b72050045f8cc5189d2dd0b332f16d0d80a99421ae0d98ed7880a3f92341d00970ab34e1653dc26656ae42ee0e84d06e6281f893902ee4b0a9050f5ae2df6be818e6c58b9d3d3309b058d9b2be0f668d105bdf29fd1884e6a760e10e5e06f19357d8376f0d2dee4647b788695e3dfb09ebc9a5b6d3f2284f0f378dbafcd2c0f1fc2525c003e7045d06c5e0eae838cfb8a899ef18c70ecb685e4d6f29f9f17354d9bcda38884d78567bd76d0cefa3615f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93479a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f1f9d3ea4dabd1a037c892a28f0ee36cc4541a627f4adceb42fd53/149/1920x1080_6423560/index.m3u8",
                 "icono": "https://i.postimg.cc/htMq2TCY/0-16x9.jpg",
@@ -5432,6 +5429,19 @@
                 "name": "Los Simpsons 24/7",
                 "url": "https://lbgo.bozztv.com:443/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6",
                 "icono": "https://i.imgur.com/cTGT4H3.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "El Chavo 24/7",
+                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8",
+                "icono": "https://i.imgur.com/XwCFYfF.jpeg",
                 "type": "HLS",
                 "drm_license_uri": "",
                 "headers": {
