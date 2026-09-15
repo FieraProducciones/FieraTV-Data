@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTE5MSIsIm5iZiI6IjE3ODk0OTM5OTEifQ.d3FBF26vb4Y1ZUjiVDG-pUsyN6xYcV4MjoHY4u1hZchROvIZcOwlXCVvXxx4ub0XlBRTxMGAGeffe-k-G5vskdPEbSWlPG_Ohr5xiPE_F7S1EZj6GKNiAqozR-_RdT7Ue0f73NKlok1sZDhf4SR8weNSmNkfEfufvgnqYMVjCSb4If4e4WC9WBEL1kgC1b13HNH_kctu7UI6W494PTjpQ3hrHkrJIr3TOZpdv-LR4TGtLfnDbisVCA_xgBiC4BCTyAad81Y3wwrG9KoRFYyIeb2JvUd1e30DXPzSmfUTS02BqnAdq8ey6XUMV57fHGMriivJ1Ti2Fvq-Kvh1nqs0IA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMTI0MCIsIm5iZiI6IjE3ODk0OTQwNDAifQ.lbaQVLQ3GioZgTwfZ92K36ZHb9s6piJMXLJHvk3gY5TwAFPK52F9BL8WoeosZR3yZwNdcV1-Axc1mlZ3Eoyi74-z50xrQ6YFDIgk26jJhc0RztNZL9iQshqknFAAXQs9QAzx45hMQy0cPfcn6MRxYZ8YmWsbBcNaMg_7W7Y3VILbZWUo20r791oH-y2osED1iHQKq381HjqnSIlbW0s962c8pR10cfy7hbRonXst67zZce6e0D8F4zxO30eydLAyb_Tl2u4F0rk4vietz-hb1TvPiDcPJWkNmQHETO9YpWy6seNjo2fxJYjP0kgcKc--tclmiLN8YVlTQOUKY-6t3Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3240,38 +3240,6 @@
         "section": "live"
     },
     {
-        "name": "⚽EVENTOS FLOW ⚽",
-        "samples": [
-            {
-                "name": "EVENTOS FLOW 1",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
-                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=_bmWNSpFszm4bz6zNq82xg&key=IbhUPBOyuH4OCXYCpx8_kQ",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "EVENTOS FLOW 2",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
-                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=AsX0bexMP-rd5vWwsMbptg&key=iRhvjCUPgpG0IRrBsr3BAw",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            }
-        ],
-        "section": "live"
-    },
-    {
         "name": "⚽ DEPORTES VARIADOS 2 (SIN BLOQUEO✅)",
         "samples": [
             {
@@ -5629,6 +5597,38 @@
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
+                "section": "live"
+            }
+        ],
+        "section": "live"
+    },
+    {
+        "name": "⚽EVENTOS FLOW ⚽",
+        "samples": [
+            {
+                "name": "EVENTOS FLOW 1",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=_bmWNSpFszm4bz6zNq82xg&key=IbhUPBOyuH4OCXYCpx8_kQ",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "section": "live"
+            },
+            {
+                "name": "EVENTOS FLOW 2",
+                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net?keyid=AsX0bexMP-rd5vWwsMbptg&key=iRhvjCUPgpG0IRrBsr3BAw",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
                 "section": "live"
             }
         ],
