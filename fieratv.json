@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjc1MyIsIm5iZiI6IjE3ODk1MDU1NTMifQ.RMAezQAo99EOha_foKhRzyUANtSSgUo_8UnM9UG3WnrbQkKvoAIHqK2o9mILyhZC08Rt_Qugey1xkhs_THUGMymKOcGta9HRvGkjMVHaayNKUXS_Ultr_-_Xt3f7xdZJtT9B0NEkBxNpGb2KyY3nxlgSS5Ip0YwLqKFQzUEY4a_cXABnFFfr6fT_uw1vtApXHMbOlaiIn_b-yF369npYOrIXZAHFJG-qbVZG7AORDaowmUTL8f_eDRom-lrusQV1Gr4nkl5wT0Lr4CW3Zir3P4deH4Y1V-f-cwfeU7BODd3nJ8st4n4WKEgQ8pkIHJkuI3WHZUJZaC7SH8KnETJV2Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjc2NCIsIm5iZiI6IjE3ODk1MDU1NjQifQ.KjRtbPKjxcB0gRcSmQ1fN4N5c4AjsivU9eYgA_vnfLuKdLM_pdDBQNOmv9fY_w-P-t1zFhg_pXn5Iw6ZcElsy5oktvTGzTeEokAtGZoT-Ecy9s9i3G1D9M2_NvSBe4YXSkGhgnCQak-P_Ndxe7nZV_Smo_y4VJfY09Y6RGvI0TT9byZcDophr-mn_jpIgDRhRVt2rYwxtlWycFlDPvWeex5T4Xwfn4KadlpfnpVXQ7bTnudv79uIG9VWOpvEkFkBao8LzRXs_Ke5rNyQz7wkaBuSx_wUNSgOqzK6xADOK6PUWriI0h76lAinAxq6nAOXYHy_7r4agydtuFW-7tnJNw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4416,13 +4416,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "section": "live"
-            },
-            {
-                "name": "WIN SPORTS",
-                "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
                 "section": "live"
             },
             {
