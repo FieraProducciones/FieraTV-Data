@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDkyMiIsIm5iZiI6IjE3ODk1MDM3MjIifQ.B2GN89n5Nqcn12kkrrYdElumTTyXxJ6raf6PPR3rwdVwDhfbFLmGlZ-i4SIYz0x3Y44WGg5MEohnyHu0zmv57trvyYAdL0sAh7LEeE9Djmrv0XeVcCNaAvbscvmrWs0o3hQWe7DRV_7yTi_Gkv4dLZZXoN0RWFzzKZbuk9jUXk4MigyG7OnFcSpUI9b8oEESBunzcgN5vh44TgE433BB8ZuW7kpbs82Z3jLbW6WmDC3Bdc9SoFshxbOojhH8akuhu2ztlv_8LELAlZlkCYpwb_P8YM6CWJFAm4hZk4i4HO6aiicbjyQou77jVIkjVyDaLcmY-bf1aO-WhlxHc9MBMQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMTMyNSIsIm5iZiI6IjE3ODk1MDQxMjUifQ.Cw-o0jVj0_gDl5UhZDf_4ZtexviFlqx8MATIxWBG53541cIXWvJZbbfP_WhDNzTRCO6uOXcAETT7gUQGh8pmYYMg7OvdPFuDWW3l8aKPustxy29RWF9T03UsvDW0CI5JrfzZMEiNweBpsYJ2N1H8iTuyPfisPzOaPfPVFWEF2U2yNF6z7BQ88gPLAIk9zxmgQTWFzNRl0o8T-PBR_nriZDzBE1kCMu0ES3cIlUw5E8vcignYg-2PZHSQ8nds_FjIUZdddzt7Aca8HLegkBk9xFOZaiM-_RcHXqLCkoJ0CWkakSHmtlBhN1Ef8xVDotIyDSZtdazz_nlWNQP6ZwMNRg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5413,14 +5413,6 @@
                 "name": "ACCION MEXICANA",
                 "url": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8",
                 "icono": "https://i.postimg.cc/vBC1T5ts/1775146310895.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "section": "live"
-            },
-            {
-                "name": "The Walking Dead",
-                "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
-                "icono": "https://i.postimg.cc/8kWdWCJW/1fb885058f28556f4c1e37feec21070e.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
                 "section": "live"
