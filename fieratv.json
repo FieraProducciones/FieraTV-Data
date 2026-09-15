@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDU4MyIsIm5iZiI6IjE3ODk1MDMzODMifQ.bRZ_SR6QFQwzzh4RYL8NRkk4nzRfqI3a-LFtN0DLRxbc33zg1tAqWvpTNmVyg-_jDCQ9GumCjouew_SSkdDrYbrs1gZpZJv09AGrXpxfcDNDGCra_JRyeRNv_-ZYfdaPDEhJHvrxIEGm-W3iQu-ve864kkuB46mDyUkQOdgAC8u3mQuYP2Vk269AZWaHs4WJCSaF7UcviFK1nsc7wKKAYNGA5dBvjnjEf4ALKe_K3ofDsih3VkPUV7N-XAHB_v3KCLs58MFvG24hWe9jSXI4CVNsYxli2e8R0tJUVZzd4_qD0G3n4dVXjE9miROboS6pfmrkwFo2ge1XSxKGdz6HhA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMDY2MyIsIm5iZiI6IjE3ODk1MDM0NjMifQ.nYMVrLpezvvH2ug8RKzvYv-0iBpzb06eFsL3JtwvXDaJHzTlQFZT3ZbN-jtrsyk0HSWQGoDccUSJZnRoPxR2JUA0-WHzwZVuCN3zZ1cKX0nMxWA6BBvFei8C7vzibxoNGEGJ_lcOx25ar6GcGmzTku6SY4XBlfwMgy8edZUj5jn6kxwPROTdu36ikvazRvFTwt24TWjeSHHMJH29Tc7zxRoHvbyg4H01J4f0EG4o4BJrJsu1yJgeFYNUJWUnyhqpRt7AExCHM_UGF0UNImc6T7voZtq87XpwsSbNwXLt6ekr_078DLHGHejrJPM7D7PsrGz4xowte5BbCiO_A3PTFw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4908,7 +4908,7 @@
                 "section": "live",
                 "name": "NARUTO SHIPPUDEN",
                 "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-                "icono": "",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
