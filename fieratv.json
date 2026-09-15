@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjQxNyIsIm5iZiI6IjE3ODk1MDUyMTcifQ.YrBwDRwQmfcZKRpwOrH_rYzv5GGjyvGONPwKaupKfP-QkWXxM_sTlMEiqim80cpV7-bmoAFCK3E569oNQXvO0iHf9O-hoc1K1WhJNKuTEh3YYTGPnxWg5Acnk_xmQUBuuXQm0Vq446R7tcfI9w2HBddeitYPsbKuI4wS1dDBkI0jrWrtFW5nt_JKnJW1OFgTpH1_CIOICxUCjzT_vHeJq7J7s5hrTfB-2v7ejKQ3FHTJ6J74uUYEzx2VawhMY8Nmogdoskn-CZMzfeLBWghavPRn1APkJS6Hg3ylJkEnQLYtsojLFFBBnu_oCMm6QRrgwZJJnKuX0YIOVdQlfUlm8w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjQyNyIsIm5iZiI6IjE3ODk1MDUyMjcifQ.RmAtZMkmlPftVR2soSvFEVxEAa8mZ_JxvgZWx4vZqz0waLphVoHPpxQLFS3IRROcjX0NoG2HchBTu0OeseBNKME1jJLM29YTTccxnbZx15Vp7B9FpPUGmR8_Yf29Ocjn2PH1rJsGvB_4_WiOE4GmjUd0fqlo8GJjv-TJqRjIQ3SANrBseiNlJiVNAZDI5Hc63v35oETxezc4I4kQvMLMuO_85lb6fhREDYwRDVyG-E7j1TXDK0HQzH5rOu12ggirZWrm-TPYfi_M55qGd3bR855MuQvsFaGj9ZftF9M-svtbH7YSVgGoQJjj1Xh5csPb2y1Xmn80O4jW2NY6VDysSQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4634,19 +4634,6 @@
     {
         "name": "🇧🇷BRASIL DEPORTE",
         "samples": [
-            {
-                "name": "PREMIER 2",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=9dc40460c93087aea84d6315f08ecb64&key=f69c8d4624fddff4ca89bd0b31bdc4a7",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
             {
                 "name": "PREMIER 3",
                 "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
