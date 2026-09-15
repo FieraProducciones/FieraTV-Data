@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjM0NyIsIm5iZiI6IjE3ODk1MDUxNDcifQ.lAkz2MQARxOvTKN2iawAjATbe0ceWWHizRfyxe7HBJMKCzghi8Lm2ZeS1rbGYbCEagVD41rLKd9Zy-rGLzUZaUsp8HPtTtbVmvYRiFhDkTYGF_zAKSH6sWJTp_8H7_Z7gBd0N2NMVK1oc4cu3B9coLuj75F3EYhDR4cxrLxsMZw3KZ3l-dnxSTjJpZCA7l1LJ0AxIt-Ei7ozz4ljRy3U5aLz0A3BZ6syw_4TB_5gs_r4d8sOpm8uREXgkSX9ZsZyhwZdr6ILf2UNRE0U5t4-Y5mVLgHSsvyOk831wPNgCs_avHU4TXoiwv_NA_DL7HEXi-3BIJXb0y13bkONWoE3xg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjM1NiIsIm5iZiI6IjE3ODk1MDUxNTYifQ.Eb758LnOKyFVSG6bQMA2fHwR_Su-W92k-7AWAg_e_RwvDyxTWupSQc1dmv0TguZWPWvsd54YhfJWDygj5afoI050wyVzVj6zWqwmggsYnpKa1SHvmxXJJEJVqzrceiKx8TMXEhbvayLUIYIJf3TM02vuwDNQ0LxhdSzzSeoDDt8H9HIrhjn3thvVOtmng9AilCly2tmSysesMbuUu3MdkN7sPOsyQV1O6IojXCXGg5ORnN6XhxXGugy4zn9WvX6u-a43jMG80LJyqVeRrbNkGkN1Yjeu0TeIgxwGC2q1UzxLpNVnqZS_x523p3lZHwNJlRKe1peOuQf1tx0o12m2jA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5152,19 +5152,6 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Dazn Fast",
-                "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-                "icono": "https://www.dwdl.de/images/1692002750_dazn-fast.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=i87GsxzJ7ctnaKsmVI4iww&key=48WwcyiJTDNzSk3mrlWofw",
                 "headers": {
                     "Origin": "",
                     "Referer": "",
