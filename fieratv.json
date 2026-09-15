@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjM1NiIsIm5iZiI6IjE3ODk1MDUxNTYifQ.Eb758LnOKyFVSG6bQMA2fHwR_Su-W92k-7AWAg_e_RwvDyxTWupSQc1dmv0TguZWPWvsd54YhfJWDygj5afoI050wyVzVj6zWqwmggsYnpKa1SHvmxXJJEJVqzrceiKx8TMXEhbvayLUIYIJf3TM02vuwDNQ0LxhdSzzSeoDDt8H9HIrhjn3thvVOtmng9AilCly2tmSysesMbuUu3MdkN7sPOsyQV1O6IojXCXGg5ORnN6XhxXGugy4zn9WvX6u-a43jMG80LJyqVeRrbNkGkN1Yjeu0TeIgxwGC2q1UzxLpNVnqZS_x523p3lZHwNJlRKe1peOuQf1tx0o12m2jA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUxMjM3MCIsIm5iZiI6IjE3ODk1MDUxNzAifQ.X27qTz6nhdarFbgPgl379vMPkEgdz0uWqV5nHF-Oidm6yTkABgsKoWhRVSgtUM4FftR1ttY_7iWYOWxF1m9HnLbCv559ChnUwdbc1zCdSc0KhBvXbsbvuq_OZXxq27fkXhRiwjP51pkYTzMk4JlehU6MVNr1hmcMnAhzaC_U6nedX0zER8uNoNxN6Si6YHB1II1OpUuvo5gk7w4rWov_Db9y0T2PQ1eJMwRkjfutqXHI4mctVlHy8RF22LN639FQatTRdH9TpGVkOcFeAUwbr1ydRUZKeZmXBKhrUF-5o2uLTjSA99RROmQVGqehesMQjdz3rTcLcWCjNP04_v6orw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5168,19 +5168,6 @@
                 "headers": {
                     "Origin": "",
                     "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                },
-                "section": "live"
-            },
-            {
-                "name": "Premier Sports 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=FET0I1Up8YPwpaSGvv6c2w&key=5eP-xnobs0cqIInIoKJVfw",
-                "headers": {
-                    "Origin": "www.primevideo.com",
-                    "Referer": "www.primevideo.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 },
                 "section": "live"
