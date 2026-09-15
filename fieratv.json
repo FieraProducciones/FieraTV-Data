@@ -163,7 +163,7 @@
                 "_local_category_id": 79,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMjA5NyIsIm5iZiI6IjE3ODk0OTQ4OTcifQ.lPdX3p0I4uVWz93lrmVTy1yi7qoDlrKNZXCbx0Ftczy9ApFHJbBCSxcIUh5GENO-Og2k6JRZuN0evgQCMYDU4ibsKMMXQ6a0Pj3t1fDb-DrZOeEFUVWI27uvkGjjpz57Q3H9PqmE1Izl4YBtie5mTxWFAKRzDN3oABFdFGFtCG5pzqi97sx-aAHTH_TGKT0yZsngsuugn1p6KV7rZE4nRCiL2kILOwRMESDMw_e4mCtjqyS_nTOIzA8HuFecYKz5KzRoahIx7xfTj_8gVXKJSEdNCzepJL-lH9HLvQvy8nlOTXSUfRKi9ObkHJ19LmHatwLPvxTJNw5Bv7qIL6NzBg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUwMjEyOCIsIm5iZiI6IjE3ODk0OTQ5MjgifQ.JmVNPBeNCifrgXevfMx6FldVchV0WDKv58lZ-fLeRn0Xro44YA55G2wKT6eYeWfkyHnAyO2qUV6bwPfD3oHqk7fhgDt3yNvXMoV85DEiA9Ax5izrPe776PdB3Matz1IZR1AxdEKvCBxQlpC3PHgpu5aJK5YVcqOcIqItODQ7EVfELvzhiQj5SkjiozUA_3KagbzEyOQ2tNIf48KlVTn9VfSiOBvAB18GeBrCJStvXXVE6i6OBxA5JeA28PGHD_-15y5TxW8dG9WUnTg8Ayq07TJSSWdTq8_TS9D0u7uWg_0zOHYziMRFbgnSPiOtpjXmZtBPCGcyJaduGYDbLhvjAQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4588,6 +4588,203 @@
         "section": "live"
     },
     {
+        "_local_id": 81,
+        "section": "live",
+        "name": "CANALES 24/7",
+        "samples": [
+            {
+                "_local_id": 2748,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "NARUTO 24/7",
+                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2749,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "NARUTO SHIPPUDEN",
+                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2750,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "BORUTO 24/7",
+                "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2751,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "POKEMON 24/7",
+                "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2752,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "YU-GI-OH 24/7",
+                "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2753,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "CAPITAN TSUBASA 24/7",
+                "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2754,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO COMEDIA",
+                "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2755,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "INUYASHA 24/7",
+                "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2756,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "ONE PIECE 24/7",
+                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2757,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "KENAN Y KEL 24/7",
+                "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2758,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "HEY ARNOLD 24/7",
+                "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2759,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "BOB ESPONJA",
+                "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2760,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "TORTUGAS NINJA 24/7",
+                "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2761,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO AVENTURA",
+                "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2762,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PILOTOS DEL ARTICO",
+                "url": "https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2763,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO HISTORIAS",
+                "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2764,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "PLUTO VELOCIDAD",
+                "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2765,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "EMPEÑOS A LO BESTIA",
+                "url": "https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 2766,
+                "_local_category_id": 81,
+                "section": "live",
+                "name": "LOCOS POR LOS AUTOS",
+                "url": "https://jmp2.uk/plu-64025592953da40008bf9238.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽DEPORTES INTERNACIONAL 🌎",
         "samples": [
             {
@@ -5726,203 +5923,6 @@
                 "name": "LAGO NEGRO",
                 "url": "https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 81,
-        "section": "live",
-        "name": "CANALES 24/7",
-        "samples": [
-            {
-                "_local_id": 2748,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "NARUTO 24/7",
-                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2749,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "NARUTO SHIPPUDEN",
-                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2750,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "BORUTO 24/7",
-                "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2751,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "POKEMON 24/7",
-                "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2752,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "YU-GI-OH 24/7",
-                "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2753,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "CAPITAN TSUBASA 24/7",
-                "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2754,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "PLUTO COMEDIA",
-                "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2755,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "INUYASHA 24/7",
-                "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2756,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "ONE PIECE 24/7",
-                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2757,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "KENAN Y KEL 24/7",
-                "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2758,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "HEY ARNOLD 24/7",
-                "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2759,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "BOB ESPONJA",
-                "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2760,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "TORTUGAS NINJA 24/7",
-                "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2761,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "PLUTO AVENTURA",
-                "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2762,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "PILOTOS DEL ARTICO",
-                "url": "https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2763,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "PLUTO HISTORIAS",
-                "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2764,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "PLUTO VELOCIDAD",
-                "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2765,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "EMPEÑOS A LO BESTIA",
-                "url": "https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 2766,
-                "_local_category_id": 81,
-                "section": "live",
-                "name": "LOCOS POR LOS AUTOS",
-                "url": "https://jmp2.uk/plu-64025592953da40008bf9238.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.pngp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
