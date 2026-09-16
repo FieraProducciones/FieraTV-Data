@@ -86,7 +86,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUyMTQzMyIsIm5iZiI6IjE3ODk1MTQyMzMifQ.UQkuw0GgU0Pk49HzjBys4lYBtdwaeXwhwNw5mdAO9bhIE2LkTAJ751pmN71HJ5ayA_8Lyt9aWc4pBT9mIdY7OFxs4ZbG5xV9rH5lKyuMSqZrqif8cdKHM67sa_W0SP43kS1oOCxBHyUtM5_TcFHLXGG8HNhhTLGsiva-4P1UBypKALIH7duM6IItIteXx1YsoD3sS7kd9sImFrObecbKTClhnWjl4eFJJvJChXOuQhqwPOh5UzK90AQyCG6w8GHwKLj1KtcKnXZMmRJDQja-_u_J4knMVVi-6Z9MlEyJxF75VGzCKLuEsWf3A3L7Y-qMJUxrjm4iu_nNXx666AtHRw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUyMTUzNiIsIm5iZiI6IjE3ODk1MTQzMzYifQ.eOIKpbwU33915hL_HSKMvrkLbMqd2w42V5C6od5tOuaEHJQXtY39d76FfkywIxl10nIMQ0_QFYn1m1yiQLaxu4mCYp_y8Y7Crw7-mH0FszzyO3eSOXXuDVLzPk9EbRN9SS_pFvQHBWxCJqpRA_oj6NEN4cre_MXYfqjWmhn0uOCt_xWApfasZm7owG1B9B6IFLz9W6Eeacz4TCyRKa1SkeLuRy1Aj0_AZbAy3nwUTAgO0gsVs76rf4mxgMSPo-47PgC7W3b0uQoiMDpenaPK3388K3e6AM6XHatWO-SJFXkcqwzaxDBuUti7Y11ivjgyhG0g60c_3C6vUUN6JYogIg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -501,6 +501,16 @@
                 "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3200,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TV CAMARA",
+                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -615,18 +625,7 @@
         "_local_id": 111,
         "section": "live",
         "name": "CANALES INACTIVOS - TEMPORALME SIN SERVICIO",
-        "samples": [
-            {
-                "_local_id": 3200,
-                "_local_category_id": 111,
-                "section": "live",
-                "name": "TV CAMARA",
-                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
+        "samples": []
     },
     {
         "_local_id": 112,
