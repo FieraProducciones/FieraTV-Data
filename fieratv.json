@@ -45,6 +45,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3984,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "EVENTOS HD 5",
+                "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3144,
                 "_local_category_id": 105,
                 "section": "live",
@@ -116,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDE5MSIsIm5iZiI6IjE3ODk1MjY5OTEifQ.FRabY-0zZv3Ygs4HJ1YAoYEOmO67xRVPsm3RaoUsK326jxkW_qLpijUoJ06nnS35Buh3ma4XXhOtrhKeLkJt7JoyUrFwqfmjOyzHUaaYv5G1vo97-FJ65smfhm8_gZ9GNNgCq4OW-mWhdbLrU10Xz0A78NdnsAH3t7GvR6mnInIONwbBCymHSZ6zgB4-lyX0MaZGbaQI5A2XJgEVG_qFfWdVAtlsh6O96C_IPGSb_ORQlbNt-MhKzVi7u0se14vQP0CTNNta4-ZHDtI8E6PNySVK5XW44zIyFaTG6FcdDSVVP9qD3bvQ1yQcwSUnx4SJx1F77IwTxwa-PsAdj0s2Dg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDIzNCIsIm5iZiI6IjE3ODk1MjcwMzQifQ.lVdzeCnxy1qjPV846CLmfHj-CDaVPJvqN-KxKDJXK9JK2_ONLU-iVTMEL-E9ugE8HrxD8l1ddkbKj-bVUh1o0tTugo0t98uF5wbtHRDESidS_kDT9962gK1oD-tahlXTzxomEpwaNhnzdBRW7JtEVoroNJiLuhh2otbxtTdzJ2XzTQEuCOPjLiMEoeGSZVzzMKGuaRh5o4KsAylMSzBcgnQnn4CrDT9c3GdzKFoh4nHhSWeL0LGA5zjR9qwq8sBtnugfD9uvKEsRulUQVW7gr9xQYdky9Ocie1LA156CTnrNT_lDw2gFf8DrI5YCz_UPSu3ehLhmYAovu6hIf0BIiQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
