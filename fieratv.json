@@ -106,7 +106,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDM2OSIsIm5iZiI6IjE3ODk1MjcxNjkifQ.mgSoiPKX2BStTVEhIgLoe_TSy2Md5wQ181WxTdvi5VRs513H4AjJzaVPlyKIzM3-XFuidOIxLAS4IW5i1i1vTVm9u_vLRqheOE6jOfw7SKvlVAHU253Aoh2eQwt8toHs5i1FoCG_70XCKZytbiLk0bvDNxUTyZLAvvOBQDUbmu5wtkoVDnxyminREfr4fuclQAoyCuRi31NDISZ9lOYbKPWYUPvNf28bwWSW5Ov5qp0bEvuzfx25ofgn95m3GQZEDHpK24JNZQh28H3KWitVs5n_jqE-OEUBlLdPTPV4qwF5xCOJsKrTC0SQCvF9N7_VaM04pwVOwFTlXUYj-hrmUg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDM4MyIsIm5iZiI6IjE3ODk1MjcxODMifQ.GInd8bs72G6-7aphh5FQ-dXnAFsFRgFvyFBP-rL9Dt9l4LedGjBh-AANlPfijIvwo1G-9m3gAIerXpKXX0NcN36X0GCC2CMVCmhMo3g1ofJut2bRrJfzJntM7ckrwGcMkJnA-5IqlTs0V4xrVeoV96DefkdolWS_QqKoFnD0avLzXIxxgqqPDBsaSnJDwthzKtWx04c_DRa3yeRydzMiaa56gIBpvQfV0H9i4n3rnhBxuH0bSNklgTh7jsXPAkQ4zrMr0lmRVI0QcwZHJsnWJe61RLnbZs-swyWrd6Dwyz1AM7gkz10YqR9S-gkOzleiC0HEsmEz9yz-1cbqTrVe_w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3833,16 +3833,6 @@
                 "section": "live",
                 "name": "SALA DE EMERGENCIAS",
                 "url": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3505,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
