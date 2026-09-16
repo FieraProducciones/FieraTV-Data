@@ -106,7 +106,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDQxOCIsIm5iZiI6IjE3ODk1MjcyMTgifQ.UqBW1ZH8QzL9v-aaAm7S511EQgSb4PB_denY6xEp_e8etJzas_XC53dcwr-ugv4Kb-ujrlysCOGFBFEiL_8KZiPMmc-l1QubNeUoa0AuPKepB7ch5Q9K2jljnHM4IjfkGN4JAkbqgcoXXwU-egVas_ndKkaWvuSVaXu269DBYUoZYm51R19wqRDE3j9QSssESdtCrVaCkKYpyJfc409LAAq_zh7_HAE7LgV04v8_4uYkKQhzbmspFlNkSaf6MoKMiY5RubrmTd3blqAAO6F8XTGpSpMBqiAumHZk_OPZb5nqryA5F-T4G0h8g50pisaTYdEmxnXW9TVMeNN54WbMig/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNDQyNCIsIm5iZiI6IjE3ODk1MjcyMjQifQ.i9711bNjUHuQgzYH6dgO1BVmtuAeJ_WTJb5JnSVNxToP--r8VHiQ1gyTMWbYlNh42vGs_Qz2XULOAVqnXdU8tGoSNRpTLUlT8_ILLqzPVt14QSVRympJpYG0U2sIGgG-q5GNTB_U1o0lsIfMP5A2vySQf5ONAhVFrBqNqokqGh6gGsamMRu7DP870qenG96Q0tBwavhfD0HLzBfjiLrcH_TaWFJy6ki0IjWq4xGXwa1lee7qlPvgfaMDyl_0E2SY-IWBKf2TYdrA4PQD-BhshuJSIZrOW1mwzPA09GrH2IPGbCK2VZPvNF0v8sdDCOHRTmrx_os8kBJGZyZJXIjyVQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1965,16 +1965,6 @@
                 "name": "WIN SPORTS +",
                 "url": "http://190.60.37.118:4000/play/a0bw",
                 "icono": "https://imagizer.imageshack.com/img923/5537/5PsM20.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3329,
-                "_local_category_id": 118,
-                "section": "live",
-                "name": "DAZN COMBAT",
-                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
