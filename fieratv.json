@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzczMiIsIm5iZiI6IjE3ODk2NzY1MzIifQ.hVdvM9XBXxcx90l17ct9Qe2UrLA9sDWTCHCBj2sAS-JzTxE4eJD5r2HmN5a1qax4L04DUc6vxsESIBGB2fLrnRur0o2UUH5NGopvNVngnTcc_Z9s2geXs6oIH8oK_Awvej6MyFHeHJJjWV7Y_6D_L9GN8E2RucqCSQKEDaPL3qUVFGbiPhXs8vKfKYgSozrjME0OZxS7nC2Nnf2wTlRdC_ulNOR9b-hNKQfyfk8Ijlx-3WtPCFP_eIg-GkUWwYNJYz0ZXSFSu0c9Eb3Jov471EuGcMVlwBEbJTbZus-dLX-05oT8JjFLOInTFluXpZpYDp2kzMrUQC_EKSDVAmeV3Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzgzOSIsIm5iZiI6IjE3ODk2NzY2MzkifQ.BnvwAPGZZ76hVOc0OA-NLz6Lw60b1OZm4uM7Y10fiymiUiEeiiQtBGDnpXruSQit8i1SrChG139wQUyGq1BzHEBVrv4UrtpBEloS8nphf8gMYV0DbiW9f7DrxEVGl-E18946aJtrEG6t5B3JjVrfwSCkZDfuywzlf6-nz5MnWMVFuuY6BYQmM9JNsjjA0T_5f9bJ3xgz06C_cLEgsWnNLBmN1ugwzShLspy-nUxSd-I3R70DoC6Hfc-4awoGzuEmO4-OP4AhHeidsUokaa33QEdhoSz4mV6vcIGmudFnmczK2XD_S3oy0NSFa2znd6kwCjjThBfaRTGxl0tb9rPF4w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -319,6 +319,21 @@
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4082,
+                "_local_category_id": 108,
+                "section": "live",
+                "name": "GEN",
+                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/grYXL67oyhc1jJENljX7bQ?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=07437c8de4e0da2fbfae8137647fbed5&key=2993a1e2086fada083a8a2edd0ecc56b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "_local_id": 3987,
@@ -5408,21 +5423,6 @@
                 "icono": "https://i.postimg.cc/65RrYqdx/America-Paraguay-Logo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=cfec17aceb86d821cb6f704e48c52588&key=3ba71285a8c6c9c15c937083ef424a6d",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4082,
-                "_local_category_id": 175,
-                "section": "live",
-                "name": "GEN",
-                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/grYXL67oyhc1jJENljX7bQ?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=07437c8de4e0da2fbfae8137647fbed5&key=2993a1e2086fada083a8a2edd0ecc56b",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
