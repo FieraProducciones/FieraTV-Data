@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTU5OSIsIm5iZiI6IjE3ODk2NzgzOTkifQ.XHh1VY-64YIyFOvnpOnUUE-0s-oriJyRz5RW1a9uI_c91WLWMX06-91FjJ5qhF2mA0BFDwQ58f2Q0c4WOM2vZanc3U6KgZqYxtilgpLjd0CFHVjkmkPPA70y4oopiCM8ELR-UIJx1_YqsHj2V8pokOdq-HDYVwyhSrwsrmk4oH80Ldn_4G28uhx_9wvLq6TyqseBdh82Bz9w2JEjf1beHHENMFuwwAdm-lBuZ5uYqbFj5zHaUKUk5CcHqkF7Vd2QsoIRh0YRqg-uAXvfgZm_iMaJzHIsRVbXfrEatONPrEDCnLg1S1p_SvV2bYLEjPo3Ni1WLVpGjcmy9tRmP_MfVw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTYzMSIsIm5iZiI6IjE3ODk2Nzg0MzEifQ.PtNNoKM_MXQWcNRZ8M67J9ZZckV1jfYpfOuaHpSoOOoz2s9OpM7vFUdbNLeiL7_Y9HL3GD38l-ka90Qz1lTYAi66XJt5tq3dPFOnhp14HuYAcsd-TH4pU7paYRqdfUYoYDyGqG2nZ4byXuoWErKANoluifdOjM3_doOpanKDMhBayEbOOJHNarHmWDj8lP5YDK4EpbQPaTOMEG19u1EMUEmCkebNQNxradi8859G96MoBaUsEnmQD1AfkMW9qXx9nd_KJalfc6lC2SagDL145nQLmQ60SHEB-6Ep_riMEN5IJ63qsWNM30fX3D6grN0-WInTW0Xhwt-AoaqX9IBPGg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7337,58 +7337,6 @@
                 "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
                 "icono": "https://i.ibb.co/r1gcP2y/image.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 189,
-        "section": "live",
-        "name": "DEPORTE MOTOR🏎🏁",
-        "samples": [
-            {
-                "_local_id": 4328,
-                "_local_category_id": 189,
-                "section": "live",
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4329,
-                "_local_category_id": 189,
-                "section": "live",
-                "name": "SKY F1",
-                "url": "https://vt-ip.vodep39240327.workers.dev/288.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4330,
-                "_local_category_id": 189,
-                "section": "live",
-                "name": "SKY SPORT F1 EVENTOS FHD",
-                "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                "icono": "https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4331,
-                "_local_category_id": 189,
-                "section": "live",
-                "name": "SKY F1 OPC2",
-                "url": "http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97863.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
