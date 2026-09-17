@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDM4OSIsIm5iZiI6IjE3ODk2NzcxODkifQ.WwGT3hSiy2R3UZPw0yQiBCkEq3E559YV6G-5u3xs03DpSAJIe4c7exkiQvQdP9hkSdAG290ntLMvE8kLAfOKgg6gLjMQDfpaD2UGjybaMWJug1PwZ5CRw_jbSLC_6cZFisnm8p-k3BN7EKLkdHRjq7WEvvTxxJord9_0n1DJHlzGc5UNL7swluOZztIYbb68kmuJHp6hjlq8oMfM0HlgVkBuqFuRNDHYtOrwSIxOoWxIEuKZ8QU8mKA_wEx8ibt7RMY1n6oWv-rqh7ux3pfXXv-8ZmSK8s-BD6bgwOKsrTjcTkAKXwFnuxFCaRQIkaHCpEzYVbYeQ6MXkiVekmdqVA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDQ1MSIsIm5iZiI6IjE3ODk2NzcyNTEifQ.OB32E_Cdt_lIZPNq0SuqiZLevIKkV_c_c5SzU6V_KoLySQnB13XNJQ4zW4FXGh1CwPhC-UZEq0hdJpfJdhKs22JgVUvVk3pAlL4ASvw_5kS2egi_1s39ZA0dE0Ci0q-D4LlFj8cc0tQqZxr2vVPI5EN-ndAX4UjpNxLY5G5Z6By_Tt2Yj_NVpWJjjfdD9NoMe0pdxBuDk5UdF4enPa-NyD0W0amNRtZ3o6JbRUYFzwqOvCsoE573_owMmuQui_-46-0_pBMp_Wo0ghdXSIq6iBaNYS7a0FchRX0fp4T_dxmGK3juBEuvPTM8ho2ezg0QDTB6x4_N3XAt5Wv7sWxOwQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1779,6 +1779,16 @@
                 "name": "GLOBO HD",
                 "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4243,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "GLOBO HD",
+                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+                "icono": "http://i.tvcluboficial.com/tvglobo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -6909,16 +6919,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4243,
-                "_local_category_id": 182,
-                "section": "live",
-                "name": "GLOBO HD",
-                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-                "icono": "http://i.tvcluboficial.com/tvglobo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4244,
