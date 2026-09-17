@@ -5,16 +5,6 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
-                "_local_id": 3165,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "TELEFUTURO 3",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3166,
                 "_local_category_id": 107,
                 "section": "live",
@@ -29,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzM5MyIsIm5iZiI6IjE3ODk2NzYxOTMifQ.WY00HTjGUWXRfADKFVWMORueY8cSULZRNAy9A2miog_XyRXYKJaA4OPus8YCMJAQbZmSXDrxOzKj7lT18FQYOi-4Fzgns5vWr-yQTpea6tbWYSleguHgW11zVxScC7Dp4VTv9IsRzZSUvQGJS7nwC4drt8TLddKoCRfP_wJZpeLziNz9YnfshHxMgwAY5AKvU0QzJMnUs9zGiGa47PW73f3OOK4tEhjkCw3Y3TqfIQHEzlsGrdt3-_WBriBKJKWLbXe7CUdyKwdcdVDVvhvqEso4aDiDv9lbd67N51WSd_zHxHABd8u4w_ArV_0t0T3tEJOuh5A_B5oxTdtcQnWy0g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzQyMCIsIm5iZiI6IjE3ODk2NzYyMjAifQ.JuJSekxaiknY9xU8tp6r42Zcw68d0YdXTUZKEcIkBQf1ZdjAZ_f8JeNvSIePn3L8AQIFunMANdcZrHTROpPsIfDeu_Eb5DIVHEV3Ue1qg7q_ynyvE6HBFfuPPCOb0ikEsA6L9im70apdmXBN7ahEd_hvyD21OTChjEq9ONL6wAXIup8sUzVBldi3VTpzYxRQnmQ5QAefirX_UYO3irOgCfHQq4Hq5_ffEu_0fKl7AvssQddTSWBa55eWZ0dOJHfud58Y7vM3NTxbyUdBsCnCUud-XHq7EEQcbOnVhHGC3sQYIJ7AR9_J79xkaRWk4pM49NKmlXSwbJkaNcbmTdiEeQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -287,6 +277,16 @@
                 "icono": "https://i.postimg.cc/66PCN9yJ/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
+            },
+            {
+                "_local_id": 3165,
+                "_local_category_id": 205,
+                "section": "live",
+                "name": "TELEFUTURO 2",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
