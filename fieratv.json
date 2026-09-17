@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzQyMCIsIm5iZiI6IjE3ODk2NzYyMjAifQ.JuJSekxaiknY9xU8tp6r42Zcw68d0YdXTUZKEcIkBQf1ZdjAZ_f8JeNvSIePn3L8AQIFunMANdcZrHTROpPsIfDeu_Eb5DIVHEV3Ue1qg7q_ynyvE6HBFfuPPCOb0ikEsA6L9im70apdmXBN7ahEd_hvyD21OTChjEq9ONL6wAXIup8sUzVBldi3VTpzYxRQnmQ5QAefirX_UYO3irOgCfHQq4Hq5_ffEu_0fKl7AvssQddTSWBa55eWZ0dOJHfud58Y7vM3NTxbyUdBsCnCUud-XHq7EEQcbOnVhHGC3sQYIJ7AR9_J79xkaRWk4pM49NKmlXSwbJkaNcbmTdiEeQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzQ2MyIsIm5iZiI6IjE3ODk2NzYyNjMifQ.E0uT1sjEjv9fgTVT7datJz7kLjAqc_yvMo2ePITGaOMbE1Wr1NMaJM6lkSrjVXPcj1kpbplI3toyU5rJTQalI2wj6CljmF9ju6Zq9VOJt5MwNqSbsyf2-ZQ6wSZZmpLCBfhKTS7a17k2TO29thQ1VISsfCv6auR6kiGI3IH7bTL9hxMU7z157IKdftHNwy_uc3GZZ9OGGrMOetwF_NvkgCEVqCUxdB8x9uhJm7FNvY2lZF103XQeDayDAJFktNoQTfq-8V1Zs-MHAcBy3VDKq52eIMsoBZabxCOqyn-w2EUqffsP-ie5rBvXZ6OzuYAZgol6Se4_877LMwtyDhQiRA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -71,16 +71,6 @@
                 "name": "SPACE LIVE",
                 "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
                 "icono": "https://www.elgrupoinformatico.com/static/manuales/2026/04/plutotv-spacelive-1200x675.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3994,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "TELEFUTURO ALTERNATIVO",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -285,6 +275,16 @@
                 "name": "TELEFUTURO 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3994,
+                "_local_category_id": 205,
+                "section": "live",
+                "name": "TELEFUTURO3",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
