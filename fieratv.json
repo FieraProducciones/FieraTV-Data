@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTQ5NyIsIm5iZiI6IjE3ODk2NzgyOTcifQ.PFHTT1lCv10Kbdo7xHLwAxAjE7xwQImYbNDUNY7mg_tj_oCHQFrW2zt9SixdWbOYESlNM5tpomfLT6kMpg51OoHDvyFlgvzSSMDd3YMt6R0XHBcB7JtWXQWiac-pVlQ7PJ8FHGm_IAvZfZO27oQbT8HAcPhXKyGGbXRUU5dyNw5jebess9QGZpZyjpndJ0yZAnSXZ4_ASzzucP2AsuZhpfSdd8nEPq_JGF52HkwJ3leHVZQ6NtmsZLwFOn0ubYL2mIU9g_sCVZltewHGHPRH187qwA5svb5RZn4LHL7kjGHD3hROPLbYR3JTwyksjHu5iNBbrB8g8fvhLCPaPrE_vQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTUwOCIsIm5iZiI6IjE3ODk2NzgzMDgifQ.YgtESfxRnzPI6Agm6ZjUvWOV1xysLNwnw9F0TOasg-MEBd3W1CQzOXyG5HKQI7jkGzNelFENhcqE2n1P53geWxhM2xRhGvwuAh21O25T5pM52CE4YOIssaok4Hma9XL0W847QEDMtd52bog9L9g_eDoyNmDlx1zQ9jWm2E6Q5p5ijtTYlRNsIXJR9uWJHZJfyNXmUAxnnEGzobShM8V9kbaJtWyggXu2SYprPYFK0g9T0yBm8w7ec6ZnDFvUp6Ku0OoZF6GvMUso_3kClvvHEfeCMElg2S57M1-QUOLm9eIZCKwucM_lOJbGzy5lMMwnZnihoL7AuewC6lQYoEuwzA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -6781,21 +6781,6 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
-            {
-                "_local_id": 4275,
-                "_local_category_id": 184,
-                "section": "live",
-                "name": "TNT SPORTS CHILE 🇨🇱 OPC 2",
-                "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "WEBVIEW",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 }
             },
             {
