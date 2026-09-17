@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDQ4NyIsIm5iZiI6IjE3ODk2NzcyODcifQ.f0M9nVVrfwmN-zHa9kNYNos_FSha63FsXQRb19j36mBcnNmzMy8AwmAqx_8kUU9ugiqbBGiYj-6Y-O6L4evGyM5zNQb9ym5kWAxrG86DuczCpTl6m8MPpRK66mN0nOITjyqF1ZEpw7l7k7Jo6O0UCmvUGlMJS007Vgo4SedlMM5Hascz7zL3v5u2gL8eDONrA8WbVKeRU3Xp2o2H2ueAYeoBqGlaBn1qpeQyybfGur16X13Pp6_u6qsaETNFrke5a-ObDzv2LtOzWIaK7Ikb34xnaRG7TOwVzxzeZb36sXD18s3EmJg02mwuiA_Y7vckiAASCcv_n7uNJg2qyS29Pg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDYwNyIsIm5iZiI6IjE3ODk2Nzc0MDcifQ.pDnlNaZLpd7NALMnQr09O3BpvG6flbi087NPkvoJW7WoZ-5UVXS29ZV1AVkTCW_henBxHsrP56YE_0AG609lgxOZ5d2zQ08yQcNgQm0EDKqaiYj7xw8AYZ2W5IL0ORLA_CYTS89uByI-isgD__dLx6qgIhts5NVC0bkU_XXgrMN7WTUxisclFdmOLKdQFZgDf1KACEeNnUl5mZwcI2AC47scTSfC1K3XLgqYcJRMRFf9cVMFTiOX-opZuZloK3XodPx46x5R63jjugRamkjzCt0yp9AbIPOCPNTjKZ0G9wnfcXyvCUzSPYTU_TENLik0c08wHENg7b2g2u9Ownq67Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1318,6 +1318,21 @@
         "section": "live",
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
+            {
+                "_local_id": 4251,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "Teledoce (Uruguay)",
+                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/Canal12URU/SA_Live_dash_enc_wl/Canal12URU.mpd",
+                "icono": "https://bestleague.world/img/teledoce.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=b34081cdb9cb2f15ceecfc18d7274494&key=88a3476f512c9d95b62ecea15665c3a3",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
             {
                 "_local_id": 3248,
                 "_local_category_id": 114,
@@ -6875,21 +6890,6 @@
         "section": "live",
         "name": "INTERNACIONALES🌎📺",
         "samples": [
-            {
-                "_local_id": 4251,
-                "_local_category_id": 183,
-                "section": "live",
-                "name": "Teledoce (Uruguay)",
-                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/Canal12URU/SA_Live_dash_enc_wl/Canal12URU.mpd",
-                "icono": "https://bestleague.world/img/teledoce.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=b34081cdb9cb2f15ceecfc18d7274494&key=88a3476f512c9d95b62ecea15665c3a3",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
             {
                 "_local_id": 4252,
                 "_local_category_id": 183,
