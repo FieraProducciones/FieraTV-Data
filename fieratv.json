@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDA0NCIsIm5iZiI6IjE3ODk2NzY4NDQifQ.XhLs7z593U0VvvF0AIxKwDlICMLe5IEamN-GQ5OBhlM7xvPiEt-2aKeUGTME0xPbPkLPQrP0a1nd7orv1-0_yz3Vf9A9zR6mu338gO1yFkDSLsCZXawjXnG9Pimh09vpdmLWXN3dD8shBLqfGrPvWudKfdnrKcKVMGI1FL86EpBWfJoHI8LPaeJw_OnHy-O26dxH4naonAKydsj4NhXx-BgarsXc5Mo8VXbZHrt62a7QC0jG8e3f6rRH3eUIs42ByedfpIun4MNXg4ZP-YLQxnTZpUydBGsBK9eqTiICiUY7dwDReUEZG8an-Ui9Iu_nva4Q4fZUhp2_gWDaplvVDw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDA4NSIsIm5iZiI6IjE3ODk2NzY4ODUifQ.MBDwHQoDlvgn5zFIJwRdKWGsTJY4umRuxUl_Gv7HXWFvbN26VZeYhtDI5dlUvn_wAZe1MvYlt-87b7843ApxEwsopm8MlAcXGVn3NRJ0leymQP9CFH78HQD_ZaUt2UGn-RKCOxT_X9qHeSV5I95yLGrbgu6Yf6-3P6Pxnt6jQMgChWLndkqW_fXXnwaDXkaaQo_EIb08vtCOOOleASfU7lS9y6-sZ95utZT9JRZEtMt9vmKkIUyb5ZQxaZNC-ZmNKi2PEIgQbeK7tpeElgENVFJLSrJ5tZruPzMzBKrnDouK17jlOwa2yVs7uC5kD4af3GWICP2lQArizA12bLRerw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -930,6 +930,16 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "_local_id": 4127,
+                "_local_category_id": 112,
+                "section": "live",
+                "name": "CENTER TV CAPIATA",
+                "url": "https://cloudtv.streaming.com.py:443/centertv/centertv/chunklist_w413941666.m3u8",
+                "icono": "https://i.ibb.co/4RH8bgJF/WA-1785541065481.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -5799,16 +5809,6 @@
         "section": "live",
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
-            {
-                "_local_id": 4127,
-                "_local_category_id": 177,
-                "section": "live",
-                "name": "CENTER TV CAPIATA",
-                "url": "https://cloudtv.streaming.com.py:443/centertv/centertv/chunklist_w413941666.m3u8",
-                "icono": "https://i.ibb.co/4RH8bgJF/WA-1785541065481.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "_local_id": 4128,
                 "_local_category_id": 177,
