@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDYwNyIsIm5iZiI6IjE3ODk2Nzc0MDcifQ.pDnlNaZLpd7NALMnQr09O3BpvG6flbi087NPkvoJW7WoZ-5UVXS29ZV1AVkTCW_henBxHsrP56YE_0AG609lgxOZ5d2zQ08yQcNgQm0EDKqaiYj7xw8AYZ2W5IL0ORLA_CYTS89uByI-isgD__dLx6qgIhts5NVC0bkU_XXgrMN7WTUxisclFdmOLKdQFZgDf1KACEeNnUl5mZwcI2AC47scTSfC1K3XLgqYcJRMRFf9cVMFTiOX-opZuZloK3XodPx46x5R63jjugRamkjzCt0yp9AbIPOCPNTjKZ0G9wnfcXyvCUzSPYTU_TENLik0c08wHENg7b2g2u9Ownq67Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDY0MSIsIm5iZiI6IjE3ODk2Nzc0NDEifQ.JlmZ0My_4mWrhUF_RXFnWbpVewV4lwW4C2IP22hAERy9E38vOXPOkc0xNPJDhLP_mhtTgEZeoTVQOX8lqgQmRs-8yZTrYPkYMGHG_nnP-_HFBXHfhpTvMzDv2TJTtvULujW-tpbfFXxApSj-WLNISM3q_1cb72-O4D7Wah55xfKxDdqxiJ9e77lz5o4XwYn8j-gXB3d0EiGcVrrikHK93AsdWhva8F84DQykf70jUK9qtSSDvXslE84iIqL0iUs9fp6GBh8t173gbOOZZhTqSVfaDaBySAOLZodTGTS8j190dDMBxCabD5Vgsbsa0VGet5CdNpRYauW1J--ZumolxQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1318,6 +1318,21 @@
         "section": "live",
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
+            {
+                "_local_id": 4252,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "Canal 5 (MÉXICO)",
+                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "icono": "https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
             {
                 "_local_id": 4251,
                 "_local_category_id": 114,
@@ -6890,21 +6905,6 @@
         "section": "live",
         "name": "INTERNACIONALES🌎📺",
         "samples": [
-            {
-                "_local_id": 4252,
-                "_local_category_id": 183,
-                "section": "live",
-                "name": "Canal 5 (MÉXICO)",
-                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
             {
                 "_local_id": 4253,
                 "_local_category_id": 183,
