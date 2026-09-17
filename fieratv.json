@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4Mzk5NiIsIm5iZiI6IjE3ODk2NzY3OTYifQ.C3KIEHYakLZM5vd3moAWuNdZtXKGZud1ipvuQFb1ognRAOjkEwN_2MakLLGklSXt4U_Hb0ZqWVqjQzco3eoTbmJAmcIb-RTB85ZigM1uR6pF9gT1Q3frKQb5n0A7e_XeeAxfoAlOcj946izgU0Zl6W6HVQl4J-eLkch8q6ps1VnW9oi5CzGQSJtTlb5ITYme9nDTTz6FUGMyfkaPLBPMCmh44tOd26mLx6vieWtgsb7P79-AhqChNImhg6NieWDIUrYJULcBpstNGxMgNXVVB1rUZT7ykBGMozFlpFEayBoH-b6tXB2gZBEwUXKFBrysLj-ok50DYHOyOwaj15z_Uw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDA0NCIsIm5iZiI6IjE3ODk2NzY4NDQifQ.XhLs7z593U0VvvF0AIxKwDlICMLe5IEamN-GQ5OBhlM7xvPiEt-2aKeUGTME0xPbPkLPQrP0a1nd7orv1-0_yz3Vf9A9zR6mu338gO1yFkDSLsCZXawjXnG9Pimh09vpdmLWXN3dD8shBLqfGrPvWudKfdnrKcKVMGI1FL86EpBWfJoHI8LPaeJw_OnHy-O26dxH4naonAKydsj4NhXx-BgarsXc5Mo8VXbZHrt62a7QC0jG8e3f6rRH3eUIs42ByedfpIun4MNXg4ZP-YLQxnTZpUydBGsBK9eqTiICiUY7dwDReUEZG8an-Ui9Iu_nva4Q4fZUhp2_gWDaplvVDw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1278,6 +1278,16 @@
                 "name": "CAMBYRETA TV",
                 "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/033.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4126,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "XPRESSTV",
+                "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -5789,21 +5799,6 @@
         "section": "live",
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
-            {
-                "_local_id": 4126,
-                "_local_category_id": 177,
-                "section": "live",
-                "name": "XPRESSTV",
-                "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
             {
                 "_local_id": 4127,
                 "_local_category_id": 177,
