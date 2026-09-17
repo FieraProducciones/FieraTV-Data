@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDc2OSIsIm5iZiI6IjE3ODk2Nzc1NjkifQ.Xu_9z1B0-6OPSj9-2U6a7Nv5F4MZjce0WYfA93VfZeMRC1xhH3APMbIy7L3_hkCo09mYr9IuQ5GiWqftjpUiPpUkW5lzMjcw1LB0JQh6r7TPGmJLwKV4MKUiosQrr2ZX3wSfwT9w8ppml3ABg5Q1VcGyk-BWj0E88AbJSXuwu7zSA0CZZfF3IlYmUA3yrptfdrCESoZBFIV0F2knekJlqZrhXV1w5rfLOQkrZpaY_6RfeddfNhhRxHzS6g8Pdtcopw3v4D7Nn5cqLsbWDn_SB6-J-hoNwTLvjtblyRLO_PFZSlOU76k7rPArWH1CG57XhQFrct5LuzhCMPEgmvXz_g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDgwOCIsIm5iZiI6IjE3ODk2Nzc2MDgifQ.Hl6RRwNrWQnAgziXV53QI20StciuoobhPInhw2uQo4J0SckqL_a_v51wqbzT31VlNsYi1qonOYYhO-BIo4uT8eRLuGxlb8YHivRDJRf8DkSoaLbtyreAEaFi_BT4TxG4LkRo2quRP4zrS23LnmoBC0Le107E9So4yOqEyVb9mFaYkkR1Hrl2m13W4I6ewa_hP44SNVfZCW0gwBpi_Scy8hxAqHCzAKUV1FaF3VSs5HnwLK2PRNlAUo5yS-D5PlSxdNE5fq3jPvc9IlhGzpfvqkeAS0RVs0u_bbRirbqGrSr7eg9GhFiJG8TyV4WdThXd26ZFuqRQ9kyKUlcgNhv6jQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1529,7 +1529,7 @@
                 "section": "live",
                 "name": "LA 2",
                 "url": "https:\\\\ztnr.rtve.es\\ztnr\\5468585.m3u8",
-                "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
