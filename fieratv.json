@@ -106,7 +106,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY3ODY2NSIsIm5iZiI6IjE3ODk2NzE0NjUifQ.X1p9wzBsFl6FDsF33kbV29jTdO-2v_JvtgMHMkaPbdt_fU3sHv9bXF2LcpDsrqXLODpiTOYwsBvdx5VzVM5kLMlq-un09ovRsalIN_doMvGHcpaBERZhRQ3nW66wuinlBand8lDC-m_YliZ7FQTVJplFOxttxlKysZQuSwzf-tCqf5W3ndD3rQzBl-bSUslqv-brA6rEO99AK_k0P-26AhA0PfPxSYt_J1NlVzYsW7qQgmtAqLmExXCh0yOXg4yiPNdLRt1OTJ6Uf3nP2fVcjbGqjxMLSPCo5sMjAGRT5on0YQBuqWiH9IEzeKM5rjxEdb8VsRuSBYIxHtj8WuJh1g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY3ODY5NyIsIm5iZiI6IjE3ODk2NzE0OTcifQ.qAgp20RkxEIEkAOXguV5X5CjeVbSbxqb77K2M_7eqHqnGkBcqPWJs7m8oF0cUM3-ne1Snby27luLu7oitj5mGyHESyszdXF_60iTOusjfUY6jygi0MWu4Qn48zVh8-3TUlKdd1frVzcPrpk6IVO-FhJrN6hBfz5SG3FMo2kE1rr-dRctQylp5ZgbX5JfKaNYa0Qm8watUswecFGNtYSdr6uX-6VK5f3CcQzZ7GqZ6WZ2AA-vz_0n7lQOK7h-7hgJXJWnibW69OoS6USBvHwdMEKLIX8JhEO-kie2XfKdK7FMdu7UPQ2UhDeTQo_VQTHkKu0hjzO-9f8hpXtvlL6dow/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -433,6 +433,16 @@
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
             {
+                "_local_id": 3990,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TRECE HD",
+                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "icono": "https://bestleague.world/img/trecepy.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
+            },
+            {
                 "_local_id": 3991,
                 "_local_category_id": 109,
                 "section": "live",
@@ -451,16 +461,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3990,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "TRECE HD",
-                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "icono": "",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
             },
             {
                 "_local_id": 3182,
