@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDI2MiIsIm5iZiI6IjE3ODk2NzcwNjIifQ.AwpUPYrkfzgmI8029n6QJPZl6J-UmDGei4gJS4WyB3l5_Vg-RRqESoA-kc1srBqlcXvDg35Z0NfXWUPqm5c7o0Pf50HGXS4w22jjIQnL8TGjqCWiAMxPA1fKEKrkGmHWV5uiBBK2i4XiFmzE7sMxhlg1LwjZL1r3LqR51IHVY-ztoP1UiIdXnbnj6emWeHu8K0Gshex2C94x8T_zmFLEOHK__nA5ZhglvkPoQSYBUAVMdBzJfaioXeOP3890207m0T1mvyPle8rt2iiXTm5acEz6pLzYQCCJz4EJHOrr1BEBjgVaVqGBEbdp61CZUyOpnERu2wBqr-ZU-gmq55ckww/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDM4OSIsIm5iZiI6IjE3ODk2NzcxODkifQ.WwGT3hSiy2R3UZPw0yQiBCkEq3E559YV6G-5u3xs03DpSAJIe4c7exkiQvQdP9hkSdAG290ntLMvE8kLAfOKgg6gLjMQDfpaD2UGjybaMWJug1PwZ5CRw_jbSLC_6cZFisnm8p-k3BN7EKLkdHRjq7WEvvTxxJord9_0n1DJHlzGc5UNL7swluOZztIYbb68kmuJHp6hjlq8oMfM0HlgVkBuqFuRNDHYtOrwSIxOoWxIEuKZ8QU8mKA_wEx8ibt7RMY1n6oWv-rqh7ux3pfXXv-8ZmSK8s-BD6bgwOKsrTjcTkAKXwFnuxFCaRQIkaHCpEzYVbYeQ6MXkiVekmdqVA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1773,22 +1773,22 @@
         "name": "BRASIL 🇧🇷",
         "samples": [
             {
+                "_local_id": 3293,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "GLOBO HD",
+                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3292,
                 "_local_category_id": 116,
                 "section": "live",
                 "name": "SBT NACIONAL",
                 "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w145002242.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3293,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "GLOBO HD",
-                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9948/vVM6vL.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
