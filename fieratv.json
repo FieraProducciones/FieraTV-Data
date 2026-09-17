@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTc0MCIsIm5iZiI6IjE3ODk2Nzg1NDAifQ.R8_cDsnT_SVv4J2dBo5M-y5P6UsmPv295iRgbYTQ9lIn6XFTFG_pQjew-ky1fBfn6Ax1zQmpuOOa9y9owVOgzb4JeUTNAg4gVJDGqOcMy-6F64cfLVD88XePgvJAZNCAoxQUx-jEX1J5v6EHQBg0Mog4eVsDR6uTmIODXR4euFP1fqiT2Qd9yDGo4VngAxZ4dVGkGcFSnT_Os3dnj0BBU-dENleygPlcJCPp_RFqNxAsGiSmLWYHqsuHYwExUz9DrkQEFUw2rwjBEkl7O8ZGXjHCKv3JYcBwXPqihKw6Oduq2VsOhmVb9hnSiGkMdoKBjKDaTnbcz_-WwsVaYUP_Jw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTc2NyIsIm5iZiI6IjE3ODk2Nzg1NjcifQ.FteUNx864DPUG8SBQR0A_UiWZ73E79UPMTCBdK5k89dkuZ-m6ANdN0yABqwYZQYrLMgkrvA-zMofu6xXGoBGw6r19lCX9g_FIsN7x3boNppZS4WO3G7HvgOq7cFt32iRAeAykRa98e-u-mvmTtRACq1DWfNUSNOl8wa-z1m6H0gxbuyoXqfipeXQsFPcJqaUOASh-iIpDrdmiocVvW30k1betRcY4m9ScUP87R2mKBn8btUC2FHMKuQqQAIDVE29qwHjw8n9UqZT9RQQk2zLR4XA_UtX_vSU3V6HhzAmw8GnwSwh713L_fXjNwyMUSInyouYiuLx1k0Tve5ofrZL0A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7348,113 +7348,6 @@
                 "icono": "https://i.ibb.co/r1gcP2y/image.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 190,
-        "section": "live",
-        "name": "⚽ DEPORTES VARIADOS",
-        "samples": [
-            {
-                "_local_id": 4332,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "BEIN SPORTS  Ñ",
-                "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-                "type": "HLS",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "_local_id": 4334,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "TUDN USA",
-                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
-                "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4335,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "WIN SPORTS",
-                "url": "http://190.60.37.118:4000/play/a0bw",
-                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4336,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "RALLY TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4337,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "FOX ONE",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4338,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "UFC",
-                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
-                "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4339,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "FIFA+",
-                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
-                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4340,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "TELEMUNDO DEPORTE AHORA",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telemundo_Deportes_Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4341,
-                "_local_category_id": 190,
-                "section": "live",
-                "name": "TELEMUNDO",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
