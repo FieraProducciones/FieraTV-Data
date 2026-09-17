@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDgwOCIsIm5iZiI6IjE3ODk2Nzc2MDgifQ.Hl6RRwNrWQnAgziXV53QI20StciuoobhPInhw2uQo4J0SckqL_a_v51wqbzT31VlNsYi1qonOYYhO-BIo4uT8eRLuGxlb8YHivRDJRf8DkSoaLbtyreAEaFi_BT4TxG4LkRo2quRP4zrS23LnmoBC0Le107E9So4yOqEyVb9mFaYkkR1Hrl2m13W4I6ewa_hP44SNVfZCW0gwBpi_Scy8hxAqHCzAKUV1FaF3VSs5HnwLK2PRNlAUo5yS-D5PlSxdNE5fq3jPvc9IlhGzpfvqkeAS0RVs0u_bbRirbqGrSr7eg9GhFiJG8TyV4WdThXd26ZFuqRQ9kyKUlcgNhv6jQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTA0MSIsIm5iZiI6IjE3ODk2Nzc4NDEifQ.k0mphwPd8_F8cAcaCd7JeCEkNojboHbbqdOLtCXqVQ7oMU9nOgq6ijbL0V5Qe02zfvhCGRr3AUrYmKur42FdICjK2EDiWsJAiOUD_oJOpTFJ5tOZVqutShGoLL_4Z2f5m4kZ4leojnsU8mcUtwnDGrm-hPsZ1TIrR08zNY5RS1XQgtb-TmdZe1g6UwpB29_7KRDYFbuWkRq1UsMUNr_DDBL2MFzDQQpD4KdlLyJ07yLjgioVkLL8BYKzQLWRD3jNNMqGrqBHiC25aAHfVkPB_7EsJDK9IxCLHfwBRBgL4E2SQGIEMEgiPQj1FwBbNwUCcVsdscw3u9CfRub7HrgYrQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1374,6 +1374,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3256,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "RT ESPAÑOL",
+                "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3249,
                 "_local_category_id": 114,
                 "section": "live",
@@ -1440,16 +1450,6 @@
                 "name": "TOROS TV",
                 "url": "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
                 "icono": "https://yt3.googleusercontent.com/AIx9cX2oVBVNri1fHH-g8EL8hrZ1JZogGXufgXP9vd8bM6L1R4UBKGCgrfXBtA5Q7Z_TdoLEV1U=s900-c-k-c0x00ffffff-no-rj",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3256,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "RT ESPAÑOL",
-                "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/120/XtzYw1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
