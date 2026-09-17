@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTM1NSIsIm5iZiI6IjE3ODk2NzgxNTUifQ.P2hyj20i0XcSk5Tep0Z7ZmuYShNrsuh_OACcANj1mp1RIoN9jLW4L1vQs_DsLm-wpD0BGuuZMiyAsmtovz1zULyABgHxzXhco4NAckv4S1O3cT_xe4zGEBBmFJbZUzpUl13wHjZPIT9xByQJ1PlnsB4quUZKWmJDo3qr6MDJoLpdCtNmhZ1B_lnf9qJ5MThbL9okqXcJho8XaPzorRkCL45pmDOlqUfPqFB51c2xskF8fD-jOq4m4Sdwq9xlkXAKGS5d_A3gEzoBj30ZeyC26IRHttRFPKdO21NphRa1d31ELJTmw_PZPfDu1QOgSoUy7gB0cdrJIuzV3NPNeQeclA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTQ5NyIsIm5iZiI6IjE3ODk2NzgyOTcifQ.PFHTT1lCv10Kbdo7xHLwAxAjE7xwQImYbNDUNY7mg_tj_oCHQFrW2zt9SixdWbOYESlNM5tpomfLT6kMpg51OoHDvyFlgvzSSMDd3YMt6R0XHBcB7JtWXQWiac-pVlQ7PJ8FHGm_IAvZfZO27oQbT8HAcPhXKyGGbXRUU5dyNw5jebess9QGZpZyjpndJ0yZAnSXZ4_ASzzucP2AsuZhpfSdd8nEPq_JGF52HkwJ3leHVZQ6NtmsZLwFOn0ubYL2mIU9g_sCVZltewHGHPRH187qwA5svb5RZn4LHL7kjGHD3hROPLbYR3JTwyksjHu5iNBbrB8g8fvhLCPaPrE_vQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -6781,21 +6781,6 @@
                     "Origin": "",
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
-            {
-                "_local_id": 4274,
-                "_local_category_id": 184,
-                "section": "live",
-                "name": "TNT SPORTS CHIILE🇨🇱",
-                "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/276332.m3u8",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 }
             },
             {
