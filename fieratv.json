@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzY1MSIsIm5iZiI6IjE3ODk2NzY0NTEifQ.WAxA6JqOuwEtfxLBI2fFKnWvKjrQ25X3wy-fusDND0NfnQ9AXr9vknyLue2A0VV8ofh336d8zH5p1my9J0nwyV85fI9Hazj65CFOJaUX-mjRRzt7_bNBu_jbk02Y-2PyNEzFEC8X7GdPX3f3N5yWFjWeqWanxh20GQMwkEctNJonKkelRvxgfDOdkxXVyemajOzoOwteRWIzt8leBPROhid9_OqY8LEppsBfNkGnwmRB97debAqQaMeEu2l3_d5te11Lfi3XoeKtl7cc9qKUN4-LpI8C83PNqiBVWSBbUZ06BkghMgb5YQGgq8ZKp4xruru-F_8ACoUnGn0s_66sKQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzY5NyIsIm5iZiI6IjE3ODk2NzY0OTcifQ.E-yhqqBij4aZQLW2iDnF7AhxcRbrgllLYVKVYPuczdyFPUiWJ7wTk1I5_MfN01uzj7J4ldn2qA4cGWPd9-chaqA3suKnkr4BYL_cFe-CO0g8mcS_4U98ijmeyZ-bGAak0-vvuyi178X_jpHz8XqB67bylV1zIf4y7y2fhmpiRLrijvo1UG9ssxltizJaRSeI2FTmwsCaoqfsmpQhvlbNrq0RWQetXbThgcWu4DlFrzHifC9NgFmTXhKpdLuc2SxzaJsFklxV0PvQeF4MhYAhINA4S9W01-uiPtHw0wWKW5t192d6KzfdLjeXeGCZ00q_rObTqDOJd1QCTQvEpCM3Rw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -437,6 +437,16 @@
         "section": "live",
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
+            {
+                "_local_id": 3989,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TRECE HD",
+                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "icono": "https://i.postimg.cc/ncmZCGpB/trecepy.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
+            },
             {
                 "_local_id": 3990,
                 "_local_category_id": 109,
@@ -4596,16 +4606,6 @@
         "section": "live",
         "name": "CANALES DE PRUEBA",
         "samples": [
-            {
-                "_local_id": 3989,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "TRECE HD",
-                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "icono": "https://i.postimg.cc/ncmZCGpB/trecepy.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
-            },
             {
                 "_local_id": 3988,
                 "_local_category_id": 137,
