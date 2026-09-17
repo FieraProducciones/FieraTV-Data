@@ -29,7 +29,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzMzOSIsIm5iZiI6IjE3ODk2NzYxMzkifQ.e35biCefYHNAcKzsmrDcP0Y6bDh4H5GhRTEG61gCNzRIBT09-oWKRcqgilP6hgqKV5vzUxYgn2qRuEkMHVFPF3jGbtrkjPSGEUOpTc205zRZ8H955XfYhWMuPYkplHz19wH6mkkLnlm6gThqyZqFQLO4QxcLzvKmcG6AxEGBRe666zn9FrJ4NUOU_OtPC2bD2_YVCMj9JCmfkEeAYu7Vkt0mUM3YI4l7RqWLXpyjmPq300MoseeoJaCF1fVcShfy5SFIiMH70lq-nJrv35DgX7HNKnIaY5OBSfS5YLZ8alEYGjzboW7O3rn7BEKz1OXIKluRz6KVD8ofWBpvyvgMPw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzM5MyIsIm5iZiI6IjE3ODk2NzYxOTMifQ.WY00HTjGUWXRfADKFVWMORueY8cSULZRNAy9A2miog_XyRXYKJaA4OPus8YCMJAQbZmSXDrxOzKj7lT18FQYOi-4Fzgns5vWr-yQTpea6tbWYSleguHgW11zVxScC7Dp4VTv9IsRzZSUvQGJS7nwC4drt8TLddKoCRfP_wJZpeLziNz9YnfshHxMgwAY5AKvU0QzJMnUs9zGiGa47PW73f3OOK4tEhjkCw3Y3TqfIQHEzlsGrdt3-_WBriBKJKWLbXe7CUdyKwdcdVDVvhvqEso4aDiDv9lbd67N51WSd_zHxHABd8u4w_ArV_0t0T3tEJOuh5A_B5oxTdtcQnWy0g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -277,7 +277,18 @@
         "_local_id": 205,
         "section": "live",
         "name": "TELEFUTURO PARAGUAY",
-        "samples": []
+        "samples": [
+            {
+                "_local_id": 3986,
+                "_local_category_id": 205,
+                "section": "live",
+                "name": "TELEFUTURO HD FULL",
+                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+                "icono": "https://i.postimg.cc/66PCN9yJ/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
+            }
+        ]
     },
     {
         "_local_id": 108,
@@ -4579,16 +4590,6 @@
                 "icono": "https://i.postimg.cc/sDXFWF7C/abc.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "drm_license_uri\": \"https://play-fulltv.com.ar/mundo/api/results.php?keyid=1e8c184b326a2fb228b37a4a7114b633&key=1c5fa10b3fe66d8693b8755e5f6ae6c0"
-            },
-            {
-                "_local_id": 3986,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "TELEFUTURO HD FULL",
-                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-                "icono": "https://i.postimg.cc/66PCN9yJ/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
             },
             {
                 "_local_id": 3987,
