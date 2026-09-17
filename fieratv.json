@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4MzkxNCIsIm5iZiI6IjE3ODk2NzY3MTQifQ.dOPWH5kWheqXeJP9-4yxoFkUajB7R7b5pRb-vPiQCaVVvTDd9zFpEZoJ_aUw9isn9fJAAYwVdhQeIgS_UtdgWwBc64VoKm_1FAW3zU5SzXUO1BSglvkWiozLm_x88gbSFnel15jmtlzK92_H4rGJpqWi3bwy54FBhJStVWiqFDGFKxp9MxHqeywdZZ-UzedT02MzQQP42LY27I7qZ_HV-qobw2u8ompOZ86o-KJhFMu5dbL1sMgcV4wb6W_CLwdKIw70eeF9ntnc8gKl-7SlSRkch3FIfwQt3iMjnXwRdRMj3KAJtj9QqwJzrO4bbcEOHbfkNpqFxD7tFvktM3VOKw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4Mzk2MCIsIm5iZiI6IjE3ODk2NzY3NjAifQ.iyixz4EPGnUZVKrb0SuGVRJmzTQ21q9rpIPTehcFo5k-bgbj53DSNY17lCOFx7P7HW-VgRB4Dk51vwnxWbMpTGNsl9yFr-U-0cgQEur6cWrXMdMebyqhsdj3OuJ8Ud5OWIaa4p9ftVdICPA4uzHthLKWJbmLAaynejqi5ALwziX-SmmHrcNs57kUtv4XIY6KMl7g8wJvpMXv2mKbtmWJtx-mPj3zPu8S2pB89bWf0SnI4FbLSCm81g78DUF4KBMUQacaaseeS9NOzPSSIOMy4EYszMcc0lR4zXpduGGja1gBxRcPDsOLvdfaR_q5DbG4vAG8Ksn7548DYhZ3R81P7A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -938,6 +938,19 @@
         "section": "live",
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
+            {
+                "_local_id": 4124,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "PILAR STREAMING",
+                "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/032.webp",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
+            },
             {
                 "_local_id": 3216,
                 "_local_category_id": 113,
@@ -5766,21 +5779,6 @@
         "section": "live",
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
-            {
-                "_local_id": 4124,
-                "_local_category_id": 177,
-                "section": "live",
-                "name": "PILAR STREAMING",
-                "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/032.webp",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
             {
                 "_local_id": 4125,
                 "_local_category_id": 177,
