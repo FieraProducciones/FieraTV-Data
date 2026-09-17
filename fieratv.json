@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTEyOCIsIm5iZiI6IjE3ODk2Nzc5MjgifQ.De-JyMT2pqx2YcmTze3u48TnQQoCEobpKBOup5YvoVh-slZznHlHjSf1TAVCBbOnl1RtSl5bB14OmgQEnB6Q0kxHJaXPaimDUvp-SHVma_4gOyQUovsfcuIDofyYtKp4HG_vF3z6_BcpSrDua9GG2Qi8PUs_10i1F5M5NcQNYVIDFfxst3OPiUGOV83H6KY1zHcpGgpoLZiIwhQpxftzWFBhKperOjpDksqaB9EoPRVxv8NDPO95IxVpa2if_4qEzY0UYL4V88T7ZXy5beULNmjqvcpYD9V5IfnlFAALcbQZV7x0l3pW6Xt7wvHlDmV0AmHZ5Yy26xFho-KmvKJG3A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTI2MiIsIm5iZiI6IjE3ODk2NzgwNjIifQ.bXLSIp_siUNpUzro7oAD-IaZ_N7q02itPGk-E-r7qug1-xdpmc5WYJV0ue5EXxbkV_KOCqnbLcuzytj_pY_RkQYvZqh0JPsGG2SGe__ri68QVrUCoueJIfC9YBob3vnGownl8NMwICaufytvGvQqyeqNe1nmlsWm6GnrV8-M-ZgttR3ugf_HNbuGKOy1yRBzk_VNInbwcr8mTxajWZn5dcMepPjLzG_Vi86LM6iucXOjKg3Ae-G1VltyCv5qfJbYIdarlBR2wbHqn-cevNk1sAVxtciB5Vn56N2LEmZAJNKypSy9MO3t5bTVHYdb6IphBtg-2A0zU7z2k6MXWZAc9w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -486,16 +486,6 @@
                 "icono": "https://bestleague.world/img/trecepy.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
-            },
-            {
-                "_local_id": 3991,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "UNICANAL HD",
-                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "icono": "https://i.postimg.cc/cLqxm5XL/unicanal.png",
-                "type": "HLS",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php/?keyid=7d798b4e58cfda51da8b2a01989e7f93&key=16c5c9d859b544dfe10119d67df15d66"
             },
             {
                 "_local_id": 3181,
