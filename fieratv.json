@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDY3NiIsIm5iZiI6IjE3ODk2Nzc0NzYifQ.B-Ke_HGZq2LumSx89S2boWHjtChkIvUUUq1NIIgQc1IQofhIYEiv0FJgWMeFaO4oRxo3sP1lcrvJRMYtk451nqJKgEaFNCrgXb4ygqyc-lTn_l-NhkBiSS2EoURE5QjZ9qstfe9x2E72PBJjUwFEat_oXC_FS-dVYPvAKzrxob77jSVyKeh9GJjNvDwk6bIkMoqEa8wZ_205oWP4Qzm7fr2fWwjvIdM2g9xlbR1glehScz7tCwYkBUQL47zA9on0tpLAsJNF4BAiwaKX33niOX5Ui8C4ZeEQJpxxxmirtqW6FQxovE1BkLAae6T-eI3S-16hKg2VGYPyM7_hhB9IcQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDc2OSIsIm5iZiI6IjE3ODk2Nzc1NjkifQ.Xu_9z1B0-6OPSj9-2U6a7Nv5F4MZjce0WYfA93VfZeMRC1xhH3APMbIy7L3_hkCo09mYr9IuQ5GiWqftjpUiPpUkW5lzMjcw1LB0JQh6r7TPGmJLwKV4MKUiosQrr2ZX3wSfwT9w8ppml3ABg5Q1VcGyk-BWj0E88AbJSXuwu7zSA0CZZfF3IlYmUA3yrptfdrCESoZBFIV0F2knekJlqZrhXV1w5rfLOQkrZpaY_6RfeddfNhhRxHzS6g8Pdtcopw3v4D7Nn5cqLsbWDn_SB6-J-hoNwTLvjtblyRLO_PFZSlOU76k7rPArWH1CG57XhQFrct5LuzhCMPEgmvXz_g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1519,7 +1519,7 @@
                 "section": "live",
                 "name": "LA 1",
                 "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/3840px-Logo_La_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
