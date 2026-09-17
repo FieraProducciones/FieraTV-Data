@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4Mzk2MCIsIm5iZiI6IjE3ODk2NzY3NjAifQ.iyixz4EPGnUZVKrb0SuGVRJmzTQ21q9rpIPTehcFo5k-bgbj53DSNY17lCOFx7P7HW-VgRB4Dk51vwnxWbMpTGNsl9yFr-U-0cgQEur6cWrXMdMebyqhsdj3OuJ8Ud5OWIaa4p9ftVdICPA4uzHthLKWJbmLAaynejqi5ALwziX-SmmHrcNs57kUtv4XIY6KMl7g8wJvpMXv2mKbtmWJtx-mPj3zPu8S2pB89bWf0SnI4FbLSCm81g78DUF4KBMUQacaaseeS9NOzPSSIOMy4EYszMcc0lR4zXpduGGja1gBxRcPDsOLvdfaR_q5DbG4vAG8Ksn7548DYhZ3R81P7A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4Mzk5NiIsIm5iZiI6IjE3ODk2NzY3OTYifQ.C3KIEHYakLZM5vd3moAWuNdZtXKGZud1ipvuQFb1ognRAOjkEwN_2MakLLGklSXt4U_Hb0ZqWVqjQzco3eoTbmJAmcIb-RTB85ZigM1uR6pF9gT1Q3frKQb5n0A7e_XeeAxfoAlOcj946izgU0Zl6W6HVQl4J-eLkch8q6ps1VnW9oi5CzGQSJtTlb5ITYme9nDTTz6FUGMyfkaPLBPMCmh44tOd26mLx6vieWtgsb7P79-AhqChNImhg6NieWDIUrYJULcBpstNGxMgNXVVB1rUZT7ykBGMozFlpFEayBoH-b6tXB2gZBEwUXKFBrysLj-ok50DYHOyOwaj15z_Uw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1268,6 +1268,16 @@
                 "name": "CANINDEYU TV",
                 "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/z51ajYjSLM0OUiMcfNGkK6Hdk53eYGlOlZbBCu2TNka8B8o6T5oxAtUcEF8CEe9UTrMAskF9nlWPTnQzukjn7A=w480-h960-rw",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4125,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "CAMBYRETA TV",
+                "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/033.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -5779,21 +5789,6 @@
         "section": "live",
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
-            {
-                "_local_id": 4125,
-                "_local_category_id": 177,
-                "section": "live",
-                "name": "CAMBYRETA TV",
-                "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/033.webp",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
             {
                 "_local_id": 4126,
                 "_local_category_id": 177,
