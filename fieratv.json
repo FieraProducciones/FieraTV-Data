@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTk3MiIsIm5iZiI6IjE3ODk2Nzg3NzIifQ.WuvOwB45CgSrn5V3HEq-sybVTNTPp6rgWaU6WKIjGGEKRtaoZtJgiwDBmQk6DOP7NUpFggCtVOVRyXg9MfLDvH8yS7E0mZLRaFEdIzIrGn-4bkchqxNsC2S4qP4bcbWA5lApuv9sa3oXiolWEO866AGTtaZ5VOJVuiDKlgU7b0wDsVL6d8eHfsClcW0bHUP8V9vbe_OvPQL1EzG4YHj4d5K7w8Nv1dyvDAGeoODVZGZD5L2LPElIvkZyuPSORtDs-7usTt1EnCL4HAqa-TKeGT8ZemtQO6xrM8O-ai8ZTKPO29ORlstvNszNAXi_D00Kd8KSUxjXBSe32RF8fNKx0A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTk4MyIsIm5iZiI6IjE3ODk2Nzg3ODMifQ.GhYAuVQWz1gZU7izsnJd-hVWCLZzHQRtNefsG-vEukIZml6ViHjv7lzrJENPqRB4rg58ExvsuVFsALFZpzBhENTANT-_J-mO_Vw1iVPZqhTqoVx0wqlLEKMBKzZDvrTS8wuy3sKZ_5nY81CoF4dUzm0ognMLMLEbWj56jeKG37WFVcQjQNpCXrUtrpHr_fYviyq80bdD843aYgOTHW1Vya90H3Q1fhoUOokGYF5afiYphgItKkMKJO8H4RHiOVMDd16ixDcIVd_OcP2VsorduGvjeSdHraQF-Ji8TuujrCVilcMtHMeBpoR0GG8cNeH2BEYp0R1QtEET2w_eQyvvMQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -9135,53 +9135,6 @@
                 "name": "BABY SHARK",
                 "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
                 "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 202,
-        "section": "live",
-        "name": "ESPECIAL HALLOWEN",
-        "samples": [
-            {
-                "_local_id": 4503,
-                "_local_category_id": 202,
-                "section": "live",
-                "name": "MIEDO TV",
-                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8",
-                "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4504,
-                "_local_category_id": 202,
-                "section": "live",
-                "name": "GRITOS",
-                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8",
-                "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4505,
-                "_local_category_id": 202,
-                "section": "live",
-                "name": "HORROR",
-                "url": "https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st=1761557896~exp=1761561496~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/payload/yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/*~hmac=c15e71b0f2f9872e5136ffede3c7c2894792365643f3099ce6292a08732f949f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=OTH&ads.channel=6607&ads.channel_name=HORRORTV&ads.network_name=yupptv&ads.user=0",
-                "icono": "https://i.postimg.cc/FsB5qcFk/download-87.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4506,
-                "_local_category_id": 202,
-                "section": "live",
-                "name": "ESPANTO FILM FEST",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/652RCxCP/download-89.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
