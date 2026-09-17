@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTg3OCIsIm5iZiI6IjE3ODk2Nzg2NzgifQ.Kew8MdTdePfAhGw9anXczjxCVjlXE0uKSdth3mgwKYKU0brsKwaywAmvXRgyaEW75cd8uAOf5o1vSDawCW5E2jV3WnOdDaKksfDoj3o0OtPom89ralaC0qBE8iiPAarFgqVncQVbcwhmySpEEyvXFRAUHdv28OgL5QcCB0jSRDK8-AEK4U654Q7I8lXlRBO9gyU5Ghpuz81PEef8_0KlRIM4du-yGu2ya-oMivN9lITrUr0Ap9Hc8Tn7kW78SiFSx4fT-AzRgGB4LhFS7mhI1gYkzXWWHRC5h2XMygRmnHrwTLkZiqCDE0VSp-xvmDrkbeJZBHWfjxD3awKIEOPRWg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTkzOSIsIm5iZiI6IjE3ODk2Nzg3MzkifQ.UHiXYuOWeYL0UYS-ScCfXMEhx69FclAlLhKlCKPp6e7Ei0osl2SNq1eIGUVrDW5zM7brtinqfgO3NRTLeEJ6t4z33mD4UV5R-FF08WME9wGbhVENLd9-SD8YSWuYZTHfCSr_uCQnGBBX9Wg5lfk2fIv3EF0YTfPgUmiHYu9J0hzrGI4ldiNaGBsSy7xEMZeg3HLdaR-OotiktjD1hWH9OnlEteE5wGFAe7NjiByIz9KajaJncGksRXvwXscr0E0OYMIo9P2uFSFIUamK7C11phXmdsnBXXSXdw92iszkeLM_lvnXX_jHOc0AuyAFfKRzNuHSwEHXSHHszDB_H3D2Kw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -9137,43 +9137,6 @@
                 "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 200,
-        "section": "live",
-        "name": "INFANTILES IZZI GO",
-        "samples": [
-            {
-                "_local_id": 4479,
-                "_local_category_id": 200,
-                "section": "live",
-                "name": "CARTOON NETWORK",
-                "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
-            },
-            {
-                "_local_id": 4480,
-                "_local_category_id": 200,
-                "section": "live",
-                "name": "DISCOVERY KIDS",
-                "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
-            },
-            {
-                "_local_id": 4481,
-                "_local_category_id": 200,
-                "section": "live",
-                "name": "CARTOONITO",
-                "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
-                "icono": "https://i.postimg.cc/g2XCXB0M/download-2026-05-01T213649-289.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a"
             }
         ]
     },
