@@ -106,7 +106,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTUzNTI0OCIsIm5iZiI6IjE3ODk1MjgwNDgifQ.GbygsvqFktO2PDvAenrcBUNqVE4AQmgnymWEaXTyNFMBSw7q-FgS9r73JEu3SxVLEYkxSnLHIfJC-gI-JDlW045xCae3ox5PnVr4v8J3mRCj-5jmXubwBhkrVQwJ9K4qffKlz9qimO8sjirHgyDVs0qFn_m3EPvXttw2DTcxjGzC7tZsQ1kIKGXtJxDbUCbv9N4RMFCgPSBlBJ_bZ9nPIAlFZor9_PT4ArfNzAgUkwCS3aQefTkeimTjVS-9QPac6ibyQE49MA6SWQIL-U-YQ_Z1_eM8nQT4XqKlVVXs14W2y2xymfHXy4IPwcE79Xz_z932549FY7F4kE2lORt3Yw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY3ODU2OCIsIm5iZiI6IjE3ODk2NzEzNjgifQ.VUrPtBBEb2Haoo7-4ENaUrpMm5ysWa78T2WbJ_eTkYZS2bzFFWL55kmgebpoSTpa2_92j_12025HRpmOYRzfKpkgsCvk4mMsmyQoiembj1cuAuwpmB2FWzNXYfybHCKEVAUEnCMQz7OIa_5iYC_4srUIIcnOPzyGmsPSjwT48uTOnRG5onwEVNiJ0hlqAoHkceBnAFK5pBxQKKlG9gwnlZdu5lV2f-kJQ4TCRGfWM_F6RnJH3t91wS9JI0NIvx3jZ_NVIDM--1VfXkeN6Et6fM-CsSjLy0enk19_gfqOfKwkubhoX__78f9LN7wlsynhLUrJXBZN1wj7Rp6OCCY71Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -441,6 +441,16 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3990,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TRECE HD",
+                "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODEyMjc3Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjViNmU2MzZiMzBiYmEzZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.m5ltHa75HNhNAbLtSFRndjAHYMUFo_SJkZ-YSG_1rS4LzkDo7L2hnS7WIoSyWDDzx_HKnN26Cp5OhpJFirPyJA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144"
             },
             {
                 "_local_id": 3182,
