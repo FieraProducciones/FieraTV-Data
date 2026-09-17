@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDA4NSIsIm5iZiI6IjE3ODk2NzY4ODUifQ.MBDwHQoDlvgn5zFIJwRdKWGsTJY4umRuxUl_Gv7HXWFvbN26VZeYhtDI5dlUvn_wAZe1MvYlt-87b7843ApxEwsopm8MlAcXGVn3NRJ0leymQP9CFH78HQD_ZaUt2UGn-RKCOxT_X9qHeSV5I95yLGrbgu6Yf6-3P6Pxnt6jQMgChWLndkqW_fXXnwaDXkaaQo_EIb08vtCOOOleASfU7lS9y6-sZ95utZT9JRZEtMt9vmKkIUyb5ZQxaZNC-ZmNKi2PEIgQbeK7tpeElgENVFJLSrJ5tZruPzMzBKrnDouK17jlOwa2yVs7uC5kD4af3GWICP2lQArizA12bLRerw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NDExNyIsIm5iZiI6IjE3ODk2NzY5MTcifQ.Nl_fQkjx40XPSeKI9VX91S8KCuyPjVPcWbADPa2HYyn643zffeShfhhA2V4LAOVoWWwuLnviEfHgPAN_Z6xVeuco4NY8AzQ9gjzCIAwzQo_RqcuFLS7Bhjlfg0LLNn_qZG8ILNDDEGJZ_k8P041yf8lXu9mR1gCEAEvHN0GQ2VQY50jw_vgzbrcVnf7yu9Pg8NXO_HPAo94yS8hCiVbI94qFqGYcpR_jGRqzqnCIuJ4m7-mCZUOMTsngIyWPObgZ5muk_jHd9G5u3JMSm-dBE7haX86ARDvTQ881X_xtsUOvmZ8EOz2oNRlSlMf0A78KuGjE_sH5C01WY73UCmCUZQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1298,6 +1298,16 @@
                 "name": "XPRESSTV",
                 "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4131,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "EN LENGUA DE SEÑAS TV",
+                "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+                "icono": "https://i.ibb.co/DPZyZJPF/1782754678534.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -5836,16 +5846,6 @@
                 "name": "REGIONAL TV",
                 "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
                 "icono": "https://i.ibb.co/jvqhCdWM/1782756033613.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4131,
-                "_local_category_id": 177,
-                "section": "live",
-                "name": "EN LENGUA DE SEÑAS TV",
-                "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
-                "icono": "https://i.ibb.co/DPZyZJPF/1782754678534.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
