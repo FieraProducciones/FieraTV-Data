@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NTk5NCIsIm5iZiI6IjE3ODk2Nzg3OTQifQ.idZ4dSN0L54p_UCGNpj_cE5w1NP_6do0YGBigzEyNF86UaoKwd7tGT_gvqvSuJ5v72oKTYB7vj9t0l5juZAqxlWXgyeqGMSzgAD0Xv0zSo7WzKStqupd6l4lTvzHCtEVY5OkFrBSVq1e5SdVkqoDOvVaOniY9uphciKPQvfv7mwHma9hVeOJoGZnL2EKvjPSZylTKaV3tY3txlUSAsQ5DuPrmpaEFyKVSZmF0_jtp7bpTFwUztjSWgE5-egqzbFFNYZBPtvD1koyDaPSZ-t09DwTDHYppZ9gnMWbPaUaQ1PF-5qaT5l4mKA9azeufFRdNRctot458IbmLXHhyn4GVQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NjAxOCIsIm5iZiI6IjE3ODk2Nzg4MTgifQ.UWdPUQUjRHlN-fKjcka4PlMJTaMmI2gGs8C-O6DxnnT2LkhNY9mzAsRyQe6oRRPg3_CwZ_lAoHEjQdAyPxds_493WdA7PNE01axRc0Z5NcIqukUtlzjDIp1Jem9s8DMRt6bCTAX4KWuEyjRQJspY2XwKYLCvVzFGrQeQvYm_bId1VF235yrrHIQRLC-4oNfPuG2gJ8x94RToff-eRHqebgPhFLkOPm73gdIIyRcDvWLoahmTABnrHUVvPz1xzCbjo-yB2d7YHi5fuZwmHoJie5oHboH5KNYBMKSPtjFXRpOsVwGzsD4YN8E0WEq0a5UjOSdrLD7iDadbSs0Wzyr-EQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -9137,58 +9137,6 @@
                 "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 204,
-        "section": "live",
-        "name": "🥊UFC EVENTO",
-        "samples": [
-            {
-                "_local_id": 4517,
-                "_local_category_id": 204,
-                "section": "live",
-                "name": "OPC 1 - ESPAÑOL",
-                "url": "https://streamxhd.st/live1.php?stream=paramount1",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-                "type": "WEBVIEW",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4518,
-                "_local_category_id": 204,
-                "section": "live",
-                "name": "OPC 2 - INGLÉS",
-                "url": "https://streamxhd.st/live1.php?stream=paramount2",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-                "type": "WEBVIEW",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4519,
-                "_local_category_id": 204,
-                "section": "live",
-                "name": "OPC 3 - PORTUGUÉS",
-                "url": "https://streamxhd.st/live1.php?stream=paramount3",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-                "type": "WEBVIEW",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     }
