@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTc2NDk5MSIsIm5iZiI6IjE3ODk3NTc3OTEifQ.NfZUtXSB_nNOMMmfrxhhiYxAH37GHb6B6ETRqGoBGz88ec4mYX_cHVVbg6R6J8znB_tkg0Jk8TVifMMb4EJ-30zaj8Qosn_EpK2ldb6TsZbrodaLJ9Uh4jGiOIaNCs-esr4PgR07mrddnRUxbtivkAd69DIpknyZRoHDEl0mNsFDMGZ3CtxQSt2IBE5xuj9XeXTpkQh3bq7v4aT3dPMC5rGw526mfyQeApugnq5Knj5rWA4KXG_Oy49YSB9mV9mfVxMzcFMYo5dbUiOEgJdpM5UNX4V6SQv32HkL9dhFabNyh7R9qfYa7GlDlv09WyuPTUZkKu0zRJY2xNc46eBpeQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTc2NTA4NiIsIm5iZiI6IjE3ODk3NTc4ODYifQ.ebMZR6aOdvQ4d6nEVb3Uvq07_ZnRAWFz0lGsG8Ba9vxDL4iSG3RWmr1Inu75inh8e5X0pJmuq4FRFr60NGNGJpxJsNPdfMovZW8VXbMKUuNPVyeRImZux1-tXeZSDm0N2pbx3_CaKobnbkNUi7pFJ5eAVYSo8r7EdZ87EmqE_Li7ijesvAmIjqQ8H5Gi6B4MNEdwUrTXCN9dxPf-fDrdrgtg8SljoKpiPND99EU6AyQXY1DqtevDdTmOQMnmyAlvKouse4jpx3X_zhXBgmVXKMuuT5Vl2cag0c_zXk3zw8U5L3H6wARUDNNjwf9RWApoc-aKViHO8ybBRI4SYDm-KQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2030,6 +2030,16 @@
                 "section": "live",
                 "name": "PUENTE INTEGRACION",
                 "url": "https://video02.logicahost.com.br/portaldacidade/fozpontedaintegracao.stream/chunklist_w1307136899.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4522,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "CAMARA CDE BR",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidobrasil.stream/chunklist_w686201267.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
