@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTY4NjAxOCIsIm5iZiI6IjE3ODk2Nzg4MTgifQ.UWdPUQUjRHlN-fKjcka4PlMJTaMmI2gGs8C-O6DxnnT2LkhNY9mzAsRyQe6oRRPg3_CwZ_lAoHEjQdAyPxds_493WdA7PNE01axRc0Z5NcIqukUtlzjDIp1Jem9s8DMRt6bCTAX4KWuEyjRQJspY2XwKYLCvVzFGrQeQvYm_bId1VF235yrrHIQRLC-4oNfPuG2gJ8x94RToff-eRHqebgPhFLkOPm73gdIIyRcDvWLoahmTABnrHUVvPz1xzCbjo-yB2d7YHi5fuZwmHoJie5oHboH5KNYBMKSPtjFXRpOsVwGzsD4YN8E0WEq0a5UjOSdrLD7iDadbSs0Wzyr-EQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTc2NDUyNSIsIm5iZiI6IjE3ODk3NTczMjUifQ.EjSD78Uz6dfF9-bx_Ws0vQ7_P-z-cWLJ_o9Fn4FSVDBZW4s8VGnDylyYqzmFtat_nO23mt2JeRY5ktDYaiakuo1Mrx8v-wncw7V-26oHHPn_3aeD1DJP6uDraUeuN9q1Em9aN_JPUxT7v1Pr9jm6EGulxORj0h6EDVLP6cTT17gQwwdrQ9Ej0oDUoYFLrPQuzO2KTGCMmcd3YhI4beTLcMbBf3dZGxyRADtbRXeNs5cOyqrPOphdL9uxZzxjp-llmbVIfGX_ECa3Y-p6NdbKygLQRDXxpq7gKYffm8wQee000P6EZrir9PtE375iS3BojjNOMay9XxNJZNw0BgJ4pQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2014,6 +2014,16 @@
         "section": "live",
         "name": "CAMARAS EN VIVO",
         "samples": [
+            {
+                "_local_id": 4520,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PUENTE CDE SENTIDO CONTRARIO",
+                "url": "https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade01.stream/chunklist_w893553472.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 3311,
                 "_local_category_id": 117,
