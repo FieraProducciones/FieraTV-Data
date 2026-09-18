@@ -19,7 +19,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTc2NDUyNSIsIm5iZiI6IjE3ODk3NTczMjUifQ.EjSD78Uz6dfF9-bx_Ws0vQ7_P-z-cWLJ_o9Fn4FSVDBZW4s8VGnDylyYqzmFtat_nO23mt2JeRY5ktDYaiakuo1Mrx8v-wncw7V-26oHHPn_3aeD1DJP6uDraUeuN9q1Em9aN_JPUxT7v1Pr9jm6EGulxORj0h6EDVLP6cTT17gQwwdrQ9Ej0oDUoYFLrPQuzO2KTGCMmcd3YhI4beTLcMbBf3dZGxyRADtbRXeNs5cOyqrPOphdL9uxZzxjp-llmbVIfGX_ECa3Y-p6NdbKygLQRDXxpq7gKYffm8wQee000P6EZrir9PtE375iS3BojjNOMay9XxNJZNw0BgJ4pQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTc2NDk5MSIsIm5iZiI6IjE3ODk3NTc3OTEifQ.NfZUtXSB_nNOMMmfrxhhiYxAH37GHb6B6ETRqGoBGz88ec4mYX_cHVVbg6R6J8znB_tkg0Jk8TVifMMb4EJ-30zaj8Qosn_EpK2ldb6TsZbrodaLJ9Uh4jGiOIaNCs-esr4PgR07mrddnRUxbtivkAd69DIpknyZRoHDEl0mNsFDMGZ3CtxQSt2IBE5xuj9XeXTpkQh3bq7v4aT3dPMC5rGw526mfyQeApugnq5Knj5rWA4KXG_Oy49YSB9mV9mfVxMzcFMYo5dbUiOEgJdpM5UNX4V6SQv32HkL9dhFabNyh7R9qfYa7GlDlv09WyuPTUZkKu0zRJY2xNc46eBpeQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2020,6 +2020,16 @@
                 "section": "live",
                 "name": "PUENTE CDE SENTIDO CONTRARIO",
                 "url": "https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade01.stream/chunklist_w893553472.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4521,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PUENTE INTEGRACION",
+                "url": "https://video02.logicahost.com.br/portaldacidade/fozpontedaintegracao.stream/chunklist_w1307136899.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
