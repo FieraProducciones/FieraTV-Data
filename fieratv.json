@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg1MjY5NSIsIm5iZiI6IjE3ODk4NDU0OTUifQ.nwTfI7uix7P4gtlQasCGbbUNTNibO26ivFVHWSbmMX3ZKi7fAxUEAa4BU-6tyFKysiSDg-bQuu-3iwIHl2Ggwf_X8hvLU6xqGwAfHfAFZMmW8EBzJ0rw5BpE6TsuxfC1a2gl2mXe_6VacKnzxixPkiLuAUf4XGt1-2Y0LJtAWvz2a-zXtNq3wccHfZKS81oZQSCoRvvD0IGu6LLdrywe415Ue6GimFmIXXAihAMI9f1Q6vpxcPBrtO1_lnoCsV1apAG1Q9561k1RWK-lljD2DJozEelnvxCTYKZa5WIymkVWtw3Om1kc9n3ajEzurpnMZ__YL5ATKqgBJhYVLZi7rg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg1NDAzNyIsIm5iZiI6IjE3ODk4NDY4MzcifQ.COjzKF-rC_KDwIKypy5jNfy_VqoQ53trRJYIfcpuK1Vhoe6J4mPMTZE7tB2xL6viWLED9IuNWOJziAVD8GjWwi6MqhPnSh7p_kPSucDlOtHAiWwFwcV6LpEb7MMqb78BgQIFqEtnfmRNefJGoA7h16lD_4ZGuHDFB25qBR43oQG9NyBk-RbxGLssQL2rvzj1ajMB5kW3mM8HXEmcZdlmW_OGhccCkEs8GZKPApau6g1AkFuZiCxpwxqHM6xs0ryYfssvz7uA_nhcqWOX3jTZMRO8vSA62Y-8Ukj1ZR5QZbnqsB67ZthGKePaU5CMO8KyfxtkqEG5b7qgqwwFug7HlQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -416,16 +416,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3178,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "LA TELE HD",
-                "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3179,
                 "_local_category_id": 108,
                 "section": "live",
@@ -499,6 +489,16 @@
                 "name": "ABC HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199416.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3178,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "LA TELE HD",
+                "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
