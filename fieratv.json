@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTgzOTU3MiIsIm5iZiI6IjE3ODk4MzIzNzIifQ.Wpu85RIRo2-DH3DkeGEyheQ7XW2_TDL4Q2f0KSLtQRSr3Pn9uYGxX4TBJwochg9iUAq91rFLGx3vf0ozwGTgyMOt6TGXhQqqaNIY8_axhvu96U3fpnm7V90mtjCkMjAaj7OZJW0rsB9cazxW40CddJUN_mUSeP7kveQsOpwdFDlr88xVhcHyKf1btun2LDrYI5vUBBJIs9D0uMYZC1GLR8Vpn0EnIRQM4L6aka-hMB1FOAQOuB-RcG5rNo1EGmVBbjdhT8NY9JXS6xjysISLZgrFIgbQO4Uodev3J5AlBBOcCd8ab3PeQA3Qg1VaYO8I-oOBrH8tPNIS1HYr64A-8A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0MTA4NiIsIm5iZiI6IjE3ODk4MzM4ODYifQ.HFD1gZg5Rx5K7XEzzyG6TPTMgJj_9Ny7p64pdOOv4wcx-ByYfPm_3KqHzqF-i2sSsSjhJmtBjY7RnbsQ4yCelCWmGJ_Hs35KwH8fUhzy4yeqtjf8aSiNHOajNDcUGLb3oADKwsDn3q84ColTwjquqz6gnq7C-FzBp55JDzmlBA0JazbkyTZrXUj3nX081y9Rs6-vB5Dt7pJkn4dzUMTmBKAnZ7RSeAfZs6HdUWIUOT-2MZZe8xnkC9R71nXXsLf8poaJa6YP2gMrOeQIt971y2BaDEreLOLb1R-AVE9jti-W7dvH1rbOyBWMYP7zLl-kJcq8APdOytXz_LdBnoqLaw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5651,6 +5651,12 @@
                 }
             }
         ]
+    },
+    {
+        "_local_id": 176,
+        "section": "live",
+        "name": "CANALES PARAGUAY OP2",
+        "samples": []
     },
     {
         "_local_id": 180,
