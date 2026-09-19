@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0MTA5NSIsIm5iZiI6IjE3ODk4MzM4OTUifQ.gVAocPHRjrTay9gO-BxUsXfOC61SbpmMGh-yWvoXugL_YT1tqU_cYRtOMzU1oZhhZHwYlwptFbgrax2oh7mWE_w1u8HiMioUKndqpksPph7NnLv1Ki1ZaXpUAlyshsmB6OX62iKtpMVyKjVacaRMqF_MTBRq8PfkcOASXz-zrbZuN7gATKphqh0XQKdhG_JiXSXr0-NZiXFPjCcvv-bq-mX_E2bh10dc_u6bN6dqrarhvJ8FNcjFc0jC8hAJNRae7m4BLilAHywqXmnk-LpBT0VG-RgU6PeWVO5Kdhx6_bynGB_SqOH2GWYF1df82m5vCpVgWHyS6AtkVPpk7DqPhg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0MzI4NyIsIm5iZiI6IjE3ODk4MzYwODcifQ.JQwiBTYX3s9ExZi5PQ6uS4EmDqwvw7so4U4wGBpw4k_z-f7fkQRx3_QS04dWE_P2ntVF5YJ4Je6tD7HHxACupGPqK8HWKCudux5vPiKqW_PzLCrnLafxiCVzPiE5yE2b9LarG0ujvdX0q4MlzRpPP7NC3CpU-prUCY09jHWJ3163yBEpEh3xxwHgihsFdO5Bo7PENGJSGDID6e2Ssh8Id9M7ttab2aQ7K1jYcZRzP20sXV4CpvKEy_wz4k43WVd3j4Dorf44k2yio3-4mEl6ZD0k1YdyvR-KkaXpicJYy0HpU5QdFhk2raPCADZlDys7y8cmJke5baKUKVoe1nxxmQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5656,7 +5656,168 @@
         "_local_id": 176,
         "section": "live",
         "name": "CANALES PARAGUAY OP2",
-        "samples": []
+        "samples": [
+            {
+                "_local_id": 4779,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "VENUS MEDIA",
+                "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4780,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "ROCK & POP",
+                "url": "https://rockandpop.b-cdn.net/720p.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4781,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "FARRA PLAY",
+                "url": "http://159.203.148.226/live/farra_src.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4782,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "CANAL PRO TV",
+                "url": "https://www.desde-paraguay.com/pro.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4783,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "SNT",
+                "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4784,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "C9N",
+                "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4785,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "MOTOR SUR TV",
+                "url": "https://edge.enhdtv.com:443/8116/tracks-v1a1/mono.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4786,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "HEI",
+                "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4787,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "TELEFUTURO",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4788,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "POPU TV",
+                "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4789,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "GEN TV",
+                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4790,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "NPY",
+                "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4791,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "5 TV MAX",
+                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4792,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "LA TELE HD",
+                "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4793,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "E40",
+                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4794,
+                "_local_category_id": 176,
+                "section": "live",
+                "name": "MONUMENTAL AM 1080 TV",
+                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     },
     {
         "_local_id": 180,
