@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzIyNiIsIm5iZiI6IjE3ODk4NDAwMjYifQ.fo8T02VkEtWhxumZ6Db3FAS9Uva55nZD0ol0sZtqUkC4UOikmJ9GWjm2I47AhQ7mjjq8juY5M15N8RT-QBU1YniPiHZmYJMgJSCpkwjdX2sTq2YbFwye0Zpf-mY08kLDjU67s_a8rfdt0PKK7g3NK2a0qfYNanWla_UptNoFBIN4DzB3hEQUUkFdLj0kmyZIy0I46slFs2AhzNS4bVADxVUF7A15wUfqiiTZ6F_1fTG9i5XfgihhWMzbLDelSzAfK1W9qs1oQt5OEc1OvCdpqFskYMLQjCyqMGGjpYzPBdoYEzaaSh818t4k6m-RnXSKi7wciRIk5Ny8H25drCKIAw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzI1MCIsIm5iZiI6IjE3ODk4NDAwNTAifQ.lQ6CAQU6vQVczmz1slCh1lGZ0OmK6ECH0rYoMC0msQIFLIqPtb_AGPn7M3xQTYwRff3k2rKqHJPOfj33gDJnr8ca08CuaFXPlTW5X1CJKiTYn62FZhQuQGgbmoX4zGLJuHRmtwH4EZ63-MbRouwdLQD53ef0cQ--W0SR94KJ6tUCbbHtzuvCaiTWdXnhQGd0q7hRRfFm0OwsScZsjUEif4wmZZvRC96t7x0-0ocE5M6FhpDp9t421tMGr-q2azrpweQxhZREEdZh3sY_wLEFqdAWA7Kkuy5yt-4kmFMJz385vk5_vvVKM6RnLfVIGOE3Jkgde7_RxOSIUeGfidoUyQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -416,16 +416,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 3987,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "SNT HD 2",
-                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623"
             },
             {
                 "_local_id": 3174,
