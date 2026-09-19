@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzUwNCIsIm5iZiI6IjE3ODk4NDAzMDQifQ.LIwdf6etOHlhZ7vZRKeXz091uS5aghkX5GgYVfAl_wkZ6g-Xqkfau8fbGsmsYANst7KwIfNSkEVC34D5JJM4W-cEVXzfcDNGnFsPrSsrz8A5yqe4iw1NUoCIE0C0zb8ZR1NHHFTh7PAZSYAZGZdlzKheaziT4v-xfyumn5GppU3X0rRir3bXqFSxkjQsCQlIzi39_OWMYFXkcB5nm0DjKOZ5o6gi2_vQVxK7nd1t1li4L2VbVrD9FSMRFdWu1fYMFm2oNH4OALyfP9hezKpUmdnuQcstRrBUn08FOvSxje3s4REFBD-I8m88NTV0-M4tr5CLvFSFgi4H9wsTCs4JFQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzU5NSIsIm5iZiI6IjE3ODk4NDAzOTUifQ.hqCtSCCc2XVC8P66yJ0oqR48IX415oQQGO22c1R9dyyrhROX6Q4TcjcefXmuKMpV-2B59XHEIzVxWIYcBz3azBjsecpdT1DVSErU9j9X7Thybg2t3i4AUumVfxQvB5K3gP2OFSfjxHJSaxl_HGBKs4FCGCVdv6YeTzF_q4wCnL_xHP-X3a_uyR3k5up0CfKSAPt_CpI6R3JcieWCXQV4hdppw5yWeiqZVrx-TUR5V6y3_1mO5780tajzxASNNdEh23Sl9yETHeyN7sqHP8jugi5xDpQx_iNng5qp-rVwRq6uVhWcaRGE_D9fIy2gN_U0H_IAQp2bz9EMmk2R3rBh_w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -852,21 +852,6 @@
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4001,
-                "_local_category_id": 112,
-                "section": "live",
-                "name": "HEI NOW",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py",
