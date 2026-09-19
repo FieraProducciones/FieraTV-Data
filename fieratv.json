@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzcyNSIsIm5iZiI6IjE3ODk4NDA1MjUifQ.l5gfdCzYMcy2juWBzgGENiwzjzSzfCNuA5oC3ZggBMT0ZadOr9_PjnCmBxpSbDcbXsAbYCxrgD73ounI7n4elLb_8z0VYv9yXFFmw8H5VqU037mhJxycH2ZlsziuSCrgP_mVjvBp_hWWsiN_YZ9V5wbkeabmixNLiS5Ktzb9ICHCOjXj85_4dtPbRafWyfgRoJgWz1U1zJsIQ3Rj4uXQwaKCO3UZeYbucnsLZOrSnWbLbnzJyq1HSFMKXegR0Lesd3NMFZBpZ9VR3cDchFTUbGoElzd3t7ye7gzlo3c6UlXNOEOXqia63HQyOYnk0UaqrpsF9f_U4cmMt40HbdnB_g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0Nzk1OCIsIm5iZiI6IjE3ODk4NDA3NTgifQ.gkQOxJfPe8bLsMY7EHXQO3HuIVLZwB8O6dioPvxb5NZ6r3eha-evrnVUuZVEgqFm9fvuHnJoZYrUBSwDcmil8TgjKIZrGLl9iIrYNvxBy2kM6dF7JXaMeXmLR9DH6zwysF_xVPRIHYeeuj1hUZKt0_L0N3_P0dYst7v8JrBBoa3sb3JY5eDtgED7MTiIUfHD_dEZ6rK05yZhG1-c-MFG2TG1lfGluq-G3e0OpRJJxu0JFMt2PdpKFcZDyHPqVzGS6aAxenw_yqyltElbSZ6uEcxJDJ8KI_Q3OFk8KNowAqteD7_edaZeAFOWmNCvMTDQ9iPBuiK84rJe8OCffyFBqA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -355,33 +355,6 @@
                 "name": "ESPN MX HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/8284.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 205,
-        "section": "live",
-        "name": "TELEFUTURO PARAGUAY",
-        "samples": [
-            {
-                "_local_id": 3165,
-                "_local_category_id": 205,
-                "section": "live",
-                "name": "TELEFUTURO 2",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3994,
-                "_local_category_id": 205,
-                "section": "live",
-                "name": "TELEFUTURO3",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
