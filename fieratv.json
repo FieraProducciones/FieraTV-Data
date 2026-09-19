@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzYwOSIsIm5iZiI6IjE3ODk4NDA0MDkifQ.MNSGfVPiQ6E7-iJ-cRLv7PXlvUriRSGnAdTgYk47Fmi1PHTRVrBbVspZO_72-72j0QkbL0CkREwRdxUp6uVXImvfcRMnjPBDWdDyOw1iffESUCichL_eHrVwqAHLCX_2wPBhvaNUE6bcI4_2ulqjr8IuDVCxSupYSUHtbSg05OJFIdkbpp3yfklfBW7KJbqL4Gg36qoaJUHvcqJxsfO2cv5N1D7HcXnLr6Lfum05QJQsC72OI0BJOOkb05PHPRY5u4XBOHngUJKPm3gwm56_L37_tbx6TGuh99FJeMzcrUjAiOXQmFUKuGIthmBwURWCJwTrc7XYBJbECYqxVLElIQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzcxNiIsIm5iZiI6IjE3ODk4NDA1MTYifQ.jg9HgGRBAyUEVFywRHpCQTD3-9cLNudD8U_argpSPSgwxpvtuIubdOPufHrpGxRk6ud7j5xN0vT_2NtYwvPQM4DhhD_eq2jQTqmmg7ftGOcJqQRXIT-TMsAMtMf0suh4beg_io2au34s4VDDXPCJHhW6lkLd2LkXTqxxdnqq7f5SWPYskkKnKdQJo1BUglWSC2SbBQitFqtq4ZHs6EvoMDLbxC9gGAGLq9Qo2_J4BXqpI-m7Jw_bQfx1hG4dHyzbc_FzJnwrQnTPUs6Tfrzl5cJSTQpIl_p3cBLpTcloafb84QVc-HP7FsVkDoQVQkyELYG1Wzml8LPUG9ucifyVhg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -861,6 +861,16 @@
         "name": "PARAGUAY INTERIORES 🇵🇾",
         "samples": [
             {
+                "_local_id": 3216,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "MI TV ITAPUA",
+                "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
+                "icono": "https://i.postimg.cc/7YM5zdCL/mi-tv-2fbedc2b66b540a6a8070fe9f50137c6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4124,
                 "_local_category_id": 113,
                 "section": "live",
@@ -872,16 +882,6 @@
                 "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
                 }
-            },
-            {
-                "_local_id": 3216,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "MI TV ITAPUA",
-                "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 3217,
