@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzQ4MyIsIm5iZiI6IjE3ODk4NDAyODMifQ.R-qgeahTbL5crZF44Vdn6YT3MhN7N6FHPC3dRxnbTEwskbu5xC46xRcruKakzKndNLS69KNwATeRshZjeVf3KUq8_pxc3yAQ7IOuZFs3gXmEnK259D_h9_zjBAk5XHwglKC57GZjlFmf9-SANAJlgrMmuVpsrrKWm6-QBfoyF2n2XLA13TaQP4Y3Q1YmN35uHDSWohFwHjwpF0RgNzAms4aWgiDUFYiJt22YD3fUYxLWOy-l6YENa7Wps0rc4J3TvggHT2Yhtzs_7liHu_8W7-cG4TjBR2icJ-nY3iG62ou_OZw0hNdbpkzsE3gl3p8h1lws0rT1X3FJsycxuxAkYQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzUwNCIsIm5iZiI6IjE3ODk4NDAzMDQifQ.LIwdf6etOHlhZ7vZRKeXz091uS5aghkX5GgYVfAl_wkZ6g-Xqkfau8fbGsmsYANst7KwIfNSkEVC34D5JJM4W-cEVXzfcDNGnFsPrSsrz8A5yqe4iw1NUoCIE0C0zb8ZR1NHHFTh7PAZSYAZGZdlzKheaziT4v-xfyumn5GppU3X0rRir3bXqFSxkjQsCQlIzi39_OWMYFXkcB5nm0DjKOZ5o6gi2_vQVxK7nd1t1li4L2VbVrD9FSMRFdWu1fYMFm2oNH4OALyfP9hezKpUmdnuQcstRrBUn08FOvSxje3s4REFBD-I8m88NTV0-M4tr5CLvFSFgi4H9wsTCs4JFQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -576,16 +576,6 @@
                 "name": "PARAGUAY TV",
                 "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
                 "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3200,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "TV CAMARA",
-                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
