@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzM1NSIsIm5iZiI6IjE3ODk4NDAxNTUifQ.DYSCG8R8nvQ9YHLOfmU5geyF_ihnTBBnZsJeGReqbyqyoSvsdFoC-s5HKOpvw2AxtEhq8ZFrnWgaA959TwEswll81JBUBlhf2PHlCzA9uaprwAdWjxNlLzZ23ulCEluh1JlM56ArQUiphzRQ2X7sxzPyOmHtGBJH02V4boF3lEK9PXAAoRmVMpM1J4DhlHJxz3zXorhOCPjr9EhqNzNM3Jc2-U0UuFxRVMQR7JRQLUiyhusAy__2SIMX4W3geC84Rl3cxcq4jep1AcL2hRtO9fC6FWcpnxULn4jalW1qHYZxp6yCwitedw-dCWTMUS-Zr01fUEpiO2ViXHPCN1fKFQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzM4NiIsIm5iZiI6IjE3ODk4NDAxODYifQ.ZhwAosjJEZBRurdIdAZ6Yv8K5ruIKSghpHfJwd3o8oaAZFB4fiiKZqOujVw7miIt3rP4ifIiaDEsqH8wcAJlHfYjQ49CXI-dqOn9jKBaLnTkVpJG_oZXudtapn2rP2sZgD6rwYy3DpLxDSr0oO43NurSL9mRWkk5HaH8KqxwH_bnqQvYSGST_eysT9-W-zijvGu0mT3eXY0Mp7Ek_TFo6GhqTc2OkDi_9HDJdzyxbkDerasUJd_qGJ0Oklw3Ot-8gyBhsgoagxPYDx4-szSg84EMefDXqQya1l52s_qhENKDQhFHxgEaLzjTNizo6x9yBRqYxk8k5CBu5EHbP0yocw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -495,6 +495,16 @@
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
             {
+                "_local_id": 3999,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TELEFUTURO HD",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
+            },
+            {
                 "_local_id": 3989,
                 "_local_category_id": 109,
                 "section": "live",
@@ -618,16 +628,6 @@
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3999,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "TELEFUTURO HD",
-                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
             }
         ]
     },
