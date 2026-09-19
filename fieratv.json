@@ -126,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 3",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzI1MCIsIm5iZiI6IjE3ODk4NDAwNTAifQ.lQ6CAQU6vQVczmz1slCh1lGZ0OmK6ECH0rYoMC0msQIFLIqPtb_AGPn7M3xQTYwRff3k2rKqHJPOfj33gDJnr8ca08CuaFXPlTW5X1CJKiTYn62FZhQuQGgbmoX4zGLJuHRmtwH4EZ63-MbRouwdLQD53ef0cQ--W0SR94KJ6tUCbbHtzuvCaiTWdXnhQGd0q7hRRfFm0OwsScZsjUEif4wmZZvRC96t7x0-0ocE5M6FhpDp9t421tMGr-q2azrpweQxhZREEdZh3sY_wLEFqdAWA7Kkuy5yt-4kmFMJz385vk5_vvVKM6RnLfVIGOE3Jkgde7_RxOSIUeGfidoUyQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTg0NzI3MiIsIm5iZiI6IjE3ODk4NDAwNzIifQ.Px7KsGNpbLS1dIAY0coogXtRwuzVnYrKsl_YBD1yL4HcoXdBF_2sovWg47giBc0vL8H5pszbV6RZZszWdexKNid58jleAYuK0Eo9L4YpCB6qmlKORq1Ms9yWTngc2YYVfoSjBGxBgvMeecVPqfcD9s5x7JC-Fa47y2PEUY2MA-rRB8sKy6A8uSbu1ceRKz-fdek6QxJP4iUxvPqNabzDSeSz0Vpc0iM6DVc6vNQR7--DkmDPX-uTbK6COhjmv5aLHF5Xy-PDzQvs6A0gmcffRprsuwUvpflx1bbQY6bFCoJE1iSBHr91DiXDhkz4bxjQJINXypBot80EfB9Z5E1HQQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -501,21 +501,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3995,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "LA TRIBU",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
             },
             {
                 "_local_id": 3996,
