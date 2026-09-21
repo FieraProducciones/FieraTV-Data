@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxOTEyOCIsIm5iZiI6IjE3OTAwMTE5MjgifQ.ANxZrQliobeoSAVWHp9kRqZNYLrn-miQud1ur8l-IY-QiZK_ybXSat12UfOkkBsBOIRP8B2HHU9z_KDtI_bLXlklZ2Vv5_aayqqepKiDWanBsg3qzgSZP52tLvaHZDBdFOYJlqPyjH9CrNOE2dlCUt-uVuz22lOzRiRp7P0zVNZQ9vxJ-cAEPBd8-9u7vL3b7qUr6IkMwJXPAvpp07x7bbQ1nYAndq6FrpRU4h_LPOwJkhvBeLGOTpLu4iP98JOF9ob1oMi2qZKO9zg1nmPfvQyUNFcRCqx3gksB0o1nE-MbCSgFyUtKJpegwghpx45UMs9GJikeAqBDeMToxKM17A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxOTE4MSIsIm5iZiI6IjE3OTAwMTE5ODEifQ.VTMEjjVtILE8iGnhiMnekvDjj8vJcbrV6pQIym00VaAbNzZmFBUK5qF3dUm4aejF_9u2n5mIQ6UMRkzAyZsDDuQ9UScTfWWII0mGQn7fTVb2kAbM6Qc6n2Pne6V3-qfPFWtFrp3tezfU1hfKqJiFTxTn58kwj9lCEL68HMX98919iS_Ldb2KhBmujNH6O4d3UnXQE58GcUbglW_JBMnQDmM6ErXMxF5VALgyEYLhKgKCMxb_9kSJHNOf_cjNMOJlTwNiSCSWqiYrgDIWGTgTFAezRv5XvUiXsYtevlYtqL89IJdxjmzk5EjvobsRhMptw9cV3i_P8tYyp9Sq153D5A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -243,7 +243,7 @@
                 "name": "SNT HD",
                 "url": "https://10.140.0.22:8000/play/a1ge",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-                "type": "HLS",
+                "type": "OTRO",
                 "drm_license_uri": ""
             }
         ]
