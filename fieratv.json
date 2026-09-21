@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzUyMSIsIm5iZiI6IjE3OTAwMTAzMjEifQ.KPKIFo5Kf80C2AybY2zeSxX_pkUtFNjoEazvJ2CDNPdFpODq4vvp7vViaKgliVt1wEjddqMuDdvEJpP7kptvdzGJR4ymVK1p65khGxM3NHx-8Kf9VKyTDCW_FvCqv3aImt5ZsSBRja7UnKRGkS910clfs0oSuEQPaQUMOH5sEocBydwFGDhewDak9Fq1sHpW0xoBX7JnonyUN53LYgFXkPW2ymktgZyvCn-gsJQ_vgbdRBNkYaQuYPu2Eu3h-enicl9ndO9Y-Wjc7tkd5h9E-YbUHLUGOJ9QCo27MygQYkNFCS4Ke8J_wGJs0zuAlwKoBXmYS9ERfYk1Zeo72sNIbg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzU0MCIsIm5iZiI6IjE3OTAwMTAzNDAifQ.VlwxzBMRLCqJQPrxB1TZWpvtrgtJ1Gt0SdIqpnVI57y4M9sE3Xg-jnn4bb-UDfRyKOUEWWMoJrOoXbzWdD1zxtidtsBP0LyLmY8mDm9KzRqHHMHarSbStKGjyJgsGjOhwZIbfDIegM3qYEy-Epq8rAagGfqJBbPxUHCf4I0kDF4hKC7v3XZMfL2AT0gt2wHW-PdghRQoq2W1u-lnMYkm0MjPnDZfXcceHDjh87xsEC7YAchm-vC-_leRm4Hru7fU0u7vw0b5_SbsFu4x6wSC0IhxT2m-kwU9DbatSzIeihRZuGmMOYk2sAFWnEfUOm_RC953dI0VHHmrXj4MBHA1jg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -193,7 +193,7 @@
                 "_local_category_id": 206,
                 "section": "live",
                 "name": "TRECE HD",
-                "url": "http://10.140.0.22:8030.hls",
+                "url": "http://10.140.0.22:8030",
                 "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
