@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzU0MCIsIm5iZiI6IjE3OTAwMTAzNDAifQ.VlwxzBMRLCqJQPrxB1TZWpvtrgtJ1Gt0SdIqpnVI57y4M9sE3Xg-jnn4bb-UDfRyKOUEWWMoJrOoXbzWdD1zxtidtsBP0LyLmY8mDm9KzRqHHMHarSbStKGjyJgsGjOhwZIbfDIegM3qYEy-Epq8rAagGfqJBbPxUHCf4I0kDF4hKC7v3XZMfL2AT0gt2wHW-PdghRQoq2W1u-lnMYkm0MjPnDZfXcceHDjh87xsEC7YAchm-vC-_leRm4Hru7fU0u7vw0b5_SbsFu4x6wSC0IhxT2m-kwU9DbatSzIeihRZuGmMOYk2sAFWnEfUOm_RC953dI0VHHmrXj4MBHA1jg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzc1MCIsIm5iZiI6IjE3OTAwMTA1NTAifQ.HlegITW8_0Atoxkqydz-QNwrr24ClzaQHY_wL2Wo8u7hBUQSy3cIeAXJnudH-ijpbSns3nJLRcAR5eADKmRYEy1kWrH5C12b_h7F2q2nT-rGD2Tv6kIV3cooKT3ydvXlbj4F96hg2WI1xnmE_ECAXxBEBvjFtux_qEBDk-6qsMpbBjAL0qPVeZ_URzORhOssPWX4ZyaxELqwc0SyX5cGdj8rX_TqwLYTJ7mVFoo0S5DzDqpC8HACJAfg9rq3rpNNkTfmT2XEXSghZX07uTabEWMzRq2VZqUGwGokvUuRhyyzcdiIrU-3KEKOJMf8GWPw4S5Lb-i0Sc-hCemcer1NnA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -225,6 +225,16 @@
                 "name": "SNT HD",
                 "url": "https://10.140.0.22:8000/play/a1ge",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4799,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "TELEFUTURO",
+                "url": "http://10.140.0.22:8000/play/a1gf",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
