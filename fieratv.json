@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNDQ1NSIsIm5iZiI6IjE3ODk5OTcyNTUifQ.Rd0QZPdoCNmjCMAsvQW9-3B2mfPoquVQM-XIGeI1DrAA0AdEN3a9y0GQyYqGaesiJb-agsrJH4osL-5d5Z73AO878leu0wzzDE0T_1NaKwIeOfeFRx37MRUp7osJyjaMxgd52DlTjgeEsUABgFQLGQzF162-2hqtKYJiFAObeXVtL1zDkY-JtNSbrQFJ3FZg_4gzAasNmzGOHLMoVg4NotAr4WXH8nCe_fz-7YudlJxU189iHBgFhfA3WIEhUX1gc424w7A4dgmvl3Rl4iRo0L_Osn9LP1qEkJgPNnEUpzykA9ORxwXNfAqNqvZIsOyO6OBkpmk75FgW-QgNLkmj5w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNDQ4NSIsIm5iZiI6IjE3ODk5OTcyODUifQ.T4x3sFTHFyqz2CeoIBnZU4LZtDNUxlssGYs22tiC7UHrfF3-eFisOSnzBWzIAZnSB5luHhL-1ZvL1k95z6kgQ2LZ8hb4JyBrJ8E5Z9mIhEXAub_LgxtYiscga5XYUwRznxFh2LSzilQII9QGOA5x9uKJl1FHHr-B1UyG6ZVi0GL9u8lm0EO_R7VGlhQBHucjNyjFh0j9Xbr9jZe7B5CIF7mpOMkt5zZ9THgzU5oN77FuVf2J1DgRPfObgMTIB1aWbfOzauDgGk4nCk0UdPJj2MEPBmABSYoZOB4snPWm5737LawzNjCOJtIsKH5mxpvDvbgBJqRtoOR7purar7mdFg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7592,6 +7592,16 @@
         "name": "📺NOVELAS",
         "samples": [
             {
+                "_local_id": 4750,
+                "_local_category_id": 197,
+                "section": "live",
+                "name": "TLNOVELAS",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10116.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4747,
                 "_local_category_id": 197,
                 "section": "live",
@@ -7630,16 +7640,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4750,
-                "_local_category_id": 197,
-                "section": "live",
-                "name": "TLNOVELAS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/10116.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4751,
