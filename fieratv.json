@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNjY3MiIsIm5iZiI6IjE3OTAwMDk0NzIifQ.OgL9HW058-zRwMzXl5DYrpuvT4Ed6m8M9Zk8r8sPELc9iJnxWkOdnLi0C1TGanhypEBXy7eu4XqLcV-YcOATOrSoH2CB9m18wd665k2NcOknCWwBU-P7Fs-eaQH8NfXm61quERoK5bKFDgIyrTNkeAlGfsvGqUSj62zwsXJr0HWuVkAIiF5fSRTzQxQLYj95cFukEU9OP0lAwiW5fTgYpI6-8m9JYpEUQHlOnywvC_138uxczxtHSjTC8grBsyxTATj2Bo8Ybv5A5QgAF_OHGJ50Rm9jaM_46EwjGrWtRR53zAkEuCchTVKholRq6V4LQ3daVgTrjZ6Iz9YFDj1fFg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNjc1NyIsIm5iZiI6IjE3OTAwMDk1NTcifQ.M_3tkdA8_U84mW-chYHw6p_ed_L5Fde2NTigePjL0eOWb38_yLj6ICTuC-mK1KjODLGLTltfyhJDyNXqm4wWE7q-Ke0VowGOLW2uU5h2cV8HuRhPvyQcnzZiTBr5FELq48NdE2jHApCNmzJ-TFnr4ah1cv6GG8KF2jM1DLB0c2j2ct0GZ1nM3D5j-6tWHlCG-SZHcOrIuTKR61tG-Ma5Q93fX9osBsYiD8U-oWF5n2ehtM1rxChE7B7kEm5nC0WbGyz5g7Qm5-CQ2FQjKZt27zgghPi_lqdJACWdy6gjkI9UBacuhsqtdth4lygP02ZeRZv4l3xnkwX-XswuSHBtRg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -215,6 +215,16 @@
                 "name": "PARAVISION",
                 "url": "http://10.140.0.22:8000/play/a021",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3977,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "SUR TV",
+                "url": "http://10.140.0.22:8000/play/a025.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
