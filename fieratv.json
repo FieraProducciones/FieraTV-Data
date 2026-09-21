@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNDQ5NCIsIm5iZiI6IjE3ODk5OTcyOTQifQ.O1RTbiqI6bKWvQLBIFD8Ko6vac-MjsrR79rfJDwACgApxSYZEvug_At_CsJsXyz1wWTmDo97vNad2CvHWNyrK6OnlTxWd9EwTlQ54jsFI7OFOFV1miIrPLSwLrw2TB4idEh0hWa5S7TNrgxIhJzFmNf7EbS8Q-hMRQUM7dLSedhe6LGPFeBCG0HZK0doddtznX-m0MTMLzSwJE6l8VE1DCooA32182xFFJd7YQX3ubtda_g5fvRdwGfY8NvQaCg0TTd5_BUYTBxKhm5MebS0R5kNkRkjgBPgHVznC_g-CQ7E11m-98RTob2Vc4Gx7IedP1RMLx3m9QrFPbn7LOVbBQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNDUwNyIsIm5iZiI6IjE3ODk5OTczMDcifQ.DsXPZXnCe249t-wbngkmXoca0PKtXGJnFrjGXB3K6dqLIAvcI8w1dNZeEpJWFPI0hBkLjpkN0t06jfSJPuG3w95_ITE0bcYvlqOkalDc2DheM5x7cgar_vzbiI_ukNTHFEK__HD6n5djVlQHLcGEV48EhJLLJ3ZXKv02_FTlc2OLffEfQwQ0wGYAVub8hCgx-IiNmki9aUtxh5WfLRHrssNyMsPG3se_fY-yKd5Z3YmaV67fTiaI36-DkGD1-_OL8GyuoVSQcD70YMFHE6jB7zVkUjIYklw-pWjB49agHi3gwPDKGTzJ3yaF1WhrXF0BTCnR3Dv7ZxZzlKXCk9fI9Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7602,6 +7602,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4747,
+                "_local_category_id": 197,
+                "section": "live",
+                "name": "CANAL DE LAS ESTRELLAS",
+                "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4746,
                 "_local_category_id": 197,
                 "section": "live",
@@ -7613,16 +7623,6 @@
                 "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4747,
-                "_local_category_id": 197,
-                "section": "live",
-                "name": "CANAL DE LAS ESTRELLAS",
-                "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4748,
