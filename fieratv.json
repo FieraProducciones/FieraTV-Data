@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxOTE4MSIsIm5iZiI6IjE3OTAwMTE5ODEifQ.VTMEjjVtILE8iGnhiMnekvDjj8vJcbrV6pQIym00VaAbNzZmFBUK5qF3dUm4aejF_9u2n5mIQ6UMRkzAyZsDDuQ9UScTfWWII0mGQn7fTVb2kAbM6Qc6n2Pne6V3-qfPFWtFrp3tezfU1hfKqJiFTxTn58kwj9lCEL68HMX98919iS_Ldb2KhBmujNH6O4d3UnXQE58GcUbglW_JBMnQDmM6ErXMxF5VALgyEYLhKgKCMxb_9kSJHNOf_cjNMOJlTwNiSCSWqiYrgDIWGTgTFAezRv5XvUiXsYtevlYtqL89IJdxjmzk5EjvobsRhMptw9cV3i_P8tYyp9Sq153D5A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAyNzA2MCIsIm5iZiI6IjE3OTAwMTk4NjAifQ.ZMTQpiTIHzqnk0jU-X7w08oZO1aVdZrKglztCeQuucExnD1sWSsNjfshLKvVcEC0ecPAigRaFYgIXG1Nma9G3YUEwkVa0YvohN_7iA2lyaxD441fPGbV_GpTMOlaPG-D_c1jB5VOd9sHNIQSxcHvSV6dkqxnSmcA_LH2Wam7NyqGLCp7fDfyZxJaTRmkwU6pQi9nak42Z3dSrVyP7hc1Q9mNIM37QHCOzCX9yx5QEENyChbiKiM2SOTBQ7P-30a8VFk5P0bXWt5ychZKj25Ju5HtIBIp-yxVoBYtzzKd7R4MKAw_C3TKIXT748JsYIajKIcbvy8jHLXTWF4Fe2d-Xw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -189,6 +189,16 @@
         "name": "PARAGUAY by wizzi Play",
         "samples": [
             {
+                "_local_id": 3976,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "PARAVISION",
+                "url": "http://10.140.0.22:8000/play/a021",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4799,
                 "_local_category_id": 206,
                 "section": "live",
@@ -215,16 +225,6 @@
                     "Referer": "http://10.140.0.22:8000/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 3976,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "PARAVISION",
-                "url": "http://10.140.0.22:8000/play/a021",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 3977,
