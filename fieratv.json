@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxMTQ1MiIsIm5iZiI6IjE3OTAwMDQyNTIifQ.eEs-q7HFMR1A4dGokOKY-6xobH08DaEsnr-Pt8wxLpTsRJ2ITuIpnYpG5gLaEn68nw8i3C2kPXn76Gw1D-xB621iaFGAOywhoZtG8DubzkyggzNPanUq69TrZqlY-11RpzeQa8Qf3Yg9_FD8bPniddW7_00Z99G5SaQB_9SSweDLpTukMDCcmXBI_8XYbq6meacK8q8kZZgUo7Yn67M_t9yaylMDu0jaxaoUjjiKqq8uRvjDDA-h3IoFTZ1cxtJDIcJzauRn2oC7ymLigq21JlHCUx2JPNLTAIwoCiSmYPK844BziGeXL0150_FuGPtDdhY5h-suPevvglWWTmojag/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxMTUzMiIsIm5iZiI6IjE3OTAwMDQzMzIifQ.Z6CZuMlQ52GODdTA1XHKX4GfzbBGgIktdnC3rs5Xfu0fscnZW2Y40qOtiUbu0qmWwLIEPbPBdMGxpxYZqhfalQotXmv9-4HQRXgc7qBunKNyz4IlEdkShfyd8f2HSGyBwlBu1cdMs2Q1n7JkFy3bZsV6Cf5bX_tcHgMzqXe49APfa6TJEoUQSFpGeL1Hl3K53U7M37wjJSthbj1jMentbukSLn5Uj9oLCxMm6HnLE530E-P8b9L6g9qYJGtIsD0-AMCkB32oEmoWqPjUpozbsj6Y9HweDSkiLX7PHxx4Q58YMX57oJM5LwW1Yvnw_oUSX0n5Q4YHoS-Pbjt4ivFm3A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4687,7 +4687,10 @@
                 "url": "http://10.140.0.22:8000/play/a1uv",
                 "icono": "",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "play"
+                }
             },
             {
                 "_local_id": 3988,
