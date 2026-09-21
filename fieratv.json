@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzgxOCIsIm5iZiI6IjE3OTAwMTA2MTgifQ.gMtZ5zz7V6k9VEYKTzvFhjsFXcGPYFUFlqBCPTlRHOjioI-AGe9BHUsvq_B3WIep2_s94JRiqEf_lh1lPWnihDXMUxKDM2yXO5r0fxZW41jZfycPGTITbHiJY6dxCWNv6Eu5RXCV4GvtUd2ZjSfCZHhfwzpyR6H3hd8tUXc_hLj7lfhqjMoaEq73xzHOkCWE4gWUQV9krAmMqFiBmv-DZl6D6gmDpUdeuhgWy0EFKUsrVIgBy_49XZ7tmd6n8us29oql1bIPlDuWEETEjAKcLyDc-MRmByc9ucKluwUt0oskoXKLCoDuZa-R2_O-0V3Uuht15XXQfJ39gpJ4RLiKLg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzg2NCIsIm5iZiI6IjE3OTAwMTA2NjQifQ.jdgnpa_M5acNliUcm8wlgVfUceAzsV736yoQkduBcaCxZx-Xbm3bkqjNq7TQhFYWlO8NdAlfja-ZMkc79fmNIUMiThQzUUdi0sPLRPni8lQ_I4ojtw80V-BAREAUb17VpOeDkwjphhzqFKKeM0gWsa_RNo3V5zCo_ok__UxCElgTslaQ8Va4FHH1D7pl16ikukI3zmUV1x0NLRa_dzs7FTYqEKWNtWqyEQJqz3dzSm8rXN8ZAioA4Z6I8fSSZ15KnoElsaCpYwCXtm1gjgQAGYg9iFgF2E0Q_JV-UjPv2FY-nSybOprXDlRgNNFVdSEF5D5DL9-sRPdxBf8ZS6mxNw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -196,7 +196,12 @@
                 "url": "http://10.140.0.22:8030",
                 "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "http://10.140.0.22:8000",
+                    "Referer": "http://10.140.0.22:8000/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "_local_id": 3976,
