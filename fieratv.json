@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAyNzA2MCIsIm5iZiI6IjE3OTAwMTk4NjAifQ.ZMTQpiTIHzqnk0jU-X7w08oZO1aVdZrKglztCeQuucExnD1sWSsNjfshLKvVcEC0ecPAigRaFYgIXG1Nma9G3YUEwkVa0YvohN_7iA2lyaxD441fPGbV_GpTMOlaPG-D_c1jB5VOd9sHNIQSxcHvSV6dkqxnSmcA_LH2Wam7NyqGLCp7fDfyZxJaTRmkwU6pQi9nak42Z3dSrVyP7hc1Q9mNIM37QHCOzCX9yx5QEENyChbiKiM2SOTBQ7P-30a8VFk5P0bXWt5ychZKj25Ju5HtIBIp-yxVoBYtzzKd7R4MKAw_C3TKIXT748JsYIajKIcbvy8jHLXTWF4Fe2d-Xw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAyNzE4NCIsIm5iZiI6IjE3OTAwMTk5ODQifQ.dSBQabFn61W5uq3TIUodUR-dStXN85JKwXBAdUmrK1bDGeyUdVN8MaCOpZaPOcuQXWCJ9Mox-4KbpIaBBGoxQttXM0GGztRCJNGbGeZxeAiI4FAm1R51yfnoYeq6q64lnO43YXBFZwBozGENhev7pCYjUH6Gfxt_0k-59HttJSV_NAjK1amq_ovA8LYpSwc3l9Hz-w1lpm4eyah0PhSr9IrBwDC84_HVXaVwk7l5tgE-KF0I9QevyKzL60wkCLw30x1EFTV__hObYk6efVoTh832uz6V4FwlAV7dsHabPFDVoJi16DQxQzgWDNc-U4_R5QeqEI3Cm4dn_M4d9071PQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -189,6 +189,16 @@
         "name": "PARAGUAY by wizzi Play",
         "samples": [
             {
+                "_local_id": 4798,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "TRECE HD",
+                "url": "http://10.140.0.22:8000/play/a1vc",
+                "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3976,
                 "_local_category_id": 206,
                 "section": "live",
@@ -209,21 +219,6 @@
                 "drm_license_uri": "",
                 "headers": {
                     "User-Agent": "https://explore.whatismybrowser.com/useragents/parse/4886077-vlc"
-                }
-            },
-            {
-                "_local_id": 4798,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "TRECE HD",
-                "url": "http://10.140.0.22:8030",
-                "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "http://10.140.0.22:8000",
-                    "Referer": "http://10.140.0.22:8000/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
