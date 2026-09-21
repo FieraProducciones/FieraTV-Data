@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNTAxNSIsIm5iZiI6IjE3ODk5OTc4MTUifQ.VzVSbP2wFItS-YTpoUEON3IveT4TXqhp3gKMdG77rSXB8qnLMknmDIoV2qIL1fmelNZXv-6uQnoHTtobWPfJX9vGVrttUjUoqgzihWYTmAoJN9Pb6vlbqDA_5uacww3JjelRw3uNcQZn7cMgmJ0G6dquY_k0BJNgVJedOTabZ6ow_ewF2Js_FF_sO9HzLYraz4uhpEmIFjhgAvlAm61FqmdrYc6LTU25LmT7N_sO5G_mGopc87rtsAPzCHY6XO3AofdkZx51dn4MC_kp5jCfTVjFZ9_goO3GFianhv2vhvAWh6dO5bhik5Q4PpF2y4SM3Vxzm0tgXjMclKfy4t5gSQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNTA5MyIsIm5iZiI6IjE3ODk5OTc4OTMifQ.UTJ3N8Tky9Uux0scHJfZwI3RMiDiYZgvAd0p-0vmlaDN187EG5iPocyQ976lpu30rXPUDvphKmD9pm8q-l_Q5-E6KhxgVltqT7xWTF4PCsA8jS6ac_0rjeRh7G759wuTlC4CbWamdea3-sIKa19ISy2m39Ux3yxFaMDGs-aqWEGiKEj5t3GMUwQULY3RqN_GDzW-uMm2O9cgvmjY33H2UzIiu2E70JXr83uoIKMKZHK1ffFRkhQiN47s2NUNhnFpk4nD5Ag1kcubvFCjR4UBq02NudII6HpUL4eKtqmzspeTlHQVPTYhPAau-PtD-iwDxbPajuv0uRVLE8yeeBEsOA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7581,63 +7581,6 @@
                 "name": "HISTORIA",
                 "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
                 "icono": "https://i.postimg.cc/Bv9nytCm/4aaa3b3c0476aceafeecda500b65159d-logotipo-de-historia.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 198,
-        "section": "live",
-        "name": "TELEMUNDO Y UNIVERSO",
-        "samples": [
-            {
-                "_local_id": 4757,
-                "_local_category_id": 198,
-                "section": "live",
-                "name": "TELEMUNDO NOTICIAS",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4758,
-                "_local_category_id": 198,
-                "section": "live",
-                "name": "TELEMUNDO 51",
-                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4759,
-                "_local_category_id": 198,
-                "section": "live",
-                "name": "TELEMUNDO 52",
-                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4760,
-                "_local_category_id": 198,
-                "section": "live",
-                "name": "TELEMUNDO ACCION",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4761,
-                "_local_category_id": 198,
-                "section": "live",
-                "name": "UNIVERSO",
-                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
