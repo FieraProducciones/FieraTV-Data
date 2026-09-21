@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc4OTkzNjcwNCIsIm5iZiI6IjE3ODk5Mjk1MDQifQ.kEE0pu4fol8J8bGIRRJxtJow6cqpqUWZS8xcORQRGsSTv-LbHIXiiZmigq65Eo1ql2dCDXwd6WyFvLAhRJmFP4tk01jMfX3PK-HiyOJJClaqHrVgfHvV3smfBmv4-5uhGEdEiwlslOk0Vca7nfoRgqO8Ki4cXF_5H0b0r6bb4oEm6NZ3fLpALvwhORYD6hCWDKtcLWSIZzA6y84GAVpa3l97kDxG3f7klhnRM0in8zi-h3p5tcHAqWNbRNUvLKnBGlwr8SvxSNGF1uxz9U0NIO_dXiZgjVRYHremwinvRY1Rd5gOtNy3Q24XS32N05qn8k280W_a-KOgy_5vbim6sw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAwNDQzNCIsIm5iZiI6IjE3ODk5OTcyMzQifQ.lmNf_N2gsOgwSctfhEZ26pE9_Lp3mwXldi73P5E9ZenpcHLERJ-dU2aH-EhxJurk7IrZz82YSXb3HTwqzh4iAx5i93teRyBLDGhH-J6uYJIGI3UDn4PE3U_Hr7JWncSxURGJffRKJQ0SPHWHOQCzRe_eq48Dhjes_agv3q5_q2Bv79CQtDSbj4cqDxYB2GiylRZJA7A-sPMSDH2bNeeljTf3gBmC0z0seLRStUUKTTP48zEv_0pTyMQvaO68HJY-oN_sTga2iHvGY9u3nQUCDeVlaFCexFcdX_GUv-JJVzcf712VNyqR-iJ2p-gB5ryTms6jlQTl8COHjWeov0ohLQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -7591,21 +7591,6 @@
         "section": "live",
         "name": "📺NOVELAS",
         "samples": [
-            {
-                "_local_id": 4746,
-                "_local_category_id": 197,
-                "section": "live",
-                "name": "Kanal D Drama",
-                "url": "https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
-                "icono": "https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-                }
-            },
             {
                 "_local_id": 4747,
                 "_local_category_id": 197,
