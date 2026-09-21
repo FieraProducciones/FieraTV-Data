@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAyNzE5MiIsIm5iZiI6IjE3OTAwMTk5OTIifQ.CKNq1ex4ZBz2qivjImLnxZXEHmiocCi5ZC6fcYNWTJYrWRzhH6RXfgYjYME6Zx5cWC_Y_NRzqBJaqT-PRljxZdGzev0rAyUPfnnnQo6IdwLiYEnqtsRcNh-PnNMq-YKhdn9Wq49_vMTuBdtvSaMY-4rMyooa50unrslNm3onTs9JVC9WEtVjFpc2meEPz4KgKzC3nooheH7Z1KWwj2rb5ZV6jsSmbmKCtifPhmitzPFTFurrUmtlhgFn113PzuBH3jklkRzEviNe1I3E-Ky4WtAYjVy6r7Dkoggn5lzW520_rD3_94kSzRTJ_sH1yT5OV9g81sTS3iEonI2XKZfmPw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAyNzM0NyIsIm5iZiI6IjE3OTAwMjAxNDcifQ.S7eOSJauelbXKawlzkXrSEQmi0E339qD8r6e-cVeyzk70rZZMkdeJM6Pw2E8mIY0DEHhkd_gB55ueZHxH9EXQTFT_Lc1Y_gfNdW7pYlnOqKN-iaFpUdr2eOnBrpM89g0M6iJ2tAgUIHkGMKztcPk8MXyhgOBP1Nd9egAhKtfSWSXKAUwICmxe8w4OrwA7RXdrHPewfbsdeOsxz5ZbCbmm2UyXGB8DTRcPmM5KqpQaJKcALqBD-rA3PQY-m_TuQnCUp0pw_d_-I5XTgWXRpp81rFr2BriJnkiVmdtFcTj7aOI7cmTPvNzN2mA60zZXy4QQij3rnKz4eGLO7m-NX2d2Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -239,6 +239,16 @@
                 "url": "https://10.140.0.22:8000/play/a1ge",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "OTRO",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4800,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "POPU TV",
+                "url": "http://10.140.0.22:8000/play/a1cb",
+                "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
