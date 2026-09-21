@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNjU4OCIsIm5iZiI6IjE3OTAwMDkzODgifQ.WLT9fodFkLrjuOBQbZLS0LJIZ2iNuZ7PTFv-WzN13IypiTsXHCdEtutp3j0yTqDLS_LcuoTLtNoL7SC8LxMg1FBK6lkakAjijtSZoXkvywXeHaQy2yrcZBUmc4PyXqwrixRWIunvrS_QkGXtymM6CwD2wTcrIE4EqjFbRU5A7NEQBvSxGcYMi89PWHIL99jPLcKMi0_pBmI5zpEbSLwKGAF-kycX2xOK3PrPoB-0vuY-RhO2i2nTTTkG-fz4OV8EBrzjZ5nXdiMcJeKaX5EkMJJuueL35jF3ceyvCthJKS5SHoJbzvn91omHo1Y7wxXBmlxxnBe-bnvESO1xMHAuSg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNjY3MiIsIm5iZiI6IjE3OTAwMDk0NzIifQ.OgL9HW058-zRwMzXl5DYrpuvT4Ed6m8M9Zk8r8sPELc9iJnxWkOdnLi0C1TGanhypEBXy7eu4XqLcV-YcOATOrSoH2CB9m18wd665k2NcOknCWwBU-P7Fs-eaQH8NfXm61quERoK5bKFDgIyrTNkeAlGfsvGqUSj62zwsXJr0HWuVkAIiF5fSRTzQxQLYj95cFukEU9OP0lAwiW5fTgYpI6-8m9JYpEUQHlOnywvC_138uxczxtHSjTC8grBsyxTATj2Bo8Ybv5A5QgAF_OHGJ50Rm9jaM_46EwjGrWtRR53zAkEuCchTVKholRq6V4LQ3daVgTrjZ6Iz9YFDj1fFg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -205,6 +205,16 @@
                 "name": "TRECE HD",
                 "url": "http://10.140.0.22:8030.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3976,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "PARAVISION",
+                "url": "http://10.140.0.22:8000/play/a021",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
