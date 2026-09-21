@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzc1MCIsIm5iZiI6IjE3OTAwMTA1NTAifQ.HlegITW8_0Atoxkqydz-QNwrr24ClzaQHY_wL2Wo8u7hBUQSy3cIeAXJnudH-ijpbSns3nJLRcAR5eADKmRYEy1kWrH5C12b_h7F2q2nT-rGD2Tv6kIV3cooKT3ydvXlbj4F96hg2WI1xnmE_ECAXxBEBvjFtux_qEBDk-6qsMpbBjAL0qPVeZ_URzORhOssPWX4ZyaxELqwc0SyX5cGdj8rX_TqwLYTJ7mVFoo0S5DzDqpC8HACJAfg9rq3rpNNkTfmT2XEXSghZX07uTabEWMzRq2VZqUGwGokvUuRhyyzcdiIrU-3KEKOJMf8GWPw4S5Lb-i0Sc-hCemcer1NnA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDAxNzgxOCIsIm5iZiI6IjE3OTAwMTA2MTgifQ.gMtZ5zz7V6k9VEYKTzvFhjsFXcGPYFUFlqBCPTlRHOjioI-AGe9BHUsvq_B3WIep2_s94JRiqEf_lh1lPWnihDXMUxKDM2yXO5r0fxZW41jZfycPGTITbHiJY6dxCWNv6Eu5RXCV4GvtUd2ZjSfCZHhfwzpyR6H3hd8tUXc_hLj7lfhqjMoaEq73xzHOkCWE4gWUQV9krAmMqFiBmv-DZl6D6gmDpUdeuhgWy0EFKUsrVIgBy_49XZ7tmd6n8us29oql1bIPlDuWEETEjAKcLyDc-MRmByc9ucKluwUt0oskoXKLCoDuZa-R2_O-0V3Uuht15XXQfJ39gpJ4RLiKLg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -235,8 +235,11 @@
                 "name": "TELEFUTURO",
                 "url": "http://10.140.0.22:8000/play/a1gf",
                 "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "CLEARKEY",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
             }
         ]
     },
