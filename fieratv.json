@@ -136,7 +136,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDA2MzM3NiIsIm5iZiI6IjE3OTAwNTYxNzYifQ.kV9Njxtmj-8oxjaLwhbzdn9MiYeUIyA4uf_qVnZkTiaWe6srDnyOyW05oUKU_OowizCck_IpyOmFGseZ9o2OS-R3ckfSSKi_UpOsH1uMLoziHz40iSzZbzOcpQhG-mu6306ZMNSW-wv4AW5UZ93Ms5cKP2P51AU971eXCN0OmpuDJQNxTrr5MjGUK_ZxmIfpqghMXjqa3cynP-uC0YkL578XUSlK_K8KjQI-JpVNucLeV9QufkCo5Bnq1VjXyinObjjdaMcPy5QoIBTnbTOj2tAF4hunqhXP6-BgJVpNInnlovUkSzRlxmTz5ykvLbyh8JKtvyM3AK9jEIgDqaXTvw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDA2MzQ2NyIsIm5iZiI6IjE3OTAwNTYyNjcifQ.O3-UhuH5VZkzbGpb51VS6V8iJV1IIZeCOeEHL-mgu-OV_AE-L-AMeSzTHbGcoT6M0JMm5s_uWRr-P10fshL--vA-wLncVVQDcX9buGiq7rJNiMqcaCkyF2LZMsBP9-TSJFeQLsEsshsvIHToQS5orRYmqQoM-YTQPSfEK84s_e-YJm6JwAHfKBjlHEeJhe8AiJXmt_h0K8i14CiwyciCnJwhb-3uFsSYepPlokkWmiTWFeTpeg6_z83fcBrcRxKxPVZFUycdujBSVPGKyUoPGxNwY9uWJmR_oYpBREnbtp59sKCgbYKEHjsDDFsEjbU__uvtkQ3TrPQmEg19EnxI5g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4836,6 +4836,16 @@
                     "Referer": "https://portal.app.flow.com.uy",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
                 }
+            },
+            {
+                "_local_id": 4801,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "TEST 1",
+                "url": "https://wizzi.fieratvhd.com/play/a1t5",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
