@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTM5NCIsIm5iZiI6IjE3OTA2MDQxOTQifQ.Wz46zOgoidfez2lFnJ3MMVfnqmVmRnedIi-OTtL1DwLgAuJUJ_G6bjfuPVaehE5SNdflHjOIbwi-dCI_8P6Olysk1hYqtonEi5tk5gdPYmJuJVQ444PBMWSEXTEKA8uHYrqY-S4IdvIxFo1Lj5La1TBLg0p-8Pi0Rm9YawMBVqzgLKr_m9RDk-rDne0aANkOYgSriXiB1SaUu7P34PMLLhLHbDwoZH1p1xonv9-VHJ3IWoqXhQHQYtAMmoaZwEEnTvh9y2Bz_hsJrbD7euAec4YcqH9yhM-TapYhMMCG6GruTGZI0RmqSJXZljAEC1yIQNAZFdKgombTkSFjNRnGfg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTQ1MiIsIm5iZiI6IjE3OTA2MDQyNTIifQ.N0GIu_i17Hc24bFxTyGb_F8z5eIKzR7nA6On5kCsxasy3uQ-Ww-sJQrnzsjYMLe13zF9VHwvWCEq8q9_r4-6g6DynFVlCiHSnXXrs4iI7km10olFiruRSB1EDq4Yf_i0P0Tv2xoQj5P4NNNEW5YEDn99nXoWK88p-Sp11x6aI-RJ4jBiCosclDCQSmu4j3IrTQ_uUzUUA7cqR9D24QUPOW5Ap48D3c4SBRWgzKEDsADMhZFIOD_lq6qudbpkOgFpI7ibdAPqamQn_2VcUQoLt4teIPqSvM-6BIIe4t1cJAh1KCbt0HwgJAHuDfOLl4DYtruJcjjtuWee9eKrB_T28g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -179,6 +179,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4797,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "SNT HD",
+                "url": "https://10.140.0.22:8000/play/a1ge",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4798,
                 "_local_category_id": 206,
                 "section": "live",
@@ -206,16 +216,6 @@
                 "url": "http://10.140.0.22:8000/play/a025",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
                 "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4797,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "SNT HD",
-                "url": "https://10.140.0.22:8000/play/a1ge",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-                "type": "OTRO",
                 "drm_license_uri": ""
             },
             {
