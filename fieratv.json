@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTk5NCIsIm5iZiI6IjE3OTA2MDQ3OTQifQ.QQsMg1cgpsk-uIrspwuynZwYT3hRIfsz73G2ir1i6fk8Tei6PWdUm6VxFqstKsyiWlc0N9EDIA8gfFd1pJ6Q6KzYsMTyRwGW6JETdPesoxHjy1UwlZgoh7MEsCuoQpWu4vjQj-54_d1_0BtojdgYI_WazkRbPjbErRwiujpNX_b1R4iNawpcH_5ZCnjXme2-03rYVATlv_Kvjur90p_nob23uW-m5u67LZAAKxDkrFde36vZ8e7s2GsGuDgWwW5hKtE5v9BXam-MP4HTvzJwSkj0KrdlXLuGnOgwIclm7iy4RwZRzQBup-T8PJWqJ55t2r4OrQ31oyFg2eeoAJYGhA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMjAzMiIsIm5iZiI6IjE3OTA2MDQ4MzIifQ.ntmMq29vdfF4cWyaqAEYJ8-Yi2okPgRd9Un-_Hn-XCKI_PhtIa4I8RaScLkgleudZmk416ajvIzfQ8jHJy5d0ifGqQu39b_bJWwBUxVeeIQEDOuhBoEebzqdyxtOf3zbXhl5KFqz3oUBGqOZ-D7tFLAvBfs8IUuswOSO7H3F4ETFyKc8bM8Zl1dXrc3EBQ4mKixOMH_FIhVnyfocfrxMhwktpXD-tawN-PvK8YUeTOmjLLbc_fvrK3KT9wjlhiQpWBcl6zLDIkV1hZx5y-dn-7vG1MVvHFE0WsI3-F2gu26sRf9pwNt1gHAr1RE_2N6MbV7vjIFnoMyq9bK2tJiHsg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3392,16 +3392,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3442,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "PLUTO REALITY",
-                "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3443,
                 "_local_category_id": 129,
                 "section": "live",
@@ -5095,6 +5085,16 @@
                 "name": "PLUTO VELOCIDAD",
                 "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/314.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3442,
+                "_local_category_id": 207,
+                "section": "live",
+                "name": "PLUTO REALITY",
+                "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
