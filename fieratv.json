@@ -146,7 +146,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDU2MTE3NSIsIm5iZiI6IjE3OTA1NTM5NzUifQ.deHW5iE199Ja6SlUZ2LZBZUteuPjEnp4Qst_J3cKFU0QmxUiDoVoB3YnvbndXWcC-t-DWrdPvkgbSRsiZf4JRUvyC_fJ75E8hfznGhd5bwXub6w1A5SAWK5fMp4JOlxEYpBMq48ol-O9FqU_m7TwSTrWSDgR1WwQhOjPgL7Bq_M1RSPW_2m5uLoThzLywR-LDBUkeI_lRlUja4O5cJMhXUaStfmHDncfRzeNLoiSLYtKm_EcIThNeAsViZBzPEwWAbLZorXzlikaeumk-1W9SmvXZRur1I5aDOztpMbCsYsPFKq9rpq-T8cZXD17_JKGyA9m862rBA0Uf6vYYNJRVw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDU2MTMxNSIsIm5iZiI6IjE3OTA1NTQxMTUifQ.GPI87i43W27aDUL3IRhAqDaKorslKGL19YbTCvPSGuu7H1VHD8NOtKEnCQLPqFM5Vq8B20F8jOSwAIUmjGi6nNVnktAcUpP7jmEyym8lnRBPpupQDRxz46t1rAiWDVi3XRROJDCSHvCFAezP_YGApnePkKtYGH2oNuWd2qiSMjxVkox314nrTfSNB0_aYja7Vb9H_T9vtwVpaIFcapyXgN5cIsGt-m0oP0lx5MSlZQSuTP4gH1oDq29rAiOOV3u6_fRfgFMm_WnMZj86nB0cBb2oE0Fkksbbk-8685gupcSTcNDokuvMrRuqZJZ6JK00Q6RVt1rjWMeLH_hLm9Mhew/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2280,108 +2280,6 @@
                 "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
-            }
-        ]
-    },
-    {
-        "_local_id": 119,
-        "section": "live",
-        "name": "DEPORTES MEXICO🇲🇽⚽",
-        "samples": [
-            {
-                "_local_id": 3334,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "CLARO SPORT MX 1",
-                "url": "http://181.78.192.238:8000/play/a2dj/index.m3u8",
-                "icono": "https://i.postimg.cc/52KgLnbr/images-(2).png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3335,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "CLARO SPORT MX 2",
-                "url": "http://181.78.192.238:8000/play/a2dk/index.m3u8",
-                "icono": "https://i.postimg.cc/52KgLnbr/images-(2).png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4009,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "VIX TUDN",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-                "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4010,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "FOX SPORT PREMIUM MEXICO",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4011,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "FOX SPORT MEXICO",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4012,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "FOX SPORT 2 MEXICO",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4013,
-                "_local_category_id": 119,
-                "section": "live",
-                "name": "FOX SPORT 3 MEXICO",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
