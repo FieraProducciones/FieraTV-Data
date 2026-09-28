@@ -15,6 +15,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3976,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "PARAVISION",
+                "url": "http://10.140.0.22:8000/play/a021",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3993,
                 "_local_category_id": 105,
                 "section": "live",
@@ -116,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTI4MCIsIm5iZiI6IjE3OTA2MDQwODAifQ.S_ZKs61hIUl9P3aC7iriQYtABKMLoO2siYWPd00rqipoDY8O1ucpWtEBFu_9gbTdnELUyFlVfAMMSbbayEDtRjy5Xc3a0lj6DoXdjo5tS2gTAkT1z_v1moc6tX2Z-EtxjhbR_s0phiOvg1IyweBKvkTs2DPrYGp05beelQSiPaaXEgKcXCTNDeCuls-P_aMPhadAP_dKUIXd4JWpJ5ELdw8vBi8mZWi_L-h0WtKd-snTR9Nrg27eY89DypBxRDO_d0lGNVT8syapiRtxZpPL4st4sv_3iqAEKNAwmp6Z0_RTLYg8MSpWZLbRijOftOL4Zrf69n8MZ5lVw3cYcZYs7w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTMwMSIsIm5iZiI6IjE3OTA2MDQxMDEifQ.PEgRprd1KNd184FUhpeoDbVNFgIYjh-E7aznqRXovyZMMBjs7bmsF_DKFJUK39QK0Y_5qpUIho_4kyfP_1CjefuYEARkxoGjXazvpNeqdYhcGbAkxcuqU2_Djk9LATAH7QLcoTyQEByDQCpnDTHO_zrLjp3q6C_00Xim_6JLgshGEksyqH8R6aU9FmwrrDVAb1k-DFGEXcRpd0XYC3d95hBRBhU9I_kNgZePzhILQJcjSlcL4xXfAtkqO6uU7GMtD0r-Ano3EpAdeC5C48fMXqCTPnz9JnixAl1G0Q7A-bUdgQ7ACOcJhZTR0jIxj2O_ZDOnRhXXQGpj566gPpaj9A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
