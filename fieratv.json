@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTM1OCIsIm5iZiI6IjE3OTA2MDQxNTgifQ.D7nPDfYWLDDp4HLkHOjk924hLSZy4Fc1BedLi3EeevEUggsVVrbmTH0Mv9EuywHe5dWiDvBqn9Rej3bTqAq3bW5P-UwmLHAysMn9PdK5vqTWoregjL3i6UKzOtYygUpMvrOcvm_0F7UcHlbe_Jn5gw5X9YU4pMHGSxa2isW1a4kgrN7w54YVgFWo5eAkj_2EHr0BUOIzqyW398e6cZSv10I094deIOY1MEhhTOaM6TrLLt4qaQWTGD07UtyY-bzk36z2D13JR7M9BboE1oSBrJT21g6Oz7KIcS3tF4Yi1wadjoyLtic0nWqQ2GBP6mUFtdVDoIrXqClcurbtlUoZig/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTM5NCIsIm5iZiI6IjE3OTA2MDQxOTQifQ.Wz46zOgoidfez2lFnJ3MMVfnqmVmRnedIi-OTtL1DwLgAuJUJ_G6bjfuPVaehE5SNdflHjOIbwi-dCI_8P6Olysk1hYqtonEi5tk5gdPYmJuJVQ444PBMWSEXTEKA8uHYrqY-S4IdvIxFo1Lj5La1TBLg0p-8Pi0Rm9YawMBVqzgLKr_m9RDk-rDne0aANkOYgSriXiB1SaUu7P34PMLLhLHbDwoZH1p1xonv9-VHJ3IWoqXhQHQYtAMmoaZwEEnTvh9y2Bz_hsJrbD7euAec4YcqH9yhM-TapYhMMCG6GruTGZI0RmqSJXZljAEC1yIQNAZFdKgombTkSFjNRnGfg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -169,6 +169,16 @@
         "name": "PARAGUAY by wizzi Play",
         "samples": [
             {
+                "_local_id": 4799,
+                "_local_category_id": 206,
+                "section": "live",
+                "name": "TELEFUTURO",
+                "url": "http://10.140.0.22:8000/play/a1gf",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4798,
                 "_local_category_id": 206,
                 "section": "live",
@@ -187,19 +197,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4799,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "TELEFUTURO",
-                "url": "http://10.140.0.22:8000/play/a1gf",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "https://explore.whatismybrowser.com/useragents/parse/4886077-vlc"
-                }
             },
             {
                 "_local_id": 3977,
