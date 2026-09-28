@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYzNTg4MyIsIm5iZiI6IjE3OTA2Mjg2ODMifQ.EsJJvNGdPkL4mn_hOHR9OiW00AKnmm_x_w8DXT1X6vARxbDgcVlDmJHryRemw4NW7kD_OHuDIFgkik758GfcqoNsKyjjiTXJms8Zcfra_seIj5tEoUrkNhRIedBx6EFXYg15G9mZSyefjQ8_snq9vRty5bB-KZhGDor9u8AuxKvaSrAYTJxOGYvlleAsTV1iv87t-Eg1eje26qKfoDevclXS2P5ic3Ahpj77XOmOM6tGxtb-XrccgN_Xl4tf2CRe-joZ-7OlYcSCrUX1OJ-7bKUvzQpjPEOdaFfZGYnjGT4HrIl_HDXDvUuuSD_2CU0mWgnNZ2thJ3tRbvmQaYdLxg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYzNjEyNSIsIm5iZiI6IjE3OTA2Mjg5MjUifQ.a5P5fw9dZbBanhMSMDi6Rp2mhEpd0KWohwz2pu6esyxm--D_076aJAI1e9PPCPbbMbI0jfLeYsmp0dWWM_2-u3Vq301-xSk-q4NyDcjkeuOvhAVue_AjB0XMTfdkNoF-g6_8qTt2NG7RKt61OkkK-JN0uvi6AAUjiVVh8K9n8jcbnEuFlyTjxzJQ1kP61_IxACpeCBb2MyXRDZElHMPSEFzRGq2swoNbVGRyVwKTktBhOixXzA2S2_jOB4GtbtQGtleCONPc82QhOnVBm9TBO3QLb7fenaVFoSeuVK6gm21tqLsA-0SEKEQXZYNiPqXDuv54rzL1SwYD9yBSC4NmCA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -195,7 +195,7 @@
                 "name": "TRECE HD",
                 "url": "http://10.140.0.22:8000/play/a01j",
                 "icono": "https://imagizer.imageshack.com/img923/6480/niEVH5.jpg",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
