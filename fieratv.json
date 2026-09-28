@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTU4MCIsIm5iZiI6IjE3OTA2MDQzODAifQ.IP1rrdfUkNrBOaQH3y2fiJnsUPtKuX0AJ6BCg2Zu744uqdP9UEQotIno9B8-b2akywB9c0d_DOOqIhqqkbqO0uC8zm0SDxrW2lr5XiXiaGuLtO8zsiPtFppzakJn7ElZ1sT0hxvs5dPHWy7p4kWQcYu-woCJDCSfoNjBVX-uiYz-ZEO_BmgLXuDz2oeNly8pzeReMYu9O4cvtB6tVEAUOOUKJ_9asjMCLAczuz1EZcbu53_NTGRUdrsMZPveNWrRK7a6ut4XiotDZKj39FJ2BxlTIq8dxl8KnFPoTGwBcTxI76cWw1FfqX_O9HO0iBTfXNmiyUg9_HoWSVjeFEgRxw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTYxMiIsIm5iZiI6IjE3OTA2MDQ0MTIifQ.OIAliORjc9wav9nN3omJHuYRlL9SbaEuT-7yxRTdE7dpv3Gu3hm4iydxlr7eWDaviSIz_aTzdwwZu_QPxzKRKNPYzdoFmqx6mI_cDaGuNbdPgcyVaOIKmXw1bVtO0zzFWcyuxsGPhgHGUUEttNIo_ibETLRTo2k9kX78h9aExNmQ35l7EZhpjiGg8zuQY0G1uwwE4tbzzsVZoa-h5GzfYyDUJXagd8h8_53jJBWF_E_od_7nIDxlkMXYrMOhAhyWLDP2KfmjSNrSIVPPvRZhCTSj0Rj26Q2KPIK6M0Y-NQJSRfni2VqX4iRnlZUIe2ofTSOedry1vu8GKnAMvKdMrg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4417,10 +4417,10 @@
                 "_local_category_id": 137,
                 "section": "live",
                 "name": "LA TRIBU HD",
-                "url": "https://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjkwOTAyIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2MmIzMTg5ZTA1YzkzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.6Y3e-K3qUoogHfECSUSABaLXykpMka9Hur4BAbeyAuobD_Mb8SOK_7W5xVFJsi5nYaDJ9i3f-0aR53SVpbYs5w==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "url": "https://wizzi.fieratvhd.com/play/a1vd",
                 "icono": "https://i.postimg.cc/cLqxm5XL/unicanal.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=7d798b4e58cfda51da8b2a01989e7f93&key=16c5c9d859b544dfe10119d67df15d66"
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 3531,
