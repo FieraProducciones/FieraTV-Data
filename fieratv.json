@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTcxNyIsIm5iZiI6IjE3OTA2MDQ1MTcifQ.Pic4Kc7lG16VlXD2Jr5D_zD533l8goVItQ-ypm9gcUVicHVnDnbp12NYgSCbLTGiOjn6XcnE5bpuVdoRAgDcgTgQ5TBFhbMg_8SonI4zzz0qF4OIBegExMx2ncpXuCTbslv41MTmzSnYndjbGl2a1VnMWopYJyrq02WOdHmEb1hgSx_vcYtzIHo6ZfCauTjcUzXdmmCthFp50OoZMOBAfhGKGs6XSwdVSHpYHsfCPGXYDcs9NGXwMhPX5aOaElEaKAaW2daXTAgQ8dyeUdFheA9JGDJz9JXjauhlMQtUzmyRyXFLqQuS-BgxvTlPZ-4YAc1N-sAd0igRknAVkaXEzA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTc5NyIsIm5iZiI6IjE3OTA2MDQ1OTcifQ.ieahIg2c9ML0--NbjxRl6zjavGjY6HlXBJBW07TWXvyipe51rOzQs4t5UuSnzcAVw92yNo4-2oBrmbfVfGsbAU5iUdNu92vFd0ljyp8L_r1ZWx1zoNZr4EQ3ivktbWYQ2EU23DjaPnZPb3uarV1Ep9Alj2HF7BSW88XrM5RNLQMzuKxvEIYH6Y6tGsirliIOpeg9LOcgJ5o6hhEK1UWZSI6KSM2EPMoXxrnaDWidFLWJURaL7mOT2f21-gB3n3TVHPsfk7zeKM5F3kUbB_5hUzcUxZyUYULsodM4w3v6twSkpFpKQspWnldarGNyaZJjmwCVm8k8xS-sqyJrxQW_yw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4221,7 +4221,7 @@
                 "section": "live",
                 "name": "NARUTO SHIPPUDEN",
                 "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-                "icono": "",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/389.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
