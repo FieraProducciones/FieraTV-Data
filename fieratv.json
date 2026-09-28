@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTYxMiIsIm5iZiI6IjE3OTA2MDQ0MTIifQ.OIAliORjc9wav9nN3omJHuYRlL9SbaEuT-7yxRTdE7dpv3Gu3hm4iydxlr7eWDaviSIz_aTzdwwZu_QPxzKRKNPYzdoFmqx6mI_cDaGuNbdPgcyVaOIKmXw1bVtO0zzFWcyuxsGPhgHGUUEttNIo_ibETLRTo2k9kX78h9aExNmQ35l7EZhpjiGg8zuQY0G1uwwE4tbzzsVZoa-h5GzfYyDUJXagd8h8_53jJBWF_E_od_7nIDxlkMXYrMOhAhyWLDP2KfmjSNrSIVPPvRZhCTSj0Rj26Q2KPIK6M0Y-NQJSRfni2VqX4iRnlZUIe2ofTSOedry1vu8GKnAMvKdMrg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDYxMTY3OCIsIm5iZiI6IjE3OTA2MDQ0NzgifQ.V8R8b70Iw5bEVyvMgm4i2kd3fPJppwnz0kA-Aw2BUmSvXE0LQpcvK_lZUZ8SFyMXowhxbt1Ags_ofnp_zLokcvxSeGmM81Nnx76SEquc4x-MxyZXJfgvbiNrDaP4swFtZrWwMeDRfBL1Ex_-GP6X_o6LnLG71q0vmfeg_UhkoBAoAQGsz7ytzRt8SK6WkGeNdcL377aYwQ0C_sJbU3JoO74-YZa7gYxKJ_esCzni-zjJrfdU9IB3mx1COBC7XTgGbW3kMENXv4mfaIUpfarjSwdO8knI2av6Xl9jBlloZ3Hxvwvr3l8ViYb4Hu8lqCJniRTQkjqhIBf_NuDDiyH6_g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4413,6 +4413,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4804,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "DISCOVERY HD TEST",
+                "url": "https://wizzi.fieratvhd.com/play/a1v6",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3988,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4513,16 +4523,6 @@
                 "section": "live",
                 "name": "TEST 3",
                 "url": "https://wizzi.fieratvhd.com/play/a1om",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4804,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "DISCOVERY HD TEST",
-                "url": "https://wizzi.fieratvhd.com/play/a1v6",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
