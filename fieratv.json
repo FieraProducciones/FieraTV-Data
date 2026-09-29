@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2NjE4OCIsIm5iZiI6IjE3OTA2NTg5ODgifQ.nCzhAnBclozTCzMvqUZpZ61S1WmO3qxe0cIIoQ5_9M4AFdjjboRKLv21Z5PZdbS6gIfx4Fzk6SrXt9j5Y-6fWL_8yf1CgitwkAQxZztN6cAW3VZLrhrv8rh5wbJH3VdlAV4GhZu2I34lvySYLxrpisYagTzc2u3K_K-b-oHw-P7FxSo14PVEHNhSZOCSrCnu2pKfsatS-zVRnWWkYX3w11HoL28jG6w41_sIvOTHyZOsnYiiGR7SHLmpD4zRKmFM_NQmTt42k0p76HbkI-cCdtFtdV33wkMb7qm6XNZ2jyCBURm4mLekaHisGWYtHEeGQ4cmqRT-NZ2A3vlN10_1bg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2NjE5MCIsIm5iZiI6IjE3OTA2NTg5OTAifQ.BLg2UVGQyv4SEu5dBodM7yQpqi69h8ttTyPxCYGNonM9-fphfjZtNqwLrgOxu3QBs23scUu-jnqpmKxrSWQXY_Dtl6ljmN9W25lCJb8ED1ipHh00G2rIEvw9n8s8Chc1iRTq6NogN5la7ArPVz9CTTctqoHkVGVGenTPh280ks1mVofjX10uzyO8-ApM_HkGOF_CaI-Z3M3iC0lZmSSfyNOcJIeddeKabAzXhHhJtzXcRRcAskPz690DqrK4fyvtQnOKYT9EG0_OoEsA5IiVCnXgVjSpPUe9ZZbwFipGipH_h6XnVRiNh7WGgxfqcfD_8RA8dPjaWkAiErmn0PjeNw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4252,6 +4252,16 @@
         "section": "live",
         "name": "CANALES DE PRUEBA",
         "samples": [
+            {
+                "_local_id": 4806,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "EL TRECE",
+                "url": "https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+                "icono": "https://i.ibb.co/0qTfhWG/eltrece-internacional.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "c5f7b491a191048931aaaf0314558bc7\":\"6477522b434cad2020b5fb4d055720b0"
+            },
             {
                 "_local_id": 4796,
                 "_local_category_id": 137,
