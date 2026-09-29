@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2NjE5MyIsIm5iZiI6IjE3OTA2NTg5OTMifQ.PvBpqnG3ABRkcMXtBVUNgnQxJci5kiqKnsd4Hna6ow7VVJUx46yI-9nS_Iz6Rat24tiLjXsB_UAXFKHBFqzgJ0V89tUBKrynjG2XBdDeLCzQVNluJapexqxA_n5zsOb2XB_z63a2hpVuZ0p7TMdEa-UFdtjXYyY_7ICzulnT3bTukDKshlgGmbI6Z1SUW2gElRC8u7zNakbRbyfMBYXDnrIYNvV82IWsp3pQB33J3ODxGDuQnQFaH2mWlXkpw25_nS3tXpEm9jl1M_1cZZKYbva0H1iNSx2tHcxLOtW96RIfYSAGRZ6X8Jq2Y5t8V75oqC1MhwZhw6CpGS4h6BBmdw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2NjM3NSIsIm5iZiI6IjE3OTA2NTkxNzUifQ.lMaFlS5RvU3DCxHnPVaB4REKX6J_vTzH4aaaHAyTIcFDAdMBuC9Jpn9cO_BmCYG1jBnxvI-Q1mFfRiRTq7us8Mj7Hc0mb43R9-qFUFglhmKL5TeZ2vgFgmXuJtNuPHZOrBXf5m9P7iHjpTE78QpMU7OwvdHyGu4_fWL356qfs6aUc8-aWmGJGlmnpmEH5vBnanSlJxVYQwkZSC9S5indGc2XSV8vo7XNy_SIr_aQzS98M46a3pJsQJmqhrqkkkb6QC691EWsnSyAadVjyhW5K_c7ETefGtaKeFSsY1JXQfitkOa0wn8tsBb9O5OxDD5Uuyl7eNiK-F7yKJ0h6hGIEA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4396,6 +4396,16 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4808,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "TV PUBLICA",
+                "url": "https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
+                "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "589f5b6f4afec0b3362cd6be2ab1eb36\":\"6d685f3151730ca6a4be7765a46d30a5"
             }
         ]
     },
