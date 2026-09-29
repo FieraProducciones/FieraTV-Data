@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk4NSIsIm5iZiI6IjE3OTA2MzY3ODUifQ.ovI2SlZk00dHH8DmchD4vscD4vwxB9NmUjX_BcTu3JJHgjlbhDNZqzVbNhAPzoKsB8hxgg_0KJJiW7OOi_7pxL8Dv1-9Z38Ykc5n11rR4UMlNGcP8N_KQ6NjGj7buKz6Ul0ccvrzJAoDFN2PJWSRRA70sT11h80Dx3rs8Gam1seV_qNQF_8xXTTtc91frFKlBNcyU1BS7lHdlcstRpkl262NFCfZWHfuw35066qP1gd-OLR-8GT9F9QWSWANMhkUsiL3giOgaI6zIyk_Xyt4X-KkbRevWfQ6ZxyzGcrFpweEmXwd3m53Bhkpkhf6MeSapIlchkiMv3s8trcBlE11dw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk5MCIsIm5iZiI6IjE3OTA2MzY3OTAifQ.FEVUs9FqGoPcZmrluLVh27SBMd95xgWq9zUSz0tAkJX9lPOmYXfB-Xx_X3fkK-sds_7-6oJAzbfWRJ6UeIgE7U3D4BdbqL-xaEeDYQgOgzO50Z0i0_1blnPk7KwWOsaLp64odvDi3Nc7O53N7l2Kcr02CrJ6eVSKWqjpZHMjzYN-cvt5083K3jHSC2YdwZYYTLFpM1iu9dxjEDnZ_kCkXrTsD3zSAPsmAl1NQV-fPbPza-dAriW08kw6ILZWJZQEcJn7fenbbod-0RB59By2cR2tjGJnN3Um4tRXCwAIyWVs4VvfjUUuHtagA-QZoJ_1pkXl6_hd_qW2SCF9mXrNHg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2593,16 +2593,6 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://38.7.195.44:8000/play/a04g",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4015,
-                "_local_category_id": 123,
-                "section": "live",
-                "name": "ESPN 2",
-                "url": "http://128.201.227.251:4000/play/a0dx",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
