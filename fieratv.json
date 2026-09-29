@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2Njc4OCIsIm5iZiI6IjE3OTA2NTk1ODgifQ.oxvYcp3dNflucLiKzyZhW_Zt94t8tQugRGj06l3q-SXGLboqEkF5YqdEYJ5-SGgAi7BRmmDY-IEq_QqAZsxc9ulkMLBo2S7BWxO6Pqq9B37BbMgt0e3KTimL5QELGehfZDzRCh2xVJP6X_KgghpaSfSgB_c9CPIsUSWkb9iIuHY8gKusKpKNNVLOHlhe_fcEbxGPTCc_h29huDAU6Q-le4SMhw2b8HdVF7W94vtn-dMWmj7ygniaU86bCPKYPidawnM5asXqDgjdn9hZjagXhb0zFdCfoU2r3j5r1VqUaqFBJvxzssAl1vnGMp9ZsIn6Ou6avQFKauw87eRnQVQWSA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY2NjkxMyIsIm5iZiI6IjE3OTA2NTk3MTMifQ.BOSUKB_ZB5e7IhKQxYu5t0dQ0DPqsf8RVMD4A5Z1EluOpv9yym8Qi3QwdFTwjcpAWVxn0BQ-TTsjJrxvaD2EpeVSMH3a8ZzaCDGUVNXC4Cp-ff9W2q5KnujCyq0FntHlPJnKatugNGGWteXRmDADr0h68uNoeqxMh3sfsYtRnhH3yr1k7x546we2YLRPYpU2gaTTVSOGbL6N1kZ-kpsmf7uKY8ZwD-kYFA6LiWTLB7t7IEcfo8ibp_hZdeYf9PtXlbZQhsYQNqkUPTTgVHICcx_Gj7L0boVtvJKYwV6S2itGC9Fual0aF-V6BxyFuBcKAbcKPWUsoGOvvVp5zrw_dw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4406,6 +4406,16 @@
                 "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "589f5b6f4afec0b3362cd6be2ab1eb36\":\"6d685f3151730ca6a4be7765a46d30a5"
+            },
+            {
+                "_local_id": 4809,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "UNIVERSAL PREMIERE",
+                "url": "https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://archive.org/download/hb7bfh.f/HB7%2524b%2524Fh%25C2%25B7F%2524/upremieree.json"
             }
         ]
     },
