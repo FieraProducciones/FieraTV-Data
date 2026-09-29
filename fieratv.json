@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk0MSIsIm5iZiI6IjE3OTA2MzY3NDEifQ.NWqa8V3gubX37qx5xXVoSy09F4OgHB_U2ydubDAQKf0oo_8CMOr5qb4PASg7L6ofp4vXjABHCeQeqAnXQ0w4CODk7KStD4fqzqwKzVGZiANrom-pEp_Do0aczRQrzwNUYGZDjAIF28TBngqsjmbVjo35_bHxoVv2A7D4DV8ZSAOZZBRr3wAhIbbp5YQ6GuYGX8sUbG2kRCGNWCiREaLYl2dmNJjZqpJyT98tfA2qBEgsGd58pcNeOpWHwatHuPhWoYHNwvjO9ceYrTmKJvthziDaBbtmN-Wk4vQtFTEH4Y0uKUVZl4WG5JXKmJDvEjRxhH2Cm7BhWt47Uqt_FZGMJw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk0NiIsIm5iZiI6IjE3OTA2MzY3NDYifQ.VSK_OykEVyy_IjCeA9aMg8pyyQAhYzWpHGBQlF3R5laGPP5zsKLLiHSPEuJTDpuWg26eXSqBCbHTnLi6FMmM1lu9alwddjYWp2kcx6GzNMxzNPNkn_xYZgdApN9L15ajKRdHmEsmHdz7mJ54Aai6hAXHppWHE7sp_Wd2qZRVO5_CKqMgTT8PBw0ikAignlhUPhXKkQy-kYchq0kF1udNpiBEaN0ksnODqYIr5aFxNRPV2zN2P31l7-4CUH-bg3m5uZyiTJDS08RiB7YNvN91h6Fdlly6_nyzpLgAI4dxHtcfD6bM9ljZ212TaGSbMrut_aTnWoiwUH7SwafbVFq6pA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1070,16 +1070,6 @@
                 "name": "ÑANDE PORTETEPE TV",
                 "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
                 "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3233,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "HOLDING MBOCAYATY",
-                "url": "https://videostream.shockmedia.com.ar:19360/mbocayatyhd/mbocayatyhd.m3u8",
-                "icono": "https://i.postimg.cc/g0sjjzbg/Whats-App-Image-2026-04-26-at-4-42-16-PM.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
