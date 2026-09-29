@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk1NyIsIm5iZiI6IjE3OTA2MzY3NTcifQ.C3wtgAtUVDNTtI7-ONmK-RtXl28GwlB09rirzMEaU2TBnG7F8h_XDtJ-E3MeymjCVm1JCkpMh5wNt0At0fJPNVGiVPX_s18ivslU6OBSGSYBhZ0K6XhVXUi37QX4MwywEuwWzltPYpuT9RqHLWa7QOuWBIKM9mI4bEjQq7GH_KVgbR2vSMPD2dmdEnMAhyYsi47lSq6CDwlu4_BiNkrYVMcz1SDcxWwGvZTUqtJFkek6NkYZ7YDZ8RnGiUmZwpPG97swLfGITOd3A-XDgl5puKg9-3Zb5ttFRJd0K-5AS7LFf4mynhNzZSd9k6T4I9RIbypGM4yX38IhtdiEwftehQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk2NSIsIm5iZiI6IjE3OTA2MzY3NjUifQ.OMRw48XVBusMMoPB-0TWkEQzy5RLpp2KOMzeAwi8cpUNctRUuTAXefrOdZiBUgXW5nhNJambMPrOFMet64H5erLRJGJgUmJOTvn53tNic4sSp0T5AZ2QwpgWF0D9u_fdOyhAQpxvOysFZ9hXhXoMa9LkjoHLvVQajVx9UoeCTaL5VYHNxU9LHB0Jf-vj7igisKD76BQDmHrnVuxvaaBkDbjo2bt5sG5okJz5RLb7rDZq85LvdiDm4JnlWPWHMdxgsjJMHpcg13Rjn6gz8OVJ1yx3XN_tTfLChqWGBTt0hFcl16dFILy3KexzZmwgssnYTQVS-_k5V53leu9P-6Dz2w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1592,16 +1592,6 @@
                 "name": "Wapp TV",
                 "url": "https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3280,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "LA MEKHA LIVE",
-                "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
-                "icono": "https://play-lh.googleusercontent.com/7joynQHwjbgx_PSpv3DpKCW6C4cq0mx8w5YPa1--WNNoGJF78C_nPJDapT3XbUJaSSQOCXdjihxz8CNzpaNjNA",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
