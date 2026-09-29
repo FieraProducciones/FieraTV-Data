@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk0NiIsIm5iZiI6IjE3OTA2MzY3NDYifQ.VSK_OykEVyy_IjCeA9aMg8pyyQAhYzWpHGBQlF3R5laGPP5zsKLLiHSPEuJTDpuWg26eXSqBCbHTnLi6FMmM1lu9alwddjYWp2kcx6GzNMxzNPNkn_xYZgdApN9L15ajKRdHmEsmHdz7mJ54Aai6hAXHppWHE7sp_Wd2qZRVO5_CKqMgTT8PBw0ikAignlhUPhXKkQy-kYchq0kF1udNpiBEaN0ksnODqYIr5aFxNRPV2zN2P31l7-4CUH-bg3m5uZyiTJDS08RiB7YNvN91h6Fdlly6_nyzpLgAI4dxHtcfD6bM9ljZ212TaGSbMrut_aTnWoiwUH7SwafbVFq6pA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk1MSIsIm5iZiI6IjE3OTA2MzY3NTEifQ.Ka8E3Jp1rwc8IIaTxBEonV__Hz5oddzApzJ9xLW1qj9KxcqVhuJIMkkJUQgXkN_1HqneY0DQxCWEiRWOdZqM5jsyq0bI944tdiIBO_--bCOAW1T-xshu0qLsFv-5Nmsk6m4WGk5nT8yGMDHl-FVV62TIGCRP3uF9o6L-slVI_bu_ycLFC-d0RHgYlQ1irX26SeGmQ8OV7Snp7x2A-7hwOqyaauMNSdVEFYKB1gVDEM_Mjciby8s__Yg6qlmtcDrPkF5SDh-FLErif6YxlR_50pS_6BJTqVZ18Rbc-9ATpLNtC1vzDKpRJpm8RWgmX_NuTUrKrk0T4K-aB4iY-7ZeOQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1000,16 +1000,6 @@
                 "name": "COLMENAR TV",
                 "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3226,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "PROGRESO TV CARAPEGUA",
-                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
-                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
