@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk5MCIsIm5iZiI6IjE3OTA2MzY3OTAifQ.FEVUs9FqGoPcZmrluLVh27SBMd95xgWq9zUSz0tAkJX9lPOmYXfB-Xx_X3fkK-sds_7-6oJAzbfWRJ6UeIgE7U3D4BdbqL-xaEeDYQgOgzO50Z0i0_1blnPk7KwWOsaLp64odvDi3Nc7O53N7l2Kcr02CrJ6eVSKWqjpZHMjzYN-cvt5083K3jHSC2YdwZYYTLFpM1iu9dxjEDnZ_kCkXrTsD3zSAPsmAl1NQV-fPbPza-dAriW08kw6ILZWJZQEcJn7fenbbod-0RB59By2cR2tjGJnN3Um4tRXCwAIyWVs4VvfjUUuHtagA-QZoJ_1pkXl6_hd_qW2SCF9mXrNHg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk5NiIsIm5iZiI6IjE3OTA2MzY3OTYifQ.DiibAqK8wYsR_eQKNXei4X2GaKmx3dxnGhG1dQLByhCmOuisoF3HQ3bdWXRVI7jwusTmr_JxmlEh8_pE7MlGuAI2QFqaKlLA-GrNBS2rdZ-Dp-IZIR2Y3twCcbJjIfDYTuuVlzrDyckRgTbfJT7771uCKLfUB2qxaEyp7sk2ue3OSVx0UwO9XFQDNGEyqoQ_jvHomZdY3Hv6dNSZFniOP6kjLcNuxBhXikbNtImCCq9GE0fqFqFAZL_X4ZVfMMq4sgDAjgQUhm6O9GTgXIereqnNQBWaEOpm5uZ21_RGS_9csj02EG4IhARudHBsqS3ZIpG-ZM6uJb8EpFbQ5JuMEw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3201,16 +3201,6 @@
                 "name": "C.O.P.S.",
                 "url": "https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/319.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4027,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "MASTERCHEF",
-                "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/298.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
