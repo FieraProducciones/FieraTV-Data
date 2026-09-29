@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk1MSIsIm5iZiI6IjE3OTA2MzY3NTEifQ.Ka8E3Jp1rwc8IIaTxBEonV__Hz5oddzApzJ9xLW1qj9KxcqVhuJIMkkJUQgXkN_1HqneY0DQxCWEiRWOdZqM5jsyq0bI944tdiIBO_--bCOAW1T-xshu0qLsFv-5Nmsk6m4WGk5nT8yGMDHl-FVV62TIGCRP3uF9o6L-slVI_bu_ycLFC-d0RHgYlQ1irX26SeGmQ8OV7Snp7x2A-7hwOqyaauMNSdVEFYKB1gVDEM_Mjciby8s__Yg6qlmtcDrPkF5SDh-FLErif6YxlR_50pS_6BJTqVZ18Rbc-9ATpLNtC1vzDKpRJpm8RWgmX_NuTUrKrk0T4K-aB4iY-7ZeOQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk1NyIsIm5iZiI6IjE3OTA2MzY3NTcifQ.C3wtgAtUVDNTtI7-ONmK-RtXl28GwlB09rirzMEaU2TBnG7F8h_XDtJ-E3MeymjCVm1JCkpMh5wNt0At0fJPNVGiVPX_s18ivslU6OBSGSYBhZ0K6XhVXUi37QX4MwywEuwWzltPYpuT9RqHLWa7QOuWBIKM9mI4bEjQq7GH_KVgbR2vSMPD2dmdEnMAhyYsi47lSq6CDwlu4_BiNkrYVMcz1SDcxWwGvZTUqtJFkek6NkYZ7YDZ8RnGiUmZwpPG97swLfGITOd3A-XDgl5puKg9-3Zb5ttFRJd0K-5AS7LFf4mynhNzZSd9k6T4I9RIbypGM4yX38IhtdiEwftehQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1982,16 +1982,6 @@
                 "section": "live",
                 "name": "GINO  PARADISE 2",
                 "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3313,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "GUARATUBA PLAYA CENTRAL",
-                "url": "https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/chunklist_w610604826.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
