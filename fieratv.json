@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0MzY4NSIsIm5iZiI6IjE3OTA2MzY0ODUifQ.L6fFRxVpzawHnVLtY7PElwFffJ3HrFBZYtWdEC35ATGR5VNlYwn8UCtlcumxre-mMmZG-T7fa0_wxmJo-mjs4DgaEBnx8mL961Du8AAE-yBSEviTj-W_Q0Lfhu3575LU1pzNoHlO4E8hWLpkB0f9K0soKgyLWfa4gEoS0W_e5kNS3x9OEecGA48jd-lF29bbaJz6tVTYVRXxgGaXtNY0P8iHRYJoLBTBmPCjUkQF4flsWAOkpkK3om_JbqbqTjv7loNCu06wcap59o0_NhNQpyjfPVl3FiCT5N87tEXVdduCahNkM6osSi5tLPK9eVjFNQHOxHqvtvZqqcwA3TxlWw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk0MSIsIm5iZiI6IjE3OTA2MzY3NDEifQ.NWqa8V3gubX37qx5xXVoSy09F4OgHB_U2ydubDAQKf0oo_8CMOr5qb4PASg7L6ofp4vXjABHCeQeqAnXQ0w4CODk7KStD4fqzqwKzVGZiANrom-pEp_Do0aczRQrzwNUYGZDjAIF28TBngqsjmbVjo35_bHxoVv2A7D4DV8ZSAOZZBRr3wAhIbbp5YQ6GuYGX8sUbG2kRCGNWCiREaLYl2dmNJjZqpJyT98tfA2qBEgsGd58pcNeOpWHwatHuPhWoYHNwvjO9ceYrTmKJvthziDaBbtmN-Wk4vQtFTEH4Y0uKUVZl4WG5JXKmJDvEjRxhH2Cm7BhWt47Uqt_FZGMJw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1130,16 +1130,6 @@
                 "name": "OASIS TV",
                 "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/288/1Eg31e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3239,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "ALMAYA HD",
-                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/2870/NiqbHi.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
