@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk2NSIsIm5iZiI6IjE3OTA2MzY3NjUifQ.OMRw48XVBusMMoPB-0TWkEQzy5RLpp2KOMzeAwi8cpUNctRUuTAXefrOdZiBUgXW5nhNJambMPrOFMet64H5erLRJGJgUmJOTvn53tNic4sSp0T5AZ2QwpgWF0D9u_fdOyhAQpxvOysFZ9hXhXoMa9LkjoHLvVQajVx9UoeCTaL5VYHNxU9LHB0Jf-vj7igisKD76BQDmHrnVuxvaaBkDbjo2bt5sG5okJz5RLb7rDZq85LvdiDm4JnlWPWHMdxgsjJMHpcg13Rjn6gz8OVJ1yx3XN_tTfLChqWGBTt0hFcl16dFILy3KexzZmwgssnYTQVS-_k5V53leu9P-6Dz2w/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDY0Mzk3MyIsIm5iZiI6IjE3OTA2MzY3NzMifQ.VC77puD87jtQTDY_870ueu5EJ1x7ZoVR0cCsnT45ZjC_xujEmFtHWOTIzDBEJmrVJYdSpxeHmtpEfDElkcSQHQxcnNJ8Hix_2hjCOsyww1lpksSy34ShPnNilDpRRykr9VYZ9GothSZR7M0zH9-vazFTISFaGmxrDVCs69HibAeoXzwaILBJsP1IOxXQ-p0fgPfC-UFdrxS5Vrcxpx2r9Ia5K_A3qJYkf6KE-q6NqkLhyBYxi945emrE2kjZVdK-JrVBYtSLP1c2IUytsUzZGP2wmhGLvX6-vZMJ5TNM3fDKs5bl3NW31ix1eUHQvSvehMhPi3JNkz_6kVgKftckEQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2516,16 +2516,6 @@
                 "name": "ESPN PREMIUM ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4014,
-                "_local_category_id": 122,
-                "section": "live",
-                "name": "ESPN 7 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
