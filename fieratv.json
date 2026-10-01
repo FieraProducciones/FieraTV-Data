@@ -25,6 +25,16 @@
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
             },
             {
+                "_local_id": 3971,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "EVENTOS HD 2",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
                 "_local_id": 3143,
                 "_local_category_id": 105,
                 "section": "live",
@@ -116,7 +126,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDg5NzUxNCIsIm5iZiI6IjE3OTA4OTAzMTQifQ.QDl2WrfHGLKkp_NLQRcEngmsBTLUikIuahWVQzGYN_Svez5uwzFwlOOalaIbc0oZG84gCycAAZ2330C6e6C3ltI14ivji7BL75CLJb9JWcn8WV_CWBSpqK9JJyQfcobEZFfTuEfCJe7lU3wupdB5OTn91rhOrOId1yN647Io1WiyfagFIFeNy6OCUiCY1UX2lTzXkl4fc9OPw5bBx1iyYHend5O1YTpv83Xgc0OFSaSV4zmNisdqqA1KjFHSHtjWch2svbVMh_9IoiHLHz8dxwEZr5yy_hBoT_VcPBLGEKxPqWADpymbL437YSCzKjlK6Vr0zCl3EjKA6yLdM9ZkkA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDg5NzYyNCIsIm5iZiI6IjE3OTA4OTA0MjQifQ.Qw4tyRXpUeZiJLkblaEL2LQn3qPDZ-csOpNi9bpF49Lcflea2sEepFKb1zhgiivgAAzXJO8yhFLXIMqLx_WQfXdBNmYbygl6PDoWdUsdcID8e6EsUUrirx21OXT-3Ea4X47kztMxEimj9aIAlKRwevgmxe53DrMhTP_DEixE1b0n__090_nigmWFgj8EpwX19inCBz0xBh67PR6psu8pfQpvOj7XJ5xt6NVd8fX5QsNU2hbMPesB26ka2r9PEH_rm_0MsLnaWPOEZYJq44UiivqQObOM00Cz38y4XmRR3Td5-VW5UXYWNa39NhBRwrHGez0gyE-OksXJhg7_UG1GXg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
