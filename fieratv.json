@@ -176,7 +176,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDk4MDkyNCIsIm5iZiI6IjE3OTA5NzM3MjQifQ.EJvCqaqXDZ2XihGOdhTXCEjxF0NbhLlxOBEQ1ET0Pcuw7f-g7hQGp76N2WVkN33-Hnt5fMbqeTlkUYQM8Tt2jlDffd8sNSwgcSiKeL-XVz6XbVh-vG_C28xV34g3-qRde1I3Ecl5RvZDzejp_T2dfFnyuVnrPsjAJUisPHTpfZPZ8CJ0nKypvFDtVgrKC4Qb8COsyxSmA4EHO9AsCHQxt_HzYvx3_llSIrwW5De7jNYboyG53cBiKNCfSztiErXLXO82I8mIxSFaohLwfdJjzelLXcChb5OG2chUG64sC2g0pwd85zhPCYip5At7f2dJIvPTIX_cTIRbhYeMi9gYkQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDk4MDk0NiIsIm5iZiI6IjE3OTA5NzM3NDYifQ.G2SzbAQ_tPlPwt9DtPuNh_kpTYPrvocp3unCwjGOY62OKXxt7OtGmSTMhoonKyfT5ll0lOBsv37VhA41pGltg9RzKU0Q9QwmpE0jal_Mp8Bl6lTUebT1_zkCqttTi2mTT7XynmQnc9HNEObAG4h3jtmJU-p-wE_CHcH1XIE65v8UgBR6SqVIhD96nuX-33mM9kZflhh2u8w30IvOwcAj72J1Wla_SvnDSgNJPWTSXHD3Iy5pidPPLpwjGXs4_YLaurtRdeTL4oi-saiJ3PJfB4BgGxvQaeeofslRYJyr8kY9vgXMl416yes_ExjiHcKRPoltf2aT6sA4f6qNrs2zYA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4155,6 +4155,16 @@
         "section": "live",
         "name": "CANALES 24/7",
         "samples": [
+            {
+                "_local_id": 4815,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "CASO CERRADO",
+                "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
+                "icono": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 3512,
                 "_local_category_id": 136,
