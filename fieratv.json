@@ -5,16 +5,6 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
-                "_local_id": 4805,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "GEN SD",
-                "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=fdb177f3c404bf2580b6924051ac22be6f7e542907082172e0036a1fff818709&exp=1790981680",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3970,
                 "_local_category_id": 105,
                 "section": "live",
@@ -126,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDk5ODYyNSIsIm5iZiI6IjE3OTA5OTE0MjUifQ.SUmRzHKMYq76KccyDRwpaW2Y-4wwYPZLuA0jcSbTG11ko7bbsl4d6FdacT-f2s56e-X3gHn2oaiBkhXUWDOkwrlmqWiAhuSKiJE0UeAZ4D0nk_BcNfT1dJ2o6AGVRllv2a-Lrmup6aQYQwiNVzRTnQPny4nxpIKg9Ej3LJ7kZJsTkmmqPpHJ6MD4QYuCuBWEt6338gi2jf65H1BgtfHbB1cKO32AhvDhkeXFEYDPsA0W8HYJ0UQoaEdBRU528OEdP193QRLmBiqZUI-eiGDvUzV9EWUtrYOcOfdshIBcyii1MO-VHSRl86mXAJFU-mmM4nFiZsr80wvxhrxSiLkv4A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MDk5ODY5MSIsIm5iZiI6IjE3OTA5OTE0OTEifQ.NXINo0ykQyOFBalChPr2uMOKnPHmMd_k9yLJWbQIBe9Bchjg3VNzw6YSWS4O5S872ba7-7sezZAqgZY0BOCzhbAYuhkWBjEzpoxbw2chNp7mQNfri-2ynvZcuGnB8HXqoXeLF3YyicgVgFOSH9BcEwF3bLtz12oLXVUKi8Y1hVRS6e3Lo0GWhtQRCMizxXkGttpz-7bu_i2K_nsJ3yazrFsNCUt2ogfbm3y8wYEg1-htSblFYPr7bOJTZDrwuglZzwHqLEXWJL0IFQPRrjG7Uc_1FwavcKCTuxv8PelqAK-apac0WHSLxE_AXdBZ2o6q0htud81AhdmFQp_XKYgdyw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -509,6 +499,16 @@
         "section": "live",
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
+            {
+                "_local_id": 4805,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "GEN HD",
+                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMTUxOTYzIiwic2lwIjoiMTM4LjU5LjIyNi4xNDQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTM1NGVjM2QwMmQ0MzUwNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rldu23GzoECr7Z6ef0x5imPKL1iZ75BuDfzj3k6hAZSzeqkqxtuEM0yLeeYg13GF63fd9mYejbm1YXQW27Ed-g==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=07437c8de4e0da2fbfae8137647fbed5&key=2993a1e2086fada083a8a2edd0ecc56b"
+            },
             {
                 "_local_id": 3999,
                 "_local_category_id": 109,
