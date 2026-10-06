@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY0OCIsIm5iZiI6IjE3OTEyODk0NDgifQ.PBYB8OqafmRdJ7JH5aTDQ_eFMB1jJw1NYukt0aZCAh3IWM33U3ah8w5BzIKlwJu8eMq3S-uihDcIHLwyOrHOxZxoimyum9Mx4cJZUi9ghiVnqzEds_M254sGKdhbw4_fYcilDlSLsu9CAF8dRlwWy9sNPFwuzFUgptvLHmPeZ7336Taf3YobGA1eReVq8fsVPaCk_1SX0C6vysed9yt1sBX2Rf6Hh3mpeIcNf0vEdmYBi3-Ugpw9-R8lCqc-sprMBKDI0EfV4C5skWDY5Xiz5vc6-KTgoNgkqA6aR-Rg2al3ASYAfhgMxGoXvxVoA7GQM9lSnRRH5DCLcfrJHA3Iug/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY1MSIsIm5iZiI6IjE3OTEyODk0NTEifQ.mTVB4BRZPkdnbdUoIeeVBkNWigq-5uE6SJ804OzxRkyu8R8oz_hpV5-d7PsbxsEsaxR89MlE0bZrHt6PXcDzRPrbwwainzGrScMUuklpaUIIIluXDErOUe8eHVLEhaDnGbXdE41qTQkHY3KPXwF6ZqNL9xpeLZqk_3vuc8S-wu10TypBdSE4bcPvf80rUAHnDHR0ldFC9gON3dwHm8yZ-U_Du7dvtDbjvi6FDhImIKwGlcoU8O4porQwHxYaKfpEY_2hp0US6Ffo3ixFImYJN-bYOjGanpSr1xoVx6EmVqeccK5CdBRzdN4UTslytptYfuLVVxALCPOvrQ5MzehlKQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3242,16 +3242,6 @@
                 "section": "live",
                 "name": "PLUTO NOVELAS MEXICO",
                 "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3436,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "PLUTO NOVELAS CONTINENTALES",
-                "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
