@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTg1NCIsIm5iZiI6IjE3OTEyNDQ2NTQifQ.L2ta10vIgpGek8kn1BMLg5uP68p_Qa9BVsPUptc-jwVi2cCtHAIoumXNY6A1bTJpcEJO0AwXJkmZlH00S7NWQznEZhTBafVqlha5yip3sutiEs7fcOfFxAytFJlKYCsv0Osx86wjJpVH3bUPh3OBZhIO3YA6bA1FgVilfwnOwvxFDEwr0oYj7fUdqPh1k--t_Gb1juaHaXP5rtYuxenhzgBBFrF0Go9oNCMDfF5gybqCLcMApbiJyd7yuJohrMOUkEwwz9ti2gF4U9A4mVsTeXxSnCOrNiWooQe4my_myO4xvDVA9FVNRJv_JOU3qYbFD32szrxsrJ6f5YvIYk8Q7A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTk1MCIsIm5iZiI6IjE3OTEyNDQ3NTAifQ.bpuUkZz1rSELtPDT8EX5h99I1Ov-7wvuVmT0O-dK9ntz0Qdj3rl7W2EbSEKrX2iKeqYDTpKbLs4U_51ql8FRwR4K9VmmO_uHOf9VHIht07bvH0jVEhmuWoFp2KAFnDTUTLw4Y9ZDKCS0_2x279_1ogOM9yZELeX2Raj4uDeAYZ-7k01IZ4ORleB7HOwMZvy3w_Rp1WHzCyXHv27_OyvO5udM63swtKgVF_1etKTSXTxgPBBz97I2qaQ-E5nO2FAnFUayILxZgf0W63T063uzGPsevToptLCYwl6TcTdBa4D-skwiURev_s0kgsozihNJFdSzjJSgrEhJGDsTrvj9vA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1251,6 +1251,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3251,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "TV PERÚ",
+                "url": "http://190.93.224.42/TV-PERU/index.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3248,
                 "_local_category_id": 114,
                 "section": "live",
@@ -1287,16 +1297,6 @@
                 "name": "FRANCE 24 ESPAÑOL",
                 "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3251,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "TV PERÚ",
-                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
