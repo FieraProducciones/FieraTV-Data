@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzQ4OSIsIm5iZiI6IjE3OTEzMDAyODkifQ.Lqgkj2Z1JchQUzqJRw5qx0bueuo5rUhHIC5lw1IzOtogfuyHiWVSED1AI9RL8kOAW7AoWQ6V0SjjsNavklzfzZG0Gima4hpBoqJzNBslkndZa8MlxBFSMhjVbUWXxFXH0dJOLTGlK6d9aBBtNNNFXcNrNuaLkL461-ME2O9U_jbDCOl6SC0MIF_nOUcolwTayZiohDv3d9hcCc2MLyw-98JiJFvVZLTP835oAMM_D1q7T2gA8sf1WE9wlhpzIJbN0SqeObAtz5DVs9Jt3tQ7SavU_Rz9B8BBL78CvDoe13HhaEQ2GDgMT9_wYFHZVp5oEcBgz9CxR8GDuuK47InmSg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzUyNyIsIm5iZiI6IjE3OTEzMDAzMjcifQ.GVTKAry3V8TRZpQOX3xzmCX6yqrZvsHLWqWcCUIf_j10Cy-D6An6WUVivzRMn69kwacfYEfS-Ie8WfcA5QiYDJHOhioo7A0xQHFIP7cMC4eIvknBwyVVBo8hrDcGMGCbwt4etqTeKYL2JrXUx4i-mq3FHohorG1uRFrIdALjXCZNn9Plp1lwCDxDNBSB3v9Z3H_mdRk7Cr4g50Un0LDLHwlct4UqraZPNza3_nuFljopLSToZdKhrcAIujuWcx3SHDPdkL16g-OzK3thKCKY2DC6FvuANe7Q-5jhflmfdYopIpd95z3NhBfd96Hnhj7M5uvycFh5ap2mvevGwSZ8Uw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3605,16 +3605,6 @@
                 "section": "live",
                 "name": "VEVO '90s & '00s",
                 "url": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3487,
-                "_local_category_id": 133,
-                "section": "live",
-                "name": "VEVO ROCK",
-                "url": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
