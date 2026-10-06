@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjM0MSIsIm5iZiI6IjE3OTEyOTkxNDEifQ.MtsRl5EfPqO7IKQwFpVxZcDH81XmHE629CD3xWEf5zSCA_qzaYIgMaZkAzXIFzxf0f6GC9C-AR7i8V4HNA4bAOgamfM2M3itPS88_kEvQGWsL3GfUlLVfADZthCK1SDtWi1kKP7eMNb85rT9q58hcZJ_0-ddfw3UrIntg2PKpVRNYtwC5XgKhc1RbAAOpxhOP5rWfJ41NvQWHqx-78KSFEcPOr7e7Q9LqVnvGqd2amCOiOdBvwDEvXoU90ZdvpkdGDbjW8f637PFaZhAL5_EZ6nJaFTM9ZLmWFU0lfL9Wz25lAPZonJUaAXvmTXaoNYDURitHctUiPCbJGD5FpOfOQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjQyOCIsIm5iZiI6IjE3OTEyOTkyMjgifQ.DCKd-KG_iWkbzYgzGngvy7dfQzkqFTfJJaFarXbQEQQLLx6p4KpKqD3eBsaOuxM2y4i-jds4VOfVHbkaw6OKPnEMgI6QpC-zk3c308Uev-o1JOTnEzI-3wv7fvMfjQxb8Dy1-oaTeLq2xABSbZRJy4GF8r6G72FC_tUBoWIigdcu5lGGmo0G12YzbMhlkcM09JtSwFkh4Ws9NfC0jx73H5P-6-5E3Eap6JbuQ-iyWNvMiqEHeuqigMYJ-BP5GeLIqQFn_fHPqR8bxt52X6vF4MudLzIp-EkIPCkup9JgJEMCRRgKjoXty0hZuTH-P8YonKH7zTAdh234sSOBgL7CPg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4267,16 +4267,6 @@
                 "name": "TORTUGAS NINJA 24/7",
                 "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/417.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3526,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "PILOTOS DEL ARTICO",
-                "url": "https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/313.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
