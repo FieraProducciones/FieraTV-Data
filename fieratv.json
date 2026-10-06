@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTU1NCIsIm5iZiI6IjE3OTEyNDQzNTQifQ.T4a0XUEawxw1Zi18ZGGpVX6WI3GYPK9n2m0vzf9bH6WTNIuWtbFbq_pL8hrQf6gZBPFuHWa8L01oOYmDv0-5-9Zb-rmULMUbxtr4b4jxdbdL7N44G2owg0AYNCMMeTMY20ZapsgXruGdlSCiZD2fXgJywAPF3uwK1C_GptOSOa4Gx4lX71psk6sYRgWJvt9WyXHCyWmD0VNRyOwY6PB7UmtdRqcXD628P-VGEwu_Ma2_iqhiaK6YMXvj3JW17NB6Df3P2kyqI8dqsNqwYO6yb7W1J-RwWkEawphdqnO86eeOgm-neabAtYZEAV3rfYbZZeHrwGlu3uNkoG5HyOUXFw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTU2MSIsIm5iZiI6IjE3OTEyNDQzNjEifQ.NYgu6O-Dna6hhq8KJkVoCIFCCYrG9qzZpkD4se3gazP77fDPtGI25UlWtE6Hrxmv1Yudjxa6fbGirxpNqweb6kQLe2lIWnd6OSNwdy8JVU4INMmucFuNVSQtCwhOjqmP7b-QfOLtXLIXvZFh53yx6mkqSfF_0xwWHkWl3dF7qcJKWPL8cWc_hAYawLqRLt76mYAyrAK2iWasUPZBoYq-CXHi3KJqFr04nM0MGz83-q5LCRCo7cCIW1PV8I2jzF4v1aCb0X2JOTLd3Kqny1B4-wrWqJQSZ9Bc1W4O0eS5apmDPeFGevVwCsw08_m_LVX_KWLbJ75AS6oSZgLeICnDEg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5060,6 +5060,16 @@
         "section": "live",
         "name": "CANALES DE ITALIA",
         "samples": [
+            {
+                "_local_id": 4820,
+                "_local_category_id": 208,
+                "section": "live",
+                "name": "RAI",
+                "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8",
+                "icono": "https://cdn.worldvectorlogo.com/logos/rai.svg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4819,
                 "_local_category_id": 208,
