@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzMwNSIsIm5iZiI6IjE3OTEzMDAxMDUifQ.CcUlAMDwp72aUQt_FBNP-hL21DIywqmWk6WYDiWDTn1xfAF3MLqtAMlfcVl6e9Ah5cc0lGV8jgYoNxT2FAQ_uc_CfUH2x2LJMT_Uidoxa0dxhBJ9jlNgA7FQocYymtEfmpGawMLAPgVpSvy_8zfPtpV4yiCj7ot-Yyt70hznwbJXwtRi6vViPb2f13iE1Fq9DwfKF1pKencjc1fOcrAZjDY14q5jFRUxpfrq4SDF9wRSmxgg8CcrzXIGL4ZDl8bmFqYR7O8wB7NYqu7A-wCpaevYP_xRtXpQ-qrNAbKOWwXg6IoD9hvhRWjcndNRefeJFRuaPy7RWglmkl8ciFt1Kg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzMxNCIsIm5iZiI6IjE3OTEzMDAxMTQifQ.pBbT82Zw-pVyYqfaZM6Du2f1G2feAtrPOShMdHUzWn0lT8hzODgwaqTj3aP6gKsAa_8XDjvgf5DkMmHy2T1qLtiqMLBHLBWmHpcozn7mGq4LWkERoTcqNNyCEHxFQib8liah9I-EkmGhwsWOlniMe7H_SBjXXh5WdgfBrlpp16drTfklxWTBCpgzuMAniRHhulr5f0gB30znNxtIgSoDOfWX1CMURkFx-jOLaA_AUR1V75AU2Zb1BumjZFL-FfjFl53IvqEM_lhbfVBWh2J30nEouWLVKgcyPY_-0K2XCXvSepM8-JUcd0iHy4d1HtRL-1BQlp2oH7L1ZtnrhkZRdA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3525,16 +3525,6 @@
                 "section": "live",
                 "name": "XITE SIEMPRE LATINO",
                 "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3476,
-                "_local_category_id": 133,
-                "section": "live",
-                "name": "XITE RAP GAME",
-                "url": "https://cors-proxy.cooks.fyi:443/https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",
                 "type": "HLS",
                 "drm_license_uri": ""
