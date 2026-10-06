@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzYzMCIsIm5iZiI6IjE3OTEzMDA0MzAifQ.UXqv_aR_2IlZx13UJKgH08aZsXk-ukHE9XVHmwlTzsxMKy-WoSJMd8yJPQdrdomxlDRDQlY5tvKv0KgXK050UqI5B-Y7qoZf2ozGj6y0ihPTRZJILHEam-6HG2RraiqjxXKSSQsE7rZo7ie1-AXmlwFoPgoOI4hbVbOOSvR1S2vhAY8d-uf3qcBoh-xnuu33Qa9_uCqNhEmiGzmq_IlNNbbHNBZstw8VVFlaE8TJlurjSU7KOqg26GBvCcusZF9LK7USxgpkstp5LGlN7ScZ6O9q0Yqc1mVMCY_EnzHBmOIeGFXKwEHmYyn83JONEn4KdzvjZGVuIamLU-Em2Led8Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzY0MCIsIm5iZiI6IjE3OTEzMDA0NDAifQ.MrP2iRKZjvpzqpMQZVTipMT0Da1ZPbqBmzHKKvHM7w17Cy1W12h4roDuxfs3ld94CkEQtsqq2oo_Q6YTekk09B6EN3G7_NDMyZ4h7ICsrTgMp8wQaAfDwR4-BAGFy4ZcaQLBbaOt0U183pUsMCQL7Ag7tLxAdJHkVmNjercLVlyWMU4NjIQIJSEBRUMnRMEaBfrvdnvxx43X3ggqO6m_pr6JbCfFWINCA18aOWUVsT_UE0YusIexJaglHKllvHNnliWLlKweXlDmGQrL3INNIN7Oi4BqrvTzk2D47dhdaZF0ACMN6aILwBcRHBiNBATsHOwsDgTTku9G05iFoVxxVg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3779,16 +3779,6 @@
                 "section": "live",
                 "name": "ARCHIVOS EXTRATERRESTRES",
                 "url": "https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3507,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "MISTERIOS MEDICOS",
-                "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
