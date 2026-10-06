@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzEzMyIsIm5iZiI6IjE3OTEyOTk5MzMifQ.JKiWb9jOpLWR96-U71Q7wL5Bz8S00FGL3tOMoTYxuXeuKX-uxA9Ml5I5Nx_GBgMwzSmg6MoIZSlxVzRd_J8Y7LmxLZcMmVJjD1qti4ub4ux9DZ5kOzHxaRqa-UqR68HGE4rm8UuD7CCmzmNTL2Wno1tHA0siD_wzI2pv40hBVn-1ZzwFxk2i8rsfLsZIAPiqiN_ldw3JMWW9FRrU1s6mbg66dnR-cX_V2486CWcNb4pl3sI_RiqVFRZEEV471UtZXW7zfeXw-dd8HVfWcmKvsFtX-1d9Pd_zH_0ZWNqI1vCjFedAWg8luqvPylbBH7IJ8W9LaH1RlgQpBzJ5e90zug/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzE2MCIsIm5iZiI6IjE3OTEyOTk5NjAifQ.CfwneW2qglO1ewyEf1rOE30jVFDaWerBp7NsQjulB6Mh5UiwNnrwKS1dLo3d4uEO-x_q7txawMAzIueNuPgtvyYOpGT_OXA2wkQyMEHXl0yP33-zFlAH3vfzGfJA5gvRZZZj43NqL8eiR2YmGd0pbgT9sIBWd_6K_jsUWULntEg0WoP1p8Wmp48aMKxa2A06G6IpZnBacEIMmDeLCFyTnDTDaQpFVp7WmTx7MRCI1vU4W8-qPzbfWQbjNK7xjlmt_J-Sqn9wx3OaPeOPUeVESi_xsAmGidDCeIUxmfuKiB4SAsLbOKJYKkFj_vjgC0Clt3ecHwyqNIckplpersHR9g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3342,16 +3342,6 @@
                 "name": "CARTOON NETWORK",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205834.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3451,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "BABY SHARK",
-                "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
