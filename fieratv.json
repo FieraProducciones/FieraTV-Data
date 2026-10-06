@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5ODAwNSIsIm5iZiI6IjE3OTEyOTA4MDUifQ.J2YM4wNEfmORzvYxpnUXOf0LoWsqyJcOajIS6XHC2F6NYgTnHo6HsdyLr2knpA10IhGKtKr8kjsbFrIRMFwrwMXSjhskDcNqhyooEk5Ot9pkYfpq5mOQzQzmMbdXZimENlaZjYAyad1nCrcVpwqcNRvQ5v267Ab35dE2VQgOQ5hEcKQMo2ZhBDP8H17FWvYUYlZQz6U13MrWbljIpeQt2G_2um4m3lZGkQLacwWSASsDCorvrILSq6OipR4ZtKmqOmHdGRdOszk7DRRw1npO45tc9j1hSMy3TvZ0INLlvTN16GLDD_eLrpLz5ABUAcw3EdOP_LYnBPMsSWko_0LrMQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5ODAyNSIsIm5iZiI6IjE3OTEyOTA4MjUifQ.VT0Jb-GLGHxGrSc6iG6zCDZi_nu_eTt79z-XahQsXzP82TaqMcdOmSq_42jHvBc527GYSykIaAAx8OBdVNjLYKkg7oeeyPRZ2-Q2oWwNbej_9qq-BfmqiZLQLUQxgHI7detIzDxu4Qs4Y_xkz4d4Jd9FGPunUzoW7NuluIJyUI9FFLb9FVY_jdOGo-8GQsEJrhLjmwkXoUCFMkWqmUNECTHZ_Ck93RRkCzAlHTG7uAcI4AnGUXnyUQMabkNJuuNUc9VQruMSV3pyh7dRxJXaOgaoea51JBr2infj9SW8_ROGYyI3FZ_kSIaxSAdhXZWEre7XPOxmcBvPm8PQhJqc8g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5087,7 +5087,7 @@
                 "_local_id": 4819,
                 "_local_category_id": 208,
                 "section": "live",
-                "name": "RAI CINE",
+                "name": "RAI ITALIA 🇮🇹",
                 "url": "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
                 "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/3840px-Logo_of_RAI_%282016%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                 "type": "HLS",
