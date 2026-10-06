@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDM1MyIsIm5iZiI6IjE3OTEyNDMxNTMifQ.N--LoeASWlP26QBosrD3hI-Je-2_5MTC8FKQ0Wn6DwYRpd4x-MiHgggi0aSaLr2D1tF6CBThI8tcxcyHFjYh_mPunQb25BzOxrLAgravpqRfrSIWba1bkHImvyHbGixInzctaYxUtHgnTYMBnOUbUWynNFnP7IzSS1qIBvFHo8ZBi_nRBKAdfUqAQtSJM7BfTOgk36NqgpufrWxzVC8I4SX5HMJLSSzgvDXqeScojMkNn_wpyZOvfIBhmhXiSmRSC6rvCXBMBiv1sTmfauJiaI5SdZ0RWEehm0CDdM10d2kMn5litj-FuGTCZPgBx_c1Qt820Icq0jMOq43ZsbVlVw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDM4OSIsIm5iZiI6IjE3OTEyNDMxODkifQ.AKwIR1rceeGMYrOpxMGg3JlbdZO3sqY8F-I2JZgk8gk8XoeX_m5OWB-uge1oInt_Ocal9Gc7R8E4Hr6XH037Q1r1kAsxygeUH28nEtesq_iygOKwKHOBkhBEZRTHL3Sy5a5L4_RyK1-7U0_xj3Ik7CpzA22Rp7rL7XHz4sU-hZ12i5H_AHKOTVUvt2tXst5VSJCxfZuXhd4cEyeYoY1AzWdWl11yxb8g7ABCJnmp86pS3YCWONmkJ-1DT5ZXiupqV2vyIqwHFaeGYX86XT0XentxvdYPSTqK1hBV9CNIu3nA4JF0wjilMthVq9fakLQl_uuA7lbGviKDstP_FuYmsw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1240,6 +1240,16 @@
         "section": "live",
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
+            {
+                "_local_id": 4817,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "BBC EARTH 1080p",
+                "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4253,
                 "_local_category_id": 114,
