@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNTY3NSIsIm5iZiI6IjE3OTEyOTg0NzUifQ.HLtJeWxXvv1AR9Lneqg0eGV3CnN_zTyNOby0WwN3C1n3AQiG5QknWrlWSV2aL7I_lS0Jv_dEPHVbFnf66Jthob7bHTN7Pli8BSoSVUIMpwJ1NdV2u-wkchNHNhn_BbLgHn7s-cN4uIuggl3G_SmGn8utquISjTAxZWeH3FrGVR9I7m4IB1eLZIh-Y0MFvttrDWPbH9feAUxNtSQiBkvvyLlJRK5d7jd30y7H3Vl05F5Zo64bI5CVeF--EdUptzSQhlqduCe8Ml04XyGxfJFZgpzvufZXpFNuPkNadDmZkNPp_CN4cfCXl6Kue_VEc-wEHs93R7k13TaaW3uETe9Pxw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNTY5NSIsIm5iZiI6IjE3OTEyOTg0OTUifQ.bwa6Lcke4kXy5iBGPqrf_47g26iiJAQcLsTwSuv_2arnsbvo0GnbCWlrqHATNnm0SnJYypqQO6aCNixG6YUpVynssv56_2Ea3go8Y6B0mcLrIe_T6WUwshbuHB7cviXU1SXV5rASewhaa5B0-ocDb-QlMPj3wmSv0fqKtvvA0_RMmuX8fyiTcVEWd3bqU56Uu-TLVIyZACPZrqqKXQVJRM1fV1QSje2Eo5TDYiaquPhgKC0eMHhZ2dAB2DCSPt8gib4u7nMudnOaPi1kni6YgLEmxzLKyNnoawwcgqF-TbV8ckH4HzlaEDAO5veSUZPl2q6bQ0po5U_v0skDjYfiDg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4321,7 +4321,7 @@
                 "_local_id": 4033,
                 "_local_category_id": 137,
                 "section": "live",
-                "name": "PLAYBOY PRUEBA",
+                "name": "PLAYBOY",
                 "url": "https://wizzi.fieratvhd.com/play/a1ow",
                 "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg",
                 "type": "HLS",
