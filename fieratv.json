@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTI1NCIsIm5iZiI6IjE3OTEyNDQwNTQifQ.GbNUrFhEig2vnkFxb-_DHZ2hH30tFtobUEPips3kYgzTzktONnobuNNz-wG8kjp2AI-47qDOigfenrM9oj48mzeOV1Q3qSIOdMFwH_rxwe-_YEH20jSJsOD9i_RpTprQ_zshBB2CMYi3YSc7UNZgdcik4fFsNfX39K1FTHMJGjz42X7mqhSPOPLzhlzIOYh2Y_do2C6nppCnN9MB43Ob7291pGLcNID1qTHewJ-ABAXSJjcafJOIVprsLsofSen1ei8VTLsV1VT5TIzQJAyddQtFUJkY2lA78yIRQAHoK8TZNnt1_F7IEmuXKb-iu__1qiYjbF3q7WiCusNqBR2FFg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTM1OSIsIm5iZiI6IjE3OTEyNDQxNTkifQ.lQCCmjtsnOYMuAh51uc2nAy_O8apuNF3o6d8fUirPkULoWUyx6WRQz8kLlQsBNetBwx13WiP0VtmDS753paM_LqrqraygEQeITmN2Wvs1gTZTGgNDBSdoK1sLcOd5WxlHNr1xa7c0mSUqg5aaZAgO3_1VIzv_Jqh5ucrcTzkGGnTyL-QnkS7OpKUfIV1HflfVqbBvv60bEYZH9w7FUwJ5vWu0kZiA3-aiHLnu4kHOM0Zm1jfiUiS84t4sjsM4SaKIiCj7Cb951LVBInlajvR26nq9TviVJa7vF3JFoC3FV0sr0SzxEm7p7JirR1hbvBWJ4zTAYdfIwbhlWmgmJRDtA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5054,5 +5054,11 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "_local_id": 208,
+        "section": "live",
+        "name": "CANALES DE ITALIA",
+        "samples": []
     }
 ]
