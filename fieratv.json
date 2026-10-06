@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MjQ1NCIsIm5iZiI6IjE3OTEyNDUyNTQifQ.hwuv_cfChha1BFAGpMb10GWz2a7pDULxWs9vY7X12cS9oLFqe5Zhxfkm4-MT7VXKf-JH2kAzSo2Ops9Q09ZNgQfZ1zMv_QnALR34lrgzEnApeXuiuIHX1d_R2Q2XTPemlAL-YJblWiwXecTh3gEkpAdnHE5UOwat_Vh4vbwoMO15PvISDg9Tlu7597l6S-HYOIwW9AHl1gre-Tt-BOUbB68rSPZkyDl22b0te1BCgycP4jgjn0Iq44rg25Tw8-RLxmpISZ2jdU-YIu45permS7vIQRtY1N24AU_nQJLsDZ6_jl2ZCTMksBHgBMO3_GmATUweMbnlX6rqjLJ0mbjo-g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MjU2MSIsIm5iZiI6IjE3OTEyNDUzNjEifQ.GnsQURrWRwoGv5dxtwUkKo6Mh_KWto9Px8Z2c3VpHT8cylbHDiqGtXmq0u3U6-haRLweTDvXFr6mE-1Ub0AulpAzYwO_INgaN8uylHdCeiRzSCNXgdcZIasm9A1nvDbwF2OJ85g7Jh15TfezZ0JvoqXJQ5Zzzyat-IGU4Qbd2QoLOIHqM0ShvnkUxu6RF9g5xTtOU9IKjQ7guv6Yx_OS_lH7P6lESkFOKqdq2IkXLbfjtbDB7J2KISjLVmO5YSlLGVipHYIzddQ5sAW9gBRlHvgSAYTEcabI30i1V5Y6Y1-XLIiu3Ty95yuaZOmSyHkiXKMa2BBxIJeHrcaEjk3UAw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4087,6 +4087,16 @@
                 "name": "BEYBLADE 1080p",
                 "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
                 "icono": "https://static.wikia.nocookie.net/beyblade/images/d/d0/BeybladeXAppIcon.png/revision/latest/thumbnail/width/360/height/360?cb=20231226021706",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4823,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "RAKUTEN  SCI- FI",
+                "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
