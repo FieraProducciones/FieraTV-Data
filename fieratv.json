@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NDU1NCIsIm5iZiI6IjE3OTEyNDczNTQifQ.HeXIkXsnCDEollVj1xDSWZCucyWw7OoXUtsqlk61AM_DjSAca8RZYTlhZtfgIB2fcaowSgfHg5wMFbnbS8k2IX7m69nV-jTr3fgijvxRrCKqgeh87WJVepyuQ-jCLMn-wC_j0sbUXEoIxfU-l7yLBuXYqDWt7Sac54Z4Y4UTytEKRZ2iguE57Bx7pcFWWhYZqE7mT48kFP6V-2MdPU8rFej7oMYxJ9ZdXn52FSMJh4VU9os3OVsnm5B7NuzLdu-jKzy4NWqqPI226CqqqIlN1sLo9qiV3Cq1l2mXoThxK1pKZr0c-tFaclXKoJQsJqpe5zmmPvguws6b-3EvNtgIwQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NDcyNSIsIm5iZiI6IjE3OTEyNDc1MjUifQ.KBG3cwzxET1aS3JtLZ8-cbJA0HtSvGg7HXywGoqgkx13ES_QejVgKjkDU2X_nbfxcQIlw7EJRcRqEvSMXJkXbzXk-lgtP2mLRXqzo3wyo-jS9r_zsABwOqd4zfjQxsTOYS8HW7UQmhwuZzFfQp43sZXUtoGTRLuz1QzW5qRxntNGEy_3pMPRc1WCCAX3sOFS0-DWtwnOf66hR9x407Twho8bHckgz0LYWHtzpoIJtLjnKLiiqqoL5k0WkWVuBPSx4pDZ6Od5r6508aRvurRjldJiMUbSrviKwaJMHQbiJ_5lk51X2BS-bdZ7yHKLDl4kIuKvlmDWXpK50t6uOcukzg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1567,6 +1567,16 @@
                 "name": "Wapp TV",
                 "url": "https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8",
                 "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4835,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "TVE",
+                "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
