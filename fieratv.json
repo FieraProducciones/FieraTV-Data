@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzY0MCIsIm5iZiI6IjE3OTEzMDA0NDAifQ.MrP2iRKZjvpzqpMQZVTipMT0Da1ZPbqBmzHKKvHM7w17Cy1W12h4roDuxfs3ld94CkEQtsqq2oo_Q6YTekk09B6EN3G7_NDMyZ4h7ICsrTgMp8wQaAfDwR4-BAGFy4ZcaQLBbaOt0U183pUsMCQL7Ag7tLxAdJHkVmNjercLVlyWMU4NjIQIJSEBRUMnRMEaBfrvdnvxx43X3ggqO6m_pr6JbCfFWINCA18aOWUVsT_UE0YusIexJaglHKllvHNnliWLlKweXlDmGQrL3INNIN7Oi4BqrvTzk2D47dhdaZF0ACMN6aILwBcRHBiNBATsHOwsDgTTku9G05iFoVxxVg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzY0NyIsIm5iZiI6IjE3OTEzMDA0NDcifQ.JNIo5CcmV9lKMo-GhLBWHNpvZRpYCqpg59JEYwZE7rABZT9mX1RbYNef0nZVYX6BGPRMw7Nr0dWntXNLZTwMUrarXAGEJpAs9VVgJzRH0smho3Xefv_NTp_O5uxF4Mazhtcv07gXipQZ0YYfXP9ePT1ZD44V9lr6ggeWLT-cb-krw657ecqHJTik6i2PMyi5ygbESFuHnhdnul5WuMMzYMO-6kUx1L6qFqnpzRQLHANva_q6MApetvMKeZiaEzSKwWzhsbrAooweIsnjc3vHfIPUfLGAoVGdrb2rewn0caC76Y6aLaJcQlgTS2rh4plIrScODQbfdK0oFHbu94eXAw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3769,16 +3769,6 @@
                 "section": "live",
                 "name": "SALA DE EMERGENCIAS",
                 "url": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3506,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "ARCHIVOS EXTRATERRESTRES",
-                "url": "https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
