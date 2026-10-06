@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzEwOCIsIm5iZiI6IjE3OTEyOTk5MDgifQ.Nk-0NHuVOKLukZjdlMh46ScfIjeNuQi26oGrl-Zxk3Z-x8JWpoTW4masqnm229dxpooWTpSYq45LmNidFj4lfffrLDpPdWZR5FG74pGGsrTuwiO8tJf7Uffw_8SKku2uy2ROn0PdaFUjZJYQwU87k6VSCb3beq54Ax_YlSIa0CBPTn7b-0l3CAY_PGZOAV0oJCl8I4zOpiFMoISvlB6Ee9ov_fGyo1A-YgpXc-lcwHooM3rYUSMY1hdQSlIzSD8kpoORPMaDP1u7HGt-JO-AhBK4cKv2OQHX_3_8xp46lYDixauIyOaJVg9a-JrsIZ_Y_gUUuOGxGEIqIt5hfOH3UA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzEzMyIsIm5iZiI6IjE3OTEyOTk5MzMifQ.JKiWb9jOpLWR96-U71Q7wL5Bz8S00FGL3tOMoTYxuXeuKX-uxA9Ml5I5Nx_GBgMwzSmg6MoIZSlxVzRd_J8Y7LmxLZcMmVJjD1qti4ub4ux9DZ5kOzHxaRqa-UqR68HGE4rm8UuD7CCmzmNTL2Wno1tHA0siD_wzI2pv40hBVn-1ZzwFxk2i8rsfLsZIAPiqiN_ldw3JMWW9FRrU1s6mbg66dnR-cX_V2486CWcNb4pl3sI_RiqVFRZEEV471UtZXW7zfeXw-dd8HVfWcmKvsFtX-1d9Pd_zH_0ZWNqI1vCjFedAWg8luqvPylbBH7IJ8W9LaH1RlgQpBzJ5e90zug/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3342,16 +3342,6 @@
                 "name": "CARTOON NETWORK",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205834.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3450,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "PITUFO TV",
-                "url": "https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
