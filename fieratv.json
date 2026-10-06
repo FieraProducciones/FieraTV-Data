@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzA2MCIsIm5iZiI6IjE3OTEyOTk4NjAifQ.XLoUU9Y_EBviuArF6Qmua6RM7CjNvn3AKZ_6NPhnKUwA2Aq_7_cCJACc4WBwoBmgc3z3B7ubDIkjLM2XkWFOScR7YxPfR6f6HGU72eoqMePt5DD23t0M3RhbEUKhv-ZClzW0h-UYDI61UI2YShe4AA-5-gdc0zVGn5MHFDNJ8xh_hhnclHNVWTBAkyOi_DEpqlKTfDyWupdxyIjjXIbAkM9DAAJErMC6p-xhP632BUGACKn8v-o6Zp-WflAaKDrVNVduxA8sdVkRikhO_YqYe3n_c4_qfUYpmi9eVSahDb7Y5qhnKEURM-1qNnmMJR6adfAYboOemLr3EUpsKKvKdQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzA3NiIsIm5iZiI6IjE3OTEyOTk4NzYifQ.EDtEWRx57P70j0KfYOyHPf7Ilh64417TMSrKiTv6WVC-hDPp1U1r7SXA0TxF8dsUNS6dAkGzdDViyuG3A9n9-sNjZtRUD6IezdWp1GJDG0C-reD-t1Dc72MG43s_qMhVc-6fVrokVxziw34wEK5IUQ1srawUyoh_WaQgl-0yKgPsAJZq-tRLhXJljK4LjF2Aj_fMRzufIrEQnDKFp4HTKLYQNIwDmRkcqJsMQWwVmpJj8I23ahIoIYSsRlh_Y2X11hu_7A5kA4p56ouod2GulvVeR4X3y8Qy9PB5WUg5jjUj4-GA64IOMfMBzYCZS1Z0ZYhwxOwnL6gcULbglS14zw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3243,16 +3243,6 @@
                 "name": "TODO NOVELAS",
                 "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
                 "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3440,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "VENGANZA DE LOS EX VIP",
-                "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
