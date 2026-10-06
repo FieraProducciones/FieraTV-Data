@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjQ2MCIsIm5iZiI6IjE3OTEyOTkyNjAifQ.iXi9f2UJ_H8Gkd_-JQdmqb-lT-ZpAaJbVZgyh04GGASgIQLkQuHqf-YTKnxzFssyt7pTZtHTVtVKpBeKzxjllPOTTlzCMpM4WHwFvgPU2HFO3RGD_W1Qq1TeR_DAmcdxQ76YZKUM0p2MPSg4gZGnGyDBKpomKtSGe4c8sK14TuvAanBVC1f75-D-XKeZ42jfKNtW8kxq8DCKsY8c310ClopDLox-m7UQKdXD0ZVTUjB6O7iK2PHV5DSRDeAaJwR_8HbemC1e6Pe2VghYr4kjTDWywwZf3X6pkK2Zcu2CEfNMYMDr3O5aJ4EuxomEi9uLD_OvFmyeCuOySGzfD7fpoA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjQ3MiIsIm5iZiI6IjE3OTEyOTkyNzIifQ.EKXceYirZZ9Qln6n6lFCRunj6B_V38T6dgaYsWUyIpy1ly2RcHo8-039BBcjpx9t_TvR0xxPV11N4zQZVRgh2OqUmMKy0XXLDlLvTEkO77m6oIpZylwKS4tyfw-QIxj-HCY147efrrtkT3-1ZK8-rWS36-NJyI8L_rNJD2Qw99FaLItjs9I7-nP6C9sCSqtZIQFRWMX__swT1TH4cSbN5Xt5Aubmy5sTx8bekYeQ7lM88OZ7CSbklhd1CnVUzCgvPTORbt-0fPbkAhtK1IwTovpGggfbTskDKrVm_iP_Fu_rH8L4WKtpt4C92xr3ytMnMy0vy79KpKeTHrcaO0DrPg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4237,16 +4237,6 @@
                 "name": "KENAN Y KEL 24/7",
                 "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/407.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3522,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "HEY ARNOLD 24/7",
-                "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/412.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
