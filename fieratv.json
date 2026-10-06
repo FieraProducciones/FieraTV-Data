@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTU2MSIsIm5iZiI6IjE3OTEyNDQzNjEifQ.NYgu6O-Dna6hhq8KJkVoCIFCCYrG9qzZpkD4se3gazP77fDPtGI25UlWtE6Hrxmv1Yudjxa6fbGirxpNqweb6kQLe2lIWnd6OSNwdy8JVU4INMmucFuNVSQtCwhOjqmP7b-QfOLtXLIXvZFh53yx6mkqSfF_0xwWHkWl3dF7qcJKWPL8cWc_hAYawLqRLt76mYAyrAK2iWasUPZBoYq-CXHi3KJqFr04nM0MGz83-q5LCRCo7cCIW1PV8I2jzF4v1aCb0X2JOTLd3Kqny1B4-wrWqJQSZ9Bc1W4O0eS5apmDPeFGevVwCsw08_m_LVX_KWLbJ75AS6oSZgLeICnDEg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTY3OCIsIm5iZiI6IjE3OTEyNDQ0NzgifQ.OZstab0svy5r7TfUDujJhU8NWqWF2Z6HmEzHyEmO64LgFAima5uH5VJU_ndFkU8SAqBkdKSJGUBgePKO1Xn_T5i8CkNEBQrlQMkYUcNYJlBpbG3WaFJeLCw-bORdwjJsKTNjB0Wdn1or-4qUaqK7owcmMDCJ-YWcTx_3RoVKvoi19CPfRd4fCwFQ64MiPMp-uSfPK8c_sL59NgEh4iC0hXUUiI6eBUnANWzYH9nxcXLaHLe3e63F6g0bkhMjyXwsWhg8pmC6mMDAzAl7VLkJ9rU7wpNslPJ68ALYdqSk4m-2gW-3B_lpRx0tbLlA8xdwOIoJu222y2vUcGH3JkKtvA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -627,6 +627,16 @@
         "name": "DEPORTES PREMIUM 🏆",
         "samples": [
             {
+                "_local_id": 3196,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "RED BULL TV",
+                "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3190,
                 "_local_category_id": 110,
                 "section": "live",
@@ -683,16 +693,6 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3196,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "RED BULL TV",
-                "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
