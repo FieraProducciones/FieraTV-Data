@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzUzMSIsIm5iZiI6IjE3OTEzMDAzMzEifQ.nYsvtz__MXHzFZtXQ58Rhki1HnAkMfHSC2oFx3AqoX9grx2KcFCtAYcEfHUbnY4-pQ73lPhlMAqwBDjRTfAzFhRkpdump9CKF6MPNKBzEIb_g83ksuysri7lW4QKaMjyeZSbpW9LdDgQDhzlPkKRDf1jDHlEzOTRWbIrFlBrX1V64lTqBlB9h4WHUJoOQgE7A_mPrb95izyN5zzyi5OBd-aYgqHLkPzCiPZNj8ATofNI8wqLgg4s4Dvh-u-1xzhyHtvcU1c5wxJSS_4n5jujiAiiFhMBKYY--NF5qnzsl43lWqmjOMeEowBdhIHyoEmB0pC8KLcEfBJMd9dVejjfUQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzU2NCIsIm5iZiI6IjE3OTEzMDAzNjQifQ.B7Dmy6LfMzv5P-teBmnYod1kR1q6KscazUMMI2ab4sfNo6Fum3AT2Lpwp8PLRbqKFbWhdPAunRnGTAwryKV8wZRt2dUxnQc_2pFVeERELqiZ3NNUCW2rPO_BtdfdCXV1YiqNmr88z5Y6iUVcwh145nUm1gJdoqalx2ubVvKaLgNx6G27sh9y3FvD8KIAOEjRv69bEk9Zq7PtI2fZPWchlNVPgLdaotTjFKAuNn_G58jXlx_T4YV9gqfttkRC67NVqk_lpkpYybkCPO-WsR9YGMCKvVVUYbqjwPtiMTOcAfSk3LhBAJlaHlxUWSS-5K59heubuWQ0PJW4mtztpJYJqQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3663,16 +3663,6 @@
         "section": "live",
         "name": "RUNTIME CINE PREMIUM",
         "samples": [
-            {
-                "_local_id": 3493,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "DESAFIO SUPER HUMANOS",
-                "url": "https://jmp2.uk/plu-6495af324c014a000842e923.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "_local_id": 3494,
                 "_local_category_id": 135,
