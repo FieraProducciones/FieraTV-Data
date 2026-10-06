@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NjY1NCIsIm5iZiI6IjE3OTEyNDk0NTQifQ.GQpuecVnMZFllPvkYcOWPSrW7wEE0pDELnn98rbguKrgjYzKMjdg-y2O8GK0vovPSEDapuOq9OpsKlY-qWQhBjQBzZec-Gmr_803FHD2Wq894Hxji7zBohLDu_aMVqSgVp28oxyqWXt9MNtAu3NHGA1m7J3NWmZysCVRFIiOQgTnQbG2ZgUbEimhUgmGoHfHb6WnlIcEqRq0eyjVbzMh5Xy4L3jf-mEycrLW0b1vLC2_ZyanZ0aGKCEqoDQ_57txEelBt1lzt0VBlP6tLDbCfdWAVTiO6rh3c5xLX1AXgn1RC_EIDUxqcz9ee1A_gM_6fmKCgndk36o9Vzk-oqHpqA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1Njc4MiIsIm5iZiI6IjE3OTEyNDk1ODIifQ.gQY1tbX5h9e8pJ9QlDVZmJ9udsVbIgL8XqRbDWVeZSmlgEKEQ4WB5PZlD1R6H4BImVodgTQn7beq69u57DygayzaQDSXiO7J1qCgFQHCqfm0Yk8XT0eoQzsR3lfFYVy_w-tKyin1uo5d1LCBmN0I48WBRYC7RfvrgJT56BYE5gUvA3HddsnPIdRxP2agSe8M-pvekPA20fgOzb0zjqzbnM2UaagLhoZq9S1-cA_oM1KhGhpZhWArAHh0whZ3qvH-XGLeVzsljeDR-CmRj7hgyTIYffpIBmdUxRkq98Wp5y4uuto7moP9ckTS5Zirb2bTMlU38c4u612jmA7onG0cxQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2912,6 +2912,16 @@
         "section": "live",
         "name": "🎬 CINE 24/7",
         "samples": [
+            {
+                "_local_id": 4836,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "MR BEAN",
+                "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/7/78/Mr._Bean_%28animated_series%2C_stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20260201140906",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4833,
                 "_local_category_id": 127,
