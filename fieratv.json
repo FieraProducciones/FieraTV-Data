@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzE2OSIsIm5iZiI6IjE3OTEyOTk5NjkifQ.e4ySi9g879tkpRoSW-pgBz_cb1LT4kqtRJjbBptAwuH_uO7c0cM3IflDIHjOWi6cgT8DSFGb_AOs1khZtCvOvP9bH_JrZh4_AnYSteaL9Ji7NBg1tFUXJCupiHJIdHqH_fQhOq9HLTYd_x3afYMX_IZesrHrKLQEJPad7z2J38bu_bvB_rafzkVgX4OtXrFOxEVQ1Effso6zfyvYRBUJ5nzAuujVOQ1OZ_mikYrWam4zpuE7ljLH0hw_Uohp8ghAeScclXk3VZwruwO_6HeBySd5P9b0G6fSANAqsWGrENB2TrkmQV3djb-C5jmQjU23kNZHUJzHG2ynpLabfABn-g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzE5MSIsIm5iZiI6IjE3OTEyOTk5OTEifQ.hlWeSlYeFZEWGnRDFfOcZ9a4kQKJWeN4pDkf7l7kdk1yDea7Hxki3ZGg4ydVe8ExcDdxR5kG2Ufl4uExJdBqSrlf4edgzfoTiBNXMSDw8Yt_kLEWenWI2cqjHpD5K_aYfto12U0z8O6aTxowm1KSdGxCiJxIShFMTW35U6UGLijAGglgxUDqL_5eRm5x9Elv45TXRKuI09RacAwM0455QVulBVE7yW542HSo6xMSUqdj0vRffLL5tkwDA4fZt6jgnRmFQBBs8ptuAhTTkA3FMaoYIAjQC9PI3OOIN_s_UpDL_nC_Lp58m-fw9dps9ZPjHL-hHehBPxWEsUztfvDEwg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3411,16 +3411,6 @@
                 "section": "live",
                 "name": "BABY FIRST",
                 "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3461,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "EL REINO INFANTIL",
-                "url": "https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
