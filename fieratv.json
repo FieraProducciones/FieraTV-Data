@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjYxNSIsIm5iZiI6IjE3OTEyODk0MTUifQ.j_yKAV1us3dRW3_zRQajFy7hKKsUarlXJ0VWYFw6ZjEdEGN1dPefWn-PsmBatxW-THahMMrfGavTw6YKFZTwFklQRdyzfBZbYnH0yLFTk7Hm1WX2qj0JZJWJtYvQLsPkg-mfU90XoTqobt3mUUlTKnDA2eH1n5THbssju-XRsCGKQqwS13f8J686ZsVu5ewFgMaBcsLa6NmBnjTqj0ZRMyksgojQmQlXKc8R0BI_qeVOzORjFnPBbwkT-OmKVvcLgdn-VVf45TuR9B2TAYVGDZu1wcrsGj_t1KHrJODDTUopPSUt03gZTQP2UiwXjI0BdJAvjgsMW4LvEpkoTAMm4g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjYzNyIsIm5iZiI6IjE3OTEyODk0MzcifQ.QA_R6cYvx8d8v30VXwRIdDSSTjSSNnQs9MzO2PA7z7z4sXawqE0U4Cynp9SQ3de5trlj_GVzXYFKxBatk43gD9rxGwEi1FOIW8Z0GfZHBHPy6xPvGEhyvCiYWNOuL6hTw3HG6rP7E9-nytxOh_rTopFPM4inYQ34SWxaGIvfgVtX38n9pLoW1-_d0i38MVF3celh5WfBR9M-vk4d8R3bNbdSNbDhqTUFkF7bgZ-ka8SObx-72jMpsCT5ytw8lzR9MVf3Y558afui5mfjNAd3v5OkNzYGEKzC6_xxYG_qcnBHj3f5f2LlWFjZpGnLPg68iF8Ez1YXyG1TN5-nIzB1KQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5179,16 +5179,6 @@
                 "section": "live",
                 "name": "PLUTO REALITY",
                 "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3443,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO REALITY - 2",
-                "url": "https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
