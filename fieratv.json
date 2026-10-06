@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MjU2MSIsIm5iZiI6IjE3OTEyNDUzNjEifQ.GnsQURrWRwoGv5dxtwUkKo6Mh_KWto9Px8Z2c3VpHT8cylbHDiqGtXmq0u3U6-haRLweTDvXFr6mE-1Ub0AulpAzYwO_INgaN8uylHdCeiRzSCNXgdcZIasm9A1nvDbwF2OJ85g7Jh15TfezZ0JvoqXJQ5Zzzyat-IGU4Qbd2QoLOIHqM0ShvnkUxu6RF9g5xTtOU9IKjQ7guv6Yx_OS_lH7P6lESkFOKqdq2IkXLbfjtbDB7J2KISjLVmO5YSlLGVipHYIzddQ5sAW9gBRlHvgSAYTEcabI30i1V5Y6Y1-XLIiu3Ty95yuaZOmSyHkiXKMa2BBxIJeHrcaEjk3UAw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MjY1NiIsIm5iZiI6IjE3OTEyNDU0NTYifQ.NA6snzn1Cp31vucRyNa4IkXzrEavL9NlXBjjPBxXOKOgsNc8dpyofe5a47ADb9YpcIRsu04JQTMZxGWS3QxAUtN7tnlrjLIGSaJdYQ1RVNNFKJDhoIYXVROrHAN0JaHOIvAL6M9w_uNZJtiyug-sfOPEjqGfpu5Qnkcku-3LJaI_xdj3oQMHjUj0dFgJ1LLmwNILs0JR-kyNTdq6fZBYMuRKFsiTFt2kzxTbY2uLWZBMN_0Lw8Q7dUUy_W325C85LkaezvYFKrW2etJn3K4rRr_USk0IKbVOgQqMOhg3muogXKqj1v9Z2QLkoOdjtNDATjV2Uy6fhV11ql06IAV27g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4087,6 +4087,16 @@
                 "name": "BEYBLADE 1080p",
                 "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
                 "icono": "https://static.wikia.nocookie.net/beyblade/images/d/d0/BeybladeXAppIcon.png/revision/latest/thumbnail/width/360/height/360?cb=20231226021706",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4824,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "RAKUTEN ACTION",
+                "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
+                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
