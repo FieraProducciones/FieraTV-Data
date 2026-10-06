@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzY0NyIsIm5iZiI6IjE3OTEzMDA0NDcifQ.JNIo5CcmV9lKMo-GhLBWHNpvZRpYCqpg59JEYwZE7rABZT9mX1RbYNef0nZVYX6BGPRMw7Nr0dWntXNLZTwMUrarXAGEJpAs9VVgJzRH0smho3Xefv_NTp_O5uxF4Mazhtcv07gXipQZ0YYfXP9ePT1ZD44V9lr6ggeWLT-cb-krw657ecqHJTik6i2PMyi5ygbESFuHnhdnul5WuMMzYMO-6kUx1L6qFqnpzRQLHANva_q6MApetvMKeZiaEzSKwWzhsbrAooweIsnjc3vHfIPUfLGAoVGdrb2rewn0caC76Y6aLaJcQlgTS2rh4plIrScODQbfdK0oFHbu94eXAw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzY1NCIsIm5iZiI6IjE3OTEzMDA0NTQifQ.LRw0GR839p9pzNaCWPfuCzBYFuSxuvYWqQyDvrD2dcNPgJ4d037DrNhU_2TTYQUG-z6LcnXJlcjp_LbqEH7bqiYLNaAjKKPNKIwg2GruIuAft_YU-QJosPg-7jh4bCRAxLZgV02v1KMfzlrMFTSP8wbewJ5f5IFWZFiZxZg0DejkcHcl1DsczeKe8nhcsTgXHu14hhXL36cQ40eHYQyGq6V7t--4S1DrUtmytajKpbVqVjmh7fZTLrP8Ytd99Huci7W1LKcs0wLSIe3Mb1E2D3WVk_OvquFT4syjSk_0KpmptrTAd0xzpbNlQnSGS3-hV5G20o5U7XfKpLP-QLD6fg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3760,16 +3760,6 @@
                 "name": "SERIES",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3504,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "SALA DE EMERGENCIAS",
-                "url": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
