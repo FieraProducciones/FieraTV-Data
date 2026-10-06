@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjU1OSIsIm5iZiI6IjE3OTEyODkzNTkifQ.I4W0O4dBqrsfjp9d3IKOhKU7IZHcVrCTQlVWDBJQxd0VYIY1ZL8C3vQJK7GkeKaP-YiXMOqW2T0ZfbAofE9su3gxgFGB7LNTgfnuV2VpjS4Uzn0A6rhk7B4CU_7IqQQBi0FDIJI99ffhd9Ln09uRi186HQVs52qk2IH8GzZZTqQD9yidq-ztMrSlfef2w736l5AWn218mXsJRkgkU2075gYbM4srVMl1_f3HOAoltn6tOYifUSfjEfrdH78m6vzvSurUTC-cObAngUMKUAL0UaW9uia0xbZjMBTuZ91SvO9HStNlyAfHc4EEW8MDYWQsvjV1XkFHvUFSDte5CRNc8A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjYwMCIsIm5iZiI6IjE3OTEyODk0MDAifQ.HB0zBAJTvTmsiz6xRy3wqPOFoROHaAikai6NlbWAC9Qdoudt7IBYqi8obKXZxPPqaSG2LG9XPuyzDo3rj1evW1EFkt7ZJlXuEUDCXBoPr2xNvF_lOysmxla6U0nEZNHsXFvdK6RRPnEQWNttqKGM3OjNP05QQG4xHouD4pvfdxejKfDhVKEmwHRAL6zkimKCwvcjxUqwqgTfS3koMCXYSQnn4M2yAeFmZreYLRukVSEsVDR3341vTp4oYOoRE-VLvVq5k-D61DxCjr9RDSLDJOdCNoNhDxolhPm-wXl32Y7MB3xHVD16VKWKe19ipv5OqKww9iM4HPXZE3RLFMtPWw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3206,16 +3206,6 @@
                 "name": "GUSTO TV",
                 "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=eb8aba18-b506-4b0e-9158-6314eb4d3397&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858",
                 "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3429,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "EL ENCANTADOR DE PERROS",
-                "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/311.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
