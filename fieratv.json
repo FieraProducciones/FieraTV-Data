@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NzU1NiIsIm5iZiI6IjE3OTEyNTAzNTYifQ.gJJp6W2FC0AEVgO4WqPhjthC9I7xRAPFmfgJRdBrNuDetPxehgl0DJOtY3aZ2vT6bcqOI23wVoZgNJpjscKp4F6NEYFRfXwBw3uvVwe2bBjalXBbBBtdBm_yI1wwMOQLW2q8VEHKhFdXgP8wMXlaVblN07QIzNKLJJuS8mvENdVax13H9-h1twu-Ojr6iVpdXmOzQimX1kUpBCgdX4kzhTzsARavU2ahX0d1AP-B7AOZBuRsa-Het4ByKtwMGEduVd3z2jmAeJAXLVsgO5EebNtAHHHARwb4S85fY50Rd_aYmSIbC9Acm_lIfHoMPoTBRdhpj4xqISzhi_yFvqjDUw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1Nzc1OCIsIm5iZiI6IjE3OTEyNTA1NTgifQ.QwKVC9k-SnksjHqeL5PSfgEr_hDmJy_PUApXVwDePpVYl5ZESYwTIlbQ-Wu0m8TKncNzY8EgyLhSSqWlqypaIikC1AHImbmhYXhqVI0BrPcfnDIL3x82iBy-wM50ouWikdxru4xMYlczEOEGo34GI9Q-H0FeMa98QcU51mrCbG62NDe_0_L0w9LiQaCN1PqaxN-KKHH3hfZ-q5fcYh2qt-9U7BzkmCIhmp3CBE8y0bVZhyD3JnjGr0ETeLtiK6vhXmvMk3LJXgUM4qfPPU3bNkf9Uz45NdTVF6KIs8-4pFpvWbPMr1G_es2OXVfwJsj7BuKac4ag6jR65ElOOoYzZg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2922,6 +2922,16 @@
         "section": "live",
         "name": "🎬 CINE 24/7",
         "samples": [
+            {
+                "_local_id": 4840,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "BBC DRAMA",
+                "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+                "icono": "https://static.wikia.nocookie.net/dreamlogos/images/9/91/BBC_Drama_2015.svg/revision/latest/scale-to-width-down/1200?cb=20250901094256",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4836,
                 "_local_category_id": 127,
