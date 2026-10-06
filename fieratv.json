@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY2MiIsIm5iZiI6IjE3OTEyODk0NjIifQ.ZhMRhhw_IMGwnJgKc2EFBgMQ8x2PCTHnOygoNvWZvzhlMhqRtunoFO_ZePl_mFfKPqqcgJT39nlO5htrjnHRWtqKw7A1j_NbgpqDZIwM6RDROanuU1g_kT32dSoqXUlf5XRzW9jRpyQCq7dQ_156vBAlR_-GSkSBZ6jWY8xZYSyLvnD4JFDAnCJpIICy4kUnLmFfJ-L8gmj2q6Y6mi_Pwx0Edk0S7MV52Mt1H08v2DHlgCoG908ExkOyROIIzTwUPgqSgY-3vNn0V3eHA1iCzkr5QcBrSUAH3Y3sc1duPfTskxQCZRlTdpW29Sd14OErlwRvsJ1Fn0CyfeYVEvzswQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY2OSIsIm5iZiI6IjE3OTEyODk0NjkifQ.pROFBtLaqO-jgMHvCd722Zm6yt6EYS-0yx_0NIgOnt8o-M6706PYRrgz4qvSt7zpe9T9nXqGLhfdZKK2HOMCXrymP8Zt3rT3NbjS9Lvjh64J4dzFSLtbWyjHndGQRCfVxWxm0DRvl1gEIo9GqvRX9Rv1B36lOI6Wn_8ieI44EDQ0LprnrtWMKqr2_UzBIE2SvuwBxFeKNM-1eSCjIQMBurnJOSMnMffDK0y7YXhSQ7SbPKrgJgV-2YTQzi2ysrGwi6jt00iKr52JoHETfwDmh_AF6FD5gq915u-yA3txX_PRyDU-adauNpp1JeX71IPhUMyJ9MUjtHycDLJd_itEdA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3481,16 +3481,6 @@
                 "section": "live",
                 "name": "BABY FIRST",
                 "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3460,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "PLUTO JUNIOR",
-                "url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
