@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTY3OCIsIm5iZiI6IjE3OTEyNDQ0NzgifQ.OZstab0svy5r7TfUDujJhU8NWqWF2Z6HmEzHyEmO64LgFAima5uH5VJU_ndFkU8SAqBkdKSJGUBgePKO1Xn_T5i8CkNEBQrlQMkYUcNYJlBpbG3WaFJeLCw-bORdwjJsKTNjB0Wdn1or-4qUaqK7owcmMDCJ-YWcTx_3RoVKvoi19CPfRd4fCwFQ64MiPMp-uSfPK8c_sL59NgEh4iC0hXUUiI6eBUnANWzYH9nxcXLaHLe3e63F6g0bkhMjyXwsWhg8pmC6mMDAzAl7VLkJ9rU7wpNslPJ68ALYdqSk4m-2gW-3B_lpRx0tbLlA8xdwOIoJu222y2vUcGH3JkKtvA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MTgxOSIsIm5iZiI6IjE3OTEyNDQ2MTkifQ.gtHGTiREp1Z-18536SW-cd8RB3keLFLQzrbFx3vAwNS38o5YI1rkBdXQgsMEz-cm26_8yu94x2bXrkNYobfZ7_47ny4L0A6XcP7BR2UhNzCY8woGHFSuFpZSwwXaH7WfmmjZ7M8LcUAqap14Bf3CHL0KG7BQAqsgXvfkxT7vuIBbPxsR3XLfJi0-q_6CEcO2xmJkyQxjTfSs-lh6qgm1qXixoVYYgd1S4RHMZgmyZZIU9eInzi-sNyyvUr1-MFer8DuMipLMfif9LLPD2C9kQ6A-YG3aoGubjovyrGxQlwnQeWL4uJS9Z2vOl-PMTVeflYl60VdI7eySj3OkMPhF-w/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5077,6 +5077,16 @@
                 "name": "RAI CINE",
                 "url": "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
                 "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/3840px-Logo_of_RAI_%282016%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4821,
+                "_local_category_id": 208,
+                "section": "live",
+                "name": "RETE TV",
+                "url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8",
+                "icono": "https://www.tvdream.net/img/rete-tv-italia-cover.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
