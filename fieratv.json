@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNTYxNyIsIm5iZiI6IjE3OTEyOTg0MTcifQ.gqQYrc4c55hRQxO9ckj5AiyBRt1UCAou9AMa0g5VoLWCHR0Musbn2qSFDWVtgoCrR05jk7T6yjjqpF_qbKZJAF_vlWmeeJqyQLblaqtIvExgVHzVwLGWg6oISNYBZOmMQZY2nM0qUC-kGu0OoXXJnil8i87UYV1RreLY_fWwTrK5gdrOne3OpT9f7tN-unnIlRsXs2lmcDKf4WUVTLHPwHaJ-4B9W4jENesqbnv25wdKFFWRlKwwb4ZZvukDio5LF15E5kvQr6tE9g3A_hqWmbx-SYEEMHa-_VWhIAorT8pThSSkWvijulfXgWqta2mOEQJIdFwd1mogSD2o8EwxoA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNTY0NCIsIm5iZiI6IjE3OTEyOTg0NDQifQ.azwmBQ0XUG4cRARHjtV30G1kU-M7lB_5N6Z26TAUjpmWciEQ3WMII60C0dXPCzD6CzWesN39NhwG13kBsiFdNNUQ6R-K3JnmwYCX8E_TbNLZL4dJ4uX9qPMkjYdTybg8ibI_fhqZGCR0o5XM7ryKXuqobgRpEAZVOIRzrRZFfO0YyRXNcbHWiEDo1gwkb7yso06bNTymfi0oTRnbcfe9_BBzaMWRyLWG2L3Y6XonbuYSHZZQR-qDwNu7L-Wtx38pGh671fr9iVGM4wd9i3o5Utc0wCAziNl-RGgBaIcXXWEP4RwxyxZDRHS0tmHaZtKY5vIzhM6IkPFvT91S2-5mmw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4333,6 +4333,16 @@
                 }
             },
             {
+                "_local_id": 4804,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "DISCOVERY HD",
+                "url": "https://wizzi.fieratvhd.com/play/a1v6",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4806,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4349,16 +4359,6 @@
                 "name": "SPACE HD",
                 "url": "http://10.140.0.22:8000/play/a1uv",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4804,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "DISCOVERY HD TEST",
-                "url": "https://wizzi.fieratvhd.com/play/a1v6",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
