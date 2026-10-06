@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1Mzk1NCIsIm5iZiI6IjE3OTEyNDY3NTQifQ.lwH8fHp5wp4DJytOQleIveayvw8jxoL8_dMIOg6Nkncum1kCPRv1g7BxnlKh79wGPZaLQACcWvq3dYwIokY-IazZAB0PqR6gbfmlPDo0f8RSzDRP4KlARZHgGwdL5BxKpO5GWD8j0a3xHDq3IDMaXt-SUPAPNHVe1f6D3No1-jyoy2mR_Z9-7cPIDuKG1aJy41OMIevr2UerOBOHIkzoFmtNVnEH4t2FbyyGjIeZ9DP4FZ2zfnG2zh38_Xeed0KZc_uf89e87FRTXz71ooSVemEWxCmm1Pqd6Kcaz2kj3nxjfD6Ob69zI0Qa9Bdbsf-YRhBsmh6mnDA0UT2dykXeVg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NDIzNCIsIm5iZiI6IjE3OTEyNDcwMzQifQ.h3BE5gFUey73LzaeLPYeuwVx2qaPYhPknJs3z6F5-zGmtF4y9hOwFuomIbB7ggb6uDBdpVXlqouDjaN3-HgYH9j4ZL8x4tg3dDGDqDv_TNuiy-7NzG9er2K5uyAoBqhNOdiZ2CXsawyuBNf7vDcXxdCv9WZGy-HMJcZ6Or-1FhLdK1TLasaeGbnL_ySRKklp1NCUmYAnMg3fccUswmWt5FHHzBZwsBV00ZkcSmxJwdv4YlSlz36KNvs-ouu_dbop8M7ArjiNIrzGKrgMl6abLyBrWfyapEfAGEiz1fUAy7CRmWxzooOhjGoIBMHepwtkX4BFJGTcyJQy9wywQbPhWA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2902,6 +2902,16 @@
         "section": "live",
         "name": "🎬 CINE 24/7",
         "samples": [
+            {
+                "_local_id": 4832,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "MEGA  CINE",
+                "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTCMTof2nvQmp6_WPhZwnXkIrF4Qmk3-BvI-tb9XP6w&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 3404,
                 "_local_category_id": 127,
