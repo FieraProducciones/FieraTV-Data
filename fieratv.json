@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY2OSIsIm5iZiI6IjE3OTEyODk0NjkifQ.pROFBtLaqO-jgMHvCd722Zm6yt6EYS-0yx_0NIgOnt8o-M6706PYRrgz4qvSt7zpe9T9nXqGLhfdZKK2HOMCXrymP8Zt3rT3NbjS9Lvjh64J4dzFSLtbWyjHndGQRCfVxWxm0DRvl1gEIo9GqvRX9Rv1B36lOI6Wn_8ieI44EDQ0LprnrtWMKqr2_UzBIE2SvuwBxFeKNM-1eSCjIQMBurnJOSMnMffDK0y7YXhSQ7SbPKrgJgV-2YTQzi2ysrGwi6jt00iKr52JoHETfwDmh_AF6FD5gq915u-yA3txX_PRyDU-adauNpp1JeX71IPhUMyJ9MUjtHycDLJd_itEdA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjcyNCIsIm5iZiI6IjE3OTEyODk1MjQifQ.Bluacjh1CwcycTooxqzmou0UIHQ4EG7SDpFFBqqgaHCDP-H-WVztFsR0zlS2r-mM_xeOoLA5MuUqBWEh3LYIklcj-jZj7H-t7egDMuLgWVX7bzDN7IIjAIs3DXAQMnA430eaJi2nMQQDP5UDVIcMKo23NHjcoOAagdgZ-AComY8R4zpqXcrXzTfZnrulQZDJuQBp38xboXXWSKgtZ9kS_wTWqQR4McULS-dzYz3wWJpC3SLZqjyBBhWxmluEjbz15RXY-yvKS612s0T9EBuV840NIu5PlwwEJLyJXJtbWNQXm_i5H0VFNNgORHSg2054XVM8-TCyizU1JZR4Nd0LmA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -5055,73 +5055,6 @@
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "_local_id": 207,
-        "section": "live",
-        "name": "PLUTO TV",
-        "samples": [
-            {
-                "_local_id": 4816,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "NACION Z",
-                "url": "https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8",
-                "icono": "https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3518,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO COMEDIA",
-                "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
-                "icono": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3527,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO HISTORIAS",
-                "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/328.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3525,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO AVENTURA",
-                "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/312.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3528,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO VELOCIDAD",
-                "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/314.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3442,
-                "_local_category_id": 207,
-                "section": "live",
-                "name": "PLUTO REALITY",
-                "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
