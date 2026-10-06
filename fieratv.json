@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzQ4MCIsIm5iZiI6IjE3OTEzMDAyODAifQ.UGB7Po9ax70s24BVmi-mG_jd6vUv1JF_FmGs_QAzdzeqxJQpcAunQ8AmTtfW9iv6XTUcAdGvUI2ssZ7YwrF_qUDPwhZYBPPCo7AwhQo6lLYdgvGCuv6n6pTM0mIlDfqXT07ZYQttg_j96Da4wH8UuSlsgLqOLD56kC0B6yGwfharpUGFMUUANEc6K7nbeifon2kokeI9o2zoIxUy1KFm9lOzv_LLi4zx3Th0NLRwDOTcNofBRUgPZrqF-NLOVxV0DdhgQxKe1aiCmS2ISNO_cbuKKcUM_bnlO113pxOZHRzUrYKv_Kk9F9o5yZtMyO0uNoyZ4lXZkW5EoR15cW7b7g/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzQ4OSIsIm5iZiI6IjE3OTEzMDAyODkifQ.Lqgkj2Z1JchQUzqJRw5qx0bueuo5rUhHIC5lw1IzOtogfuyHiWVSED1AI9RL8kOAW7AoWQ6V0SjjsNavklzfzZG0Gima4hpBoqJzNBslkndZa8MlxBFSMhjVbUWXxFXH0dJOLTGlK6d9aBBtNNNFXcNrNuaLkL461-ME2O9U_jbDCOl6SC0MIF_nOUcolwTayZiohDv3d9hcCc2MLyw-98JiJFvVZLTP835oAMM_D1q7T2gA8sf1WE9wlhpzIJbN0SqeObAtz5DVs9Jt3tQ7SavU_Rz9B8BBL78CvDoe13HhaEQ2GDgMT9_wYFHZVp5oEcBgz9CxR8GDuuK47InmSg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3605,16 +3605,6 @@
                 "section": "live",
                 "name": "VEVO '90s & '00s",
                 "url": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3486,
-                "_local_category_id": 133,
-                "section": "live",
-                "name": "VEVO COUNTRY",
-                "url": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
