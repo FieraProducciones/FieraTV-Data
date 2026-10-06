@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzA3NiIsIm5iZiI6IjE3OTEyOTk4NzYifQ.EDtEWRx57P70j0KfYOyHPf7Ilh64417TMSrKiTv6WVC-hDPp1U1r7SXA0TxF8dsUNS6dAkGzdDViyuG3A9n9-sNjZtRUD6IezdWp1GJDG0C-reD-t1Dc72MG43s_qMhVc-6fVrokVxziw34wEK5IUQ1srawUyoh_WaQgl-0yKgPsAJZq-tRLhXJljK4LjF2Aj_fMRzufIrEQnDKFp4HTKLYQNIwDmRkcqJsMQWwVmpJj8I23ahIoIYSsRlh_Y2X11hu_7A5kA4p56ouod2GulvVeR4X3y8Qy9PB5WUg5jjUj4-GA64IOMfMBzYCZS1Z0ZYhwxOwnL6gcULbglS14zw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzEwOCIsIm5iZiI6IjE3OTEyOTk5MDgifQ.Nk-0NHuVOKLukZjdlMh46ScfIjeNuQi26oGrl-Zxk3Z-x8JWpoTW4masqnm229dxpooWTpSYq45LmNidFj4lfffrLDpPdWZR5FG74pGGsrTuwiO8tJf7Uffw_8SKku2uy2ROn0PdaFUjZJYQwU87k6VSCb3beq54Ax_YlSIa0CBPTn7b-0l3CAY_PGZOAV0oJCl8I4zOpiFMoISvlB6Ee9ov_fGyo1A-YgpXc-lcwHooM3rYUSMY1hdQSlIzSD8kpoORPMaDP1u7HGt-JO-AhBK4cKv2OQHX_3_8xp46lYDixauIyOaJVg9a-JrsIZ_Y_gUUuOGxGEIqIt5hfOH3UA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3243,16 +3243,6 @@
                 "name": "TODO NOVELAS",
                 "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
                 "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3444,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "MTV -CON MI EX",
-                "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
