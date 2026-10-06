@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY1NCIsIm5iZiI6IjE3OTEyODk0NTQifQ.AV_OhNMfB1TrRQtBDtkG766HG-TFcnL_ujFU0dh4Zr6m_-TG9lkuBW4rj5BJtU-FDYK_xqmOQldcYF7V_SAi8VA6ZVg5n-1mH5iE_1jBOv8axkM2Uw08xcuFadf429hnAsNrHoonfryvog9BzI9YZD1E4h6IdWGH7QkeKd7kq5UFulEGEs3wIE41PpS3XcQK_bWD_8VSJbv2XuVc1nrd5NLjqxwIsMPZp1hyhmpfzN89k4pX_CfdGsVqm4K4jXLWfSlcy-Lchoel-Nbk2AI7Zl0jhHsy4_AD6pnGfo4oodQQG58b2Lj9ThLrJxMFDvTscQoP4PQDx5ZioQuFwIGb9Q/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY2MiIsIm5iZiI6IjE3OTEyODk0NjIifQ.ZhMRhhw_IMGwnJgKc2EFBgMQ8x2PCTHnOygoNvWZvzhlMhqRtunoFO_ZePl_mFfKPqqcgJT39nlO5htrjnHRWtqKw7A1j_NbgpqDZIwM6RDROanuU1g_kT32dSoqXUlf5XRzW9jRpyQCq7dQ_156vBAlR_-GSkSBZ6jWY8xZYSyLvnD4JFDAnCJpIICy4kUnLmFfJ-L8gmj2q6Y6mi_Pwx0Edk0S7MV52Mt1H08v2DHlgCoG908ExkOyROIIzTwUPgqSgY-3vNn0V3eHA1iCzkr5QcBrSUAH3Y3sc1duPfTskxQCZRlTdpW29Sd14OErlwRvsJ1Fn0CyfeYVEvzswQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3233,16 +3233,6 @@
                 "name": "CANAL DE LAS ESTRELLAS",
                 "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3434,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "PLUTO NOVELAS MEXICO",
-                "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
