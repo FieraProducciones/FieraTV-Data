@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDY1MyIsIm5iZiI6IjE3OTEyNDM0NTMifQ.L9gKUjDnImUheJZKwpGbePitsZXXWoXV91DmK-TpwHkcBtDBuuQpgFf_C6IRfxDVXuJxF7M_U92ZwRjF5jGz5hvSY4pmt4g_V0YEdfQ-UdC5VzVLqrkQFE7TOs5lWEhrGt7NrykNbZHqm5ltW_5zHvf4G3Yx03YhhcnV8K24Zgbuvh01wxkpghgM-1yd5zo4BNoMGqCZSeMQwL9Dtq0XJfQ0DdGNTy8Kw3ZUuUKh-7nnLI5Pn5LS6hDdJgx69R0lt1worTNRaKleuIu0lfc16LD1a_DFkSX_q0SHX7qR-GHuvsPz72FDuXzMXXQYY9k46W4sjVP5IcCySgvjssX0CA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDg5OSIsIm5iZiI6IjE3OTEyNDM2OTkifQ.FTTJMZkI6pUMkjGkR-KcGZ5ODM3OiEh0g4-ah-pcF72wvXY2rshUVpV3vlGQQ9sK6VuTnl3cSIY01Ub02JB_TjHpmEh3pnOJGuQmuMm-CeDECUzrcphopL9MVC6wsOhHQgndH2UxzrOShCVWEai1a4B-qhCGwKQ9e-m3ozjM8qHWQEod1aEExTctvwfKDXHFwVw8XhvMaGcRA1DFRIb5hNcMBO6jtDSzbbrP9pi8QOmWGigOYF3EGlY3n8r8xUzqKFLAJw7I_31ZBt97xs1tCnxy5PL1nDJNmIQeAwMQpBhTQ3jG5sMTFTCksqMsrWBRQQODL-2P8x65vap0A98i5g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4070,6 +4070,16 @@
         "section": "live",
         "name": "CANALES 24/7",
         "samples": [
+            {
+                "_local_id": 4818,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "BEYBLADE 1080p",
+                "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+                "icono": "https://static.wikia.nocookie.net/beyblade/images/d/d0/BeybladeXAppIcon.png/revision/latest/thumbnail/width/360/height/360?cb=20231226021706",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4815,
                 "_local_category_id": 136,
