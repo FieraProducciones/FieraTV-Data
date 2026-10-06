@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzQ3NiIsIm5iZiI6IjE3OTEyNDYyNzYifQ.Ol1WPVt3k6jhQKpk7e3xZ8ZZoqHiJSna-I5RLz1lnPY_TTef0mbwtqHCF5mHb3LgMtxRXeMaqS7G0F4-M0zAe5eIK3hhazXREKiqKN7eazubhhBuY-xMtdJFXKKtHbAw34SNMGl6NLsMsfb4pWrZPFK0Wfjj7BDSzotbf6irDs3u2pgsbNdUPEhTt3uf1sFnCO1rC1_IWf8FDWDjzV4jffYTdZTtHCRkYKJ3216-fhZlvabOE63EO8tBdAo_BmDxO6Nl6McN3mbKq1JAr7XJAqL3A6MQljalhikGgf6hPW6iZVxDGcR-9ReaMlk6zKUrsL1yiy3CbaonsyJbSemyJw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzUwOCIsIm5iZiI6IjE3OTEyNDYzMDgifQ.ctdIab5zjvJvhb33O4mxr-u0uosnC2A3Es-IESmLQdmBI3YUoAf4XgIpuaeWMLy8oeHXCaZClEUW4GuGqjVh22HTDy6ulautqj1-53uvWWEfpN4u_ZrKL9HzACWnHohZhw7D81QBewKcDEgoDWgjYlrn8dGXrxAXMICifyZYHAmmTETk2kxUMRcS-qMkQNueylBu99rYKHzfnGgZue6e6dCJgUWjjHSgBVnWT8e_hWkdN5XlHD9BxdPabXUUIR9uQ1setf17Jne04GMoVfja9I7MVVCiqgAvPOuJ-qiatRBKAXQKapouCN_jiN2ldXLl0f5aCKIGBUEMUOHzamDMYA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2913,16 +2913,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4825,
-                "_local_category_id": 127,
-                "section": "live",
-                "name": "RAKUTEN COMEDIA HD",
-                "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
-                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3405,
                 "_local_category_id": 127,
                 "section": "live",
@@ -4086,6 +4076,16 @@
                 "section": "live",
                 "name": "RAKUTEN TV HD",
                 "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8",
+                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4825,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "RAKUTEN COMEDIA HD",
+                "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
                 "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
                 "type": "HLS",
                 "drm_license_uri": ""
