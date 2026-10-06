@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjE4MSIsIm5iZiI6IjE3OTEyOTg5ODEifQ.mrU7Xfe1UrbvdmWPER-sQb6VR8gGHzyfA2zTEufsjuLMcDJVnKPLZ4peqpwBbOhJv4okixUjig3qLzgjAnUsOTy2rVzrKLzTPBhUs8jiCb6ho--tpH8D5Y5gGzYnFNvijOdc61BlTY-ME7d80MpDPVyW0Uos-qWm3tbqmZ9fFdOmSirGN9MBgN0Ef2kOQySye_FqjEmHoSDp00rflGxRM2H1EU3xEdiCKPhnwVSWU94Zmr5_csdXZzLS7NdmC9Lb5FMDxG807a7tHU5SDTlnpbT9DX4OaiaAO8_1LOPjdOiBrxhkAgRoCekf-SuhikuZZUmgsFQV3g0KYBdcZp-C8A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjM0MSIsIm5iZiI6IjE3OTEyOTkxNDEifQ.MtsRl5EfPqO7IKQwFpVxZcDH81XmHE629CD3xWEf5zSCA_qzaYIgMaZkAzXIFzxf0f6GC9C-AR7i8V4HNA4bAOgamfM2M3itPS88_kEvQGWsL3GfUlLVfADZthCK1SDtWi1kKP7eMNb85rT9q58hcZJ_0-ddfw3UrIntg2PKpVRNYtwC5XgKhc1RbAAOpxhOP5rWfJ41NvQWHqx-78KSFEcPOr7e7Q9LqVnvGqd2amCOiOdBvwDEvXoU90ZdvpkdGDbjW8f637PFaZhAL5_EZ6nJaFTM9ZLmWFU0lfL9Wz25lAPZonJUaAXvmTXaoNYDURitHctUiPCbJGD5FpOfOQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1902,16 +1902,6 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3310,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "TV CAMARA DE DIPUTADOS",
-                "url": "https://stream3.camara.gov.br/tv1/audio2_stream.m3u8",
-                "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
