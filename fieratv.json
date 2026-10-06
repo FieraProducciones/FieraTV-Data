@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzQwMyIsIm5iZiI6IjE3OTEyNDYyMDMifQ.NWMJiEMbeGTaihiUulsc0BHgYceu6CQmEtQ-fcizKjosV3jFZ96CiwQiwmLy3K1l1mK2hRGuU81CG-dzYO9HPfYqekyjKugb49g-Dot5SalJupPCbFijGfpWfKmGXJ4EOkxcqz2wcVdw-1e7FKl6SNP7FsWN-0v2eU5XniXUJ0kmCvapu-TS-jZEpXHZPcsh2m5hZLixMjGB3ZMRosPn9FbSWyploNUQJGG2YDGoRyvSzxedbLvE3DTX9fcPk_U596i-ottkBjd2ZHbTr82Mrq0K5DVi6UrtvZh1MVBN6_ePB0VAMWu6WfamKhn_P6M6-JLkAfcsePlax1N1024tKg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzQzOCIsIm5iZiI6IjE3OTEyNDYyMzgifQ.CzQ_MRNXA0ZHQ1vYjue2gIMNNvJLucobXL3DCL5_gkPKzQJXjvjJRJvriT8W-nXT4MSdKfdmJceTkYnWK9SoQUJxrZxypCZLtv5d8sX5JQ3XdJBPqelPk3iiTO_nltav39VekzYxmHmH6fBi5sJUnBsR7iiK5HaFEmUvRDyATOL-RuXaL4UoJnwp62uAoMz-YVB3LGGqLf_13Yo-6_n7aGQhvczw9IV_t8PcQ_q-sfeMR8WC-z4rIka8TFqP5FrLyRI0FZyHn8BlLJ4J_VULTab5UDx_8Ic0seFRA5HamthuQ41HjGHOCho7R0I-HpdO0eICmufRYwnw6BG_lJfN4A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4126,7 +4126,7 @@
                 "section": "live",
                 "name": "RAKUTEN  SCI- FI",
                 "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8",
-                "icono": "",
+                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
