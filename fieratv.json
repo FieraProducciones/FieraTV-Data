@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzM1NCIsIm5iZiI6IjE3OTEyNDYxNTQifQ.Fs_C4j6dFAuIuJtQCarFpa4iJ3viv7VRRTRQMt-eve7BtbTRYZgo0bx8kzrtoowBJuYlBZybzCQQ4EI5GLK0AkujWlYM3YMkFA77c68wLHbu3qfxKkmLmzyEpi-NGtFx_8aWzcM5CYsyC7AZ92fGCh9pCuZ8xP1FG4ZuH5aHUuSpioxyFJSfShmhGFys5HO4ZucCqJ7nhevk5tx3m3QB0cLTlZkeYsKpC7xgOso4gJElTQ0QOejOhInAOUKpbrAEhMtDrpIgh8C2ux9rmNaftvAT5RWNMlVhIMAC4V5ATq8EyeUoTzjIma05TgLeBq8ivQmQGnWKQqSNapBi8DUK-A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzM3MSIsIm5iZiI6IjE3OTEyNDYxNzEifQ.B3PUT8pTkjEZqdT-i8we5jll0M8Omg7SfSy-0W52e2IwHc1KYz4oktM2NtqHJkE1CIRb6ZW696NuJamNB7JDnz-y2CvPRvx8sS7fGMY-VbwY7SOoXlbCYF3b2e5cjpefqJUB20pYzg4PRRNOeqt_b5EycYBmqlIe6ErxT7zpNPTB4gmkm2nytGmfIsaE0FBUmSMix96vQQXQYTDi1KJQ59TZgkWwRpZQpP-LTibrSiNHzw-ux6QEZ2BxP2KUhEci0epWd3arIeegZ5kYAn3GDNSqtWp3eFM_WTcwfSZOyWIE4mYrzZ3sIQ3LdF0g7Hd6KUk6VWnTdFOZSX6NZ4NfWQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4090,6 +4090,16 @@
         "section": "live",
         "name": "CANALES 24/7",
         "samples": [
+            {
+                "_local_id": 4831,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "RAKUTEN FAMILIA",
+                "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4818,
                 "_local_category_id": 136,
