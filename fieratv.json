@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI4OTA1OCIsIm5iZiI6IjE3OTEyODE4NTgifQ.IB93q1ldmXl8hjQx7xoJrBXFrrpfpNA059fr5uIQG_dJwptx3toF03rYkbwH4q8xTa6pLLIzQ1nnLeuWdMkzJGwmCo--SayBZiYfkBhAKAePZpQZIMwIbogwehm6JDYQTBov9qtClU4tyAJKsGXsOhfeJRX798AwbdcigEIPiwlGgycC4OfqZfIUOmbKaFlwaNbHMzL0ZaS1PeGrN7DuZEgBj1hzA6yT5PaKp_gRy0Fnc69KHWpvNgZzZpGiEbx4Y8sT4UiEPMdYCVaLTGRgqWV9biexk5p0AEmmDHzaPVZA1ELVDwXpIpxTfRjjOt1cs_ejl8_PsHLZSTo-wj0wSQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI4OTIzMiIsIm5iZiI6IjE3OTEyODIwMzIifQ.UH9qbtmaFoJ4amWA0vO6l7HXpwY5dXs9SWVo2aN4PKB6VerjtQgxvGRQRrhaLIfnQUoYUNZWti5NHu95DEif7YMO72GGbV7EWkl924Qr2Pj93k38KJBZzNbOU_nRIj6qVkQVum-J45Lzxf8oEgvbSfRmZ6ru-t84xONES_aZFYDXWWvCfxe9q0esggZBB_ns5RD90OLBepIVIEAxPulDZMz0P0EV8l7ZpINHo0Nc6VUvD91JntU28XqdBgBkCanppswwyUxCiiU1B4KEh4CLhzKG31WceLVhh4tVVKmo5I2xHw8LEwZzbLuSrB2YeRhvN4GU_q-OM01dWC0zho2RAg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2944,16 +2944,6 @@
             },
             {
                 "_local_id": 4833,
-                "_local_category_id": 127,
-                "section": "live",
-                "name": "MEGA  CINE",
-                "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTCMTof2nvQmp6_WPhZwnXkIrF4Qmk3-BvI-tb9XP6w&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4832,
                 "_local_category_id": 127,
                 "section": "live",
                 "name": "MEGA  CINE",
