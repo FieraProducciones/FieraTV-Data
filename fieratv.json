@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NTQ1NCIsIm5iZiI6IjE3OTEyNDgyNTQifQ.eqtLcipNKOLcZWtACnkixAqLhWjpTK18TVuZ7fDiqkcMl_SG0m22Lde8_hxkRI-11b5uYqnT057HqiQFoI7v8geLfqiohUOzFlwk7FAZCPtAnKZjCjGj0f9psiDiJnOVHGg_DrgOrUuAf5AtONp-1A1dh7eu8YUFH6qiFeSId4l1PfOJJy2txY70kyOiQl_X7XA2TH6GM-WChNTy-JD1nQBFh0YivkN2hzqwKhQ7GTWEMkPKsQktUJc3ifgmrYtJXUbJVg0GLviKBVY3rldo-V59KEsvJchEC0s5FfkgP-J-95BA7-_VMM7lyYkK6vq1Nk-It99didh7hUytMBqijw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NTczOCIsIm5iZiI6IjE3OTEyNDg1MzgifQ.L1X24Gcm103_7RyVisX9Iy_bdX6e1a4SsrMLzmtmm__r7aShxDGod-kF-g1AjnvbYbEzrYkjDduQ5sg0HPCyIMU6iuOQX4eJmWdJsi5-PbVoXZPZ4HgpIIXFqLlnKMe6pv54DwToi_sJQ8gSJLwdtpkj1ZS6pHZ3ZIwK2O2iHmjly_Z84_nANA0grMkhkm99GpTS1E5SiVst5Q0291h8OD7nsohosh7wSFz_ozVw5hC-9L2A4JEoC-eLeFQORxOC0YPKq8V4BzaKWTw1_dMMrYsJ2ANhZ18m4ldVpHUs9CcII2KRleYvKSGivjnpinMMBkEsUKg8DmL-R4tifF4uJg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -223,7 +223,7 @@
                 "_local_category_id": 206,
                 "section": "live",
                 "name": "POPU TV",
-                "url": "http://10.140.0.22:8000/play/a1cb",
+                "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
                 "type": "HLS",
                 "drm_license_uri": ""
