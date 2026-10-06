@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzE5MSIsIm5iZiI6IjE3OTEyOTk5OTEifQ.hlWeSlYeFZEWGnRDFfOcZ9a4kQKJWeN4pDkf7l7kdk1yDea7Hxki3ZGg4ydVe8ExcDdxR5kG2Ufl4uExJdBqSrlf4edgzfoTiBNXMSDw8Yt_kLEWenWI2cqjHpD5K_aYfto12U0z8O6aTxowm1KSdGxCiJxIShFMTW35U6UGLijAGglgxUDqL_5eRm5x9Elv45TXRKuI09RacAwM0455QVulBVE7yW542HSo6xMSUqdj0vRffLL5tkwDA4fZt6jgnRmFQBBs8ptuAhTTkA3FMaoYIAjQC9PI3OOIN_s_UpDL_nC_Lp58m-fw9dps9ZPjHL-hHehBPxWEsUztfvDEwg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzE5NyIsIm5iZiI6IjE3OTEyOTk5OTcifQ.SAMFBRMBcRJf4BKppm7RWnpH-RKAW4tCrUv3C79-s19d2Jf2QE7TEpOJBhA0UqD8zxEx1Izcydtc61b0ktpPI1UknR4Wc_RScLdoFfy4iaxtrQKUhZvShI8ZopI9tb09gylWtS5-R09W63NIcqKxMj7Pxbe7RNTngiOBGXqNinwRU8b8Hn9XzjdtJVDwYCGcf4HW2LKpPQ767lXwYjVSuG416HaEQafN7rTnhZRVr8fc57E4O9IPw7qKwuxV84vnLg0ycSKMUDdQQjpGQTkkg2ScWDYnMWLX73LbUNIxpugxI4RnYrJYuxXz-iR2V654k0q9Gk4C5slnL7rwo1lkyQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3411,16 +3411,6 @@
                 "section": "live",
                 "name": "BABY FIRST",
                 "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3462,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "LOS PADRIINOS MAGICOS",
-                "url": "https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
