@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NzU1NCIsIm5iZiI6IjE3OTEyNTAzNTQifQ.MYhHpg2iZo6jfS7-oNYZ8O4UnDODo0OtF1cdaulFzJnzFMeOcKO1GhduIHHe-QKkX6HTwHS9TZJoRm4M_deVaLEdK4Ujxy3iyLt20Pf3JfXC2O1_KK-23TbuMx_uJiilY-Qd-ZJeS3J3s0Bw77_ZMbaMiPNBswvYAk3AKriUwTYEukNbXcegQdd3yp-z2oi26qCCjgZMV-nkuCw6YVv-4-i9mzCc6KUcsHUDGlVN1oz2tMVf26yP2ebpaNgXnDmEFZwBWZJHnCCrMsBsFsoEoPlKPxsK5dv0nm4rXJd8szakFAR0GArNBFO5Feod1ROlqC9q3cM-iPggwuV7yQZUrQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1NzU1NiIsIm5iZiI6IjE3OTEyNTAzNTYifQ.gJJp6W2FC0AEVgO4WqPhjthC9I7xRAPFmfgJRdBrNuDetPxehgl0DJOtY3aZ2vT6bcqOI23wVoZgNJpjscKp4F6NEYFRfXwBw3uvVwe2bBjalXBbBBtdBm_yI1wwMOQLW2q8VEHKhFdXgP8wMXlaVblN07QIzNKLJJuS8mvENdVax13H9-h1twu-Ojr6iVpdXmOzQimX1kUpBCgdX4kzhTzsARavU2ahX0d1AP-B7AOZBuRsa-Het4ByKtwMGEduVd3z2jmAeJAXLVsgO5EebNtAHHHARwb4S85fY50Rd_aYmSIbC9Acm_lIfHoMPoTBRdhpj4xqISzhi_yFvqjDUw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1257,6 +1257,16 @@
                 "name": "TV PERÚ",
                 "url": "http://190.93.224.42/TV-PERU/index.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4839,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "ESTRELLA NEWS",
+                "url": "https://estrella-news-oando.amagi.tv/playlist.m3u8",
+                "icono": "https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?VersionId=NvcsewNYrbQkT3MIOP8NazbVko9qOKOK",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
