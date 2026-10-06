@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzU2NCIsIm5iZiI6IjE3OTEzMDAzNjQifQ.B7Dmy6LfMzv5P-teBmnYod1kR1q6KscazUMMI2ab4sfNo6Fum3AT2Lpwp8PLRbqKFbWhdPAunRnGTAwryKV8wZRt2dUxnQc_2pFVeERELqiZ3NNUCW2rPO_BtdfdCXV1YiqNmr88z5Y6iUVcwh145nUm1gJdoqalx2ubVvKaLgNx6G27sh9y3FvD8KIAOEjRv69bEk9Zq7PtI2fZPWchlNVPgLdaotTjFKAuNn_G58jXlx_T4YV9gqfttkRC67NVqk_lpkpYybkCPO-WsR9YGMCKvVVUYbqjwPtiMTOcAfSk3LhBAJlaHlxUWSS-5K59heubuWQ0PJW4mtztpJYJqQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNzYxOSIsIm5iZiI6IjE3OTEzMDA0MTkifQ.mHBh4yeQ-fgCXPQV8ENZrjVtVuLWIQO_UBVSY3fmyJz2taZfncPOdAs_LWG8hx9_xTM9GoBCeC_2737yem-QLc1FS2kxbxoJpzWa3Cc9jcbvO3VB0wy9J4414ge2_1102kHe_fCSmD-N6NRxH5xzaO-tbOuIU9oolh-zJQ7NvAquymbzkfitcmh6VTWEty0LnU1YSLtXBYHjMnDrSzKHc5Mvzd0OBzkHTfC3BRNKEw5tGZ-QTAbonx7_3g6Rw_kRzSojBw5y0Db5xUzhSNQjyL50o-BUOCwqgfM0Vqfg0ZleE9tCCQYfYUe6SDwX-k-el61oET5mdzVkE_a316AusA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3819,16 +3819,6 @@
                 "section": "live",
                 "name": "ZONA PARANORMAL",
                 "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3511,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "HISTORIAS ULTRATUMBAS",
-                "url": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
