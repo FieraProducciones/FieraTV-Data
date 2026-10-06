@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDY0NCIsIm5iZiI6IjE3OTEyNDM0NDQifQ.XsFMRoZ8PEfK1esgNGKM8e5ZuKqgk4U6np9JNPknjFbSp7gW_gP2u82cG5ckzlKxyxF98z4SzpwqPkTn4i0wkmTU_rroHWOPEo60K2Qm_tBnkX_XmSA--7YBCX-k3sMYSQQVtSY9vfFXpSbd9qmYCJCaotMLXeeCML7VP1o3OA5KNSWEaGbezFJI4c5hVZZSisGaEE0lK_KW2Wy3yXEdPmeLTduziL1pBHTi5lpyIhkeqDPaTZeEocJ2vRZa24ZeeVZrM-ZqDVfawgf975hoXf5f2SgmqxJQU8MiA6rlLJUZhyz4XkOdwRXhWqDZUUnUT7SkXo8HesJVLxoHQNRysg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDY0OSIsIm5iZiI6IjE3OTEyNDM0NDkifQ.mjzDQUxYDayQpwxT-nJQrKGrT6AEUPtH_77FONlhn1w0qoaM8tF2f8DTQBT2GnQHlNjaPFbrICN0pVehDv01nKAaUUWP0XxVwv0vPKRQzIzcGbDRixLStoSMsou51gklWRYhWFmDVYL5Qrew3gcRUSsqG3Z10VJYXaacZTKudftAVyuf7v6hcELQpamZrco49pHBQtj2prUXMVWus1tXdTyz0ONFFXr0lf7p02EVtc1qdDjaszSlccLnKJyi-5NlyyQtBqtOSoNbDZCQJlBdiW3E7cUcOQXRJQvrNZiDf1d1BuNwr87IVeAwEQepQWEX1llJs1AQ9sG261uvCMxCYw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1249,21 +1249,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4252,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "Canal 5 (MÉXICO)",
-                "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-                "icono": "https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "_local_id": 4251,
