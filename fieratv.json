@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDM4OSIsIm5iZiI6IjE3OTEyNDMxODkifQ.AKwIR1rceeGMYrOpxMGg3JlbdZO3sqY8F-I2JZgk8gk8XoeX_m5OWB-uge1oInt_Ocal9Gc7R8E4Hr6XH037Q1r1kAsxygeUH28nEtesq_iygOKwKHOBkhBEZRTHL3Sy5a5L4_RyK1-7U0_xj3Ik7CpzA22Rp7rL7XHz4sU-hZ12i5H_AHKOTVUvt2tXst5VSJCxfZuXhd4cEyeYoY1AzWdWl11yxb8g7ABCJnmp86pS3YCWONmkJ-1DT5ZXiupqV2vyIqwHFaeGYX86XT0XentxvdYPSTqK1hBV9CNIu3nA4JF0wjilMthVq9fakLQl_uuA7lbGviKDstP_FuYmsw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MDYzNCIsIm5iZiI6IjE3OTEyNDM0MzQifQ.NVx0qe_JnM0fe-YBc3lR10LUhKEYYYyCfyRHvw8q6mJJbMgz7BEUuW_zt9bs3J93ysHhoKxkFE3Zg0WNjsv00NKghZuncv4ESX8k_rzmpLh1_fERz_oNIQ6H_plTZIHLiw_GA7zpRu4299tCkkn0GIHWJPL-j-KB6cCzAUw1PlnO0cgfU-XZIdu2glcxWSUk9KA0DI6UT-Rw-2MoUfrpZfTVTPQLzbmXHv_RE2kjag1POfemwWmD-7Q0I_m7FN7sM-NzqpapdRp-pX-XCuMGkn2XwPaV-mxWdk1IORQ7UcTlxjM4CwA2Nq_AQQGBBrVQLZHATXHzZ1AgZQrFwrp7ww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1510,7 +1510,7 @@
                 "_local_category_id": 114,
                 "section": "live",
                 "name": "LOVE NATURE",
-                "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8",
+                "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
