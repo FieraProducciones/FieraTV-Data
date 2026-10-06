@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5Nzc1OSIsIm5iZiI6IjE3OTEyOTA1NTkifQ.Hwh2UpeSb2117woA0WZnyIXStPk80qe0gin1ICeuGrBmQCFlOoj_k2SosjxpGDlveD37xYvdBKmSIDi-7THWN2X2_R3UHRvBQMxMFi09zgxxjAiZxEWqLtCHhxJxhJm-4u6X3xacH2YIvdtV9PdMaylIV7bNU2Xg0BCwavPwnbQMbKvGh2NJW4e3-n0t9GmGnvRoJaxTKlUnVfLL18a6xxZuGzR5YifuKp41IDh9cC-b_172_IguekkddpmLh99aLgKUW-zqOdszAD0WrnOMCy_AbX5uTMGuknJ9jT4FA4CsmSid0Q7V4TVYh8WqyhvD-lJcD7isp3rSTuf3ezOW3A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5ODAwNSIsIm5iZiI6IjE3OTEyOTA4MDUifQ.J2YM4wNEfmORzvYxpnUXOf0LoWsqyJcOajIS6XHC2F6NYgTnHo6HsdyLr2knpA10IhGKtKr8kjsbFrIRMFwrwMXSjhskDcNqhyooEk5Ot9pkYfpq5mOQzQzmMbdXZimENlaZjYAyad1nCrcVpwqcNRvQ5v267Ab35dE2VQgOQ5hEcKQMo2ZhBDP8H17FWvYUYlZQz6U13MrWbljIpeQt2G_2um4m3lZGkQLacwWSASsDCorvrILSq6OipR4ZtKmqOmHdGRdOszk7DRRw1npO45tc9j1hSMy3TvZ0INLlvTN16GLDD_eLrpLz5ABUAcw3EdOP_LYnBPMsSWko_0LrMQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3253,16 +3253,6 @@
                 "name": "TODO NOVELAS",
                 "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
                 "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3439,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "SIN SENOS NO HAY PARAISO",
-                "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
