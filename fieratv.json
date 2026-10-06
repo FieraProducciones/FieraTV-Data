@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjYzNyIsIm5iZiI6IjE3OTEyODk0MzcifQ.QA_R6cYvx8d8v30VXwRIdDSSTjSSNnQs9MzO2PA7z7z4sXawqE0U4Cynp9SQ3de5trlj_GVzXYFKxBatk43gD9rxGwEi1FOIW8Z0GfZHBHPy6xPvGEhyvCiYWNOuL6hTw3HG6rP7E9-nytxOh_rTopFPM4inYQ34SWxaGIvfgVtX38n9pLoW1-_d0i38MVF3celh5WfBR9M-vk4d8R3bNbdSNbDhqTUFkF7bgZ-ka8SObx-72jMpsCT5ytw8lzR9MVf3Y558afui5mfjNAd3v5OkNzYGEKzC6_xxYG_qcnBHj3f5f2LlWFjZpGnLPg68iF8Ez1YXyG1TN5-nIzB1KQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI5NjY0NCIsIm5iZiI6IjE3OTEyODk0NDQifQ.Os2LvBphN7M08nshzjp0v0X1L9vjNLpkpbk2H7J1_yGOpZt4QdLDAZD6IyRZKQv_cF-9iFPWCh3A_iG_u3m5itiothsChJ70R-XGzJyliqvuIwaxAjVIcs50rEnYDrh527wjfjxdjobpbUoNfslAUoQDtcuBLbkBtDHPfRmQFJyzF-Di7JQRAkrNS5W6KhJ6jh4Q4gc3ey3Ply95wwglbM2QEvnHS5uRfy0RFgyw-3dKk1TK2eVk4wv722kY1zjBIf2uFtDTUfXRjw9yL3JKiUMXSP4CZa9uoxdBLqs9TIIZqY8bi9IO09QRPyQUc-sz8kPM7dhpBZFCqEF04IkMDA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3551,16 +3551,6 @@
                 "section": "live",
                 "name": "LOS PADRIINOS MAGICOS",
                 "url": "https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3463,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "PLUTO KIDS",
-                "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
