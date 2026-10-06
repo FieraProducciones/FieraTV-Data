@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjQ0MyIsIm5iZiI6IjE3OTEyOTkyNDMifQ.PJjC445Mp5ER7wAw9n6pspW2yZ3MtFnIaobl_NMn-RWSZc_Hgfj87sTqhlgyF0cJYt460GVNRY0fRb8khy89hB3AtCnxEheuHiCu8rEMygINaXfIbtmmll0hKOgXAo8ymyc2d_rCETI_SzsjSc7j6mSGAQxIDd0dvHHE5EiKjw5ieauuySWu5L7kSrv67lv-h3RdoKzQ899B4o-T9-sgRTfFiE3kxoT2vpPgSJ4WTpEd_hk-nHe2CY45B-BzHrPT8EuWS_wlc_r-E-o4ww1WRTCR_jZnES_o4wbZJcNhHfKqSXcnXnPSM-ABSAh2gqSwDFzUKiwj_2nyHLX723MUvA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjQ1MyIsIm5iZiI6IjE3OTEyOTkyNTMifQ.AEsbg4iDRqUfpcR-XZwXItuOfCJKJhDuZU7mH27pbrQKehFgtpLT_DURx5O_XV_L-FXoEEAv17J09Vb-rtvwChyAdEExpD7uqOE70XCz-5Hlijm7n5MHNOZ_uFRWdjCcvlG8OE9nwlAK72hIS_gAt2wt6mB1U0urfSL5Yf8epkqLgDaUc1WTc_zDw7Zg5_Nx5OpFgZZkhWwl7MPDOymiQkQr0hKSKMGcQkocOA0IYY66pfqMi2I-5Hdjzb1MJDlWuMe5XHotJPXdUBBDMejoO0mxfH1nRUkApFxET9Q1AIwd3juvtC4wGbxS7kwCpme0gkWuwxXOuhxkrTfLRvVYkA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4267,16 +4267,6 @@
                 "name": "TORTUGAS NINJA 24/7",
                 "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/417.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3530,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "LOCOS POR LOS AUTOS",
-                "url": "https://jmp2.uk/plu-64025592953da40008bf9238.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/315.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
