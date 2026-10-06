@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzA1NCIsIm5iZiI6IjE3OTEyNDU4NTQifQ.FUUfBduG9F-wa1uNHiIrkzBaJdkcmIwFKBG0uzX86p7k-IJn3wyXNC9rjpfKTKgZtvbKqnHQy-ecGpSEA9t2KtMphmeR2GOYuhUmsETt14r-Npeni0ao7xa1XKyR7i7m4N8vwSLQioo9DslU3zKoTPs2e1h_Kqoh-9yh2-TvIaQFG9tODCbDIBSRLxOVSobvoZaPwwoXk7T8SufzRHE3Rl5qVfHKVn_fLMKlMS4dOYja6dAtTzOEiE6WkxQKK927lVEM_9g729QSyV3U-l_qj0bhuNPeVg6gnm2JKSCL4cUKLMxNIfoZtKPAdcZ_XtDrmoJ5OGpFc_z9F0ZsQ-cTPQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1MzE2OCIsIm5iZiI6IjE3OTEyNDU5NjgifQ.Z6QTSeP3hbNz023zPR6QTN0nLRrfCHq4WwZJQ50aL7L4Bbz5tb-5gficZlqi4-d67KX3sIrhVmec-ti-gPZ05pQRQYyOz0TdcFFv1EowaLVaXvKaenVhNYsQHa0AjAskYYPC3gmK880g6tXGjNffxXo1q8hjdcjBSxvW_F5kngOIiP22r3aDT-Z0pTvNPV-7n2lttYXe5h4nithxzgBfwTPOIMqj83xIlE01z_rfHr4ew3-_AlUhoa83E3D1jqtcWx5pHbexJSk5j-AuiJh1MuJD5ObNuxrU7FcSQ2EHvSpSmLh9nHn7orMMPGDFwROmwjk4hxN-Z3DuGCJA0STiRA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4137,6 +4137,16 @@
                 "name": "RAKUTEN ROMANCE",
                 "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8",
                 "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4829,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "MY TIME MOVIE NETWORK",
+                "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTRxTrxTB3fxvZBkvis8cgHYsC0vMWc3i2SZEzX-EwHWopnonHZByUGg-&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
