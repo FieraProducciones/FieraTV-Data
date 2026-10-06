@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI0OTc1MyIsIm5iZiI6IjE3OTEyNDI1NTMifQ.QinNy-xms1bwe6gwH_9L4_sXLP77Ej3Gpmx2I3KcS9dklbPH-q-bdil5QZrorChoZt_5QoLhHHXW4tl50aaDZED9r7V3z2LZHgEgYC6rBQOP67Hfuibxf9xKD2HSk6-2zPYSuLy70dNyklapF8IyZlXoxn7ofqcmmHcVNj1TUTox1gTPtYhx3l-d1FnS7M94AFqz_NzXJruRq86eGIJiay36tXmooO1JKW8vPD45_jK9zXMnvxUJ6uvu0M_75rwiNIfgeMbFW3SJ7Ck9jE0dbsp3wvgTKlY6qrdFcx-RN9qZxCG5rRGKgWusW5Vn3tqsKvGLjzCyXGl1ts6EyKJt2A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI0OTk5OCIsIm5iZiI6IjE3OTEyNDI3OTgifQ.ghfUGjPWJIRCCMUDX1x6AY1vEq8l4GHu7VNbkyMmVNIqRjHgeHKuhbUSQreMuZtyqhT3Zvy3bmNHZCEHOnPMQFajWGiIBz2C5EoQutHV58Vr7-ywROVHMqiiAw-RkPqGdIyDRCyV3Fd_-1O8fG1mDNlEpfqnVGb5d78npMoynNyFb2SdipXG_38dg5r44p7VaS9u8wX1DOrUNIJBP5NmGEvuTAbEiOmgD9bqGXuzZKZD5_BVI08Ti3R932ubYqW9SKE0saOElz6fd-UsY4fidK5PWOtRPRUHUM_Z_JwT1SSemfsDCtPw1wtEaNTiIRaA1S1k4kvBeHobiCA0xJOD3g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2985,6 +2985,16 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
+                "_local_id": 3411,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "LOVE NATURE 4K",
+                "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3408,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3011,16 +3021,6 @@
                 "name": "HISTORY",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/310228.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3411,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "LOVE NATURE",
-                "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
