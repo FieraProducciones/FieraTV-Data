@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjE2MCIsIm5iZiI6IjE3OTEyOTg5NjAifQ.K4uGsxvbvqzBLrzVl_0hA66LkMCzx3yM5858pJLL7AJwbSWPTHrDrpDzauvvzXYYDHS-K_iPDGDbDcu0vDMDscU8F9CxBkUUw5PiG8bYXFNLKlKJF-2b2JbPDoo5c2GX2FAPbBD-KEWi0miN1bZK5On32xeSnCRbQ9my4DAD6K8suG33UOI-OxM8hAHZG7NHwAFi2gLSfb7mGuMSMBUh_1dnkfv0ZIba0BDRj8T3q9BLCky2km39Vz1L00kL6XgJwMKJcVUSC8ewJfDyef4esCb9YDXZY7sVNNY6L1W3n4y31xOW0Rt7j-dfkxxEyvj3gAM_6uQiACxIdH9dk_ztOQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTMwNjE4MSIsIm5iZiI6IjE3OTEyOTg5ODEifQ.mrU7Xfe1UrbvdmWPER-sQb6VR8gGHzyfA2zTEufsjuLMcDJVnKPLZ4peqpwBbOhJv4okixUjig3qLzgjAnUsOTy2rVzrKLzTPBhUs8jiCb6ho--tpH8D5Y5gGzYnFNvijOdc61BlTY-ME7d80MpDPVyW0Uos-qWm3tbqmZ9fFdOmSirGN9MBgN0Ef2kOQySye_FqjEmHoSDp00rflGxRM2H1EU3xEdiCKPhnwVSWU94Zmr5_csdXZzLS7NdmC9Lb5FMDxG807a7tHU5SDTlnpbT9DX4OaiaAO8_1LOPjdOiBrxhkAgRoCekf-SuhikuZZUmgsFQV3g0KYBdcZp-C8A/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1246,7 +1246,7 @@
                 "section": "live",
                 "name": "BBC EARTH 1080p",
                 "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+                "icono": "https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-Meta.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
