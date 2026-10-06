@@ -116,7 +116,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1Mjc1NCIsIm5iZiI6IjE3OTEyNDU1NTQifQ.G4CCVDQwDsLJNKeSJQtE_ulUoSLOkZ3r1U8-xc_xjdLcC6gzZYiLKzyPE47Xo0GiDXS_YpX50IC3y6kLbZdDwOHaX7dAcyus6BuzRXjVSLSi8okatAaQjWSrMQI2uZxCUeZcpU4WOABOcpxnOwYtJUW-Kxgp_nol-IBqy6yn-MlRQIuvoSkqRKKH9xD_aLI4VEAFkB8qPBrhY70JKTTG2tuHUdw4WcGTxRcfpXi1SCv9GlJS8FHcOq_IE0YeHUfS9QNaxI7MQhfsMABZjx3Qij9AqbSm7ykGZ6VwjgU9nIV3DECc6fUbRDOFeAE_6P8TE8_nOkyXMOizLIj5xVHskg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTI1Mjg0MyIsIm5iZiI6IjE3OTEyNDU2NDMifQ.kCHAEFP6lxjiqb759Rq6HRUxK8S2bfEspU3HRCFkMmYicqtYKvV4i0baSgx639jILJNdpirJqTFWGDMhLOgLG-4fqLGeYY736vJAup3AJQSeLeRBmMadISWZnbwYv3fpH_rwG_iOyhfMR3cDRfj5QHC1xOHG3kFGdg1jtPJBxbHmgmCtQU_ou6Fdy6OHkN68f1ePEZ6wplE-AuL4HNENPcGtgxNUB_zPzroO_dN3-od_MZSAGDq2GZxa0lUxllEBe_PE6PE6Gu_vO3FIyatASD7nBpQ1P-noUpCPcInvc6lQLWzR6dvZ8vwmmv27EQrD0WLIbwYqXOP2DjK7xB4owg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -4117,6 +4117,16 @@
                 "name": "RAKUTEN  SCI- FI",
                 "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8",
                 "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4826,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "RAKUTEN DRAMA HD",
+                "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
+                "icono": "https://i0.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
