@@ -1,112 +1,5 @@
 [
     {
-        "_local_id": 105,
-        "section": "live",
-        "name": "CANAL DE EVENTOS HD",
-        "samples": [
-            {
-                "_local_id": 3971,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 01",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/chunks.m3u8?lb_backend_hint=6",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-            },
-            {
-                "_local_id": 3983,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 02",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTM0MDk2NCIsIm5iZiI6IjE3OTEzMzM3NjQifQ.R_NMnEsyR8IhUnlZ2lk9JFcqViGHBJKC0WB3l97qK36z6SxFe1VDl_QnAcm4VPLgJaCsT1E5YBZrU-1ljXYqoskBPnf00hZWOrra81blZEarn452gsHbot9qml-mRVZM_514qSjYBlW-95Fxwz2yo45gdZUonfJiFIWxVH9eHGx4E_xKT6UYhjb-HJbrxL2OGz5-Qx4BSxa09KB7s2knyXL_PppIfWoqjfqgDjHckytDxJO_GibAU6rW0XFgR3E_RNuDdyureG-WrKA3Pu-Ihh82lKoSSbQYtPe1y4X8LAnGyr6kguk3TueLAsodXaZs6-wDtpfFYcF-dsNO0mSCBg/manifest/video.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3984,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS SD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI2OWZmNjVlY2ZkNTU0OWRiZTgwNTA4ZWFlY2MxNzFiNyIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTM0MDk2NCIsIm5iZiI6IjE3OTEzMzM3NjQifQ.agghb934FYjRY_wrCe_Pbtm9PHwQXgpL2mfUICZ7eqIU1panjzGK_BbE-PbcK1HfaNikr2rHvXIGzCxBoKR_hRZqR88nHAcdWOhYJjLHrrfcZW64840Wy_agsb6UYxk4yUzQhgTN87Dr36p-qzbVrs6MALKf8sux8yx9imyywKtgnbi_C-71Mk7thzVG-IxPgxH9UXJ9fHMGwtoScNDybRlqZ0x34D-hsxB83Giuzz88yh21l23uiy3i25dcjQbkxtSaxydVw4MfnTvNAg7tuHgTpwfyrsQiUddKQKfOxo_0V3z1QnZ1wRYkpK3Z40iKQ0pTZDJTJ7BduK-BTu1_-g/manifest/video.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://api.cloudflare.com/client/v4/accounts/81a3b09c986b2679b7dd9c9bfe2b2c44/stream/75fd9deae2995004865c4d29750d9207"
-            },
-            {
-                "_local_id": 3143,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 3",
-                "url": "https://rumble.com/live-hls-dvr/YToT_oEDdSc/playlist.m3u8?level=1",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3970,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "TIGO A",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
-            },
-            {
-                "_local_id": 4812,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "TIGO B",
-                "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4814,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "TIGO C",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-            },
-            {
-                "_local_id": 3993,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 1",
-                "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-                "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3146,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 6",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3972,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 7",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
-            }
-        ]
-    },
-    {
         "_local_id": 107,
         "section": "live",
         "name": "FIERA PRODUCCIONES",
@@ -146,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTM0MDk2NCIsIm5iZiI6IjE3OTEzMzM3NjQifQ.R_NMnEsyR8IhUnlZ2lk9JFcqViGHBJKC0WB3l97qK36z6SxFe1VDl_QnAcm4VPLgJaCsT1E5YBZrU-1ljXYqoskBPnf00hZWOrra81blZEarn452gsHbot9qml-mRVZM_514qSjYBlW-95Fxwz2yo45gdZUonfJiFIWxVH9eHGx4E_xKT6UYhjb-HJbrxL2OGz5-Qx4BSxa09KB7s2knyXL_PppIfWoqjfqgDjHckytDxJO_GibAU6rW0XFgR3E_RNuDdyureG-WrKA3Pu-Ihh82lKoSSbQYtPe1y4X8LAnGyr6kguk3TueLAsodXaZs6-wDtpfFYcF-dsNO0mSCBg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTM0MTEzNCIsIm5iZiI6IjE3OTEzMzM5MzQifQ.lJWzMO9R8Eq5vAnL4MOnhpXWqSQWNTyFwI4J8ZQLh18br-m2udUxJQ2OPFu7SKGR524dFvHwlft9K-jbAFcIikOOAgcp4dRfGF0lKcaQ4C--xg88Moupto79_wxgK1ipokuly-8Z-r3adi1UiLhRCc2GdoD1OnYcGnvZ4_VQ7z7qJj2Yt2IUIfhdv9UsL0PLlXsBXTe4X0v0cvBtnJktuDESawlCki_pSL4BSP7VK7zSu6lrGPKiqqT45Pmap_yl9SuKgeGwnr8rXz8k2o85w5jet-LhG8_2zC-hFoEHkIS7bqB8om306crRJgmpcTgB0RTaQ4g0xZ4wQ7Ij-Slk3g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
