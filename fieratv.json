@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTQ2NDk2OSIsIm5iZiI6IjE3OTE0NTc3NjkifQ.Gyl8P-pbjLtnX_XEkgFnqx4KzU0x2W_PMrjrd00CZg_HY72x0N2T1K8OMQ036wfdB_lp3wuHxvB2Wk_C4MTP7Y8N5owJD0vY0IZe5GtkJ0QowNCRGdFnMBA23LmLrk2-lDiITfqO_DsqYd5ZDydDK6ndUUzqghsEXc3VKhaWO03AZI3kqCl3hJcvjR6_63I8RIXgyoF8WQ4J6v8lJwIn2S63PjOMizRsu3Xqt9QK7MzCJOemKDW4tBOTEiJ-jlbNORtE-Jc_jNWUYKFDrxupU5v8fHWKJ5v4oLOVH46i8bVIKRdlo2VbzyIyslaZjyK_mNHzyTpSpuW54GKRj2-eHw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTQ2NTAzMCIsIm5iZiI6IjE3OTE0NTc4MzAifQ.nlf5ygpt9GV4SSDNfUPeWfYX8VnRNB0OgnzdqhOwQWZtNod0LOF7rgCE_-bxg_L0egBC3bLI_38rIx6aChIwvEFhW96IhfREmkGJCozMtKa5oRRm1Yy-90LPQdzQZvwj76IMWOFNxtqCvDC_oJYTDinz9_jIX5cVOstJjS18dXJkdLV6JCy9fISJKRIkSAQGaR0ooj7V4_flDi8mFg32YjyeHTQYDWOn799sMkE0tRf94cVZAX9vnu_WYJRHpnlC-eIQeQwrjPR04k_Ie7wPlXC08GilnqqRQ_shAiEX6f55OplPgXwRazv5NcNvQffLEUmJvuh-VEimt5Ex1ZkJCw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2345,22 +2345,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3373,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AXN",
+                "url": "https://wizzi.fieratvhd.com/play/a1uu",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3375,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "AMC",
                 "url": "https://wizzi.fieratvhd.com/play/a1r7",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3373,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AXN",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372919.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
