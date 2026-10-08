@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTQ2NDg3NyIsIm5iZiI6IjE3OTE0NTc2NzcifQ.HXGrXPILj9xXcBQXb5EYPSNvI98z0VWLvhzfird5jJ5dxQyV-TGp4KrrDkM0FL4YGLwbDZmyXx8cO-vbT3w9xBDiRgCoOoEmJERPeEUt6jYdR2RKAv8ZvJWfDHV06f8ORR21kbam__xtq2SQYkixvysl4CJWxeVUHBt6iKecYP65qA4HfpxQ-oT10C7uTCGvC8zANLz_edqupr_ikGVEAGJ6wlHA_M4eQw1-685PKlb6XIe4lPun2HOCByNszVHVKIDJIifXVFLXK5BPmrcFplxAQSb8C7zMdKcHvbm5Ukyi65HWdbRBJaIFGBDzTM_99FajUsk9NTTIqBzZ8tYr5A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTQ2NDkyNSIsIm5iZiI6IjE3OTE0NTc3MjUifQ.aupXvECJ9t259vXIalopKKGEmW47fI45scqaFM51E1llr6GmWOV6J__0BtXNKNTNAg-z88-f5Tci8NZIXBmU-owoH_ZC0MMC9PMb5VC7XO1yoTQ18F7-mk20KdsCmQaggzt1O0TwzyYpuOGMWuNe_f1EctsFjkvaAvEfVNwVZqjMlL13v3wPa0hCZeEjAcDEBnWcqXvoj-B02aEt-tl5aI4vQ4t8JqUFQn8y0j8DyM5Wv2SsjeYfJ5-JSkNFI55LgFYda4wubvzDhWs6KM7s_TGzB13L1I44l5ThITFYgyEjWKCKDxDJ2vPlIzQPcWDIqzA99r0ZqbC4b3nLrlEA4g/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2335,22 +2335,22 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3374,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A&E",
+                "url": "https://wizzi.fieratvhd.com/play/a1r6",
+                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3373,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "AXN",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372919.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3374,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A&E",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4139.m3u8",
-                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
