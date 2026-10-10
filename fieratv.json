@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMzMzOSIsIm5iZiI6IjE3OTE2MDYxMzkifQ.PV0HWW9qD5axh5cS-aVtpOjSE81Mz1jIp6y_FjFYEK4JZieuu-SqEbqMnXWun7dRnbaAkdCDhLCatKRyghXiZgLoMi25FWJFErSxFVlH6y28Lu7BIsQrL10OkphM7dnOsoPCds7HU3qV2LR3pfrGgZwUvaLh1X3IPA-CCLC0gT2wXQHnPCwVqrnZ7nPCT4cuq83IWhNtri08B8-gBca39K7m_CTB7lbFsUWJz49Ik_iF_XZMZTXzE9q37JmxX_8vf5w4lhkJi7cWErw7mUuyEELreYJArEW49vpC2c8uQ01iwSIM3EPcYleae9GMfHK4wAxRbstc-g8OVr6Qqo6ArQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMzM0NyIsIm5iZiI6IjE3OTE2MDYxNDcifQ.EesHpGNYF38VLbnX2pXvRbhYpkPv1fi9HAsa1uhFuIUjhljltuXv1yjyoqjIQrTYXnrZTXE5cvQqwP3gkndjsFRSYJnQhErtLm9utUI9FFxHfj4m36lrU8LWvZ0plOXIeOwowj4rnXm1I9KtUxUf2XBi6D2WSKW_uxkXsi_aUQ211ieNqL5zraz8_n60vXzZAfls8nZpwMoAr808pqJ1f2qUVfXj5OJBF0cxIDKjk40GGJzdLwe-5i78ljAoP32LSFfUSnu98lOHIEprshWIW-Dpo26WuRHLtjQu0UmoB-Ag-xDi-Dg_25n4NZuRsMP_wLCGp8QZDWhqmXAJHTNJXg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3689,12 +3689,7 @@
                 "url": "https://wizzi.fieratvhd.com/play/a1sl",
                 "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                 "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 4804,
