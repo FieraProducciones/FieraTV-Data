@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNDQzOSIsIm5iZiI6IjE3OTE2MDcyMzkifQ.BhtqKEPTP-iiTBfju1Mki6Y4lu0fLCiTzmsJpkLVHIAmMn33oAsApBvTgMUKoFTgOnVRwa0BpyVkg9Z5rSqEAX6dknxEExNuzztnHezR64ZKLX4a0rGQo6lDmjFTQEq5vvr1y6i_T7BHl52-MB0fIgUgE6O7mkrJbjh58QUjLXHKySnsx329SvQ0PGj88PWHmPD4g7HdE0hoimX8n7sjVR0JH4oLwu24E3w8XCm39YTpHRTIdrUv5Kine-PJ9Qj9uwcjIbUOQqXXyS4cbslg06DJySq95h7iMWfZe7w_IEpFMg6u5PoEjqTw9Q9kRkzKEYxVQwYTRGAfYFiY0qh0oQ/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNDU4MSIsIm5iZiI6IjE3OTE2MDczODEifQ.Tf48FJ23C5fNvz7MhC6cy0NfogeEEVMvrGUQBDHrytSRYUNBZPTNF4wmTxXSe_HVEDAlcWVV16RCH9az0M9l2uNeUmOHC61ob4X9WKf7oydJ8vokxNb_3eXtINxmMsZciFImOINnOrBjky7Bj9srGeZJPHm5ooumKG9TEt7XaK560FML2sixyIQBJst67hrQqj_fnUSIwgpNN9FKR6SUYeRUo-D-JikeNQ2AzkARrtwKHYZR2RrbXqiFtNWIGPlez1ZkWF9c1avCHDZy3YgkzfmyuqPsEd71qdejinwJ5P6lI8AHWSFGiwTnh55KQ_RWDA1cEeFob3jLlPOdkXTnsw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2271,8 +2271,8 @@
                 "_local_id": 3378,
                 "_local_category_id": 125,
                 "section": "live",
-                "name": "TNT HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4223.m3u8",
+                "name": "TNT",
+                "url": "http://10.140.0.22:8000/play/a1pn",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
                 "type": "HLS",
                 "drm_license_uri": ""
