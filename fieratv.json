@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNDg5NCIsIm5iZiI6IjE3OTE2MDc2OTQifQ.OWmhLOy3sjaTqaCpT3CI15VZIsZng9or6VEwyRaXAtaRxuVI6YoLOb_8Yp1xCRHhTb14odZRE-DC-A9jApFxUKiQArlF8Ks9KM5NRHj3enY8UYTSY-3QhEJSssGfxrsUwZqlILJrFvsKmlMS67VOaLC04BmEBfXErGjTcXi_jPFZPTzlKcHjNI07-ncRFOS_48OSb1VL6kt_J8KTVn67mQIfKt7LhzZcmTIIvYTnG9BJcDbSHgSByXwZpSdh8-j3HjbUszopgPN0ul0QgJXyX07tUdBWUvhCpkUPYUFjulfTf2BfYkzkzoUEtXwyQxl34gGa4bA6KV1kQvRPGRuCkg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNDk1MSIsIm5iZiI6IjE3OTE2MDc3NTEifQ.fDV5hEZCR0JlOuO48Bt5WEb8N8EWWp-dOoWcwH6apyuvZCAD7WWB6kevtV9AlAclahGNvDF2DJskqFntzXlSUO5xC67uKBWziOL_t3YeA4BWIX3rEWxk--2A0zyuT3zcsMyL8_xE6STDHwH66i8-TQJxYU2_JNWR9-xPwgdtq4m9_CMbYW6eKIpj97qB1ie-hsARpnbBqgNIThfu-ocFBOeab9mgpWKQ3idm6yxWsrRzph9KBBEoadQJc2gfXHtGC7d09_TcFRcuQcyGSd7imBmiMGe_rUbz4M-anZfN40L0Ah2z9Ge5hl1fRq_kTOHdNSwRJshmPD8z2BzW5QTI-Q/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2288,16 +2288,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3380,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TNT SERIES",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205831.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4686,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2454,6 +2444,16 @@
                 "name": "GOLDEN",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.ts",
                 "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3380,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TNT SERIES",
+                "url": "https://wizzi.fieratvhd.com/play/a1pf",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
