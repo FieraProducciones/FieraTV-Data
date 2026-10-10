@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNjA5NCIsIm5iZiI6IjE3OTE2MDg4OTQifQ.UBBGhFIdgkXF8yLM4I5L5qUboseYKXZAO1VyB_xxRHKF8V50Bg01gdqG-Cr1cVZV2lyuYQmdE7yA3_EXjAQWZ14Dm7QNvlhxBrfRMHVhqd3jGGWNE4yRE8EUWgrCymKeFM_ogzOEHTHE6oni6B-OBXHlA-NC8qwKP5mWhVmb1VDpij64OKYXgGT_Y9LH5owkDOQyQgIy6KX9Vw3AkODLvKWzRXi9P6JiqTnQrFdvBaH3HM67p6Qr95BhTfZfdJAtJydenyj6bA9vvs9jvP8MNNlctIzERkNlaF9kxf3OH7ubIa25IeYwCfUF2rYQH9I7yUm-6fLmtCa1-VHGSpzKig/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNjE0MCIsIm5iZiI6IjE3OTE2MDg5NDAifQ.kOO74NlziVV3UYt2ZoKig9mgBTM_I42m5X5Uc23OZalhj7zcxxeIT8de7gOOWye2wF10xMLH2FInPctvkSgsSzNgEyKY-PpyQl3ED3Kc6-06trBA4dhP256lV5Zt8ufZ_7zdDP8CsyFQYzxfdXfWOwlhBcO6r7dJ4lFXyYZ9PcONDcTX6EGJV5ZcU4oGqhhlJWQKB3sRdw_DUhhNGh1z7EB5M55xioGuPXbQgQyPZDhACahIKzbsobNyQFOvYNAJVPkoCqM9pAEEIRKRNFGBTseZGwA5BI2NIjRY5zaOFCop0ujy5Qm_1-mYr4w-1y-typZNmSfHVEJa4t4Y2KqmMQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2358,22 +2358,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3390,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "WARNER CHANNEL HD",
+                "url": "https://wizzi.fieratvhd.com/play/a1t3",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3389,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "A3 SERIES",
                 "url": "hhttp://lotv.plus:80/fieratvpro/R745DQeSrm/199312.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3390,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "WARNER CHANNEL HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4236.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
