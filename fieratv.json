@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMzA5NCIsIm5iZiI6IjE3OTE2MDU4OTQifQ.R0EkMyTiPEDLKa38UFFf3gHyBBJfEQppxLGn_VzHPl7x2MD37A09J8t9inX5xZEkxDgQpPaiC9gSfm4BC65Moz48KHMeGgpaPO9VTbqC4Uo-VWzOodUCh__VEgEZxKAcU4YdS2d6PVuG586lqLilIIW7KiC4r1FYmtCuL3HaWT-JzM6WO-vC0C81KCdET2LSUp22Df1QpAeJAPF_5_uHOAl8typp1hHOETjxI6h6BpPCOE9a4zuvejYq42K-EAtb7FYSClycJfxMJmjmyJ597wUf0javUZ7PtG0JBRdpp75mAp0_1S5UR8xCpb8gIbcY0TZm-G1ZMYfNGhxL6mM2Tw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMzMzOSIsIm5iZiI6IjE3OTE2MDYxMzkifQ.PV0HWW9qD5axh5cS-aVtpOjSE81Mz1jIp6y_FjFYEK4JZieuu-SqEbqMnXWun7dRnbaAkdCDhLCatKRyghXiZgLoMi25FWJFErSxFVlH6y28Lu7BIsQrL10OkphM7dnOsoPCds7HU3qV2LR3pfrGgZwUvaLh1X3IPA-CCLC0gT2wXQHnPCwVqrnZ7nPCT4cuq83IWhNtri08B8-gBca39K7m_CTB7lbFsUWJz49Ik_iF_XZMZTXzE9q37JmxX_8vf5w4lhkJi7cWErw7mUuyEELreYJArEW49vpC2c8uQ01iwSIM3EPcYleae9GMfHK4wAxRbstc-g8OVr6Qqo6ArQ/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -3682,6 +3682,21 @@
                 }
             },
             {
+                "_local_id": 4035,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "VENUS",
+                "url": "https://wizzi.fieratvhd.com/play/a1sl",
+                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.uy/",
+                    "Referer": "https://portal.app.flow.com.uy",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
+            },
+            {
                 "_local_id": 4804,
                 "_local_category_id": 137,
                 "section": "live",
@@ -3750,21 +3765,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
-            {
-                "_local_id": 4035,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "VENUS",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.uy/",
                     "Referer": "https://portal.app.flow.com.uy",
