@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMDM5NCIsIm5iZiI6IjE3OTE2MDMxOTQifQ.Cb5GnG0h6IG6cwkC9Pk_A_BNbPJQOu38Hvh_pHl8h2slSYNteM9F7xX3aCSq7vz5oEqTJcfBL5OgmmINckXbFzcQJV6f_A-uyV14mflv2Pp4QaOCjVt8niEMpj5OClaSwdf_u3dOTap_xVwJ_DAJV4PJxHyrtWYryhoY7XBquCJrIZWLPHA3UOVxwh4sgcZN5NkASEuL8W6-5srQWge76sWpiciYpUJpouKevy-bkjOaedTugzCjD25r26nb9sSn8lVrwDCb4L2foJYW43nXtQGPHR2D01axns9vN1LyQirO8ITal1SjDikLVgm7WPJcJADXkXBQdbkAPmxW8YtFhw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMDYxNyIsIm5iZiI6IjE3OTE2MDM0MTcifQ.hiMAUjajKTpZvpINRPkPDNLn_I9ZETkpbUchDImw8qR31xVWOLaoNvAUhGw-Iou-4KBmd3Bkac87GeUKJHl_KqoNf4JTLgNpDmINVPuCPoc1FtZKhJJbJRjF_abFiEs49fZuwoefzLUG6Sa6-c1gJKjnBOI9P-dX8AGt4msUbEs-B1Z9EtNJZK0JspRvXwbH1NGGwc4g5YQTns9w3nMff6_Cu_2Jz1_BYrjbWq7Mko_sRxNOJKzLOQmeuxbwqpT2Fx3lpmysa7B8lZG7ERlJ8lipF-86O816RhEoJjDH2RvfwxkNAo2wnpapw4TBgQAuPLRtuNYrEXOqbrTojXq1ww/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -1333,123 +1333,6 @@
                 "name": "TVE",
                 "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 115,
-        "section": "live",
-        "name": "ARGENTINA🇦🇷",
-        "samples": [
-            {
-                "_local_id": 3281,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TELEFE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3282,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "AMERICA TV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/356874.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3283,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TV PUBLICA",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9861.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tv-publica_a65fc296651b4e468cfe2efbac6c1b9c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3284,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "EL TRECE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/69857.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3285,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CANAL 9",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9852.m3u8",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3286,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TN NOTICIAS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327044.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3287,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "C5N",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199175.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3288,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "LN+ - LA NACION",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327039.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3289,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CRONICA TV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199178.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3290,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "A24",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199173.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3291,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CANAL 26",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327050.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
