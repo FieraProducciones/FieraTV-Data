@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNTQ5NCIsIm5iZiI6IjE3OTE2MDgyOTQifQ.SWz8xBzC9gypuqlCsRLWeUBBEN0iE_rUjsDEzDGfiuQV3SRZj3sn0aWsQst0cbMOVUGZxie36cr3EsMKVfBtJiOip5OZP1yqS55sIhuYMFxSvOeSC5ARj6FhWsu_JheRv3vjunutQ7BuX6sUaHHwD6JbOG81dEmxdSRipQKolu1XwYhXWkaI0Mt22zS1JmBqRyCm14f_VoLHNIxw7ZJWLViaXDe-QOy2BDMEHhqjTW_UcrMXWJ0-_U8tFvAGrNqAedquKYYjZfAVH57YHNMYnXjhHP5PdRyOcrXpAs0XLoId4dVcQSDKNEaX79SgOO9QFAmzOAMfDQ1HV-yKmbRujg/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNTUwMyIsIm5iZiI6IjE3OTE2MDgzMDMifQ.EMNXVxkkJRRWMvHVg89bT0x_ukyxFljDKZcI0Etc7WRjcIrhfUBdjjwZyYGa2P0sdoIHYk0ktU6PbenEOIp_B1Yw0SdTFCgLh7Ic6ZfPPAOe38oqi7hl6halQbambTfZxOsWNvYtaaN4LaEvvwEj8PCe91UoFR01b09SNwBLO9hqHNT1csCOUgCfh-o1if0H7Zvaq0KGVxAo_Q8A5hrW5vrYj4Yuqh9RBC96tHe-E6OQ8xWxGWQ6_cnNhRzGZ0zavnJKf1w5YR-5r5LIGDqk76Faj-mTCyY3ctO4fSdIayJxm0R5safwRQEXnVFT0XbnY0-_q8g4tglmCsEh9pEwhw/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2328,16 +2328,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3385,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "FILM & ARTS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/3812.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3386,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2454,6 +2444,16 @@
                 "name": "TCM",
                 "url": "https://wizzi.fieratvhd.com/play/a1si",
                 "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3385,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "FILM & ARTS",
+                "url": "https://wizzi.fieratvhd.com/play/a1r5",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
