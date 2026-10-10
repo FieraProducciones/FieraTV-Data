@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNTA3MiIsIm5iZiI6IjE3OTE2MDc4NzIifQ.jKDgHmSTHbauDhulILJoD8divBsAuHdWa70tHu8ZU6IjQLNeIdoHlTx8ynZDCJZVS6isD8rfPNRYHsVLG34Ie2Twe7NOYJsRUUP3gJKa3MEIHvsHEvZIhRNXYedhejGfq1wG2fVPlZZt3T7EC8tkOxsI1uI6P4UrZLau9xBx1EyC90t-rNQbUWTeVos_7_qsHpenVv_A-f80Ylz0zT9YO4Wkil73OCZ3RgzNNb2dVYnox9E9cmnmLLFRTJbvPVAImwJa8kegNZlo97tpiiiNSLqWTEmlgwU_93grbazHBOnpH4QZmbNGjatKCNOVO3cxTXXmXOBagmp5edgp0M1Naw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxNTE2NyIsIm5iZiI6IjE3OTE2MDc5NjcifQ.hvWLvE9E6AxR4vSAxg1jRN9mBtDoaYOuv4qaMT7ismnL_mCSR8gUBTu_kG2P1uW-QoaAsJvA_4JmuRvP-3Kz-F1SlulRqQyJBEvxfbeNKk_86bXZKbrJAA9QhJpOX6komffywW2kkwH3znVxksA5D3OwV2FoW5OZcTqKzUhZCPwGx-qcOPHDx9gTVs-LYR4IpebNt9GTlEhmEbRC6CWQ0HfJWSdDlu9bR-Z5tpnbIxqZqCmJjJ_UY8jpescUpgOOF5XX2LfTt9wdQHosIFlZaVfBRzLUsjFUc9ENuKP2_Uo0zwAZEXeaLAKKizA6Y3VqyLOk8WyKOxpHmVlslveHEg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -2312,7 +2312,7 @@
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "UNIVERSAL COMEDY",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/128.m3u8",
+                "url": "https://wizzi.fieratvhd.com/play/a1tv",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
