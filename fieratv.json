@@ -39,7 +39,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMDk5NCIsIm5iZiI6IjE3OTE2MDM3OTQifQ.RYEa8LMdbFO8pciMbCnDoyRb5bnh9WKzfQ7U9orlGkurDkGyxldYzske71Xoj7lTPNp8dGqg8HglmXMyTfBEhg_RFudeDINDABZb5Dv6mN8BEmclBO7cyWDfniPOzfwCdVkXlFS8r9IoEM2SRWyFTMWG_s-SDOOOMclsTFjxsgZbMdkmN3azIcKlzqUIGNnqLPtX5TCpLV6_FO_gZuvjdBhF7gR0V2unmAvKZn6ETujLi_LBa4xHMyna5I_aCfMhc8YyO5zPnKGhAvItN5CxGn0KtZNl-BbPKCRtLTg9_fQg3pnAaSNSJTGWLbZKTsjrQb9a9D1mG8KlV-qnZLfDnA/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MTYxMTIwMSIsIm5iZiI6IjE3OTE2MDQwMDEifQ.gQmijd8c5-P1rEqP8FnqSaYaT9ZjXZ-GnGgZT6prxnaO-Io8YyCX88NGhQruDDAkr_RlCPDsq09PkAPHXCcaguA2J25eYzihRVGI_3DfFeA2uJiivsaC1XRqmBmL5lnIVubxAH_TX6Jbyrv7bl-UV45_zurKlTX0Tv4DiPt9KFZGopR7GlZ1FSQs-Vopu962h7taJOCJLzqpaTrnX214qSBsZbYLivkVBPUX2YQlY1Ff0qT1nzVbFicdZK7wx-Aqj2cQHo1mdaZ4q75KDf6aoeX8CA8wzbBP_AGXvH7F7qN-41Z403ODZ4WwPopFpdM8V9Qoy0-Wc2lCemn8rSUhkA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -81,6 +81,16 @@
                 "name": "SPACE LIVE",
                 "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
                 "icono": "https://www.elgrupoinformatico.com/static/manuales/2026/04/plutotv-spacelive-1200x675.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4686,
+                "_local_category_id": 107,
+                "section": "live",
+                "name": "CINEMAX",
+                "url": "https://wizzi.fieratvhd.com/play/a1uo",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
