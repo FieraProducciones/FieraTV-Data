@@ -5,6 +5,16 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
+                "_local_id": 4868,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "COPA PARAGUAY",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3163,
                 "_local_category_id": 105,
                 "section": "live",
@@ -64,7 +74,7 @@
                 "_local_category_id": 105,
                 "section": "live",
                 "name": "EVENTOS HD 02",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODQzOSIsIm5iZiI6IjE3OTIwMTEyMzkifQ.GbG9pEcDLKub58tcZ8UNMMn690oyBPbzh5nIDB12s9NCq9gjAGTkXlAELQs17WCJh_JDD7KgZq3YqatTtEYL1kt16ELN78Q1NylRavQIGNRUuxtm8pFa93DZYGTpoHturt-sFf_HKumXDtMp6GvnH1RSps_x4ynH6_EOvI0xhP11gdiiBF30d8K6O0NVEyEquxkgjo2NO3-TPw2YMEFtO4y8IbkurnwCzAUj6wPK4uVcYlysJi_x63vE5lNYYTuKf_8pEanqNCKzJ7z-AKAHFUG2aGUumjrUpPxTtYaHCwYwiPKbVxRf0m03uiBzF7WhVTMCt8BTIoqsar72o4eiNw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODY4NyIsIm5iZiI6IjE3OTIwMTE0ODcifQ.fBr2t1tXMFgCARA0iYjPAce6jYAX0a4jlEULdfkZ7TXlOX1FH2RGLm695WqsqPG4P-2wC9kiM2MPC8rNCDWxhk52jbr13JI9qrP_fnSkW2kecNYE-Dx033EP8IZlKtBP0uzDGCZFYF2bzTEx5gWnfWKGbP4UuX5q9hHEBaAKha5rRmSdZEcIyki2NAfim8R8eWlGcrb0qDzzUQQ35hk3HzYDP88BijaG4d8bOdAWKyz3WyxCJPz0Pq-OOI1K8qykGZdNDo1TylNyf_himNnHIptjuM5xWSVSZD0t_KHott0Gdwfs4Qz5pcetj_MaEb1X2BuvP1tn2VuB7cC3LZ42DA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "HLS",
                 "drm_license_uri": ""
@@ -74,7 +84,7 @@
                 "_local_category_id": 105,
                 "section": "live",
                 "name": "EVENTOS SD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI2OWZmNjVlY2ZkNTU0OWRiZTgwNTA4ZWFlY2MxNzFiNyIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODQzOSIsIm5iZiI6IjE3OTIwMTEyMzkifQ.dDyaVgs-WM5MIi5jVsnJ49PULyxqPyCux9Igb6P7fgQXsYgqCjNKgr8aiZea1Ou4HYgHz6efzyVKo43mQJ136_u12yjACwJXEToLQ43plGXKT8C0gLwEgJQpX2YlLFLtqvUsN8edxg15Mm72jKqd8c9ygbhiQiiXQNm82szASZQs-80rAI_72udVrhbkY_9vpaiOts_4yn7Cn4Pq55HueO2rsCVbkbzDCucR70xJ32rhAD0DLo4GxbPWwSg6h79SnK7hvwhM0zmv9Z80pBhRSIbUr2XYRjLa2LbtvfpxfBvQDehqa_0Hlqp8O1-58ubRZ0RUiqOH6PUA1C2XXcrfkw/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI2OWZmNjVlY2ZkNTU0OWRiZTgwNTA4ZWFlY2MxNzFiNyIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODY4NyIsIm5iZiI6IjE3OTIwMTE0ODcifQ.fMzgeTlwUU2W5OI9ij_mRCbYTjfpvgCc5BzirQn0sOuO-qFHXFAc-oqcX5i0jGZku7QvdZP3EsdZglEIlPzeNNAodX2f9BI7dkNbpk0Sk8CgZMQNpz10CPJ3znjLoCF7uMuZlT0P9ut-_NTlueErjn4i7ODplPtlkzCt4VsLauRyFkXu5CvnB7jYxuxnGwUmX0KHo9j0WNn2eFcP0BdfGeaSCe5609ugaKNT7czf817pcstVZOz9FtWbxnSXs2HmXXX1W2X5ObrUMCu793HTiyIdiCapmvWYPAHKgoPhlRJKQUllAGyZG4Get7mZA4qpp2cuyKry7YOrgMnw0GOzNg/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://api.cloudflare.com/client/v4/accounts/81a3b09c986b2679b7dd9c9bfe2b2c44/stream/75fd9deae2995004865c4d29750d9207"
@@ -163,16 +173,6 @@
                 "icono": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
                 "type": "HLS",
                 "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY"
-            },
-            {
-                "_local_id": 4868,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "PRUEBA",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -216,7 +216,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV  EVENTOS",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODQ0MCIsIm5iZiI6IjE3OTIwMTEyNDAifQ.MNzzhmPX6Kdxh_MrF3haUXXL5ieTwH2CBU43A3vpLEH_TETzNTBWfrhH9xuqFb97ioVPqjPBos2yOw9lwN1kFERe6dWAeLoi9oyCtxuDvFhiN2IyEYuzNFNdgchW1r_9Vdo8wSRfhDy1QvR2URtbApWlNAPrAYLcHFyli4wujM43xfoMahDIGXKNcAqM1SagvFxByHgEQE-wy6BNPgLmsu3vDLk0_o9ftKpkAguR0aiVOj4a_Vnz3AGCCaBL0BguuntsqFjIJw_pQi7x0Q7KvDsDSdWIFcrWIH0Prx-BiMGEeNqaXRgI-rvT5Towe232ZZuNin4CLD4a1_4Axu4M0A/manifest/video.m3u8",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIn0.eyJzdWIiOiI3OWIyMmU2MWI4ODlhNDhmYWIyYTFmYmM0NDg5ZmFhZSIsImtpZCI6IjY4ZjBmYTcyZGExZGQ1NWY4MDg2ZmEyOTM5OTk4OWEwIiwiZXhwIjoiMTc5MjAxODY4NyIsIm5iZiI6IjE3OTIwMTE0ODcifQ.fBr2t1tXMFgCARA0iYjPAce6jYAX0a4jlEULdfkZ7TXlOX1FH2RGLm695WqsqPG4P-2wC9kiM2MPC8rNCDWxhk52jbr13JI9qrP_fnSkW2kecNYE-Dx033EP8IZlKtBP0uzDGCZFYF2bzTEx5gWnfWKGbP4UuX5q9hHEBaAKha5rRmSdZEcIyki2NAfim8R8eWlGcrb0qDzzUQQ35hk3HzYDP88BijaG4d8bOdAWKyz3WyxCJPz0Pq-OOI1K8qykGZdNDo1TylNyf_himNnHIptjuM5xWSVSZD0t_KHott0Gdwfs4Qz5pcetj_MaEb1X2BuvP1tn2VuB7cC3LZ42DA/manifest/video.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
