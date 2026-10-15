@@ -246,16 +246,6 @@
         "name": "PARAGUAY 🇵🇾2",
         "samples": [
             {
-                "_local_id": 4805,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "GEN HD",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMTUxOTYzIiwic2lwIjoiMTM4LjU5LjIyNi4xNDQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTM1NGVjM2QwMmQ0MzUwNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rldu23GzoECr7Z6ef0x5imPKL1iZ75BuDfzj3k6hAZSzeqkqxtuEM0yLeeYg13GF63fd9mYejbm1YXQW27Ed-g==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=07437c8de4e0da2fbfae8137647fbed5&key=2993a1e2086fada083a8a2edd0ecc56b"
-            },
-            {
                 "_local_id": 4797,
                 "_local_category_id": 109,
                 "section": "live",
