@@ -129,21 +129,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4795,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "GEN HD",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4798,
                 "_local_category_id": 108,
                 "section": "live",
