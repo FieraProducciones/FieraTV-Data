@@ -92,6 +92,16 @@
         "name": "PARAGUAY🇵🇾1",
         "samples": [
             {
+                "_local_id": 3173,
+                "_local_category_id": 108,
+                "section": "live",
+                "name": "TELEFUTURO HD",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3181,
                 "_local_category_id": 108,
                 "section": "live",
@@ -118,16 +128,6 @@
                 "name": "ABC HD",
                 "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3173,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "TELEFUTURO HD",
-                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
