@@ -87,33 +87,6 @@
         ]
     },
     {
-        "_local_id": 206,
-        "section": "live",
-        "name": "PARAGUAY by wizzi Play",
-        "samples": [
-            {
-                "_local_id": 4799,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "TELEFUTURO",
-                "url": "http://10.140.0.22:8000/play/a1gf",
-                "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4800,
-                "_local_category_id": 206,
-                "section": "live",
-                "name": "POPU TV",
-                "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
-                "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 108,
         "section": "live",
         "name": "PARAGUAY🇵🇾1",
