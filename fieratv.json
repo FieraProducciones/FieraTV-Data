@@ -182,16 +182,6 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
-                "_local_id": 4870,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "SERV TK OHIO CLOUD",
-                "url": "https://panel.fieratvhd.com/security/hls-test/live.php?file=index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3166,
                 "_local_category_id": 107,
                 "section": "live",
