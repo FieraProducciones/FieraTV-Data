@@ -15,6 +15,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4868,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "TIGO SPORTS HD",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4812,
                 "_local_category_id": 105,
                 "section": "live",
@@ -31,16 +41,6 @@
                 "name": "FLOW SPORTS",
                 "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/b9de1663e7601dbf0d88c2ec2d412857/manifest/video.m3u8",
                 "icono": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4868,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "COPA PARAGUAY",
-                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
