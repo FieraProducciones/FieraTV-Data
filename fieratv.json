@@ -5,6 +5,16 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
+                "_local_id": 4869,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "APF TV",
+                "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3983,
                 "_local_category_id": 105,
                 "section": "live",
@@ -181,16 +191,6 @@
         "section": "live",
         "name": "FIERA PRODUCCIONES",
         "samples": [
-            {
-                "_local_id": 4869,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "APF TV",
-                "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "_local_id": 3166,
                 "_local_category_id": 107,
