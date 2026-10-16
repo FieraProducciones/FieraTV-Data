@@ -49,7 +49,7 @@
                 "_local_category_id": 107,
                 "section": "live",
                 "name": "FIERA TV 4",
-                "url": "https://origin-us-free.streaminghd.cl/fieratvhd/fieratvhd/medialist_7582170289794468464_hls.m3u8?xcs=4b5aaa068fd7a72f.1792146680.kJqsFdf_4TR4C6sFk-ZO-g",
+                "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
                 "type": "HLS",
                 "drm_license_uri": ""
