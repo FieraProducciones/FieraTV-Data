@@ -1509,16 +1509,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3255,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "TOROS TV",
-                "url": "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
-                "icono": "https://yt3.googleusercontent.com/AIx9cX2oVBVNri1fHH-g8EL8hrZ1JZogGXufgXP9vd8bM6L1R4UBKGCgrfXBtA5Q7Z_TdoLEV1U=s900-c-k-c0x00ffffff-no-rj",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3258,
                 "_local_category_id": 114,
                 "section": "live",
@@ -2328,6 +2318,16 @@
                 "name": "TVE",
                 "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3255,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "TOROS TV",
+                "url": "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
+                "icono": "https://yt3.googleusercontent.com/AIx9cX2oVBVNri1fHH-g8EL8hrZ1JZogGXufgXP9vd8bM6L1R4UBKGCgrfXBtA5Q7Z_TdoLEV1U=s900-c-k-c0x00ffffff-no-rj",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
