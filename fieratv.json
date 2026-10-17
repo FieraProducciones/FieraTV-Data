@@ -1707,16 +1707,6 @@
                 "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4835,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "TVE",
-                "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -2328,6 +2318,16 @@
                 "name": "LA 2 HD",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458005.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4835,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "TVE",
+                "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
