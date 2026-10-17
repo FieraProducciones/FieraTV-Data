@@ -2745,6 +2745,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3391,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN EDGE",
+                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3386,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2971,16 +2981,6 @@
                 "name": "EUROPA EUROPA",
                 "url": "https://wizzi.fieratvhd.com/play/a1ra",
                 "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3391,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN EDGE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/264891.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
