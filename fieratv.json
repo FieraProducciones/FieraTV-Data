@@ -3572,16 +3572,6 @@
         "name": "INFANTILES 👦",
         "samples": [
             {
-                "_local_id": 3453,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "TOONCAST",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/201.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3449,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3595,6 +3585,16 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
                 }
+            },
+            {
+                "_local_id": 3453,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "TOONCAST",
+                "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 3454,
