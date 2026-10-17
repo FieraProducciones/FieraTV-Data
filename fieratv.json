@@ -1694,16 +1694,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3269,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "LOVE NATURE",
-                "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3270,
                 "_local_category_id": 114,
                 "section": "live",
@@ -3225,6 +3215,16 @@
         "section": "live",
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
+            {
+                "_local_id": 3269,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "LOVE NATURE",
+                "url": "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 3410,
                 "_local_category_id": 128,
