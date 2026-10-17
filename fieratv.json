@@ -153,21 +153,6 @@
                     "Referer": "https://www.tigosports.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 3972,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 7",
-                "url": "https://opchannel01.tigosports.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?ccur_pg=primary",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
