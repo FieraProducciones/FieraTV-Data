@@ -3226,6 +3226,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3408,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "NATIONAL GEOGRAPHIC",
+                "url": "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3410,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3242,16 +3252,6 @@
                 "name": "LOVE NATURE 4K",
                 "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3408,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "NATIONAL GEOGRAPHIC",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19685.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
