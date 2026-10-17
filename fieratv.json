@@ -2341,16 +2341,6 @@
         "name": "DEPORTES CHILE🇨🇱⚽",
         "samples": [
             {
-                "_local_id": 3360,
-                "_local_category_id": 123,
-                "section": "live",
-                "name": "ESPN 1",
-                "url": "http://128.201.227.251:4000/play/a0dw",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3362,
                 "_local_category_id": 123,
                 "section": "live",
