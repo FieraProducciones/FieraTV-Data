@@ -2725,6 +2725,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3379,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINECANAL",
+                "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3391,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2941,16 +2951,6 @@
                 "name": "TNT",
                 "url": "http://10.140.0.22:8000/play/a1pn",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3379,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINECANAL",
-                "url": "https://wizzi.fieratvhd.com/play/a1th",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
