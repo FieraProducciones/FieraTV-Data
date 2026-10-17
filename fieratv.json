@@ -2765,6 +2765,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3383,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL COMEDY",
+                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3386,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2961,16 +2971,6 @@
                 "name": "UNIVERSAL CHANNEL",
                 "url": "https://wizzi.fieratvhd.com/play/a1ul",
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3383,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL COMEDY",
-                "url": "https://wizzi.fieratvhd.com/play/a1tv",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
