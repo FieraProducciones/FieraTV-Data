@@ -2322,6 +2322,16 @@
                 "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3359,
+                "_local_category_id": 122,
+                "section": "live",
+                "name": "ESPN PREMIUM ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
