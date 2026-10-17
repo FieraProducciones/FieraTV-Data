@@ -2217,16 +2217,6 @@
         "name": "DEPORTES COLOMBIA🇨🇴⚽",
         "samples": [
             {
-                "_local_id": 3347,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 3",
-                "url": "http://181.118.158.103:8000/play/a03a/index.m3u8?hls",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3348,
                 "_local_category_id": 121,
                 "section": "live",
