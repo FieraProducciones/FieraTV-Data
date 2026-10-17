@@ -2725,6 +2725,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3373,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AXN HD",
+                "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3379,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2851,16 +2861,6 @@
                 "name": "TCM",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456827.m3u8",
                 "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3373,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AXN",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457974.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
