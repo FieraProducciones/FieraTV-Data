@@ -2352,6 +2352,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3253,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "RTVE",
+                "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4853,
                 "_local_category_id": 209,
                 "section": "live",
@@ -2468,16 +2478,6 @@
                 "name": "M+ DRAMA",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456867.m3u8",
                 "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPCOLE",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3253,
-                "_local_category_id": 209,
-                "section": "live",
-                "name": "RTVE",
-                "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
