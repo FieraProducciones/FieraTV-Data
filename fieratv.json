@@ -1469,6 +1469,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3257,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "DW ESPAÑOL",
+                "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/5109/jfQW7q.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3250,
                 "_local_category_id": 114,
                 "section": "live",
@@ -1515,16 +1525,6 @@
                 "name": "TOROS TV",
                 "url": "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
                 "icono": "https://yt3.googleusercontent.com/AIx9cX2oVBVNri1fHH-g8EL8hrZ1JZogGXufgXP9vd8bM6L1R4UBKGCgrfXBtA5Q7Z_TdoLEV1U=s900-c-k-c0x00ffffff-no-rj",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3257,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "DW ESPAÑOL",
-                "url": "http://177.234.249.178:8888/DW/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/5109/jfQW7q.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
