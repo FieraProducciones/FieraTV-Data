@@ -3556,15 +3556,10 @@
                 "_local_category_id": 131,
                 "section": "live",
                 "name": "CARTOON NETWORK",
-                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+                "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOON_NETWORK",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 3457,
