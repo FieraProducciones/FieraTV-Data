@@ -30,7 +30,7 @@
                 "section": "live",
                 "name": "UENO SPORTS",
                 "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
-                "icono": "blob:https://chatgpt.com/2fa6cd1f-6158-4487-b195-13c62405ff53",
+                "icono": "https://chatgpt.com/2fa6cd1f-6158-4487-b195-13c62405ff53",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
