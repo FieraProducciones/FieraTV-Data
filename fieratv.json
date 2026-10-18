@@ -15,6 +15,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4814,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "UENO SPORTS 2",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
+                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4812,
                 "_local_category_id": 105,
                 "section": "live",
@@ -56,16 +66,6 @@
                 "name": "EVENTOS 04",
                 "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4814,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "UENO SPORTS 2",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
