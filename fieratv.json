@@ -60,16 +60,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3984,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS SD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/69ff65ecfd5549dbe80508eaecc171b7/manifest/video.m3u8",
-                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4869,
                 "_local_category_id": 105,
                 "section": "live",
