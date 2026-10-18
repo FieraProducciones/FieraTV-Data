@@ -5,6 +5,16 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
+                "_local_id": 4869,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "UENO SPORTS",
+                "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
+                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4812,
                 "_local_category_id": 105,
                 "section": "live",
@@ -55,16 +65,6 @@
                 "section": "live",
                 "name": "UENO SPORTS 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4869,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "UENO SPORTS",
-                "url": "https://d2g8poa4touqxx.cloudfront.net/out/v1/FIERATV/EVENTOSHD/eventoshd-hls/index.m3u8",
                 "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
