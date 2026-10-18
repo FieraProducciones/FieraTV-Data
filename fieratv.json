@@ -35,16 +35,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3983,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 02",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4813,
                 "_local_category_id": 105,
                 "section": "live",
