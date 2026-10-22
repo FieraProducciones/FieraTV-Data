@@ -2832,6 +2832,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3377,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINEMAX wizzi",
+                "url": "https://wizzi.fieratvhd.com/play/a1uo",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4686,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3038,16 +3048,6 @@
                 "name": "SYFY",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458024.m3u8",
                 "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3377,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINEMAX",
-                "url": "https://wizzi.fieratvhd.com/play/a1uo",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
