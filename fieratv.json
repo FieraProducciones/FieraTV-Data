@@ -2606,7 +2606,7 @@
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "AXN wz",
-                "url": "https://wizzi.fieratvhd.com/play/a1pm",
+                "url": "http://10.140.0.22:8000/play/a1pm",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
                 "type": "HLS",
                 "drm_license_uri": ""
