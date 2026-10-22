@@ -2832,6 +2832,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 4686,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINEMAX",
+                "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3373,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2938,16 +2948,6 @@
                 "name": "WARNER CHANNEL HD",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456818.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4686,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINEMAX",
-                "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a1/mono.ts.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
