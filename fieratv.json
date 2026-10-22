@@ -2832,6 +2832,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3373,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AXN wz",
+                "url": "https://wizzi.fieratvhd.com/play/a1pm",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3377,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2848,16 +2858,6 @@
                 "name": "CINEMAX",
                 "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3373,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AXN HD",
-                "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
