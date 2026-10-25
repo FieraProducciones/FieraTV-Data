@@ -5,21 +5,21 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
-                "_local_id": 3971,
+                "_local_id": 4867,
                 "_local_category_id": 105,
                 "section": "live",
-                "name": "UENO SPORTS 3",
-                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+                "name": "LIBERACIÓN VS CHORÉ 14 HS",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
                 "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4867,
+                "_local_id": 3971,
                 "_local_category_id": 105,
                 "section": "live",
-                "name": "UENO EVENTOS 2",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
+                "name": "UENO SPORTS 3",
+                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
                 "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
