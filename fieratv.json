@@ -4207,12 +4207,7 @@
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "CLEARKEY",
-                "drm_license_uri": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
+                "drm_license_uri": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434"
             },
             {
                 "_local_id": 4033,
