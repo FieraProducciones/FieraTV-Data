@@ -4311,6 +4311,21 @@
         "name": "CANALES DE PRUEBA",
         "samples": [
             {
+                "_local_id": 4033,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "PLAYBOY",
+                "url": "http://190.108.83.69:8000/play/a02p/index.m3u8",
+                "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.uy/",
+                    "Referer": "https://portal.app.flow.com.uy",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+                }
+            },
+            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4359,21 +4374,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                 "type": "CLEARKEY",
                 "drm_license_uri": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434"
-            },
-            {
-                "_local_id": 4033,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "PLAYBOY",
-                "url": "https://wizzi.fieratvhd.com/play/a1ow",
-                "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
             },
             {
                 "_local_id": 4035,
