@@ -1485,6 +1485,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3291,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "CANAL 26",
+                "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=2055032432c2ee38b9b2216262a634cf",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3284,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1561,16 +1571,6 @@
                 "name": "A24",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199173.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3291,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CANAL 26",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327050.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
