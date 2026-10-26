@@ -379,16 +379,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3977,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "SUR TV",
-                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -414,6 +404,16 @@
                 "name": "PARAVISION",
                 "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3977,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "SUR TV",
+                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
