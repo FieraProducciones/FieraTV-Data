@@ -1632,6 +1632,16 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
+                "_local_id": 3284,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "EL TRECE",
+                "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3285,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1659,16 +1669,6 @@
                 "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
                 "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3284,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "EL TRECE",
-                "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
