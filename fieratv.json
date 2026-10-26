@@ -3128,7 +3128,7 @@
                 "_local_category_id": 126,
                 "section": "live",
                 "name": "HBO 2",
-                "url": "https://streaming.onnethn.com/HBO/playlist.m3u8",
+                "url": "http://181.78.82.130:8000/play/a0rf/index.m3u8",
                 "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
