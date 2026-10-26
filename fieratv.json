@@ -2822,6 +2822,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3387,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY",
+                "url": "http://177.234.218.66:8084/play/a07n/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3394,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3053,16 +3063,6 @@
                 "name": "UNIVERSAL CHANNEL",
                 "url": "https://wizzi.fieratvhd.com/play/a1ul",
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3387,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SONY",
-                "url": "https://wizzi.fieratvhd.com/play/a1t2",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
