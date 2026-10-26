@@ -15,16 +15,6 @@
                 "drm_license_uri": "49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
             },
             {
-                "_local_id": 3148,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "ESPN",
-                "url": "http://181.78.82.130:8000/play/a0dm/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3146,
                 "_local_category_id": 105,
                 "section": "live",
@@ -331,6 +321,16 @@
                 "name": "DSPORTS",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19695.m3u8",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3148,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "ESPN",
+                "url": "http://181.78.82.130:8000/play/a0dm/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
