@@ -3059,6 +3059,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3385,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "FILM & ARTS",
+                "url": "http://138.59.177.78:9999/play/a0o0/index.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3388,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3270,16 +3280,6 @@
                 "name": "TNT SERIES",
                 "url": "https://wizzi.fieratvhd.com/play/a1pf",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3385,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "FILM & ARTS",
-                "url": "https://wizzi.fieratvhd.com/play/a1r5",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
