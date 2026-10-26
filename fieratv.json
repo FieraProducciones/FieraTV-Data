@@ -3109,6 +3109,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3383,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL COMEDY",
+                "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3385,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3200,16 +3210,6 @@
                 "name": "CINEMAX",
                 "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3383,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL COMEDY",
-                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
