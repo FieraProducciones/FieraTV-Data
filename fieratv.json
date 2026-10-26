@@ -3668,7 +3668,7 @@
                 "_local_category_id": 131,
                 "section": "live",
                 "name": "CARTOON NETWORK",
-                "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
+                "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
                 "type": "HLS",
                 "drm_license_uri": ""
