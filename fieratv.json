@@ -1489,7 +1489,7 @@
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "CANAL 26",
-                "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=2055032432c2ee38b9b2216262a634cf",
+                "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
                 "type": "HLS",
                 "drm_license_uri": ""
