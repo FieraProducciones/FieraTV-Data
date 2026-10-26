@@ -4326,6 +4326,16 @@
                 }
             },
             {
+                "_local_id": 4034,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "SEXTREME",
+                "url": "http://190.108.83.69:8000/play/a0cj/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4364,16 +4374,6 @@
                     "Referer": "https://www.tigosports.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
                 }
-            },
-            {
-                "_local_id": 4034,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "SEXTREME",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-                "type": "CLEARKEY",
-                "drm_license_uri": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434"
             },
             {
                 "_local_id": 4035,
