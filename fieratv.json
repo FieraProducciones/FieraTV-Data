@@ -1479,7 +1479,7 @@
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "TELEFE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199201.m3u8",
+                "url": "http://181.209.91.106:2222/Live/e86d3e2949d68fcefdba7abc9a046fe3/telefe.playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
