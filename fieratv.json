@@ -2872,6 +2872,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3389,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A3 SERIES",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3395,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3023,16 +3033,6 @@
                 "name": "TCM",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456827.m3u8",
                 "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3389,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A3 SERIES",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457970.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
