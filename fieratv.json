@@ -472,21 +472,6 @@
         "name": "PARAGUAY🇵🇾1",
         "samples": [
             {
-                "_local_id": 4795,
-                "_local_category_id": 108,
-                "section": "live",
-                "name": "GEN HD",
-                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 3173,
                 "_local_category_id": 108,
                 "section": "live",
@@ -505,6 +490,21 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4795,
+                "_local_category_id": 108,
+                "section": "live",
+                "name": "GEN HD",
+                "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w231922785.m3u8?k=a56157add83c347db485c0d070557826da4bebd076e94a8fb1e1f47ae072afdc&exp=1793050672",
+                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "_local_id": 3181,
