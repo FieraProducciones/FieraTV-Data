@@ -1519,6 +1519,16 @@
                 }
             },
             {
+                "_local_id": 3287,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "C5N",
+                "url": "http://45.134.141.161:2200/ARG/C5N/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3288,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1545,16 +1555,6 @@
                 "name": "TV PUBLICA",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9861.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tv-publica_a65fc296651b4e468cfe2efbac6c1b9c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3287,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "C5N",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199175.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
