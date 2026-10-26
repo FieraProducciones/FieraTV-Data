@@ -3099,6 +3099,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4809,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL PREMIERE",
+                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3385,
                 "_local_category_id": 125,
                 "section": "live",
@@ -4701,16 +4711,6 @@
                 "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "589f5b6f4afec0b3362cd6be2ab1eb36\":\"6d685f3151730ca6a4be7765a46d30a5"
-            },
-            {
-                "_local_id": 4809,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "UNIVERSAL PREMIERE",
-                "url": "https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://archive.org/download/hb7bfh.f/HB7%2524b%2524Fh%25C2%25B7F%2524/upremieree.json"
             },
             {
                 "_local_id": 4807,
