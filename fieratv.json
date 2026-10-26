@@ -3515,6 +3515,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3424,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "FOOD NETWORK",
+                "url": "http://181.78.14.26:4000/play/a02v/index.m3u8",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3416,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3631,16 +3641,6 @@
                 "name": "E-ENTERTAINMENT",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205829.m3u8",
                 "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3424,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "FOOD NETWORK",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19671.m3u8",
-                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
