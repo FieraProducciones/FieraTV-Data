@@ -20,16 +20,6 @@
                 }
             },
             {
-                "_local_id": 4695,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "SONY MOVIES",
-                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4811,
                 "_local_category_id": 105,
                 "section": "live",
@@ -2823,6 +2813,16 @@
                 "name": "AXN wz",
                 "url": "http://10.140.0.22:8000/play/a1pm",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4695,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY MOVIES",
+                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
