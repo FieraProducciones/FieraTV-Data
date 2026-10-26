@@ -4336,6 +4336,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3531,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "XXX BRAZZERS HD",
+                "url": "http://200.115.120.1:8000/play/ca98/index.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4412,16 +4422,6 @@
                 "name": "SPACE HD",
                 "url": "http://10.140.0.22:8000/play/a1uv",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3531,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "XXX BRAZZERS HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206239.m3u8",
-                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
