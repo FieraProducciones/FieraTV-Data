@@ -3674,6 +3674,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3458,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "CARTOONITO",
+                "url": "http://138.94.3.106:8000/play/a00b/index.m3u8",
+                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3457,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3720,16 +3730,6 @@
                 "name": "DISCOVERY KIDS",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205705.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3458,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "CARTOONITO",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19782.m3u8",
-                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
