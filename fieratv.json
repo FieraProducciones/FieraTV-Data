@@ -3315,7 +3315,7 @@
                 "_local_category_id": 126,
                 "section": "live",
                 "name": "HBO XTREME HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196497.m3u8",
+                "url": "http://181.78.197.59:8000/play/a07h/index.m3u8",
                 "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
