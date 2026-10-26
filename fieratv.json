@@ -1426,6 +1426,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3296,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "RECORD",
+                "url": "http://45.184.109.11/auth/M9J1HTVlyFe0JhI-Og8HsCKRIUmO1F0rEiqn7Xzxcls3_3XbXyJNw1vzsXFNhFUdWulzWvWCjgwmQ9fV976lgLggfx6R1ja1NvQM6ltZDsvkRO10eKGlaYXQEZfXBh-nVg2EiuhqUok6hPwkKrh2OdfE_0g3mSDgBpKeY0SoRdhLZzDtm1RAf1T-GMq6kx2RvS7ej35qoVRAZBOUD-qSAsK3YbreRtGUqknQOynrEgHFEOM6jtDXRpdLr6ZUCVnswnhr53CworrBc0YJ5JlSZdeql-YyKkMq3ZlHy5ocMvKhCiBYTC_uI1JV9F_7IlpXteqB8V5UBI_ccyoJrNSXUeWDc-VGWk8rQ5RnVvjqYfX0IWIDNSG1FmLF7T-nJRer3acVllBgX7-M79GZuZbMMNJBH2jla60rB_s24ZKnSMKYuKbIiRmr9xqsikHeU7BFwg10JDBkkG4srH-5CO0TPXKxrOqihEyC6sGjdvvEthL21Dh8alqVw9KKTRbgFrwDhcr6e-E0R-rQzSMeNc4f88zbP9tObhlQ_UOPjtQ5UqCBTWAfEuua2P51hBFzH4L0jyxngbxCf-umsYiinQLQjl0iSSrC04PIjc5r6Zu6aSLxOhDJKdMQJxatl2b_ZptXPezZCnjVpfkK0T70sik1Ew",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4243,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1452,16 +1462,6 @@
                 "name": "RECORD NEWS",
                 "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3296,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "RECORD",
-                "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
