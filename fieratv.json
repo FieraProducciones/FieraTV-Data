@@ -1505,6 +1505,20 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3286,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "TN NOTICIAS",
+                "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Referer": "https://tn.com.ar/envivo/24hs",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 3282,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1521,16 +1535,6 @@
                 "name": "TV PUBLICA",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9861.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tv-publica_a65fc296651b4e468cfe2efbac6c1b9c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3286,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TN NOTICIAS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327044.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
