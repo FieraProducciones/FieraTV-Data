@@ -2792,6 +2792,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3376,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SPACE HD",
+                "url": "http://177.234.218.66:8084/play/a09e/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3378,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2953,16 +2963,6 @@
                 "name": "WARNER CHANNEL HD",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456818.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3376,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SPACE HD",
-                "url": "https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlistR720p.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
