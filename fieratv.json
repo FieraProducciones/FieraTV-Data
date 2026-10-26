@@ -2792,6 +2792,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 4691,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AMC",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3374,
                 "_local_category_id": 125,
                 "section": "live",
