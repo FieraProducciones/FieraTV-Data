@@ -2792,6 +2792,16 @@
         "name": "SERIES & 🎬 PELICULAS",
         "samples": [
             {
+                "_local_id": 3379,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINECANAL",
+                "url": "http://181.224.200.5:2277/play/a013/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4691,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2963,16 +2973,6 @@
                 "name": "CINEMAX",
                 "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3379,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINECANAL",
-                "url": "https://wizzi.fieratvhd.com/play/a1th",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
