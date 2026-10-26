@@ -3358,6 +3358,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3416,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY SCIENCE",
+                "url": "http://138.59.177.78:9999/play/a0gt/index.m3u8",
+                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3269,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3394,16 +3404,6 @@
                 "name": "DISCOVERY ID",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19677.m3u8",
                 "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3416,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY SCIENCE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19678.m3u8",
-                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
