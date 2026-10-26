@@ -544,6 +544,16 @@
         "name": "DEPORTES PREMIUM 🏆",
         "samples": [
             {
+                "_local_id": 3159,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "TNT SPORT",
+                "url": "http://190.108.91.206:9050/play/a03i/index.m3u8",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3196,
                 "_local_category_id": 110,
                 "section": "live",
