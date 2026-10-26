@@ -3933,6 +3933,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3456,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISCOVERY KIDS",
+                "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3453,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3979,16 +3989,6 @@
                 "name": "DISNEY CHANNEL",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4165.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3456,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISCOVERY KIDS",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205705.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
