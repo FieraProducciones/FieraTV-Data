@@ -3943,6 +3943,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3455,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY CHANNEL",
+                "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4880,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3989,16 +3999,6 @@
                 "name": "NICK JR",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205836.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3455,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY CHANNEL",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4165.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
