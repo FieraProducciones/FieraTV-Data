@@ -2842,6 +2842,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3381,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL CHANNEL",
+                "url": "http://177.234.218.66:8084/play/a082/index.m3u8",
+                "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3390,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3053,16 +3063,6 @@
                 "name": "SYFY",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458024.m3u8",
                 "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3381,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL CHANNEL",
-                "url": "https://wizzi.fieratvhd.com/play/a1ul",
-                "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
