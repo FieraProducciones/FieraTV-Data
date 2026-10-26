@@ -1485,6 +1485,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3284,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "EL TRECE",
+                "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3282,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1501,16 +1511,6 @@
                 "name": "TV PUBLICA",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/9861.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tv-publica_a65fc296651b4e468cfe2efbac6c1b9c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3284,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "EL TRECE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/69857.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
