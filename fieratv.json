@@ -369,7 +369,7 @@
                 "_local_category_id": 106,
                 "section": "live",
                 "name": "ESPN 5",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/337123.m3u8",
+                "url": "http://190.61.47.54:8000/play/a00a/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
                 "type": "HLS",
                 "drm_license_uri": ""
