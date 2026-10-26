@@ -3059,6 +3059,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3388,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "EUROPA EUROPA",
+                "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
+                "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3391,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3240,16 +3250,6 @@
                 "name": "SYFY",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458024.m3u8",
                 "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3388,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "EUROPA EUROPA",
-                "url": "https://wizzi.fieratvhd.com/play/a1ra",
-                "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
