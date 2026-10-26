@@ -3388,6 +3388,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3420,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY WORLD",
+                "url": "http://138.59.177.78:9999/play/a09q/index.m3u8",
+                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3269,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3434,16 +3444,6 @@
                 "name": "DISCOVERY TLC",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205707.m3u8",
                 "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3420,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY WORLD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/204766.m3u8",
-                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
