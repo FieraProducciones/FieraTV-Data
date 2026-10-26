@@ -2852,6 +2852,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4873,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "USA NETWORK",
+                "url": "http://177.234.218.66:8084/play/a084/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/usa-network-us.svg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3390,
                 "_local_category_id": 125,
                 "section": "live",
