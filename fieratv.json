@@ -1519,6 +1519,16 @@
                 }
             },
             {
+                "_local_id": 3288,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "LN+ - LA NACION",
+                "url": "http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3282,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1545,16 +1555,6 @@
                 "name": "C5N",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199175.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3288,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "LN+ - LA NACION",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327039.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
