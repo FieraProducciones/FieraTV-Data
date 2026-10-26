@@ -1158,16 +1158,6 @@
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
             {
-                "_local_id": 4871,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "TELEFE",
-                "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4872,
                 "_local_category_id": 114,
                 "section": "live",
