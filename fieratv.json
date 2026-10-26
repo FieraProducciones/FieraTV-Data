@@ -3321,6 +3321,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3402,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO + PLUS HD",
+                "url": "http://181.78.82.130:8000/play/a0re/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3399,
                 "_local_category_id": 126,
                 "section": "live",
@@ -3347,16 +3357,6 @@
                 "name": "HBO POP HD",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196509.m3u8",
                 "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3402,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO + PLUS HD",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196491.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
