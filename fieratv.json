@@ -9,10 +9,10 @@
                 "_local_category_id": 105,
                 "section": "live",
                 "name": "EVENTOS 04",
-                "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "url": "https.cdn-flow-balancer.app.flow.com.artok_.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9_lance1.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 3146,
