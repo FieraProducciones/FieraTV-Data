@@ -408,6 +408,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3976,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "PARAVISION",
+                "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3182,
                 "_local_category_id": 109,
                 "section": "live",
@@ -484,16 +494,6 @@
                 "name": "PARAGUAY TV",
                 "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
                 "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3976,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "PARAVISION",
-                "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
