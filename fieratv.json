@@ -301,6 +301,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3177,
+                "_local_category_id": 108,
+                "section": "live",
+                "name": "C9N HD",
+                "url": "https://wizzi.fieratvhd.com/play/a022",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3181,
                 "_local_category_id": 108,
                 "section": "live",
