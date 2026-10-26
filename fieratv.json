@@ -3396,7 +3396,18 @@
         "_local_id": 210,
         "section": "live",
         "name": "PACK UNIVERSAL PREMIUM",
-        "samples": []
+        "samples": [
+            {
+                "_local_id": 4874,
+                "_local_category_id": 210,
+                "section": "live",
+                "name": "UNIVERSAL CINEMA",
+                "url": "http://38.87.224.19:2220/play/a01l/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     },
     {
         "_local_id": 127,
