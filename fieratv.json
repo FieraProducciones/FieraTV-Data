@@ -3335,7 +3335,7 @@
                 "_local_category_id": 126,
                 "section": "live",
                 "name": "HBO FAMILY",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196501.m3u8",
+                "url": "http://45.173.231.22:8000/play/a073/index.m3u8",
                 "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
