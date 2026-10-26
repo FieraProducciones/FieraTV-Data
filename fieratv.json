@@ -3856,6 +3856,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3453,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "TOONCAST",
+                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3458,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3872,16 +3882,6 @@
                 "name": "NIKELODEON",
                 "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
                 "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3453,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "TOONCAST",
-                "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
