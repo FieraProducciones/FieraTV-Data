@@ -2872,6 +2872,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3391,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN EDGE",
+                "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4873,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2943,16 +2953,6 @@
                 "name": "CINECANAL",
                 "url": "https://wizzi.fieratvhd.com/play/a1th",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3391,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN EDGE",
-                "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
