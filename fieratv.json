@@ -3348,6 +3348,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3414,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY H&H",
+                "url": "http://138.59.177.78:9999/play/a0ni/index.m3u8",
+                "icono": "https://i.ibb.co/gjWGgjX/hh.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3269,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3374,16 +3384,6 @@
                 "name": "LOVE NATURE 4K",
                 "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3414,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY H&H",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19676.m3u8",
-                "icono": "https://i.ibb.co/gjWGgjX/hh.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
