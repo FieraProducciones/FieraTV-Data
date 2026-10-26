@@ -4346,6 +4346,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4035,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "VENUS",
+                "url": "http://158.172.217.18:8000/play/a0nd/index.m3u8",
+                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4384,16 +4394,6 @@
                     "Referer": "https://www.tigosports.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
                 }
-            },
-            {
-                "_local_id": 4035,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "VENUS",
-                "url": "https://wizzi.fieratvhd.com/play/a1sl",
-                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4804,
