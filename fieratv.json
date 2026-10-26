@@ -3109,6 +3109,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3386,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "COMEDY CENTRAL HD",
+                "url": "http://138.59.177.78:9999/play/a09k/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3383,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3210,16 +3220,6 @@
                 "name": "CINEMAX",
                 "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3386,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "COMEDY CENTRAL HD",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456904.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
