@@ -3308,6 +3308,16 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
+                "_local_id": 3409,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "ANIMAL PLANET",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3410,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3354,16 +3364,6 @@
                 "name": "LOVE NATURE 4K",
                 "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
                 "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3409,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "ANIMAL PLANET",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205698.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
