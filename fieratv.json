@@ -5,6 +5,16 @@
         "name": "CANAL DE EVENTOS HD",
         "samples": [
             {
+                "_local_id": 4684,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "TNT SERIES",
+                "url": "http://138.59.227.20:8000/play/a08c/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4811,
                 "_local_category_id": 105,
                 "section": "live",
