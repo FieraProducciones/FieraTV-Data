@@ -3039,6 +3039,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3384,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "FX HD",
+                "url": "http://181.78.14.26:4000/play/a04h/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3389,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3180,16 +3190,6 @@
                 "name": "GOLDEN PLUS",
                 "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
                 "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3384,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "FX HD",
-                "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
