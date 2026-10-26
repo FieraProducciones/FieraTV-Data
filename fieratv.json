@@ -3308,6 +3308,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3412,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HISTORY 2",
+                "url": "http://177.234.218.66:8084/play/a07z/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3269,
                 "_local_category_id": 128,
                 "section": "live",
@@ -3344,16 +3354,6 @@
                 "name": "ANIMAL PLANET",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205698.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3412,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HISTORY 2",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/190989.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
