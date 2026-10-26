@@ -399,7 +399,7 @@
                 "_local_category_id": 106,
                 "section": "live",
                 "name": "ESPN PREMIUM",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196542.m3u8",
+                "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "HLS",
                 "drm_license_uri": ""
