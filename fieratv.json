@@ -4190,6 +4190,16 @@
         "name": "CANALES DE PRUEBA",
         "samples": [
             {
+                "_local_id": 4842,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "CANAL 26 ARG",
+                "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fstream-gtlc.telecentro.net.ar%2Fhls%2Fcanal26hls%2Fmain.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3973,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4363,16 +4373,6 @@
                 "icono": "https://i.ibb.co/0qTfhWG/eltrece-internacional.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "c5f7b491a191048931aaaf0314558bc7\":\"6477522b434cad2020b5fb4d055720b0"
-            },
-            {
-                "_local_id": 4842,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "a2",
-                "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN2/transmux/index.mpd",
-                "icono": "",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
             }
         ]
     },
