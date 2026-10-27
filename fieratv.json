@@ -3863,6 +3863,16 @@
         "name": "INFANTILES 👦",
         "samples": [
             {
+                "_local_id": 4880,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY JR",
+                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3449,
                 "_local_category_id": 131,
                 "section": "live",
@@ -3889,16 +3899,6 @@
                 "name": "DISNEY CHANNEL",
                 "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4880,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY JR",
-                "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
