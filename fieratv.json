@@ -4645,6 +4645,16 @@
         "name": "CANALES DE PRUEBA",
         "samples": [
             {
+                "_local_id": 4801,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "TEST 1",
+                "url": "https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4033,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4766,16 +4776,6 @@
                 "name": "XXX BRAZZERS 2",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206282.m3u8",
                 "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4801,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "TEST 1",
-                "url": "https://wizzi.fieratvhd.com/play/a1t5",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
