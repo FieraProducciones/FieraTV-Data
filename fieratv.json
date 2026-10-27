@@ -19,16 +19,6 @@
                 }
             },
             {
-                "_local_id": 4811,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 04",
-                "url": "https.cdn-flow-balancer.app.flow.com.artok_.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9_lance1.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3146,
                 "_local_category_id": 105,
                 "section": "live",
