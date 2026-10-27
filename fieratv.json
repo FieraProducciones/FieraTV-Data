@@ -3475,6 +3475,16 @@
         "name": "🎬 CINE 24/7",
         "samples": [
             {
+                "_local_id": 4882,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "PÁNICO HD",
+                "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+                "icono": "https://logos.fandom.com/wiki/P%C3%A1nico?file=Canal_Panico_HD.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4689,
                 "_local_category_id": 127,
                 "section": "live",
