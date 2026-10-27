@@ -79,16 +79,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4812,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 01",
-                "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4868,
                 "_local_category_id": 105,
                 "section": "live",
