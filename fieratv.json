@@ -19,16 +19,6 @@
                 }
             },
             {
-                "_local_id": 3146,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD 6",
-                "url": "http://192.250.238.31:1234/stream/paraguay/tigo1/master.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-                "type": "HLS",
-                "drm_license_uri": "https://iptv.digital-tv.net/"
-            },
-            {
                 "_local_id": 3971,
                 "_local_category_id": 105,
                 "section": "live",
