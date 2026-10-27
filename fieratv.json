@@ -1664,16 +1664,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3289,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CRONICA TV",
-                "url": "https://www.cronica.com.ar/cronica-en-vivo/",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
-                "type": "OTRO",
-                "drm_license_uri": ""
             }
         ]
     },
