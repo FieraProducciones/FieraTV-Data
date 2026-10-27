@@ -4818,6 +4818,16 @@
                 "icono": "https://i.ibb.co/0qTfhWG/eltrece-internacional.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "c5f7b491a191048931aaaf0314558bc7\":\"6477522b434cad2020b5fb4d055720b0"
+            },
+            {
+                "_local_id": 4883,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "TL NOVELAS PRUEBA",
+                "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
