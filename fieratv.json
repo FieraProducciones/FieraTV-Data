@@ -1642,22 +1642,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3282,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "AMERICA TV",
+                "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/b9bca9c3-c503-4d4e-92d2-49badddcc1da:SCL2/master.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3284,
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "EL TRECE",
                 "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3282,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "AMERICA TV",
-                "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
