@@ -1646,9 +1646,9 @@
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "A24",
-                "url": "https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true",
+                "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
