@@ -1612,16 +1612,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3283,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TV PUBLICA",
-                "url": "https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tv-publica_a65fc296651b4e468cfe2efbac6c1b9c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3284,
                 "_local_category_id": 115,
                 "section": "live",
