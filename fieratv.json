@@ -1632,6 +1632,16 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
+                "_local_id": 3290,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "A24",
+                "url": "https://g1.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3284,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1639,16 +1649,6 @@
                 "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
                 "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3290,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "A24",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
