@@ -1537,6 +1537,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4887,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "AXN",
+                "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3299,
                 "_local_category_id": 211,
                 "section": "live",
