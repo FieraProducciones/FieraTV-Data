@@ -1607,22 +1607,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3303,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "SONY CHANNEL",
+                "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4901,
                 "_local_category_id": 211,
                 "section": "live",
                 "name": "NACION Z",
                 "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
                 "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3303,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "SONY",
-                "url": "https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
