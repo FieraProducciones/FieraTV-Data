@@ -3623,7 +3623,7 @@
                 "section": "live",
                 "name": "ESPN 3 ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
-                "icono": "http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
