@@ -2820,22 +2820,22 @@
         "name": "INFANTILES 👦",
         "samples": [
             {
+                "_local_id": 4880,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY JR",
+                "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4884,
                 "_local_category_id": 131,
                 "section": "live",
                 "name": "PLIM PLIM",
                 "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
                 "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4880,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY JR",
-                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
