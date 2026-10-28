@@ -1735,6 +1735,16 @@
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CviaKrlEh6VqNKAYJShTqp5yTyBUXfP8qhW7z--fHA&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4903,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "C.S.I MIAMI",
+                "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
+                "icono": "https://i.pinimg.com/736x/e1/66/c4/e166c41390aa89a93e7f6d43a0c8cd00.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
