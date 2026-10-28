@@ -3534,16 +3534,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3369,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "ESPN 3",
-                "url": "http://46.151.196.223:14444/",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3370,
                 "_local_category_id": 124,
                 "section": "live",
