@@ -1508,6 +1508,343 @@
         "samples": []
     },
     {
+        "_local_id": 125,
+        "section": "live",
+        "name": "SERIES & 🎬 PELICULAS",
+        "samples": [
+            {
+                "_local_id": 3379,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINECANAL",
+                "url": "http://181.224.200.5:2277/play/a013/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4691,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AMC",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3374,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A&E",
+                "url": "http://181.78.14.26:4000/play/a07c/index.m3u8",
+                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3373,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AXN HD",
+                "url": "http://177.234.218.66:8084/play/a07m/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3376,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SPACE HD",
+                "url": "http://177.234.218.66:8084/play/a09e/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3378,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TNT",
+                "url": "http://177.234.218.66:8084/play/a08o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3387,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY",
+                "url": "http://177.234.218.66:8084/play/a07n/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3394,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "STAR CHANNEL",
+                "url": "http://190.108.83.69:8000/play/a04j/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/lista2/51f215686b48.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3381,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL CHANNEL",
+                "url": "http://177.234.218.66:8084/play/a082/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/universaltvlatinamerica-us.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3384,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "FX HD",
+                "url": "http://181.78.14.26:4000/play/a04h/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3389,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A3 SERIES",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3395,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN",
+                "url": "http://177.234.218.66:8084/play/a06x/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3393,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN PREMIER HD",
+                "url": "http://138.59.177.78:9999/play/a095/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3392,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN PLUS",
+                "url": "http://72.1.184.5:8089/play/a07e/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3380,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TNT SERIES",
+                "url": "http://138.94.3.106:8000/play/a00l/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3386,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "COMEDY CENTRAL HD",
+                "url": "http://138.59.177.78:9999/play/a09k/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3383,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL COMEDY",
+                "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3385,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "FILM & ARTS",
+                "url": "http://138.59.177.78:9999/play/a0o0/index.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3388,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "EUROPA EUROPA",
+                "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
+                "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3391,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN EDGE",
+                "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4873,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "USA NETWORK",
+                "url": "http://177.234.218.66:8084/play/a084/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/usa-network-us.svg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3390,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "WARNER CHANNEL HD",
+                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4695,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY MOVIES",
+                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3377,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINEMAX wizzi",
+                "url": "https://wizzi.fieratvhd.com/play/a1uo",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4686,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "CINEMAX",
+                "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4847,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AXN MOVIES",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457975.m3u8",
+                "icono": "https://assets.discoup.com/public/tivify-1680879892.png?",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3382,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TCM",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456827.m3u8",
+                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4849,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AMC CRIMEN",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457986.m3u8",
+                "icono": "https://assets.discoup.com/public/tivify-1680879892.png?",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4848,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "BEMAD HD",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457976.m3u8",
+                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4850,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "HOLLYWOD",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457999.m3u8",
+                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3375,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AMC SERIES",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457972.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
+                "type": "HLS",
+                "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw"
+            },
+            {
+                "_local_id": 4861,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SYFY",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458024.m3u8",
+                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4684,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TNT SERIES",
+                "url": "http://138.59.227.20:8000/play/a08c/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 115,
         "section": "live",
         "name": "ARGENTINA🇦🇷",
@@ -2926,343 +3263,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "_local_id": 125,
-        "section": "live",
-        "name": "SERIES & 🎬 PELICULAS",
-        "samples": [
-            {
-                "_local_id": 3379,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINECANAL",
-                "url": "http://181.224.200.5:2277/play/a013/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4691,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AMC",
-                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3374,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A&E",
-                "url": "http://181.78.14.26:4000/play/a07c/index.m3u8",
-                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3373,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AXN HD",
-                "url": "http://177.234.218.66:8084/play/a07m/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3376,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SPACE HD",
-                "url": "http://177.234.218.66:8084/play/a09e/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3378,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TNT",
-                "url": "http://177.234.218.66:8084/play/a08o/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3387,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SONY",
-                "url": "http://177.234.218.66:8084/play/a07n/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3394,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "STAR CHANNEL",
-                "url": "http://190.108.83.69:8000/play/a04j/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/lista2/51f215686b48.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3381,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL CHANNEL",
-                "url": "http://177.234.218.66:8084/play/a082/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/universaltvlatinamerica-us.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3384,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "FX HD",
-                "url": "http://181.78.14.26:4000/play/a04h/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3389,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A3 SERIES",
-                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3395,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN",
-                "url": "http://177.234.218.66:8084/play/a06x/index.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3393,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN PREMIER HD",
-                "url": "http://138.59.177.78:9999/play/a095/index.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3392,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN PLUS",
-                "url": "http://72.1.184.5:8089/play/a07e/index.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3380,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TNT SERIES",
-                "url": "http://138.94.3.106:8000/play/a00l/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3386,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "COMEDY CENTRAL HD",
-                "url": "http://138.59.177.78:9999/play/a09k/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3383,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL COMEDY",
-                "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3385,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "FILM & ARTS",
-                "url": "http://138.59.177.78:9999/play/a0o0/index.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3388,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "EUROPA EUROPA",
-                "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
-                "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3391,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN EDGE",
-                "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4873,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "USA NETWORK",
-                "url": "http://177.234.218.66:8084/play/a084/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/usa-network-us.svg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3390,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "WARNER CHANNEL HD",
-                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4695,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SONY MOVIES",
-                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3377,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINEMAX wizzi",
-                "url": "https://wizzi.fieratvhd.com/play/a1uo",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4686,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "CINEMAX",
-                "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a2/mono.ts.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4847,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AXN MOVIES",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457975.m3u8",
-                "icono": "https://assets.discoup.com/public/tivify-1680879892.png?",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3382,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TCM",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456827.m3u8",
-                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4849,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AMC CRIMEN",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457986.m3u8",
-                "icono": "https://assets.discoup.com/public/tivify-1680879892.png?",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4848,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "BEMAD HD",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457976.m3u8",
-                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4850,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "HOLLYWOD",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457999.m3u8",
-                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3375,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AMC SERIES",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457972.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
-                "type": "HLS",
-                "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw"
-            },
-            {
-                "_local_id": 4861,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SYFY",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/458024.m3u8",
-                "icono": "https://assets.discoup.com/public/tivify-1680879892.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4684,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TNT SERIES",
-                "url": "http://138.59.227.20:8000/play/a08c/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
