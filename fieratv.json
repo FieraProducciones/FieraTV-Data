@@ -3367,6 +3367,53 @@
         ]
     },
     {
+        "_local_id": 121,
+        "section": "live",
+        "name": "DEPORTES COLOMBIA🇨🇴⚽",
+        "samples": [
+            {
+                "_local_id": 3348,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 4",
+                "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3349,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 5",
+                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3350,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 6",
+                "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3351,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 7",
+                "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 129,
         "section": "live",
         "name": "🎬CANALES DE NOVELAS",
@@ -3464,47 +3511,47 @@
         ]
     },
     {
-        "_local_id": 121,
+        "_local_id": 130,
         "section": "live",
-        "name": "DEPORTES COLOMBIA🇨🇴⚽",
+        "name": "CLUB TELEMUNDO",
         "samples": [
             {
-                "_local_id": 3348,
-                "_local_category_id": 121,
+                "_local_id": 3445,
+                "_local_category_id": 130,
                 "section": "live",
-                "name": "ESPN 4",
-                "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "name": "TELEMUNDO NOTICIAS",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3349,
-                "_local_category_id": 121,
+                "_local_id": 3446,
+                "_local_category_id": 130,
                 "section": "live",
-                "name": "ESPN 5",
-                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "name": "TELEMUNDO 49",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3350,
-                "_local_category_id": 121,
+                "_local_id": 3447,
+                "_local_category_id": 130,
                 "section": "live",
-                "name": "ESPN 6",
-                "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "name": "TELEMUNDO 52",
+                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3351,
-                "_local_category_id": 121,
+                "_local_id": 3448,
+                "_local_category_id": 130,
                 "section": "live",
-                "name": "ESPN 7",
-                "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "name": "TELEMUNDO ACCION",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -3968,53 +4015,6 @@
                 "name": "ACCION MEXICANA",
                 "url": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8",
                 "icono": "https://i.postimg.cc/vBC1T5ts/1775146310895.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 130,
-        "section": "live",
-        "name": "CLUB TELEMUNDO",
-        "samples": [
-            {
-                "_local_id": 3445,
-                "_local_category_id": 130,
-                "section": "live",
-                "name": "TELEMUNDO NOTICIAS",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3446,
-                "_local_category_id": 130,
-                "section": "live",
-                "name": "TELEMUNDO 49",
-                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3447,
-                "_local_category_id": 130,
-                "section": "live",
-                "name": "TELEMUNDO 52",
-                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3448,
-                "_local_category_id": 130,
-                "section": "live",
-                "name": "TELEMUNDO ACCION",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
-                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
