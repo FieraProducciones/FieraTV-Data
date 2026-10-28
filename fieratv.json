@@ -1500,16 +1500,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3302,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "TOP MIX",
-                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3303,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1613,6 +1603,16 @@
                 "name": "CARTOON RETRO",
                 "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2066149519.m3u8",
                 "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/732fbcf0-2d8e-4b50-a3d3-eb1009cfa497/dfldeje-c7eabe0e-fb4e-4e5d-b7f7-075c5784ad72.png/v1/fill/w_1632,h_1632/cartoon_network_retro_logo__fanmade__by_rfmdf2429_dfldeje-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMiIsInBhdGgiOiIvZi83MzJmYmNmMC0yZDhlLTRiNTAtYTNkMy1lYjEwMDljZmE0OTcvZGZsZGVqZS1jN2VhYmUwZS1mYjRlLTRlNWQtYjdmNy0wNzVjNTc4NGFkNzIucG5nIiwid2lkdGgiOiI8PTE2MzIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.v3TlVeimONEtoGlAK5QZo4Mak8lzBP5zzXawlAys4LQ",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3302,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TOP MIX",
+                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
