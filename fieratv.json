@@ -671,123 +671,6 @@
         ]
     },
     {
-        "_local_id": 110,
-        "section": "live",
-        "name": "DEPORTES PREMIUM 🏆",
-        "samples": [
-            {
-                "_local_id": 3159,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "TNT SPORT",
-                "url": "http://190.108.91.206:9050/play/a03i/index.m3u8",
-                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3196,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "RED BULL TV",
-                "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3190,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "FOX SPORTS",
-                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3191,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "FOX SPORTS 3",
-                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9462/YON00b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3192,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "ESPN",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3193,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "ESPN 3",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/2112/HoemVN.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3194,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "ESPN 4",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img922/3184/GB9KEN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3195,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "ESPN PREMIUM",
-                "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3197,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "DSPORTS 2",
-                "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3198,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "FIFA +",
-                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
-                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3199,
-                "_local_category_id": 110,
-                "section": "live",
-                "name": "DSPORTS",
-                "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 112,
         "section": "live",
         "name": "PARAGUAY - STREAMING - MEDIA",
@@ -2048,6 +1931,123 @@
         ]
     },
     {
+        "_local_id": 110,
+        "section": "live",
+        "name": "DEPORTES PREMIUM 🏆",
+        "samples": [
+            {
+                "_local_id": 3159,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "TNT SPORT",
+                "url": "http://190.108.91.206:9050/play/a03i/index.m3u8",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3196,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "RED BULL TV",
+                "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3190,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "FOX SPORTS",
+                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3191,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "FOX SPORTS 3",
+                "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9462/YON00b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3192,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "ESPN",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/7548/aRwutP.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3193,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "ESPN 3",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/2112/HoemVN.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3194,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "ESPN 4",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img922/3184/GB9KEN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3195,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "ESPN PREMIUM",
+                "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3197,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "DSPORTS 2",
+                "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3198,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "FIFA +",
+                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
+                "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3199,
+                "_local_category_id": 110,
+                "section": "live",
+                "name": "DSPORTS",
+                "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 117,
         "section": "live",
         "name": "CAMARAS EN VIVO",
@@ -2432,6 +2432,113 @@
         ]
     },
     {
+        "_local_id": 131,
+        "section": "live",
+        "name": "INFANTILES 👦",
+        "samples": [
+            {
+                "_local_id": 4884,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "PLIM PLIM",
+                "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4880,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY JR",
+                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3449,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "CARTOON NETWORK",
+                "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3456,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISCOVERY KIDS",
+                "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3455,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY CHANNEL",
+                "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3453,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "TOONCAST",
+                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3458,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "CARTOONITO",
+                "url": "http://138.94.3.106:8000/play/a00b/index.m3u8",
+                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3457,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "NIKELODEON",
+                "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
+                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3454,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "NICK JR",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205836.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3459,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "BABY FIRST",
+                "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 118,
         "section": "live",
         "name": "⚽ DEPORTES VARIOS⚽",
@@ -2660,113 +2767,6 @@
                 "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
-            }
-        ]
-    },
-    {
-        "_local_id": 131,
-        "section": "live",
-        "name": "INFANTILES 👦",
-        "samples": [
-            {
-                "_local_id": 4884,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "PLIM PLIM",
-                "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4880,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY JR",
-                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3449,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "CARTOON NETWORK",
-                "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3456,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISCOVERY KIDS",
-                "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3455,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY CHANNEL",
-                "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3453,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "TOONCAST",
-                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3458,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "CARTOONITO",
-                "url": "http://138.94.3.106:8000/play/a00b/index.m3u8",
-                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3457,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "NIKELODEON",
-                "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
-                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3454,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "NICK JR",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205836.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3459,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "BABY FIRST",
-                "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
