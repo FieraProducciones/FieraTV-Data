@@ -3544,16 +3544,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3372,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "X Sport",
-                "url": "http://158.172.217.189:8000/play/a19g/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Xsports_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4016,
                 "_local_category_id": 124,
                 "section": "live",
