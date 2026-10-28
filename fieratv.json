@@ -1508,16 +1508,6 @@
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3309,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "CINE PIX",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
-                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -1614,6 +1604,16 @@
                 "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
                 "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3309,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CINE PIX",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
+                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
