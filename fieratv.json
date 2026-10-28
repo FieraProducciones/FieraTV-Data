@@ -1410,6 +1410,16 @@
         "name": "BRASIL 🇧🇷",
         "samples": [
             {
+                "_local_id": 3293,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "GLOBO HD",
+                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3296,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1426,16 +1436,6 @@
                 "name": "SBT INTERIOR",
                 "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3293,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "GLOBO HD",
-                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
