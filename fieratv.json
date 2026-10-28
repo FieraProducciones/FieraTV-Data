@@ -2937,22 +2937,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4899,
+                "_local_category_id": 212,
+                "section": "live",
+                "name": "NICKELODEON BR",
+                "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4898,
                 "_local_category_id": 212,
                 "section": "live",
                 "name": "NICK JR",
                 "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4899,
-                "_local_category_id": 212,
-                "section": "live",
-                "name": "NIKELODEON BR",
-                "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/uB3dgqC_95tiEJj2Bl47_g?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
