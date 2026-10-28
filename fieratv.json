@@ -1844,6 +1844,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4695,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY MOVIES",
+                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3394,
                 "_local_category_id": 125,
                 "section": "live",
@@ -1980,16 +1990,6 @@
                 "name": "EUROPA EUROPA",
                 "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXya4nD524MPiDThhxHtUj1bnu5-Z72uDxso1UGx6efw&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4695,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SONY MOVIES",
-                "url": "http://177.234.218.66:8084/play/a07l/index.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
