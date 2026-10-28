@@ -1567,6 +1567,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4901,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "NACION Z",
+                "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
+                "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4891,
                 "_local_category_id": 211,
                 "section": "live",
