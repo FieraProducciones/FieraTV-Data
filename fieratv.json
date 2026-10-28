@@ -1510,16 +1510,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3308,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "RUNTIME ROMANCE",
-                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3309,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1613,6 +1603,16 @@
                 "name": "RUNTIME COMEDIA",
                 "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3308,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME ROMANCE",
+                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
