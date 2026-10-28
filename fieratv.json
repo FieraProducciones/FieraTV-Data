@@ -1213,16 +1213,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3416,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY SCIENCE",
-                "url": "http://138.59.177.78:9999/play/a0gt/index.m3u8",
-                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3418,
                 "_local_category_id": 128,
                 "section": "live",
@@ -1239,6 +1229,16 @@
                 "name": "DISCOVERY TURBO",
                 "url": "http://181.78.14.26:4000/play/a02z/index.m3u8",
                 "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3416,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY SCIENCE",
+                "url": "http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8",
+                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
