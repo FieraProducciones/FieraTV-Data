@@ -456,10 +456,15 @@
                 "_local_category_id": 108,
                 "section": "live",
                 "name": "SNT",
-                "url": "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/5_4/index.m3u8",
+                "url": "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/6_3/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://www.snt.com.py",
+                    "Referer": "https://www.snt.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
             },
             {
                 "_local_id": 4798,
