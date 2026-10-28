@@ -1944,16 +1944,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3390,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "WARNER CHANNEL HD",
-                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4849,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2030,6 +2020,16 @@
                 "name": "TNT SERIES",
                 "url": "http://138.59.227.20:8000/play/a08c/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3390,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "WARNER CHANNEL HD",
+                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
