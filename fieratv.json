@@ -1645,6 +1645,16 @@
                 "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4889,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CANAL DO BOI",
+                "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
+                "icono": "https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
