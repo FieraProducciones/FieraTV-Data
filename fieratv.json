@@ -1602,6 +1602,21 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
+                "_local_id": 3282,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "AMERICA TV",
+                "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/b95ca4ad-758f-486e-b40d-4df9eb1e095a:SCL2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://vmf.edge-apps.net",
+                    "Referer": "https://vmf.edge-apps.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 3290,
                 "_local_category_id": 115,
                 "section": "live",
@@ -1627,21 +1642,6 @@
                 "drm_license_uri": "",
                 "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3282,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "AMERICA TV",
-                "url": "https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://www.a24.com",
-                    "Referer": "https://www.a24.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
                 }
             },
             {
