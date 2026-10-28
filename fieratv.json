@@ -3397,6 +3397,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3371,
+                "_local_category_id": 124,
+                "section": "live",
+                "name": "CAZÉTV",
+                "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3368,
                 "_local_category_id": 124,
                 "section": "live",
@@ -3423,16 +3433,6 @@
                 "name": "ESPN 4",
                 "url": "http://46.151.196.223:14450/",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3371,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "CAZÉTV",
-                "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
