@@ -3663,7 +3663,7 @@
                 "section": "live",
                 "name": "ESPN PREMIUM ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
