@@ -1577,6 +1577,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4895,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TELECINE ACTION",
+                "url": "http://46.151.196.223:14326/",
+                "icono": "https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4900,
                 "_local_category_id": 211,
                 "section": "live",
@@ -1713,16 +1723,6 @@
                 "name": "GLOBO PLAY NOVELAS",
                 "url": "http://79.127.238.228:14455",
                 "icono": "https://images.seeklogo.com/logo-png/61/1/globoplay-symbol-logo-png_seeklogo-617574.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4895,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TELECINE ACTION",
-                "url": "http://46.151.196.223:14326/",
-                "icono": "https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
