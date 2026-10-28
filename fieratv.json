@@ -1286,8 +1286,8 @@
                 "_local_id": 3419,
                 "_local_category_id": 128,
                 "section": "live",
-                "name": "DISCOVERY TLC",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205707.m3u8",
+                "name": "TLC",
+                "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
                 "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
