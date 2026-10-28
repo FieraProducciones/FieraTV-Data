@@ -1552,7 +1552,7 @@
                 "section": "live",
                 "name": "HISTORY CHANEL",
                 "url": "http://45.177.114.114/HISTORY/index.m3u8",
-                "icono": "",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
