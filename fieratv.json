@@ -1154,16 +1154,6 @@
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4131,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "EN LENGUA DE SEÑAS TV",
-                "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
-                "icono": "https://i.ibb.co/DPZyZJPF/1782754678534.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
