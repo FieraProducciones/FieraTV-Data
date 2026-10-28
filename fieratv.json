@@ -1263,6 +1263,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3421,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HGTV",
+                "url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+                "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/hgtv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3408,
                 "_local_category_id": 128,
                 "section": "live",
@@ -1289,16 +1299,6 @@
                 "name": "TLC",
                 "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
                 "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3421,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HGTV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/50643.m3u8",
-                "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/hgtv.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
