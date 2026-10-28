@@ -3544,21 +3544,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4021,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "PREMIER 3",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4022,
                 "_local_category_id": 124,
                 "section": "live",
