@@ -1527,16 +1527,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4904,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "HBO 2 BR",
-                "url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
-                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3299,
                 "_local_category_id": 211,
                 "section": "live",
