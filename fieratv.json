@@ -3243,7 +3243,7 @@
                 "section": "live",
                 "name": "LAS ESTRELLAS",
                 "url": "http://190.61.42.218:9000/play/a09t/index.m3u8",
-                "icono": "",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
