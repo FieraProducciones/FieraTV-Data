@@ -1026,16 +1026,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3235,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "PARAGUARI TV",
-                "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
-                "icono": "https://mediosenparaguay.com/gallery_gen/012f016ded785c389fb1175120391e8f_284x317.17467248908_fill.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3236,
                 "_local_category_id": 113,
                 "section": "live",
