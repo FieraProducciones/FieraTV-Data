@@ -3213,16 +3213,6 @@
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
-                "_local_id": 3432,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "tLNOVELAS",
-                "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4685,
                 "_local_category_id": 129,
                 "section": "live",
@@ -3236,6 +3226,16 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "_local_id": 3432,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "tLNOVELAS",
+                "url": "http://190.61.42.218:9000/play/a00k/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 4908,
