@@ -1327,7 +1327,7 @@
                 "_local_category_id": 128,
                 "section": "live",
                 "name": "HOLA ! TV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372946.m3u8",
+                "url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
                 "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
