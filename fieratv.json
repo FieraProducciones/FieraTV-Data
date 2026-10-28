@@ -1954,22 +1954,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3388,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "EUROPA EUROPA",
+                "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXya4nD524MPiDThhxHtUj1bnu5-Z72uDxso1UGx6efw&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3385,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "FILM & ARTS",
                 "url": "http://138.59.177.78:9999/play/a0o0/index.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3388,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "EUROPA EUROPA",
-                "url": "http://138.59.227.20:8000/play/a07t/index.m3u8",
-                "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
