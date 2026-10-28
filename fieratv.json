@@ -1518,6 +1518,16 @@
                 "icono": "http://i.tvcluboficial.com/tvglobo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4893,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "TV CAMARA",
+                "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+                "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
