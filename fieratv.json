@@ -1617,16 +1617,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3302,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TOP MIX",
-                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3303,
                 "_local_category_id": 211,
                 "section": "live",
@@ -1763,6 +1753,16 @@
                 "name": "CLUBE DO TERROR",
                 "url": "https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8",
                 "icono": "https://www.estadao.com.br/resizer/v2/DVUF3E4TPBJENA7CDO56JDKTRQ.jpg?quality=80&auth=497be847b3d77bc4dab53994eced1abba64bca90fba4e2edb073dfbce7b3eaa4&width=380",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3302,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TOP MIX",
+                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
