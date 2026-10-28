@@ -1153,22 +1153,22 @@
         "name": "CULTURA  & COCINA 🧑‍🍳",
         "samples": [
             {
-                "_local_id": 3409,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "ANIMAL PLANET",
-                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3410,
                 "_local_category_id": 128,
                 "section": "live",
                 "name": "HISTORY",
                 "url": "http://177.234.218.66:8084/play/a07k/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3409,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "ANIMAL PLANET",
+                "url": "http://190.128.214.97:64333/play/a01n/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
