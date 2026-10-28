@@ -1617,6 +1617,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4907,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "SONY MOVIES",
+                "url": "http://45.177.114.115/SONY_MOVIES/index.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4901,
                 "_local_category_id": 211,
                 "section": "live",
