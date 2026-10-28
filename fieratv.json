@@ -1323,16 +1323,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3425,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HOLA ! TV",
-                "url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
-                "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3427,
                 "_local_category_id": 128,
                 "section": "live",
