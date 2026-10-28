@@ -671,6 +671,233 @@
         ]
     },
     {
+        "_local_id": 128,
+        "section": "live",
+        "name": "CULTURA  & COCINA 🧑‍🍳",
+        "samples": [
+            {
+                "_local_id": 3409,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "ANIMAL PLANET",
+                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3410,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HISTORY",
+                "url": "http://177.234.218.66:8084/play/a07k/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3413,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY CHANNEL",
+                "url": "http://138.59.177.78:9999/play/a0n1/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3412,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HISTORY 2",
+                "url": "http://177.234.218.66:8084/play/a07z/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3414,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY H&H",
+                "url": "http://138.59.177.78:9999/play/a0ni/index.m3u8",
+                "icono": "https://i.ibb.co/gjWGgjX/hh.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3415,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY ID",
+                "url": "http://138.59.177.78:9999/play/a0n2/index.m3u8",
+                "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3424,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "FOOD NETWORK",
+                "url": "http://181.78.14.26:4000/play/a02v/index.m3u8",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3416,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY SCIENCE",
+                "url": "http://138.59.177.78:9999/play/a0gt/index.m3u8",
+                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3417,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY TURBO",
+                "url": "http://181.78.14.26:4000/play/a02z/index.m3u8",
+                "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3418,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY THEATER",
+                "url": "http://167.249.23.102:8000/play/a0il/index.m3u8",
+                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3420,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY WORLD",
+                "url": "http://138.59.177.78:9999/play/a09q/index.m3u8",
+                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3269,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "LOVE NATURE",
+                "url": "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3408,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "NATIONAL GEOGRAPHIC",
+                "url": "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3411,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "LOVE NATURE 4K",
+                "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3419,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY TLC",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205707.m3u8",
+                "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3421,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HGTV",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/50643.m3u8",
+                "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/hgtv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3422,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "EL GOURMET",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4173.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20230410230608&path-prefix=es",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3423,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "E-ENTERTAINMENT",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205829.m3u8",
+                "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3425,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "HOLA ! TV",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372946.m3u8",
+                "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3426,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "LIFETIME",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/190991.m3u8",
+                "icono": "https://www.totalmedios.com/img/noticias/2020/07/5efc74e42ba7b__838x390.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3427,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "CANAL COCINA",
+                "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=72000a0d-9249-495a-bf08-c739ea1bb1c9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131",
+                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3428,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "GUSTO TV",
+                "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=eb8aba18-b506-4b0e-9158-6314eb4d3397&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858",
+                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 112,
         "section": "live",
         "name": "PARAGUAY - STREAMING - MEDIA",
@@ -2205,340 +2432,6 @@
         ]
     },
     {
-        "_local_id": 128,
-        "section": "live",
-        "name": "CULTURA  & COCINA 🧑‍🍳",
-        "samples": [
-            {
-                "_local_id": 3409,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "ANIMAL PLANET",
-                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3410,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HISTORY",
-                "url": "http://177.234.218.66:8084/play/a07k/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3413,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY CHANNEL",
-                "url": "http://138.59.177.78:9999/play/a0n1/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3412,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HISTORY 2",
-                "url": "http://177.234.218.66:8084/play/a07z/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3414,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY H&H",
-                "url": "http://138.59.177.78:9999/play/a0ni/index.m3u8",
-                "icono": "https://i.ibb.co/gjWGgjX/hh.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3415,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY ID",
-                "url": "http://138.59.177.78:9999/play/a0n2/index.m3u8",
-                "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3424,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "FOOD NETWORK",
-                "url": "http://181.78.14.26:4000/play/a02v/index.m3u8",
-                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3416,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY SCIENCE",
-                "url": "http://138.59.177.78:9999/play/a0gt/index.m3u8",
-                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3417,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY TURBO",
-                "url": "http://181.78.14.26:4000/play/a02z/index.m3u8",
-                "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3418,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY THEATER",
-                "url": "http://167.249.23.102:8000/play/a0il/index.m3u8",
-                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3420,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY WORLD",
-                "url": "http://138.59.177.78:9999/play/a09q/index.m3u8",
-                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3269,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "LOVE NATURE",
-                "url": "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3408,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "NATIONAL GEOGRAPHIC",
-                "url": "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3411,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "LOVE NATURE 4K",
-                "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3419,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY TLC",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205707.m3u8",
-                "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3421,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HGTV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/50643.m3u8",
-                "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/hgtv.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3422,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "EL GOURMET",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4173.m3u8",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20230410230608&path-prefix=es",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3423,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "E-ENTERTAINMENT",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205829.m3u8",
-                "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3425,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "HOLA ! TV",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/372946.m3u8",
-                "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3426,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "LIFETIME",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/190991.m3u8",
-                "icono": "https://www.totalmedios.com/img/noticias/2020/07/5efc74e42ba7b__838x390.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3427,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "CANAL COCINA",
-                "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=72000a0d-9249-495a-bf08-c739ea1bb1c9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131",
-                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3428,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "GUSTO TV",
-                "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=eb8aba18-b506-4b0e-9158-6314eb4d3397&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 131,
-        "section": "live",
-        "name": "INFANTILES 👦",
-        "samples": [
-            {
-                "_local_id": 4884,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "PLIM PLIM",
-                "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4880,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY JR",
-                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3449,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "CARTOON NETWORK",
-                "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3456,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISCOVERY KIDS",
-                "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3455,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "DISNEY CHANNEL",
-                "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3453,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "TOONCAST",
-                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3458,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "CARTOONITO",
-                "url": "http://138.94.3.106:8000/play/a00b/index.m3u8",
-                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3457,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "NIKELODEON",
-                "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
-                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3454,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "NICK JR",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205836.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3459,
-                "_local_category_id": 131,
-                "section": "live",
-                "name": "BABY FIRST",
-                "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 118,
         "section": "live",
         "name": "⚽ DEPORTES VARIOS⚽",
@@ -2767,6 +2660,113 @@
                 "icono": "https://app.femon.net/tv/banners/69b833696b1766.71860602.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
+            }
+        ]
+    },
+    {
+        "_local_id": 131,
+        "section": "live",
+        "name": "INFANTILES 👦",
+        "samples": [
+            {
+                "_local_id": 4884,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "PLIM PLIM",
+                "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4880,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY JR",
+                "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3449,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "CARTOON NETWORK",
+                "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3456,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISCOVERY KIDS",
+                "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3455,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "DISNEY CHANNEL",
+                "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3453,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "TOONCAST",
+                "url": "http://181.78.211.244:8000/play/a08y/index.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/2091/kF5uyr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3458,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "CARTOONITO",
+                "url": "http://138.94.3.106:8000/play/a00b/index.m3u8",
+                "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3457,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "NIKELODEON",
+                "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
+                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3454,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "NICK JR",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205836.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/nickjr_97189e0f96cc4a8a9de546ad23e378b4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3459,
+                "_local_category_id": 131,
+                "section": "live",
+                "name": "BABY FIRST",
+                "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
