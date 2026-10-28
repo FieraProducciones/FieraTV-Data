@@ -1223,22 +1223,22 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3418,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY THEATER",
+                "url": "http://181.224.200.5:2277/play/a0bj/index.m3u8",
+                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3417,
                 "_local_category_id": 128,
                 "section": "live",
                 "name": "DISCOVERY TURBO",
                 "url": "http://181.78.14.26:4000/play/a02z/index.m3u8",
                 "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3418,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY THEATER",
-                "url": "http://167.249.23.102:8000/play/a0il/index.m3u8",
-                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
