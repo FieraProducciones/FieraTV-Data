@@ -1725,6 +1725,16 @@
                 "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4902,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CINE TERROR",
+                "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CviaKrlEh6VqNKAYJShTqp5yTyBUXfP8qhW7z--fHA&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
