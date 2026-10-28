@@ -3544,21 +3544,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4017,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "SPORTV 3",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-                "icono": "https://i.ibb.co/vvYS9P7m/2025-04-28-23-37-29.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4018,
                 "_local_category_id": 124,
                 "section": "live",
