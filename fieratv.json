@@ -1470,6 +1470,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3295,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "RECORD NEWS",
+                "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+                "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3292,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1486,16 +1496,6 @@
                 "name": "GLOBO HD",
                 "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
                 "icono": "http://i.tvcluboficial.com/tvglobo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3295,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "RECORD NEWS",
-                "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
-                "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
