@@ -3812,6 +3812,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3252,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "EURONEWS",
+                "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Euronews_2022_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20230305183248&path-prefix=es",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3250,
                 "_local_category_id": 114,
                 "section": "live",
@@ -3828,16 +3838,6 @@
                 "name": "DW ESPAÑOL",
                 "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
                 "icono": "https://imagizer.imageshack.com/img924/5109/jfQW7q.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3252,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "EURONEWS",
-                "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/342.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
