@@ -1854,6 +1854,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3387,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SONY",
+                "url": "http://177.234.218.66:8084/play/a07n/index.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3394,
                 "_local_category_id": 125,
                 "section": "live",
@@ -1870,16 +1880,6 @@
                 "name": "UNIVERSAL CHANNEL",
                 "url": "http://177.234.218.66:8084/play/a082/index.m3u8",
                 "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/catalogue/universaltvlatinamerica-us.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3387,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SONY",
-                "url": "http://177.234.218.66:8084/play/a07n/index.m3u8",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
