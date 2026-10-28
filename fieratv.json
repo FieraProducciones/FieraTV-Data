@@ -1490,22 +1490,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4243,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "GLOBO HD",
-                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-                "icono": "http://i.tvcluboficial.com/tvglobo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3304,
                 "_local_category_id": 116,
                 "section": "live",
                 "name": "REDE TV MAIS",
                 "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8",
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4243,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "GLOBO HD",
+                "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+                "icono": "http://i.tvcluboficial.com/tvglobo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
