@@ -1500,16 +1500,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3299,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "TLC",
-                "url": "http://79.127.238.228:14433/GLOBO",
-                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3300,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1615,7 +1605,18 @@
         "_local_id": 211,
         "section": "live",
         "name": "BRASIL CINE & VARIEDADES",
-        "samples": []
+        "samples": [
+            {
+                "_local_id": 3299,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TLC",
+                "url": "http://79.127.238.228:14433/GLOBO",
+                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     },
     {
         "_local_id": 115,
