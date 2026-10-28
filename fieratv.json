@@ -1420,6 +1420,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4885,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "BAND NEWS",
+                "url": "http://45.162.64.114/BAND_NEWS/index.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4881,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1436,16 +1446,6 @@
                 "name": "RECORD NEWS",
                 "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4885,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "BAND NEWS",
-                "url": "http://45.162.64.114/BAND_NEWS/index.m3u8",
-                "icono": "https://images.seeklogo.com/logo-png/31/1/band-news-tv-logo-png_seeklogo-314893.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
