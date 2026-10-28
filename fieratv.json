@@ -1587,22 +1587,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4895,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TELECINE ACTION",
-                "url": "http://46.151.196.223:14326/",
-                "icono": "https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4900,
                 "_local_category_id": 211,
                 "section": "live",
                 "name": "THE WALKING DEAD BR",
                 "url": "https://jmp2.uk/plu-678aa104680721c77c506746.m3u8",
                 "icono": "https://thewalkingdeadshop.amc.com/cdn/shop/products/TWD-LOGO-women-s-short-sleeve-tshirt-black-RO_1445x.png?v=1598561427",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4895,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TELECINE ACTION",
+                "url": "http://46.151.196.223:14326/",
+                "icono": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/telecine-brasil-logo-2019.png?resize=800%2C400",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
