@@ -1510,16 +1510,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3306,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "RUNTIME FAMILIA",
-                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3307,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1613,6 +1603,16 @@
                 "name": "RUNTIME ACCION",
                 "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3306,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME FAMILIA",
+                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
