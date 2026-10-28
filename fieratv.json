@@ -1213,16 +1213,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3424,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "FOOD NETWORK",
-                "url": "http://181.78.14.26:4000/play/a02v/index.m3u8",
-                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3416,
                 "_local_category_id": 128,
                 "section": "live",
@@ -1369,6 +1359,16 @@
                 "name": "GUSTO TV",
                 "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=eb8aba18-b506-4b0e-9158-6314eb4d3397&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858",
                 "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3424,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "FOOD NETWORK",
+                "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
