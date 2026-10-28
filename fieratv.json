@@ -3544,21 +3544,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4025,
-                "_local_category_id": 124,
-                "section": "live",
-                "name": "PREMIER 7",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
-                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=9ee352aac7ed8ee1cb42cfdf322b1cb0&key=053d635fc90e175881bef26cd29f371e",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4026,
                 "_local_category_id": 124,
                 "section": "live",
