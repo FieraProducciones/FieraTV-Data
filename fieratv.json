@@ -1450,6 +1450,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3298,
+                "_local_category_id": 116,
+                "section": "live",
+                "name": "REDE TV HD",
+                "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1421256369.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3292,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1486,16 +1496,6 @@
                 "name": "RECORD NEWS",
                 "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
                 "icono": "https://imagizer.imageshack.com/img921/9980/8ylf63.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3298,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "REDE TV HD",
-                "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1421256369.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
