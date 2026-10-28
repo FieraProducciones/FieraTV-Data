@@ -1508,6 +1508,122 @@
         "samples": []
     },
     {
+        "_local_id": 115,
+        "section": "live",
+        "name": "ARGENTINA🇦🇷",
+        "samples": [
+            {
+                "_local_id": 3284,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "EL TRECE",
+                "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://www.eltrecetv.com.ar/vivo",
+                    "Referer": "https://www.eltrecetv.com.ar/vivo/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 3282,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "AMERICA TV",
+                "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/b95ca4ad-758f-486e-b40d-4df9eb1e095a:SCL2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://vmf.edge-apps.net",
+                    "Referer": "https://vmf.edge-apps.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 3290,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "A24",
+                "url": "https://g4.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://vmf.edge-apps.net",
+                    "Referer": "https://vmf.edge-apps.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 3285,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "CANAL 9",
+                "url": "http://181.209.80.115:8000/play/a04h/index.m3u8",
+                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3281,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "TELEFE",
+                "url": "http://181.209.91.106:2222/Live/e86d3e2949d68fcefdba7abc9a046fe3/telefe.playlist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3291,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "CANAL 26",
+                "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3286,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "TN NOTICIAS",
+                "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Referer": "https://tn.com.ar/envivo/24hs",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 3287,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "C5N",
+                "url": "http://45.134.141.161:2200/ARG/C5N/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3288,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "LN+ - LA NACION",
+                "url": "http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 125,
         "section": "live",
         "name": "SERIES & 🎬 PELICULAS",
@@ -1845,116 +1961,87 @@
         ]
     },
     {
-        "_local_id": 115,
+        "_local_id": 126,
         "section": "live",
-        "name": "ARGENTINA🇦🇷",
+        "name": "PACK CINE HBO 🎥",
         "samples": [
             {
-                "_local_id": 3284,
-                "_local_category_id": 115,
+                "_local_id": 3396,
+                "_local_category_id": 126,
                 "section": "live",
-                "name": "EL TRECE",
-                "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://www.eltrecetv.com.ar/vivo",
-                    "Referer": "https://www.eltrecetv.com.ar/vivo/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3282,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "AMERICA TV",
-                "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/b95ca4ad-758f-486e-b40d-4df9eb1e095a:SCL2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://vmf.edge-apps.net",
-                    "Referer": "https://vmf.edge-apps.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3290,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "A24",
-                "url": "https://g4.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://vmf.edge-apps.net",
-                    "Referer": "https://vmf.edge-apps.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3285,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CANAL 9",
-                "url": "http://181.209.80.115:8000/play/a04h/index.m3u8",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+                "name": "HBO HD",
+                "url": "http://138.59.177.78:9999/play/a098/index.m3u8",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3281,
-                "_local_category_id": 115,
+                "_local_id": 3397,
+                "_local_category_id": 126,
                 "section": "live",
-                "name": "TELEFE",
-                "url": "http://181.209.91.106:2222/Live/e86d3e2949d68fcefdba7abc9a046fe3/telefe.playlist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "name": "HBO 2",
+                "url": "http://181.78.82.130:8000/play/a0rf/index.m3u8",
+                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3291,
-                "_local_category_id": 115,
+                "_local_id": 3398,
+                "_local_category_id": 126,
                 "section": "live",
-                "name": "CANAL 26",
-                "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-26_6c3ad01257354fbea2cc192eb3f8f751.png",
+                "name": "HBO XTREME HD",
+                "url": "http://181.78.197.59:8000/play/a07h/index.m3u8",
+                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3286,
-                "_local_category_id": 115,
+                "_local_id": 3402,
+                "_local_category_id": 126,
                 "section": "live",
-                "name": "TN NOTICIAS",
-                "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Referer": "https://tn.com.ar/envivo/24hs",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3287,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "C5N",
-                "url": "http://45.134.141.161:2200/ARG/C5N/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
+                "name": "HBO + PLUS HD",
+                "url": "http://181.78.82.130:8000/play/a0re/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3288,
-                "_local_category_id": 115,
+                "_local_id": 3399,
+                "_local_category_id": 126,
                 "section": "live",
-                "name": "LN+ - LA NACION",
-                "url": "http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ln_5fba8ac7ccc2440789635c2a920421e6.png",
+                "name": "HBO FAMILY",
+                "url": "http://45.173.231.22:8000/play/a073/index.m3u8",
+                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3400,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO MUNDI HD",
+                "url": "http://181.78.197.59:8000/play/a07f/index.m3u8",
+                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3401,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO POP HD",
+                "url": "http://45.173.231.22:8000/play/a06q/index.m3u8",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3403,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO SIGNATURE",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/664.m3u8",
+                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -3263,93 +3350,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "_local_id": 126,
-        "section": "live",
-        "name": "PACK CINE HBO 🎥",
-        "samples": [
-            {
-                "_local_id": 3396,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO HD",
-                "url": "http://138.59.177.78:9999/play/a098/index.m3u8",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3397,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO 2",
-                "url": "http://181.78.82.130:8000/play/a0rf/index.m3u8",
-                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3398,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO XTREME HD",
-                "url": "http://181.78.197.59:8000/play/a07h/index.m3u8",
-                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3402,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO + PLUS HD",
-                "url": "http://181.78.82.130:8000/play/a0re/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3399,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO FAMILY",
-                "url": "http://45.173.231.22:8000/play/a073/index.m3u8",
-                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3400,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO MUNDI HD",
-                "url": "http://181.78.197.59:8000/play/a07f/index.m3u8",
-                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3401,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO POP HD",
-                "url": "http://45.173.231.22:8000/play/a06q/index.m3u8",
-                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3403,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO SIGNATURE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/664.m3u8",
-                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
