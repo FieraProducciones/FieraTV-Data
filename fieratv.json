@@ -1625,6 +1625,21 @@
                 }
             },
             {
+                "_local_id": 3282,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "AMERICA TV",
+                "url": "https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://www.a24.com",
+                    "Referer": "https://www.a24.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 3285,
                 "_local_category_id": 115,
                 "section": "live",
