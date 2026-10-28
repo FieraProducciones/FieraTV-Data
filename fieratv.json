@@ -3812,16 +3812,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3249,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "LA TELE URUGUAY",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/326999.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3257,
                 "_local_category_id": 114,
                 "section": "live",
