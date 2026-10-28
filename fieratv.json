@@ -3367,6 +3367,103 @@
         ]
     },
     {
+        "_local_id": 129,
+        "section": "live",
+        "name": "🎬CANALES DE NOVELAS",
+        "samples": [
+            {
+                "_local_id": 3432,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "tLNOVELAS",
+                "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4685,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "TNT NOVELAS",
+                "url": "http://38.134.250.110:8000/play/a02b/index.m3u8",
+                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 3433,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "CANAL DE LAS ESTRELLAS",
+                "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3437,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "RCN MAS",
+                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/VknKRx0h/descarga-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3438,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "TODO NOVELAS",
+                "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
+                "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4028,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "CORAZON",
+                "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
+                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "_local_id": 4029,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "NOVELAS TV",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png",
+                "type": "HLS",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "_local_id": 4030,
+                "_local_category_id": 129,
+                "section": "live",
+                "name": "NOVELISSIMA",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "https://player.sensa.com.ar/",
+                    "User-Agent": ""
+                }
+            }
+        ]
+    },
+    {
         "_local_id": 121,
         "section": "live",
         "name": "DEPORTES COLOMBIA🇨🇴⚽",
@@ -3873,103 +3970,6 @@
                 "icono": "https://i.postimg.cc/vBC1T5ts/1775146310895.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 129,
-        "section": "live",
-        "name": "🎬CANALES DE NOVELAS",
-        "samples": [
-            {
-                "_local_id": 3432,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "tLNOVELAS",
-                "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4685,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "TNT NOVELAS",
-                "url": "http://38.134.250.110:8000/play/a02b/index.m3u8",
-                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3433,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "CANAL DE LAS ESTRELLAS",
-                "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3437,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "RCN MAS",
-                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/VknKRx0h/descarga-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3438,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "TODO NOVELAS",
-                "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T",
-                "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4028,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "CORAZON",
-                "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
-                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "_local_id": 4029,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "NOVELAS TV",
-                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png",
-                "type": "HLS",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "_local_id": 4030,
-                "_local_category_id": 129,
-                "section": "live",
-                "name": "NOVELISSIMA",
-                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "https://player.sensa.com.ar/",
-                    "User-Agent": ""
-                }
             }
         ]
     },
