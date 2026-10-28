@@ -1500,16 +1500,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3303,
-                "_local_category_id": 116,
-                "section": "live",
-                "name": "SONY",
-                "url": "https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3304,
                 "_local_category_id": 116,
                 "section": "live",
@@ -1613,6 +1603,16 @@
                 "name": "TOP MIX",
                 "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
                 "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3303,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "SONY",
+                "url": "https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
