@@ -1675,6 +1675,16 @@
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Gm9ch_hdhE7pDIwzM9hZcto8GO4u-f8qggQHB4jfmLNqz2SGWEk6MlVNwrbbREzBJi83JA0PHaq7GrDOMggpCkQddsN7inQHznV2fTh6e8Rx3jpSUPpUUjOQwkxZx93Bl1RdobS1mCo/s1600/logo-fishtv-blog1-770x439_c.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4892,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "NICK ONLINE",
+                "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+                "icono": "https://www.springfieldlibrary.org/library/assets/2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
