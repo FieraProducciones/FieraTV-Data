@@ -1606,10 +1606,15 @@
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "A24",
-                "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+                "url": "https://g4.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
                 "type": "HLS",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://vmf.edge-apps.net",
+                    "Referer": "https://vmf.edge-apps.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
             },
             {
                 "_local_id": 3284,
