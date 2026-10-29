@@ -574,21 +574,11 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3977,
-                "_local_category_id": 109,
-                "section": "live",
-                "name": "SUR TV",
-                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4795,
                 "_local_category_id": 109,
                 "section": "live",
                 "name": "GEN",
-                "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w256502330.m3u8?k=6cfc40ed8516563020fd20a605fda1868edd59e71069fcf72b1048c170480659&exp=1793192026",
+                "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=73da408ddca358af4243fd5ad57220ef252fb292faa01165c50915a8aac69beb&exp=1793307962",
                 "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
                 "type": "HLS",
                 "drm_license_uri": "",
@@ -597,6 +587,16 @@
                     "Referer": "https://gentv.desdepylabs.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "_local_id": 3977,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "SUR TV",
+                "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "_local_id": 3999,
