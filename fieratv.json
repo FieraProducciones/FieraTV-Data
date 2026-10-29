@@ -4574,16 +4574,6 @@
         "name": "CANALES DE PRUEBA",
         "samples": [
             {
-                "_local_id": 4801,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "UNICANAL",
-                "url": "http://10.140.0.22:9000/unicanalsrt",
-                "icono": "",
-                "type": "OTRO",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4033,
                 "_local_category_id": 137,
                 "section": "live",
@@ -4605,6 +4595,16 @@
                 "name": "SEXTREME",
                 "url": "http://190.108.83.69:8000/play/a0cj/index.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4801,
+                "_local_category_id": 137,
+                "section": "live",
+                "name": "UNICANAL",
+                "url": "http://10.140.0.22:9000/unicanalsrt",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
