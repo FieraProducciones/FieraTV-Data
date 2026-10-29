@@ -4577,10 +4577,10 @@
                 "_local_id": 4801,
                 "_local_category_id": 137,
                 "section": "live",
-                "name": "TEST 1",
-                "url": "https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd",
+                "name": "UNICANAL",
+                "url": "http://10.140.0.22:9000/unicanalsrt",
                 "icono": "",
-                "type": "HLS",
+                "type": "OTRO",
                 "drm_license_uri": ""
             },
             {
