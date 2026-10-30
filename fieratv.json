@@ -82,6 +82,16 @@
                 "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4909,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "EVENTOS HD 0266",
+                "url": "https://wizzi.fieratvhd.com/play/a1r3",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
