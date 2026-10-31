@@ -15,6 +15,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3984,
+                "_local_category_id": 105,
+                "section": "live",
+                "name": "EVENTOS SD",
+                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/f77645b2ee8685df4a05a6ea66c75b06/manifest/video.m3u8",
+                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3970,
                 "_local_category_id": 105,
                 "section": "live",
@@ -79,16 +89,6 @@
                 "section": "live",
                 "name": "UENO SPORTS 2",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3984,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS SD",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/69ff65ecfd5549dbe80508eaecc171b7/manifest/video.m3u8",
                 "icono": "https://i.postimg.cc/wvGjcx3m/Logotipo-ueno-sports-en-turquesa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
