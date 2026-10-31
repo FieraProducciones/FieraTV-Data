@@ -10,7 +10,7 @@
                 "section": "live",
                 "name": "PRIMERA B",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/eventos3/chunks.m3u8",
-                "icono": "",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcWxq_QBeLjR7b2esJYn9Eb_W4PTcCKmOq97XPsE_I__ydOkwCZ-ecAw&s=10",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
