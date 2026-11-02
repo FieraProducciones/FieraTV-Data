@@ -126,7 +126,7 @@
                 "_local_category_id": 173,
                 "section": "live",
                 "name": "ESPN 2",
-                "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12585.ts",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
