@@ -1217,6 +1217,21 @@
                 }
             },
             {
+                "_local_id": 4968,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "TV CHAQUENA",
+                "url": "https://tigocloudgen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist_w1703981637.m3u8?admin=admin",
+                "icono": "https://i.postimg.cc/59RqFxrr/tvchaquena.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4973,
                 "_local_category_id": 113,
                 "section": "live",
