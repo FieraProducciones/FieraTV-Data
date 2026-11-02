@@ -297,6 +297,16 @@
                 "icono": "https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5203,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "TELEMUNDO DEPORTES",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1779032.ts",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
