@@ -2264,6 +2264,21 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
                 "type": "OTRO",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4984,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "TELEFE INTERNACIONAL",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85374.ts",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/H__k71paYRrVP0funRIWvg?tags=CH_LOGO",
+                "type": "DASH",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
