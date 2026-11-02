@@ -136,7 +136,7 @@
                 "_local_category_id": 173,
                 "section": "live",
                 "name": "ESPN 3",
-                "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12591.ts",
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
                 "type": "HLS",
                 "drm_license_uri": ""
