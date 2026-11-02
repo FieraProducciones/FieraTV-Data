@@ -571,16 +571,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3148,
-                "_local_category_id": 106,
-                "section": "live",
-                "name": "ESPN",
-                "url": "http://181.78.82.130:8000/play/a0dm/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3149,
                 "_local_category_id": 106,
                 "section": "live",
