@@ -106,7 +106,7 @@
                 "_local_category_id": 173,
                 "section": "live",
                 "name": "ESPN HD",
-                "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12577.ts",
                 "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
                 "type": "HLS",
                 "drm_license_uri": ""
