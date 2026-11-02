@@ -87,93 +87,6 @@
         ]
     },
     {
-        "_local_id": 121,
-        "section": "live",
-        "name": "ESPN HD SUR",
-        "samples": [
-            {
-                "_local_id": 3345,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624829.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3346,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN HD 2 SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85176.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3347,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 3 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85178.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3348,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 4 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85181.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3349,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 5 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85183.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3350,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 6 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85187.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3351,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 7 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624826.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3195,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN PREMIUM HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624823.ts",
-                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 173,
         "section": "live",
         "name": "⚽️DEPORTES ESPN",
@@ -280,6 +193,93 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12623.ts",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "_local_id": 121,
+        "section": "live",
+        "name": "ESPN HD SUR",
+        "samples": [
+            {
+                "_local_id": 3345,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624829.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3346,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN HD 2 SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85176.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3347,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 3 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85178.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3348,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 4 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85181.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3349,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 5 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85183.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3350,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 6 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85187.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3351,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 7 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624826.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3195,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN PREMIUM HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624823.ts",
+                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -1618,223 +1618,6 @@
         ]
     },
     {
-        "_local_id": 211,
-        "section": "live",
-        "name": "BRASIL CINE & VARIEDADES",
-        "samples": [
-            {
-                "_local_id": 4887,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "AXN",
-                "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4886,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "AMC",
-                "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/HKbnnO9g-BCVrVCSnSx_Dg?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3299,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TLC",
-                "url": "http://79.127.238.228:14433/GLOBO",
-                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4900,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "THE WALKING DEAD BR",
-                "url": "https://jmp2.uk/plu-678aa104680721c77c506746.m3u8",
-                "icono": "https://thewalkingdeadshop.amc.com/cdn/shop/products/TWD-LOGO-women-s-short-sleeve-tshirt-black-RO_1445x.png?v=1598561427",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4895,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TELECINE ACTION",
-                "url": "http://46.151.196.223:14326/",
-                "icono": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/telecine-brasil-logo-2019.png?resize=800%2C400",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3303,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "SONY CHANNEL",
-                "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4901,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "NACION Z",
-                "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
-                "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3305,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "RUNTIME ACCION",
-                "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3306,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "RUNTIME FAMILIA",
-                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3307,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "RUNTIME COMEDIA",
-                "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3308,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "RUNTIME ROMANCE",
-                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3309,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CINE PIX",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
-                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4889,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CANAL DO BOI",
-                "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
-                "icono": "https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4890,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "FISH TV",
-                "url": "http://45.162.64.114/FISH_TV/index.m3u8",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Gm9ch_hdhE7pDIwzM9hZcto8GO4u-f8qggQHB4jfmLNqz2SGWEk6MlVNwrbbREzBJi83JA0PHaq7GrDOMggpCkQddsN7inQHznV2fTh6e8Rx3jpSUPpUUjOQwkxZx93Bl1RdobS1mCo/s1600/logo-fishtv-blog1-770x439_c.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4894,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "GLOBO PLAY NOVELAS",
-                "url": "http://79.127.238.228:14455",
-                "icono": "https://mir-s3-cdn-cf.behance.net/projects/404/9be3d0239191925.Y3JvcCwxNDM4LDExMjUsMjc0LDA.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4896,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CNN BR",
-                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
-                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4902,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CINE TERROR",
-                "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CviaKrlEh6VqNKAYJShTqp5yTyBUXfP8qhW7z--fHA&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4903,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "C.S.I MIAMI",
-                "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
-                "icono": "https://i.pinimg.com/736x/e1/66/c4/e166c41390aa89a93e7f6d43a0c8cd00.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4905,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CAÇADORA DE RELIQUIAS",
-                "url": "https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8",
-                "icono": "https://cdn11.bigcommerce.com/s-ftsflnse4o/images/stencil/1280x1280/products/31500/121246/D_789749-MLA53763553097_022023-O__77415.1730713488.jpg?c=1?imbypass=on",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4906,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "CLUBE DO TERROR",
-                "url": "https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8",
-                "icono": "https://www.estadao.com.br/resizer/v2/DVUF3E4TPBJENA7CDO56JDKTRQ.jpg?quality=80&auth=497be847b3d77bc4dab53994eced1abba64bca90fba4e2edb073dfbce7b3eaa4&width=380",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3302,
-                "_local_category_id": 211,
-                "section": "live",
-                "name": "TOP MIX",
-                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
-                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 216,
         "section": "live",
         "name": "📺DEPORTES ARG",
@@ -2148,6 +1931,223 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
+            }
+        ]
+    },
+    {
+        "_local_id": 211,
+        "section": "live",
+        "name": "BRASIL CINE & VARIEDADES",
+        "samples": [
+            {
+                "_local_id": 4887,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "AXN",
+                "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4886,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "AMC",
+                "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/HKbnnO9g-BCVrVCSnSx_Dg?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3299,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TLC",
+                "url": "http://79.127.238.228:14433/GLOBO",
+                "icono": "https://imagizer.imageshack.com/img922/9618/cxiMDm.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4900,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "THE WALKING DEAD BR",
+                "url": "https://jmp2.uk/plu-678aa104680721c77c506746.m3u8",
+                "icono": "https://thewalkingdeadshop.amc.com/cdn/shop/products/TWD-LOGO-women-s-short-sleeve-tshirt-black-RO_1445x.png?v=1598561427",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4895,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TELECINE ACTION",
+                "url": "http://46.151.196.223:14326/",
+                "icono": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/telecine-brasil-logo-2019.png?resize=800%2C400",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3303,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "SONY CHANNEL",
+                "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4901,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "NACION Z",
+                "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
+                "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3305,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME ACCION",
+                "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3306,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME FAMILIA",
+                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_480.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3307,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME COMEDIA",
+                "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3308,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "RUNTIME ROMANCE",
+                "url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3309,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CINE PIX",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
+                "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4889,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CANAL DO BOI",
+                "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
+                "icono": "https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4890,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "FISH TV",
+                "url": "http://45.162.64.114/FISH_TV/index.m3u8",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Gm9ch_hdhE7pDIwzM9hZcto8GO4u-f8qggQHB4jfmLNqz2SGWEk6MlVNwrbbREzBJi83JA0PHaq7GrDOMggpCkQddsN7inQHznV2fTh6e8Rx3jpSUPpUUjOQwkxZx93Bl1RdobS1mCo/s1600/logo-fishtv-blog1-770x439_c.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4894,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "GLOBO PLAY NOVELAS",
+                "url": "http://79.127.238.228:14455",
+                "icono": "https://mir-s3-cdn-cf.behance.net/projects/404/9be3d0239191925.Y3JvcCwxNDM4LDExMjUsMjc0LDA.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4896,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CNN BR",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4902,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CINE TERROR",
+                "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CviaKrlEh6VqNKAYJShTqp5yTyBUXfP8qhW7z--fHA&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4903,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "C.S.I MIAMI",
+                "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
+                "icono": "https://i.pinimg.com/736x/e1/66/c4/e166c41390aa89a93e7f6d43a0c8cd00.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4905,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CAÇADORA DE RELIQUIAS",
+                "url": "https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8",
+                "icono": "https://cdn11.bigcommerce.com/s-ftsflnse4o/images/stencil/1280x1280/products/31500/121246/D_789749-MLA53763553097_022023-O__77415.1730713488.jpg?c=1?imbypass=on",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4906,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "CLUBE DO TERROR",
+                "url": "https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8",
+                "icono": "https://www.estadao.com.br/resizer/v2/DVUF3E4TPBJENA7CDO56JDKTRQ.jpg?quality=80&auth=497be847b3d77bc4dab53994eced1abba64bca90fba4e2edb073dfbce7b3eaa4&width=380",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3302,
+                "_local_category_id": 211,
+                "section": "live",
+                "name": "TOP MIX",
+                "url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1638299320.m3u8",
+                "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -5156,98 +5156,6 @@
                 "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
                 "icono": "",
                 "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 171,
-        "section": "live",
-        "name": "CANALES INACTIVOS - TEMPORALME SIN SERVICIO",
-        "samples": [
-            {
-                "_local_id": 3974,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "CANAL PRO",
-                "url": "https://edge-mix01-cte.cvattv.com.ar/.../SUR_TV_C4.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3975,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "C9N",
-                "url": "https://latan.stonetv.com.br/C9N/tracks-v1a1/mono.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3978,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "AMERICA TV",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-                "icono": "https://i.ibb.co/nqLSGRzs/R.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=4e4a187474de8e29a8507d496c8a594f&key=daab5ccf306d67749740f7ce02c07850",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3979,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "MEGA TV",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 3980,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "GEN HD",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py/",
-                    "Referer": "https://portal.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
-                }
-            },
-            {
-                "_local_id": 3981,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "GEN HD",
-                "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
