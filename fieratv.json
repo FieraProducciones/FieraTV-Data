@@ -337,6 +337,16 @@
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4007,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "DAZN",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9720.ts",
+                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -2821,16 +2831,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4007,
-                "_local_category_id": 118,
-                "section": "live",
-                "name": "DAZN COMBAT",
-                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-                "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4008,
