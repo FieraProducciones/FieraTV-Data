@@ -673,6 +673,16 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "_local_id": 3982,
+                "_local_category_id": 109,
+                "section": "live",
+                "name": "TV CAMARA",
+                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -5238,16 +5248,6 @@
                 "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NjgwMjUwIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4N2Q0Y2I3ZmE3OTliZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Ir0S6oN7tbNRXzi-ejmSzoTU3wyTe2bcZhMPh9CxhEHY1sgTtBD3nL5OdGCRbMJ2-IJaNWoPRq4Rkr-qGSSO7w==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
                 "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3982,
-                "_local_category_id": 171,
-                "section": "live",
-                "name": "TV CAMARA",
-                "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-                "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
