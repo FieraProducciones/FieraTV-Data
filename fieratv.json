@@ -589,6 +589,21 @@
                 "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4004,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "LA LIGA",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9085.ts",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
@@ -2950,21 +2965,6 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
                 "type": "HLS",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "_local_id": 4004,
-                "_local_category_id": 118,
-                "section": "live",
-                "name": "LA LIGA HYPERMOTION 3",
-                "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "_local_id": 4005,
