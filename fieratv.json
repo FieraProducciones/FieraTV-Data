@@ -1160,6 +1160,16 @@
                 "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4948,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "TV CAACUPE",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/miprueba2026/chunks.m3u8",
+                "icono": "https://i.postimg.cc/zf9g0n9z/logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
