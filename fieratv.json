@@ -3634,8 +3634,8 @@
                 "_local_id": 3349,
                 "_local_category_id": 121,
                 "section": "live",
-                "name": "ESPN 5",
-                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
+                "name": "ESPN 5 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85183.ts",
                 "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
                 "type": "HLS",
                 "drm_license_uri": ""
