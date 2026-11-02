@@ -307,6 +307,16 @@
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5204,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "MOVISTAR LA LIGA",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9088.ts",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
