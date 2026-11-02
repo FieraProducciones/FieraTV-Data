@@ -327,6 +327,16 @@
                 "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3199,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "DSPORTS",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1612663.ts",
+                "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
