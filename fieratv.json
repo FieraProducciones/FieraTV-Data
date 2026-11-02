@@ -5,6 +5,16 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "_local_id": 4549,
+                "_local_category_id": 107,
+                "section": "live",
+                "name": "ESPN",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12577.ts",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3166,
                 "_local_category_id": 107,
                 "section": "live",
