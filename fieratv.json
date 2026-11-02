@@ -1289,6 +1289,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3418,
+                "_local_category_id": 128,
+                "section": "live",
+                "name": "DISCOVERY THEATER",
+                "url": "http://181.224.200.5:2277/play/a0bj/index.m3u8",
+                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3410,
                 "_local_category_id": 128,
                 "section": "live",
@@ -1315,16 +1325,6 @@
                 "name": "DISCOVERY H&H",
                 "url": "http://138.59.177.78:9999/play/a0ni/index.m3u8",
                 "icono": "https://i.ibb.co/gjWGgjX/hh.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3418,
-                "_local_category_id": 128,
-                "section": "live",
-                "name": "DISCOVERY THEATER",
-                "url": "http://181.224.200.5:2277/play/a0bj/index.m3u8",
-                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
