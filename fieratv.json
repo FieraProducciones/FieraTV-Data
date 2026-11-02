@@ -2240,7 +2240,7 @@
                 "_local_category_id": 115,
                 "section": "live",
                 "name": "C5N",
-                "url": "http://45.134.141.161:2200/ARG/C5N/index.m3u8",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85832.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
