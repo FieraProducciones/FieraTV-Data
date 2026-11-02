@@ -595,6 +595,16 @@
         "name": "PARAGUAY - STREAMING - MEDIA",
         "samples": [
             {
+                "_local_id": 4920,
+                "_local_category_id": 112,
+                "section": "live",
+                "name": "POPU TV",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1626233.ts",
+                "icono": "https://i.postimg.cc/hGPg2J7S/Uq-Cogy-Z.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3202,
                 "_local_category_id": 112,
                 "section": "live",
