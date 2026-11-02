@@ -3611,6 +3611,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3347,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 3 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85178.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3348,
                 "_local_category_id": 121,
                 "section": "live",
