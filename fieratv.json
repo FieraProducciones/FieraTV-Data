@@ -1185,6 +1185,21 @@
                 "icono": "https://i.postimg.cc/zf9g0n9z/logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4966,
+                "_local_category_id": 113,
+                "section": "live",
+                "name": "4DMAS NOTICIAS",
+                "url": "https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/chunklist_w118892837.m3u8",
+                "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "",
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
