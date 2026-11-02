@@ -579,6 +579,16 @@
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4562,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "TNT SPORTS PREMIUM",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9153.ts",
+                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
