@@ -299,9 +299,9 @@
                 "_local_id": 3156,
                 "_local_category_id": 106,
                 "section": "live",
-                "name": "FOX SPORTS",
+                "name": "FOX CA",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/2305526.ts",
-                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
