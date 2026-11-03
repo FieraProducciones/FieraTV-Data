@@ -4186,16 +4186,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3263,
-                "_local_category_id": 114,
-                "section": "live",
-                "name": "LA 1",
-                "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3264,
                 "_local_category_id": 114,
                 "section": "live",
