@@ -2197,22 +2197,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3389,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A3 SERIES",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9639.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3374,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "A&E",
                 "url": "http://181.78.14.26:4000/play/a07c/index.m3u8",
                 "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3389,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A3 SERIES",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9639.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
