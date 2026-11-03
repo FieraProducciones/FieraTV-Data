@@ -5054,16 +5054,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3532,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "XXX BRAZZERS 2",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206282.m3u8",
-                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4802,
                 "_local_category_id": 137,
                 "section": "live",
@@ -5615,6 +5605,16 @@
                 "section": "live",
                 "name": "XXX BRAZZERS HD",
                 "url": "http://200.115.120.1:8000/play/ca98/index.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3532,
+                "_local_category_id": 230,
+                "section": "live",
+                "name": "XXX BRAZZERS 2",
+                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206282.m3u8",
                 "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
