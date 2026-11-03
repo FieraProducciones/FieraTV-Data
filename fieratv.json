@@ -2187,6 +2187,16 @@
                 "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw"
             },
             {
+                "_local_id": 4849,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "AMC CRIME",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457986.m3u8",
+                "icono": "https://www.cineytele.com/wp-content/uploads/2022/04/Logo-AMC-Crime.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4686,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2403,16 +2413,6 @@
                 "name": "GOLDEN EDGE",
                 "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
                 "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4849,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "AMC CRIME",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457986.m3u8",
-                "icono": "https://www.cineytele.com/wp-content/uploads/2022/04/Logo-AMC-Crime.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
