@@ -3893,6 +3893,16 @@
                 "icono": "https://i.postimg.cc/vBC1T5ts/1775146310895.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3489,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "MIEDO TV",
+                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8",
+                "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -4382,16 +4392,6 @@
         "section": "live",
         "name": "ESPECIAL HALLOWEN",
         "samples": [
-            {
-                "_local_id": 3489,
-                "_local_category_id": 134,
-                "section": "live",
-                "name": "MIEDO TV",
-                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8",
-                "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "_local_id": 3490,
                 "_local_category_id": 134,
