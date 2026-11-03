@@ -4994,16 +4994,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4035,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "VENUS",
-                "url": "http://158.172.217.18:8000/play/a0nd/index.m3u8",
-                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -5539,6 +5529,16 @@
         "section": "live",
         "name": "📺ADULTOS +18",
         "samples": [
+            {
+                "_local_id": 4035,
+                "_local_category_id": 230,
+                "section": "live",
+                "name": "VENUS",
+                "url": "http://158.172.217.18:8000/play/a0nd/index.m3u8",
+                "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/3840px-Canal_Venus_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 4033,
                 "_local_category_id": 230,
