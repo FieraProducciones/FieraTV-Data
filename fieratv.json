@@ -2859,163 +2859,6 @@
         ]
     },
     {
-        "_local_id": 117,
-        "section": "live",
-        "name": "CAMARAS EN VIVO",
-        "samples": [
-            {
-                "_local_id": 4844,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "PONTE INTEGRAÇÃO 🇧🇷",
-                "url": "https://5b33b873179a2.streamlock.net:1443/ponteintegracao/ponteintegracao.stream/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4843,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "PONTE DA AMIZADE  🇧🇷",
-                "url": "https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4520,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "PUENTE CDE SENTIDO CONTRARIO",
-                "url": "https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade01.stream/chunklist_w893553472.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4521,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "PUENTE INTEGRACION",
-                "url": "https://video02.logicahost.com.br/portaldacidade/fozpontedaintegracao.stream/chunklist_w1307136899.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4522,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "CAMARA CDE BR",
-                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidobrasil.stream/chunklist_w686201267.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3319,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "UNI OESTE",
-                "url": "https://5b33b873179a2.streamlock.net:1443/cameraunioeste/cameraunioeste.stream/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3311,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "GINO PARADISE - ESLOVAQUIA",
-                "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4846,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "TREVO GUARUJA  🇧🇷",
-                "url": "https://5b33b873179a2.streamlock.net:1443/cameratrevoguaruja/cameratrevoguaruja.stream/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3312,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "GINO  PARADISE 2",
-                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4845,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "TREVO CATARATAS",
-                "url": "https://5b33b873179a2.streamlock.net:1443/cameratrevo/cameratrevocat.stream/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3314,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "AQUA PARK TATRALANDIA",
-                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3315,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "PUENTE DE LA AMISTAD CDE",
-                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3316,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "FOZ DO IGUZU",
-                "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3317,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "CASCAVEL CENTRO",
-                "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3318,
-                "_local_category_id": 117,
-                "section": "live",
-                "name": "GOIANIA",
-                "url": "https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w365897294.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 210,
         "section": "live",
         "name": "PACK UNIVERSAL PREMIUM",
@@ -3710,6 +3553,163 @@
                 "name": "HOLLYWOD",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457999.m3u8",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4c/Canal_Hollywood_2026_II.svg/revision/latest/scale-to-width-down/250?cb=20260624064137",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "_local_id": 117,
+        "section": "live",
+        "name": "CAMARAS EN VIVO",
+        "samples": [
+            {
+                "_local_id": 4844,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PONTE INTEGRAÇÃO 🇧🇷",
+                "url": "https://5b33b873179a2.streamlock.net:1443/ponteintegracao/ponteintegracao.stream/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4843,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PONTE DA AMIZADE  🇧🇷",
+                "url": "https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4520,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PUENTE CDE SENTIDO CONTRARIO",
+                "url": "https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade01.stream/chunklist_w893553472.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4521,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PUENTE INTEGRACION",
+                "url": "https://video02.logicahost.com.br/portaldacidade/fozpontedaintegracao.stream/chunklist_w1307136899.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4522,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "CAMARA CDE BR",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidobrasil.stream/chunklist_w686201267.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3319,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "UNI OESTE",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameraunioeste/cameraunioeste.stream/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3311,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "GINO PARADISE - ESLOVAQUIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist_w1699393130.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4846,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "TREVO GUARUJA  🇧🇷",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameratrevoguaruja/cameratrevoguaruja.stream/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3312,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "GINO  PARADISE 2",
+                "url": "https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist_w1084626665.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4845,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "TREVO CATARATAS",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameratrevo/cameratrevocat.stream/playlist.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3314,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "AQUA PARK TATRALANDIA",
+                "url": "https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w698233152.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3315,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "PUENTE DE LA AMISTAD CDE",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/chunklist_w1882065815.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3316,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "FOZ DO IGUZU",
+                "url": "https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w2112817403.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3317,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "CASCAVEL CENTRO",
+                "url": "https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist_w372808657.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3318,
+                "_local_category_id": 117,
+                "section": "live",
+                "name": "GOIANIA",
+                "url": "https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w365897294.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
