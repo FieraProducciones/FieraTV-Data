@@ -4974,21 +4974,6 @@
                 "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOoC0h6fwV00JVdd2inRM0ixhacd3TZ9ZZn7SDcIDBUMNq2ekZByxhrg/wBwQxjyrYslGZI6F+tB/ad3Yk7ZleOm9cutFo4SaKWWch7I10Ae4EfAcU8fMS5UdBug1CRMlJ"
             },
             {
-                "_local_id": 4033,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "PLAYBOY",
-                "url": "http://190.108.83.69:8000/play/a02p/index.m3u8",
-                "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.uy/",
-                    "Referer": "https://portal.app.flow.com.uy",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-                }
-            },
-            {
                 "_local_id": 4034,
                 "_local_category_id": 137,
                 "section": "live",
@@ -5564,6 +5549,16 @@
         "section": "live",
         "name": "📺ADULTOS +18",
         "samples": [
+            {
+                "_local_id": 4033,
+                "_local_category_id": 230,
+                "section": "live",
+                "name": "PLAYBOY",
+                "url": "http://190.108.83.69:8000/play/a02p/index.m3u8",
+                "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "_local_id": 5199,
                 "_local_category_id": 230,
