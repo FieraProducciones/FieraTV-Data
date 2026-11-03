@@ -4272,21 +4272,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4031,
-                "_local_category_id": 132,
-                "section": "live",
-                "name": "CANAL LUZ",
-                "url": "https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
-                "type": "HLS",
-                "drm_license_uri": "kid:91I-paLaeMRl2Si-HYHipQ,k:hwrWnpir1StEO9jwIEs7xA",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
