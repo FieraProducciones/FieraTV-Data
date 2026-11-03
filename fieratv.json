@@ -2197,22 +2197,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3389,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "A3 SERIES",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9639.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4847,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "AXN MOVIES",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457975.m3u8",
                 "icono": "https://yt3.googleusercontent.com/WxOEr6BgqsKl6EPd_IBdWTyIFLvmtZwdWfiOdVt8IOgwLuQEmmUNaCy_RKPZjjwArk6Tq72U=s900-c-k-c0x00ffffff-no-rj",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3389,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "A3 SERIES",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9639.ts",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
