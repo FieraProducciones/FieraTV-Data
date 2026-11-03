@@ -2337,6 +2337,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3391,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "GOLDEN EDGE",
+                "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4861,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2383,16 +2393,6 @@
                 "name": "FILM & ARTS",
                 "url": "http://138.59.177.78:9999/play/a0o0/index.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3391,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "GOLDEN EDGE",
-                "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
