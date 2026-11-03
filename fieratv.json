@@ -2287,6 +2287,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 3382,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TCM",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85337.ts",
+                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4684,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2383,16 +2393,6 @@
                 "name": "GOLDEN EDGE",
                 "url": "http://177.234.218.66:8084/play/a07x/index.m3u8",
                 "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3382,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TCM",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85337.ts",
-                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
