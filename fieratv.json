@@ -2391,8 +2391,8 @@
                 "_local_id": 4691,
                 "_local_category_id": 125,
                 "section": "live",
-                "name": "AMC",
-                "url": "http://181.119.177.253:8000/play/a0dg/index.m3u8",
+                "name": "AMC HD",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85081.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
                 "type": "HLS",
                 "drm_license_uri": ""
