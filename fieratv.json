@@ -3903,6 +3903,16 @@
                 "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3490,
+                "_local_category_id": 127,
+                "section": "live",
+                "name": "GRITOS",
+                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8",
+                "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -4392,16 +4402,6 @@
         "section": "live",
         "name": "ESPECIAL HALLOWEN",
         "samples": [
-            {
-                "_local_id": 3490,
-                "_local_category_id": 134,
-                "section": "live",
-                "name": "GRITOS",
-                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8",
-                "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "_local_id": 3491,
                 "_local_category_id": 134,
