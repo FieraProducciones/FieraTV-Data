@@ -2748,16 +2748,6 @@
                 "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3403,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO SIGNATURE",
-                "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/664.m3u8",
-                "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
