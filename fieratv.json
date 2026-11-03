@@ -2357,16 +2357,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3383,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "UNIVERSAL COMEDY",
-                "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3388,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2433,6 +2423,16 @@
                 "name": "USA NETWORK",
                 "url": "http://177.234.218.66:8084/play/a084/index.m3u8",
                 "icono": "https://cdn-1.webcatalog.io/catalog/usa-network/usa-network-icon-filled-256.png?v=1791160865205",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3383,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "UNIVERSAL COMEDY",
+                "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
