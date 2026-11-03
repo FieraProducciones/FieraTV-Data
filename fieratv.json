@@ -4984,16 +4984,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3531,
-                "_local_category_id": 137,
-                "section": "live",
-                "name": "XXX BRAZZERS HD",
-                "url": "http://200.115.120.1:8000/play/ca98/index.m3u8",
-                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4842,
                 "_local_category_id": 137,
                 "section": "live",
@@ -5618,6 +5608,16 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "_local_id": 3531,
+                "_local_category_id": 230,
+                "section": "live",
+                "name": "XXX BRAZZERS HD",
+                "url": "http://200.115.120.1:8000/play/ca98/index.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
