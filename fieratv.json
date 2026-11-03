@@ -2417,16 +2417,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4850,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "HOLLYWOD",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457999.m3u8",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4c/Canal_Hollywood_2026_II.svg/revision/latest/scale-to-width-down/250?cb=20260624064137",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3375,
                 "_local_category_id": 125,
                 "section": "live",
@@ -3517,6 +3507,16 @@
                 "name": "BEMAD HD",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457976.m3u8",
                 "icono": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4850,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "HOLLYWOD",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457999.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4c/Canal_Hollywood_2026_II.svg/revision/latest/scale-to-width-down/250?cb=20260624064137",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
