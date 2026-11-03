@@ -2397,16 +2397,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3390,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "WARNER CHANNEL HD",
-                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3381,
                 "_local_category_id": 125,
                 "section": "live",
@@ -2433,6 +2423,16 @@
                 "name": "UNIVERSAL COMEDY",
                 "url": "http://181.119.177.253:8000/play/a0cw/index.m3u8",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3390,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "WARNER CHANNEL HD",
+                "url": "http://177.234.218.66:8084/play/a09t/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
