@@ -4024,6 +4024,163 @@
         ]
     },
     {
+        "_local_id": 136,
+        "section": "live",
+        "name": "CANALES 24/7",
+        "samples": [
+            {
+                "_local_id": 4830,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "MY TIME MOVIE NETWORK MX",
+                "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTRxTrxTB3fxvZBkvis8cgHYsC0vMWc3i2SZEzX-EwHWopnonHZByUGg-&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4829,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "MY TIME MOVIE NETWORK",
+                "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTRxTrxTB3fxvZBkvis8cgHYsC0vMWc3i2SZEzX-EwHWopnonHZByUGg-&s=10",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4818,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "BEYBLADE 1080p",
+                "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+                "icono": "https://static.wikia.nocookie.net/beyblade/images/d/d0/BeybladeXAppIcon.png/revision/latest/thumbnail/width/360/height/360?cb=20231226021706",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 4815,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "CASO CERRADO",
+                "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
+                "icono": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3512,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "NARUTO 24/7",
+                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/389.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3513,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "NARUTO SHIPPUDEN",
+                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/389.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3514,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "BORUTO 24/7",
+                "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/391.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3515,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "POKEMON 24/7",
+                "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/392.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3516,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "YU-GI-OH 24/7",
+                "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/396.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3517,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "CAPITAN TSUBASA 24/7",
+                "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/397.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3519,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "INUYASHA 24/7",
+                "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/398.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3520,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "ONE PIECE 24/7",
+                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/399.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3521,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "KENAN Y KEL 24/7",
+                "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/407.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3523,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "BOB ESPONJA",
+                "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/415.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3524,
+                "_local_category_id": 136,
+                "section": "live",
+                "name": "TORTUGAS NINJA 24/7",
+                "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
+                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/417.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 114,
         "section": "live",
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
@@ -4597,163 +4754,6 @@
                 "name": "SERIES",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 136,
-        "section": "live",
-        "name": "CANALES 24/7",
-        "samples": [
-            {
-                "_local_id": 4830,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "MY TIME MOVIE NETWORK MX",
-                "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTRxTrxTB3fxvZBkvis8cgHYsC0vMWc3i2SZEzX-EwHWopnonHZByUGg-&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4829,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "MY TIME MOVIE NETWORK",
-                "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTRxTrxTB3fxvZBkvis8cgHYsC0vMWc3i2SZEzX-EwHWopnonHZByUGg-&s=10",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4818,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "BEYBLADE 1080p",
-                "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
-                "icono": "https://static.wikia.nocookie.net/beyblade/images/d/d0/BeybladeXAppIcon.png/revision/latest/thumbnail/width/360/height/360?cb=20231226021706",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4815,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "CASO CERRADO",
-                "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
-                "icono": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3512,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "NARUTO 24/7",
-                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/389.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3513,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "NARUTO SHIPPUDEN",
-                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/389.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3514,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "BORUTO 24/7",
-                "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/391.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3515,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "POKEMON 24/7",
-                "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/392.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3516,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "YU-GI-OH 24/7",
-                "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/396.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3517,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "CAPITAN TSUBASA 24/7",
-                "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/397.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3519,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "INUYASHA 24/7",
-                "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/398.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3520,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "ONE PIECE 24/7",
-                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/399.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3521,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "KENAN Y KEL 24/7",
-                "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/407.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3523,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "BOB ESPONJA",
-                "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/415.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3524,
-                "_local_category_id": 136,
-                "section": "live",
-                "name": "TORTUGAS NINJA 24/7",
-                "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
-                "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/417.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
