@@ -4411,16 +4411,6 @@
                 "icono": "https://i.postimg.cc/FsB5qcFk/download-87.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3492,
-                "_local_category_id": 134,
-                "section": "live",
-                "name": "ESPANTO FILM FEST",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/652RCxCP/download-89.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
