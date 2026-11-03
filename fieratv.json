@@ -4056,6 +4056,16 @@
         "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
         "samples": [
             {
+                "_local_id": 4253,
+                "_local_category_id": 114,
+                "section": "live",
+                "name": "Canal 4 (Uruguay)",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/9205.ts",
+                "icono": "https://www.iab.com.uy/wp-content/uploads/2019/02/Canal-4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4817,
                 "_local_category_id": 114,
                 "section": "live",
