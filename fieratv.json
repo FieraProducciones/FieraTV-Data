@@ -3305,6 +3305,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4840,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "BBC DRAMA",
+                "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+                "icono": "https://static.wikia.nocookie.net/dreamlogos/images/9/91/BBC_Drama_2015.svg/revision/latest/scale-to-width-down/1200?cb=20250901094256",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4851,
                 "_local_category_id": 209,
                 "section": "live",
@@ -3831,16 +3841,6 @@
                 "name": "PÁNICO HD",
                 "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4840,
-                "_local_category_id": 127,
-                "section": "live",
-                "name": "BBC DRAMA",
-                "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
-                "icono": "https://static.wikia.nocookie.net/dreamlogos/images/9/91/BBC_Drama_2015.svg/revision/latest/scale-to-width-down/1200?cb=20250901094256",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
