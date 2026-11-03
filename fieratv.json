@@ -2237,22 +2237,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3376,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "SPACE HD",
-                "url": "http://177.234.218.66:8084/play/a09e/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4686,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "CINEMAX HD",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1777018.ts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3376,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "SPACE HD",
+                "url": "http://177.234.218.66:8084/play/a09e/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
