@@ -2267,22 +2267,22 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3378,
-                "_local_category_id": 125,
-                "section": "live",
-                "name": "TNT",
-                "url": "http://177.234.218.66:8084/play/a08o/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3394,
                 "_local_category_id": 125,
                 "section": "live",
                 "name": "STAR CHANNEL",
                 "url": "http://190.108.83.69:8000/play/a04j/index.m3u8",
                 "icono": "https://raw.githubusercontent.com/SPxMM3R1/lista-m3u/main/logos/lista2/51f215686b48.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3378,
+                "_local_category_id": 125,
+                "section": "live",
+                "name": "TNT",
+                "url": "http://177.234.218.66:8084/play/a08o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
