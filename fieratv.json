@@ -4468,6 +4468,113 @@
         ]
     },
     {
+        "_local_id": 135,
+        "section": "live",
+        "name": "RUNTIME CINE PREMIUM",
+        "samples": [
+            {
+                "_local_id": 3494,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "RUNTIME 1",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3495,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "RUNTIME 2",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3496,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "ACCION",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3497,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3498,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "COMEDIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3499,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "ESPANTO",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3500,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "CRIMEN",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3501,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3502,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "PELISES",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3503,
+                "_local_category_id": 135,
+                "section": "live",
+                "name": "SERIES",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 132,
         "section": "live",
         "name": "CANALES RELIGIOSOS",
@@ -4641,113 +4748,6 @@
                 "name": "VEVO '90s & '00s",
                 "url": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 135,
-        "section": "live",
-        "name": "RUNTIME CINE PREMIUM",
-        "samples": [
-            {
-                "_local_id": 3494,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "RUNTIME 1",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3495,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "RUNTIME 2",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3496,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "ACCION",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3497,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3498,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "COMEDIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3499,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "ESPANTO",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3500,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "CRIMEN",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3501,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "ROMANCE",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3502,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "PELISES",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3503,
-                "_local_category_id": 135,
-                "section": "live",
-                "name": "SERIES",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
-                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
