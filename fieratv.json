@@ -286,6 +286,16 @@
         "name": "FOX SPORTS - DSPORTS - TNT SPORTS",
         "samples": [
             {
+                "_local_id": 3190,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "FOX SPORTS ARG",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85885.ts",
+                "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3156,
                 "_local_category_id": 106,
                 "section": "live",
