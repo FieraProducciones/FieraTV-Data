@@ -301,7 +301,7 @@
                 "section": "live",
                 "name": "FOX CA",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/2305526.ts",
-                "icono": "",
+                "icono": "https://www.pngall.com/wp-content/uploads/13/Fox-Logo-PNG-Images.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
