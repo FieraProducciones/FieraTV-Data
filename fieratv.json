@@ -3331,6 +3331,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 4848,
+                "_local_category_id": 209,
+                "section": "live",
+                "name": "BEMAD HD",
+                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457976.m3u8",
+                "icono": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4835,
                 "_local_category_id": 209,
                 "section": "live",
@@ -3497,16 +3507,6 @@
                 "name": "M+ DRAMA",
                 "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/456867.m3u8",
                 "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPCOLE",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4848,
-                "_local_category_id": 209,
-                "section": "live",
-                "name": "BEMAD HD",
-                "url": "http://bfriday.selling-team.click:80/live/001EB8C323D6/j5PSTHE/457976.m3u8",
-                "icono": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
