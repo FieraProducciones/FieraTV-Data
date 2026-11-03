@@ -195,6 +195,16 @@
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5205,
+                "_local_category_id": 173,
+                "section": "live",
+                "name": "ESPN DEPORTES",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/2308575.ts",
+                "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
