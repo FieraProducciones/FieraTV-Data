@@ -1350,21 +1350,6 @@
                 }
             },
             {
-                "_local_id": 5212,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "5 TV MAX",
-                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 5213,
                 "_local_category_id": 113,
                 "section": "live",
