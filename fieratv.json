@@ -1440,21 +1440,6 @@
                 }
             },
             {
-                "_local_id": 5222,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "BRUNO MASI TV",
-                "url": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/QMqnK2Dd/logo-BM-2026.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 5223,
                 "_local_category_id": 113,
                 "section": "live",
