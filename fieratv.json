@@ -1380,21 +1380,6 @@
                 }
             },
             {
-                "_local_id": 5215,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "RED DIGITAL",
-                "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkBbWlas-Rq_BWuZQiF96lYKbYCw6AFlffucR0VI-Bw&s",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 5216,
                 "_local_category_id": 113,
                 "section": "live",
