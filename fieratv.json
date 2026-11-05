@@ -1453,21 +1453,6 @@
                     "Referer": "",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 5224,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "ALMAYA TV",
-                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvrhsV4-19EPXymLXYgZLtD92kpj2180ZRFNXmLDEYQ&s=10",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
