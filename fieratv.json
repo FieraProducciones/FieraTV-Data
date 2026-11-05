@@ -1425,21 +1425,6 @@
                 }
             },
             {
-                "_local_id": 5221,
-                "_local_category_id": 113,
-                "section": "live",
-                "name": "ROCK-POP 95.5",
-                "url": "https://zn1radios.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w441674629.m3u8",
-                "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 5223,
                 "_local_category_id": 113,
                 "section": "live",
