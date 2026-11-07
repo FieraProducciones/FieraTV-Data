@@ -134,6 +134,93 @@
         ]
     },
     {
+        "_local_id": 121,
+        "section": "live",
+        "name": "ESPN HD SUR",
+        "samples": [
+            {
+                "_local_id": 3345,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624829.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3346,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN HD 2 SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85176.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3347,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 3 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85178.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3348,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 4 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85181.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3349,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 5 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85183.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3350,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 6 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85187.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3351,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN 7 HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624826.ts",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3195,
+                "_local_category_id": 121,
+                "section": "live",
+                "name": "ESPN PREMIUM HD SUR",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624823.ts",
+                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 173,
         "section": "live",
         "name": "⚽️DEPORTES ESPN",
@@ -235,93 +322,6 @@
                 "name": "ESPN DEPORTES",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/2308575.ts",
                 "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 121,
-        "section": "live",
-        "name": "ESPN HD SUR",
-        "samples": [
-            {
-                "_local_id": 3345,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624829.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3346,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN HD 2 SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85176.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3347,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 3 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85178.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3348,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 4 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85181.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3349,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 5 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85183.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3350,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 6 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85187.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3351,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN 7 HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624826.ts",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3195,
-                "_local_category_id": 121,
-                "section": "live",
-                "name": "ESPN PREMIUM HD SUR",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1624823.ts",
-                "icono": "https://imagizer.imageshack.com/img924/1284/VNmHK1.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
@@ -6516,11 +6516,5 @@
                 }
             }
         ]
-    },
-    {
-        "_local_id": 215,
-        "section": "live",
-        "name": "📺ESPN PARAGUAY",
-        "samples": []
     }
 ]
