@@ -4845,21 +4845,6 @@
                 }
             },
             {
-                "_local_id": 4648,
-                "_local_category_id": 181,
-                "section": "live",
-                "name": "10 TUCUMAN",
-                "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@canal10tuc",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_10_Tucum%C3%A1n_%28Logo_2025%29.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4649,
                 "_local_category_id": 181,
                 "section": "live",
