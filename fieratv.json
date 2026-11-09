@@ -4710,21 +4710,6 @@
                 }
             },
             {
-                "_local_id": 4637,
-                "_local_category_id": 181,
-                "section": "live",
-                "name": "Aire de Santa Fe",
-                "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
-                "icono": "https://i.imgur.com/60vSWW0.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 4638,
                 "_local_category_id": 181,
                 "section": "live",
