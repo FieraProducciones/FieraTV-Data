@@ -4870,16 +4870,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 4651,
-                "_local_category_id": 181,
-                "section": "live",
-                "name": "San Luis+",
-                "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest?cb=20240627181044",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4652,
                 "_local_category_id": 181,
                 "section": "live",
