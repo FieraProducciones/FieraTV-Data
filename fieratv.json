@@ -4925,16 +4925,6 @@
                 }
             },
             {
-                "_local_id": 4657,
-                "_local_category_id": 181,
-                "section": "live",
-                "name": "2 Ushuaia",
-                "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8",
-                "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4658,
                 "_local_category_id": 181,
                 "section": "live",
