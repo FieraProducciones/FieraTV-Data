@@ -4466,6 +4466,16 @@
         "name": "CANALES RELIGIOSOS",
         "samples": [
             {
+                "_local_id": 3466,
+                "_local_category_id": 132,
+                "section": "live",
+                "name": "ENLAECE",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85212.ts",
+                "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3464,
                 "_local_category_id": 132,
                 "section": "live",
@@ -4494,16 +4504,6 @@
                     "Referer": "https://portal.app.flow.com.py",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 3466,
-                "_local_category_id": 132,
-                "section": "live",
-                "name": "ENLAECE",
-                "url": "https://livecdnusa.enlace.plus/enlace/master.m3u8",
-                "icono": "https://cablego.com.pe/cache/logos/ENLACE.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 3467,
