@@ -5,6 +5,16 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "_local_id": 4524,
+                "_local_category_id": 107,
+                "section": "live",
+                "name": "FIERA TV 2",
+                "url": "https://live.dyntube.net/live/use2/mobile/Ap1DytFb606cFRrXqJl5uA/ABkDSldZUUMHdWV3SCUnZAFpdSQlDRcRCg/live_a91e6df1312297ac3eaa/live_a91e6df1312297ac3eaa.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3166,
                 "_local_category_id": 107,
                 "section": "live",
@@ -21,16 +31,6 @@
                 "name": "SKYNET HD",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4524,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "FIERA TV 2",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
