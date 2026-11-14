@@ -5502,5 +5502,11 @@
         "section": "live",
         "name": "📺ESPN PARAGUAY",
         "samples": []
+    },
+    {
+        "_local_id": 221,
+        "section": "live",
+        "name": "📺NOTICIAS",
+        "samples": []
     }
 ]
