@@ -7344,6 +7344,21 @@
                 }
             },
             {
+                "_local_id": 4921,
+                "_local_category_id": 214,
+                "section": "live",
+                "name": "SNT",
+                "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0ODI1NTMzIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5MzE3N2Q1ZGRjNmI4YzgyIiwic2Vzc2lvbl9pZCI6IjFhMWE4YjUwZTVhZDIyMWNmMGQ2YzNiZjEwYWZkZTk3LTE3OTQ2NTI3MzMtMTU4IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjFhMWE4YjUwZTVhZDIyMWNmMGQ2YzNiZjEwYWZkZTk3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.TElZpqjX_vse6GyjtpAMG-JTxOkWKIL3gP7fVQU-Ne6pVPbY2OIrheOMtvEWTeV8hCaSCL5eyDQnDQ4Yn6AamQ==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
+                }
+            },
+            {
                 "_local_id": 4930,
                 "_local_category_id": 214,
                 "section": "live",
@@ -7431,21 +7446,6 @@
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4921,
-                "_local_category_id": 214,
-                "section": "live",
-                "name": "SNT",
-                "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0ODI1NTMzIiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5MzE3N2Q1ZGRjNmI4YzgyIiwic2Vzc2lvbl9pZCI6IjFhMWE4YjUwZTVhZDIyMWNmMGQ2YzNiZjEwYWZkZTk3LTE3OTQ2NTI3MzMtMTU4IiwiY2xpZW50X2lkIjoiZmxvdzo2MDY2MTc0LS1mbG93OjYwNjYxNzQ6UCIsImRldmljZV9pZCI6IjFhMWE4YjUwZTVhZDIyMWNmMGQ2YzNiZjEwYWZkZTk3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.TElZpqjX_vse6GyjtpAMG-JTxOkWKIL3gP7fVQU-Ne6pVPbY2OIrheOMtvEWTeV8hCaSCL5eyDQnDQ4Yn6AamQ==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
                 }
             },
             {
