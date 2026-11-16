@@ -1,52 +1,5 @@
 [
     {
-        "_local_id": 105,
-        "section": "live",
-        "name": "CANAL DE EVENTOS HD",
-        "samples": [
-            {
-                "_local_id": 3971,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS HD",
-                "url": "https://fieratvhd.com/hls/fieratv.m3u8",
-                "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3984,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 2",
-                "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/f77645b2ee8685df4a05a6ea66c75b06/manifest/video.m3u8",
-                "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4811,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 3",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/eventos3/chunks.m3u8",
-                "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 4814,
-                "_local_category_id": 105,
-                "section": "live",
-                "name": "EVENTOS 4",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/playlist.m3u8",
-                "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 107,
         "section": "live",
         "name": "FIERA PRODUCCIONES",
