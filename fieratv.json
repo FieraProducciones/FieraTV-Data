@@ -808,6 +808,21 @@
                 }
             },
             {
+                "_local_id": 4918,
+                "_local_category_id": 214,
+                "section": "live",
+                "name": "TRECE HD",
+                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDU4MjE1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9TTlRfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1MTllZGU1ODFlZTdlZmEiLCJzZXNzaW9uX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMtMTc5NDg4NTQxNS03MDciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.HKgT5UZpz78T31IEF3zAKluQ_PeYBvqEqz3rbjP0GSqj5uhDqhFM_3kTzb9xVnvsMtbKK2J3fM-Z018PWyHG1Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "icono": "https://i.postimg.cc/ncmZCGpB/trecepy.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4915,
                 "_local_category_id": 214,
                 "section": "live",
@@ -835,21 +850,6 @@
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4918,
-                "_local_category_id": 214,
-                "section": "live",
-                "name": "RPC",
-                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDU4MjE1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9TTlRfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1MTllZGU1ODFlZTdlZmEiLCJzZXNzaW9uX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMtMTc5NDg4NTQxNS03MDciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.HKgT5UZpz78T31IEF3zAKluQ_PeYBvqEqz3rbjP0GSqj5uhDqhFM_3kTzb9xVnvsMtbKK2J3fM-Z018PWyHG1Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "icono": "https://i.postimg.cc/ncmZCGpB/trecepy.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 }
             },
             {
