@@ -733,6 +733,21 @@
                 }
             },
             {
+                "_local_id": 4931,
+                "_local_category_id": 214,
+                "section": "live",
+                "name": "NOTICIAS PY",
+                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDU4MjE1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9TTlRfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1MTllZGU1ODFlZTdlZmEiLCJzZXNzaW9uX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMtMTc5NDg4NTQxNS03MDciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.HKgT5UZpz78T31IEF3zAKluQ_PeYBvqEqz3rbjP0GSqj5uhDqhFM_3kTzb9xVnvsMtbKK2J3fM-Z018PWyHG1Q==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+                "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php/?keyid=ae1b3bc5a68da1ed8a47b35afd13e310&key=26710aad5c7ebeaf3d615db270355381",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4915,
                 "_local_category_id": 214,
                 "section": "live",
@@ -891,21 +906,6 @@
                 "icono": "https://i.postimg.cc/x8LPJ15j/pro.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=e3dae0418c43c763bdc55c7cc887fb40&key=608425ead9e9ce5e143cad164350f738",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4931,
-                "_local_category_id": 214,
-                "section": "live",
-                "name": "NOTICIAS PY",
-                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDU4MjE1Iiwic2lwIjoiMTgxLjc4Ljk1LjEwMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9TTlRfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1MTllZGU1ODFlZTdlZmEiLCJzZXNzaW9uX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMtMTc5NDg4NTQxNS03MDciLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiODhhMzdkY2FkZmRlOTlmYTBjNDJjM2RiNjRlMzgzNjMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.HKgT5UZpz78T31IEF3zAKluQ_PeYBvqEqz3rbjP0GSqj5uhDqhFM_3kTzb9xVnvsMtbKK2J3fM-Z018PWyHG1Q==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-                "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php/?keyid=ae1b3bc5a68da1ed8a47b35afd13e310&key=26710aad5c7ebeaf3d615db270355381",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
