@@ -1048,21 +1048,6 @@
                 }
             },
             {
-                "_local_id": 4944,
-                "_local_category_id": 214,
-                "section": "live",
-                "name": "CAD TV",
-                "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
-                "icono": "https://i.postimg.cc/ZRZHDYFT/cad-white.png",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "",
-                    "Referer": "",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "_local_id": 5210,
                 "_local_category_id": 214,
                 "section": "live",
