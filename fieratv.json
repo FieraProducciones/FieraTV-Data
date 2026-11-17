@@ -973,16 +973,6 @@
                 }
             },
             {
-                "_local_id": 4936,
-                "_local_category_id": 214,
-                "section": "live",
-                "name": "MI TV",
-                "url": "https://tigocloudgen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
-                "icono": "https://i.postimg.cc/7YM5zdCL/mi-tv-2fbedc2b66b540a6a8070fe9f50137c6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 4937,
                 "_local_category_id": 214,
                 "section": "live",
