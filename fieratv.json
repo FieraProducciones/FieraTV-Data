@@ -5,6 +5,16 @@
         "name": "FIERA PRODUCCIONES",
         "samples": [
             {
+                "_local_id": 5035,
+                "_local_category_id": 107,
+                "section": "live",
+                "name": "LPF 1",
+                "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
+                "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4524,
                 "_local_category_id": 107,
                 "section": "live",
