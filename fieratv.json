@@ -15,6 +15,16 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 5229,
+                "_local_category_id": 107,
+                "section": "live",
+                "name": "TV UNICA HD",
+                "url": "https://183.giatvcdn.com/ssh101/ssh101/tvunica/chunks.m3u8",
+                "icono": "https://i.ibb.co/bg65Ng8j/20261118-151431.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 3166,
                 "_local_category_id": 107,
                 "section": "live",
@@ -31,16 +41,6 @@
                 "name": "SKYNET HD",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
                 "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5229,
-                "_local_category_id": 107,
-                "section": "live",
-                "name": "TV UNICA HD",
-                "url": "https://usb.bozztv.com/tvunica/index.m3u8",
-                "icono": "https://i.ibb.co/bg65Ng8j/20261118-151431.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
