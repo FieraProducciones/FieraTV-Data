@@ -892,8 +892,8 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
