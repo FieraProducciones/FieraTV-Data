@@ -5243,6 +5243,16 @@
                 }
             },
             {
+                "_local_id": 5112,
+                "_local_category_id": 223,
+                "section": "live",
+                "name": "SONY CINE",
+                "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
+                "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 5091,
                 "_local_category_id": 223,
                 "section": "live",
@@ -5421,16 +5431,6 @@
                     "Referer": "https://www.primevideo.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 5112,
-                "_local_category_id": 223,
-                "section": "live",
-                "name": "SONY CINE",
-                "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
-                "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 5086,
