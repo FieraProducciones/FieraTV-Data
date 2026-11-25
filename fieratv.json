@@ -3656,73 +3656,6 @@
         ]
     },
     {
-        "_local_id": 126,
-        "section": "live",
-        "name": "PACK HBO PREMIUM 🎥",
-        "samples": [
-            {
-                "_local_id": 3396,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO HD",
-                "url": "http://138.59.177.78:9999/play/a098/index.m3u8",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3397,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO 2",
-                "url": "http://181.78.82.130:8000/play/a0rf/index.m3u8",
-                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3402,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO + PLUS HD",
-                "url": "http://181.78.82.130:8000/play/a0re/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3399,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO FAMILY",
-                "url": "http://45.173.231.22:8000/play/a073/index.m3u8",
-                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3400,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO MUNDI HD",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85239.ts",
-                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3401,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO POP HD",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85241.ts",
-                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "_local_id": 194,
         "section": "live",
         "name": "📺PACK HBO Y UNIVERSAL",
@@ -6994,6 +6927,73 @@
                 "name": "XXX BRAZZERS 2",
                 "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206282.m3u8",
                 "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "_local_id": 126,
+        "section": "live",
+        "name": "PACK HBO PREMIUM 🎥",
+        "samples": [
+            {
+                "_local_id": 3396,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO HD",
+                "url": "http://138.59.177.78:9999/play/a098/index.m3u8",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3397,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO 2",
+                "url": "http://181.78.82.130:8000/play/a0rf/index.m3u8",
+                "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3402,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO + PLUS HD",
+                "url": "http://181.78.82.130:8000/play/a0re/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3399,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO FAMILY",
+                "url": "http://45.173.231.22:8000/play/a073/index.m3u8",
+                "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3400,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO MUNDI HD",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85239.ts",
+                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 3401,
+                "_local_category_id": 126,
+                "section": "live",
+                "name": "HBO POP HD",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85241.ts",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
