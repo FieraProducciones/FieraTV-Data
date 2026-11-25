@@ -5138,6 +5138,21 @@
                 }
             },
             {
+                "_local_id": 5093,
+                "_local_category_id": 223,
+                "section": "live",
+                "name": "FX",
+                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/ca4ji9rF9Sh8CkWKki8Pzw?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=78a17258be5ca72ec3bc362aeb976816&key=31c188361f6431cf4dfb5c176870b4e9",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 5085,
                 "_local_category_id": 223,
                 "section": "live",
@@ -5221,21 +5236,6 @@
                 "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/lSoF4Q-hEcUAjewmiH-4lg?tags=CH_LOGO",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=613a3dc25b1d3ed4186e2a399ac7f081&key=7b5cf1cf7aeda446359bbcd23b5771b6",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5093,
-                "_local_category_id": 223,
-                "section": "live",
-                "name": "FX",
-                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/ca4ji9rF9Sh8CkWKki8Pzw?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=78a17258be5ca72ec3bc362aeb976816&key=31c188361f6431cf4dfb5c176870b4e9",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
