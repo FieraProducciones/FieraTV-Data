@@ -3435,6 +3435,21 @@
                 }
             },
             {
+                "_local_id": 4992,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "CANAL RURAL",
+                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/RKSCE9M6ShGyLYiIR0bl1A?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=72308b4673698df3c4143be5410c82d4&key=35f38c9fb04664572ee6c0a9c53a2388",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4983,
                 "_local_category_id": 115,
                 "section": "live",
@@ -3523,16 +3538,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4992,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "CANAL RURAL",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85916.ts",
-                "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/RKSCE9M6ShGyLYiIR0bl1A?tags=CH_LOGO",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4993,
