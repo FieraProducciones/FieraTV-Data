@@ -3681,16 +3681,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3398,
-                "_local_category_id": 126,
-                "section": "live",
-                "name": "HBO XTREME HD",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85894.ts",
-                "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3402,
                 "_local_category_id": 126,
                 "section": "live",
