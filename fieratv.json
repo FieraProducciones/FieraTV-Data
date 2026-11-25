@@ -3225,6 +3225,21 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
+                "_local_id": 3281,
+                "_local_category_id": 115,
+                "section": "live",
+                "name": "TELEFE",
+                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=69d08ad795092fc59dbdfb194424dd92&key=a73948b44e9292eede50c0c654301860",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 3284,
                 "_local_category_id": 115,
                 "section": "live",
@@ -3286,16 +3301,6 @@
                 "name": "CANAL 9",
                 "url": "http://181.209.80.115:8000/play/a04h/index.m3u8",
                 "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3281,
-                "_local_category_id": 115,
-                "section": "live",
-                "name": "TELEFE",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/85940.ts",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
