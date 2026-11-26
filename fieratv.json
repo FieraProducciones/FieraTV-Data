@@ -102,6 +102,21 @@
         "name": "DEPORTES ESPN 🇦🇷",
         "samples": [
             {
+                "_local_id": 5017,
+                "_local_category_id": 216,
+                "section": "live",
+                "name": "ESPN PREMIUM",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=c502892e037a9f34827147b2b24e42cf&key=2531bd34bec6c0e8fa4e07aedb261ade",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 5007,
                 "_local_category_id": 216,
                 "section": "live",
@@ -200,21 +215,6 @@
                 "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/zBcxv9_i-yRUV5K_KUVvmQ?tags=CH_LOGO",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5017,
-                "_local_category_id": 216,
-                "section": "live",
-                "name": "ESPN PREMIUM",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=c502892e037a9f34827147b2b24e42cf&key=2531bd34bec6c0e8fa4e07aedb261ade",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
