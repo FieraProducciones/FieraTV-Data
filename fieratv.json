@@ -484,6 +484,21 @@
                 "drm_license_uri": ""
             },
             {
+                "_local_id": 5018,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "TNT SPORT PREMIUM",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=9fb56301bc7687baf0b1a61def9a007a&key=947d2294ba67256827e8e97f267e71e0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 5025,
                 "_local_category_id": 106,
                 "section": "live",
@@ -572,21 +587,6 @@
                 "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5018,
-                "_local_category_id": 106,
-                "section": "live",
-                "name": "TNT SPORT",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-                "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=9fb56301bc7687baf0b1a61def9a007a&key=947d2294ba67256827e8e97f267e71e0",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "_local_id": 5026,
