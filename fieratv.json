@@ -484,16 +484,6 @@
                 "drm_license_uri": ""
             },
             {
-                "_local_id": 3158,
-                "_local_category_id": 106,
-                "section": "live",
-                "name": "FOX SPORTS 3",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12630.ts",
-                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "_local_id": 3161,
                 "_local_category_id": 106,
                 "section": "live",
