@@ -479,6 +479,21 @@
                 }
             },
             {
+                "_local_id": 5161,
+                "_local_category_id": 173,
+                "section": "live",
+                "name": "PX SPORTS",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_3oo9pwvNsFdzJfzNdx2zQ?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=61973e2f6b81657862b645fe2a34416a&key=2786c5b66d05cf6f1a42b8c270453319",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4558,
                 "_local_category_id": 173,
                 "section": "live",
@@ -7432,21 +7447,6 @@
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5161,
-                "_local_category_id": 226,
-                "section": "live",
-                "name": "PX SPORTS",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_3oo9pwvNsFdzJfzNdx2zQ?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=61973e2f6b81657862b645fe2a34416a&key=2786c5b66d05cf6f1a42b8c270453319",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
             },
             {
