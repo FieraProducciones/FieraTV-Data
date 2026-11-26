@@ -444,6 +444,16 @@
                 }
             },
             {
+                "_local_id": 3161,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "DSPORTS INTERNACIONAL",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1783079.ts",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 5025,
                 "_local_category_id": 106,
                 "section": "live",
@@ -457,16 +467,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 3161,
-                "_local_category_id": 106,
-                "section": "live",
-                "name": "DSPORTS INTERNACIONAL",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/1783079.ts",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 5019,
