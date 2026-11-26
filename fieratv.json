@@ -612,16 +612,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 5205,
-                "_local_category_id": 173,
-                "section": "live",
-                "name": "ESPN DEPORTES",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/2308575.ts",
-                "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
