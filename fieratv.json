@@ -2427,6 +2427,21 @@
                 }
             },
             {
+                "_local_id": 4741,
+                "_local_category_id": 196,
+                "section": "live",
+                "name": "HOLA ! TV",
+                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/BJtk3lOacTL4LgGEdKHqgg?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=4db9994d2578f4a5f90dbab82b0305d3&key=68a48d4557690d54ee82b67597993491",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "_local_id": 4736,
                 "_local_category_id": 196,
                 "section": "live",
@@ -2465,21 +2480,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=73735c1740464c99cca3ffb450c15811&key=b9241d083c902fa615e4f780081ae926",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 4741,
-                "_local_category_id": 196,
-                "section": "live",
-                "name": "Hola! TV",
-                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODE4OTY5Iiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWMxYzcxMDg4MTNiYTY0ZSIsInNlc3Npb25faWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5Ny0xNzk1NjQ2MTY5LTk1NCIsImNsaWVudF9pZCI6ImZsb3c6NjA2NjE3NC0tZmxvdzo2MDY2MTc0OlAiLCJkZXZpY2VfaWQiOiIxYTFhOGI1MGU1YWQyMjFjZjBkNmMzYmYxMGFmZGU5NyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.q59RnHat2kjBrMUx9jDWARvfyfeK_KP9FEqPQoXZijWVqOmdx9n3Ivdmf0loPd74vcso29PoFaMzZyM1QEshLg==/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/BJtk3lOacTL4LgGEdKHqgg?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=4db9994d2578f4a5f90dbab82b0305d3&key=68a48d4557690d54ee82b67597993491",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
