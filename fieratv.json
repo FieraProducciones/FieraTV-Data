@@ -5168,6 +5168,138 @@
         ]
     },
     {
+        "_local_id": 222,
+        "section": "live",
+        "name": "📺CANALES  DE NOVELAS",
+        "samples": [
+            {
+                "_local_id": 5078,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "TLNOVELAS",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=62bf7b8ec759904f0676d24b0baef659&key=16435593f900bd954071486abdc8bd81",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 5075,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "CANAL DE LAS ESTRELLAS",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_kgmFqamO2LVQh4NrsRpjA?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=de5029988df5bb682986df4fb5ed3e70&key=0170fc52a8dc136055e0cfd0a77d5761",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 5076,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "PASIONES",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=dcf5f8c4d5b8d1f68a68dbe8a5c8d490&key=b888f5f0c1cc6e097a67a56c25e2f490",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 5077,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "TELEMUNDO",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8f1780497a311eb5e38ea03085888c47&key=0dbdebc8d5336c970ac8c904e9bcd034",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 5079,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "TNT NOVELAS",
+                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=335d12d0d4515548f7f25bde9eef1b67&key=59a410da4f04672990f5112eea4dcdfb",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_local_id": 5080,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "CORAZON",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16371",
+                "icono": "https://i.postimg.cc/1tdkvgqm/Corazon-(TV-channel)-logo-2021.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5081,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13561",
+                "icono": "https://i.postimg.cc/L5Wn4z8C/42321ed50967db51d8ca37568d8d16d9.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5082,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "HISTORIAS DE CORAZON",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16721",
+                "icono": "https://i.postimg.cc/kDrj8fNN/Corazon-(TV-channel)-logo-2021-png-utm-source-es-wikipedia.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5083,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "RCN +",
+                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "_local_id": 5084,
+                "_local_category_id": 222,
+                "section": "live",
+                "name": "TODO NOVELAS",
+                "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.consent=%7BTC_STRING%7D&amp;ads.ssai_vendor=SSSLIVE&amp;ads.service_id=ESBC43000013T",
+                "icono": "https://i.postimg.cc/m2GPFZ5W/images.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "_local_id": 130,
         "section": "live",
         "name": "CLUB TELEMUNDO",
@@ -7599,138 +7731,6 @@
                 "name": "AZTEKA INTER",
                 "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/b/b2/Azteca_logo.svg/revision/latest/scale-to-width-down/30?cb=20210425063205",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "_local_id": 222,
-        "section": "live",
-        "name": "📺NOVELAS",
-        "samples": [
-            {
-                "_local_id": 5078,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "TLNOVELAS",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=62bf7b8ec759904f0676d24b0baef659&key=16435593f900bd954071486abdc8bd81",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5075,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "CANAL DE LAS ESTRELLAS",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_kgmFqamO2LVQh4NrsRpjA?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=de5029988df5bb682986df4fb5ed3e70&key=0170fc52a8dc136055e0cfd0a77d5761",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5076,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "PASIONES",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=dcf5f8c4d5b8d1f68a68dbe8a5c8d490&key=b888f5f0c1cc6e097a67a56c25e2f490",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5077,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "TELEMUNDO",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8f1780497a311eb5e38ea03085888c47&key=0dbdebc8d5336c970ac8c904e9bcd034",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5079,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "TNT NOVELAS",
-                "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1ODI0OTcyIiwic2lwIjoiMTQ4LjIyMi4xMjkuMTE0IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkYzBkYzg2MWVlOGY2MjQiLCJzZXNzaW9uX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTctMTc5NTY1MjE3Mi02OTgiLCJjbGllbnRfaWQiOiJmbG93OjYwNjYxNzQtLWZsb3c6NjA2NjE3NDpQIiwiZGV2aWNlX2lkIjoiMWExYThiNTBlNWFkMjIxY2YwZDZjM2JmMTBhZmRlOTciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.KvDoE-FeM6R-j5G34YO9iah9giSMBiaqDyGHDvArEtVRKJEOJjr5zf4m22xtNVd7m5b_mzYFL-cTiZAF4aeb6A==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-                "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=335d12d0d4515548f7f25bde9eef1b67&key=59a410da4f04672990f5112eea4dcdfb",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "_local_id": 5080,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "CORAZON",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16371",
-                "icono": "https://i.postimg.cc/1tdkvgqm/Corazon-(TV-channel)-logo-2021.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5081,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "ROMANCE",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13561",
-                "icono": "https://i.postimg.cc/L5Wn4z8C/42321ed50967db51d8ca37568d8d16d9.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5082,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "HISTORIAS DE CORAZON",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16721",
-                "icono": "https://i.postimg.cc/kDrj8fNN/Corazon-(TV-channel)-logo-2021-png-utm-source-es-wikipedia.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5083,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "RCN +",
-                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 5084,
-                "_local_category_id": 222,
-                "section": "live",
-                "name": "TODO NOVELAS",
-                "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.consent=%7BTC_STRING%7D&amp;ads.ssai_vendor=SSSLIVE&amp;ads.service_id=ESBC43000013T",
-                "icono": "https://i.postimg.cc/m2GPFZ5W/images.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
