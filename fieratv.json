@@ -469,6 +469,16 @@
                 }
             },
             {
+                "_local_id": 3162,
+                "_local_category_id": 106,
+                "section": "live",
+                "name": "DSPORTS 2",
+                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/98328.ts",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 5019,
                 "_local_category_id": 106,
                 "section": "live",
@@ -490,16 +500,6 @@
                 "name": "FOX SPORTS 2",
                 "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/12627.ts",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "_local_id": 3162,
-                "_local_category_id": 106,
-                "section": "live",
-                "name": "DSPORTS 2",
-                "url": "http://bitzpro.net:8080/live/fieratvhd/480335tv/98328.ts",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
