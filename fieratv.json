@@ -2367,6 +2367,16 @@
                 }
             },
             {
+                "_local_id": 4744,
+                "_local_category_id": 196,
+                "section": "live",
+                "name": "LOVE NATURE",
+                "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "_local_id": 4733,
                 "_local_category_id": 196,
                 "section": "live",
@@ -2515,16 +2525,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "_local_id": 4744,
-                "_local_category_id": 196,
-                "section": "live",
-                "name": "LOVE NATURE",
-                "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
-                "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "_local_id": 4745,
